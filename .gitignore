@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temporary / backup
+*.tmp
+*.bak
+~$*.docx
+~$*.doc
+
+# LaTeX build artifacts (jika dipakai)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
