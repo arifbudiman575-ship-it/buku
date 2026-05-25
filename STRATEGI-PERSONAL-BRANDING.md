@@ -2,15 +2,22 @@
 
 > **Tujuan:** Membangun @arifb.id sebagai **kategori-creator "AI Architect"** di Indonesia, dengan target 0 → 100K followers dan 0 → Rp 1 miliar pertama dalam 12 bulan.
 >
-> **Dasar dokumen:**
-> 1. Analisa 31 kompetitor Threads ID (`analisa_kompetitor.md`)
-> 2. Framework dari course "Personal Branding & Digital Product 0 ke 1 Miliar Pertama" (Rama / @productivityboi — yang ironisnya *masuk Top 5 kompetitor langsung* kita)
-> 3. IP & voice dari buku **THE AI ARCHITECT** karya Arif Budiman (NEURO-ARC + A.R.S.I.)
+> **Dasar dokumen — 5 sumber pengetahuan + input riset:**
+>
+> Hierarki 5 sumber (lihat section "0. HIERARKI 5 SUMBER" untuk aturan resolusi konflik):
+> 1. 🔒 Buku **THE AI ARCHITECT** karya Arif Budiman — NEURO-ARC + A.R.S.I. (core IP, sacred)
+> 2. Course **Rama / ProductivityBoi** — "Personal Branding & Digital Product 0 ke 1 Miliar Pertama" (methodology pondasi)
+> 3. **Theoderic** — `ilmu Theoderic.txt` (purpose × strength × authenticity, praktik Indonesia)
+> 4. **Pak Subyakto Priyojudanto** — `pak bi.txt` (filosofi 50-tahun: algoritma manusia, network effect, storyting paradoks, brand intersubjektif)
+> 5. **Caleb Ralston / Rston Consulting** — `personal branding caleb ralston.docx` (brand journey 4Q + association/non-association map)
+>
+> Input riset pendukung: analisa 31 kompetitor Threads ID — `analisa_kompetitor.md`
 
 ---
 
 ## DAFTAR ISI
 
+0. [Hierarki 5 Sumber & Aturan Ketidakbocoran](#0-hierarki-5-sumber--aturan-ketidakbocoran)
 1. [Diagnosa: Posisi Anda Sekarang](#1-diagnosa-posisi-anda-sekarang)
 2. [Pondasi: Value, Karisma, Positioning](#2-pondasi-value-karisma-positioning)
 3. [Kategori: "AI Architect" sebagai Identity Anda](#3-kategori-ai-architect-sebagai-identity-anda)
@@ -24,6 +31,61 @@
 11. [Roadmap 90 Hari](#11-roadmap-90-hari)
 12. [Metrics & Decision Rules](#12-metrics--decision-rules)
 13. [Yang Tidak Boleh Anda Lakukan](#13-yang-tidak-boleh-anda-lakukan)
+
+---
+
+## 0. HIERARKI 5 SUMBER & ATURAN KETIDAKBOCORAN
+
+> Strategi ini disusun dengan **5 sumber pengetahuan yang diberi bobot berbeda**. Section ini menjelaskan hierarki, aturan resolusi konflik, atribusi internal, dan aturan apa yang **sacred** (book-only) versus apa yang **free** (boleh ke sosmed).
+
+### 0.1. Hierarki Sumber
+
+| Posisi | Sumber | Peran | Aturan Pemakaian |
+|---|---|---|---|
+| 1 | 🔒 Buku **THE AI ARCHITECT** | Core IP — kebenaran ultimat positioning Arif | Sacred. Detail Prolog (scene Februari 2024, saldo Rp 847.000, 347 prompt + breakdown 5 kategori, recovery arc 340%) **tidak boleh** muncul di sosmed sebelum buku rilis publik. |
+| 2 | **Rama / ProductivityBoi** | Methodology pondasi yang sudah ter-integrate di strategi ini | Section 2 (Value/Karisma/Positioning), Section 4 (3 Pilar), Section 7 (TOFU/MOFU/BOFU), Section 8 (Value Ladder) — sudah pakai. Dipertahankan, di-enrich. |
+| 3 | **Theoderic** | Enrichment praktis Indonesia | Purpose-first thinking, dynamic persona (purpose × strength × authenticity), evaluate weekly |
+| 4 | **Pak Subyakto Priyojudanto** | Enrichment teori 50-tahun branding (Indonesia) | Network effect (lawan viral), algoritma manusia (was-was → surprise → kasmaran), storyting paradoks, brand intersubjektif (objektif penjual + subjektif pembeli), reverse engineering dari outcome |
+| 5 | **Caleb Ralston / Rston Consulting** | Enrichment 16-tahun praktik US | Brand journey 4Q, association map (yang dipair + yang TIDAK), share knowledge sell execution, build trust before transact, long-term retention > viral |
+
+### 0.2. Aturan Resolusi Konflik
+
+1. **Buku menang atas semua.** Kalau ada saran dari sumber 2-5 yang bertentangan dengan voice / IP / karakter di buku THE AI ARCHITECT, drop saran tersebut.
+2. **Rama tetap fondasi.** Section yang sudah pakai framework Rama (Value Ladder, TOFU/MOFU/BOFU, Content Pillar) tidak diganti — di-enrich dengan 3 sumber baru.
+3. **3 sumber baru di-harmonisasikan, bukan disusun bertingkat.** Theoderic = praktis lapangan. Pak Bi = prinsip dalam. Caleb = framework operasional. Saling melengkapi, tidak saling override.
+4. **Indonesia menang untuk hal kultural.** Saat konflik antara Caleb (US-context) dan Pak Bi/Theoderic (Indonesia-context), pilih versi Indonesia untuk: formality "Anda", anti-hype tone, no-drama, kalimat hemat, hormat ke audience.
+
+### 0.3. Aturan Atribusi (Internal Saja)
+
+- Setiap section yang di-enrich menyertakan **inline footnote**: *(diturunkan dari [Sumber] — [konsep])*
+- Atribusi ini **tidak muncul di public-facing content** (post Threads, bio, materi penjualan)
+- Tujuan footnote internal: lacak alasan setiap aturan, supaya kalau ada update dari sumber tersebut di masa depan Anda tahu mana yang perlu di-revisit
+
+### 0.4. Aturan Ketidakbocoran (Book-Safe — Diperluas)
+
+> **Filosofi pendukung (Pak Bi):** Buku menjual *kebenaran baru yang ditemukan Arif*. Sosmed menjual *cara berpikir Arif*. Beda komoditas, beda saluran — jangan tabrakan.
+
+| 🔒 SACRED — hanya di buku | ✅ FREE — boleh ke sosmed |
+|---|---|
+| Februari 2024, jam 2 pagi, scene rumah Anda | Frase signature ("Sistem, bukan tools" / "Arsitek, bukan pengguna" / "Tools berubah, framework abadi") |
+| Saldo Rp 847.000 (saldo real rekening) | Dichotomy Pengguna vs Arsitek |
+| 347 prompt + breakdown 5 kategori (data Notion real) | Pertanyaan brand "berapa rupiah dari AI?" — di-rephrase, tidak verbatim halaman 13 |
+| Metafora resep masakan & toko buku (halaman 12) | Nama framework (NEURO-ARC, A.R.S.I.) — boleh sebut nama, isi protected |
+| Recovery arc 12→4 jam, 340% omset | Universal observation pola kolektor prompt |
+| Karakter spesifik buku (Riko, Citra, Adi, Ibu Sari, Dina, Rina, Dedi, Andi, Fajar, Pak Hendra) saat appearance lengkap | Karakter sebagai konsep ("seseorang yang saya samarkan") + dichotomy Riko/Citra |
+| Cerita Mas Budi & TikTok villa Bali (Bab 1) | Critique umum hype "7 prompt yang ubah hidup" |
+| Kalimat-kalimat kunci buku (manifesto, dedikasi, prolog) | Frase signature + kalimat singkat pengantar |
+
+### 0.5. Filter 4-Lapis untuk Setiap Konten Public-Facing
+
+Sebelum posting / merilis materi publik, lewati 4 filter berikut secara berurutan:
+
+1. **Filter Buku** — Apakah konten ini membocorkan detail Prolog atau scene spesifik buku? Kalau ya → reframe pakai pattern observer (lihat `THREADS-LONGFORM-ABC-TEST.md` Opsi A V3 sebagai contoh).
+2. **Filter Asosiasi** — Apakah konten ini secara tidak sengaja mempair Anda dengan asosiasi yang Anda tolak? (lihat `BRAND-JOURNEY-MAP.md` Q2)
+3. **Filter Voice** — Apakah voice "Anda" formal, tenang, anti-hype tetap konsisten? (Section 5)
+4. **Filter Purpose** — Apakah konten ini support outcome di Q1 `BRAND-JOURNEY-MAP.md`, atau hanya "konten supaya posting"?
+
+Konten yang gagal di salah satu filter → revisi atau drop.
 
 ---
 
