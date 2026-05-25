@@ -116,7 +116,7 @@
 
 Anda **tidak head-to-head** dengan @ruangsepri atau Top 5 lain. Anda main di **lapisan yang berbeda**.
 
-### 1.2. 10 Prinsip Operasional (tidak boleh dilanggar)
+### 1.2. 11 Prinsip Operasional (tidak boleh dilanggar)
 
 Ini distilasi 7 disiplin di `analisa_launch_v2.md` Section 6 + insight tambahan dari membaca buku & course Rama. Cetak. Tempel di meja kerja.
 
@@ -132,6 +132,7 @@ Ini distilasi 7 disiplin di `analisa_launch_v2.md` Section 6 + insight tambahan 
 | 8 | **Distribusi konten 35/50/15** (TOFU/MOFU/BOFU). Sengaja non-viral di mayoritas konten. | Rama segmen 12 — "intentional non-virality" |
 | 9 | **Email > followers.** Setiap konten harus punya jalur ke email. | Rama segmen 18 — "data is real currency" |
 | 10 | **Decision-maker first, operator second.** Konten yang sama tapi diframe untuk pemimpin > untuk staff. | Buku hal 78 + celah market |
+| 11 | **Bio adalah identity, bukan funnel.** Hapus CTA + link dari body bio. CTA muncul di pinned post + body post. Link di kolom Link tersendiri platform. Bio = signature line + audience filter saja. | User feedback iteratif Mei 2026 + premium positioning logic |
 
 ### 1.3. 5 Topik signature WAJIB (pengganti 5 yang dilarang)
 
@@ -627,6 +628,42 @@ Setiap post wajib ada **1 frase quotable** di akhir (skrinsut-able test: kalau o
 | Threads (sekunder) | Sel, Kam | 19:00–19:30 | Repost / micro-thoughts |
 | Instagram | Senin, Rabu, Jumat | 19:00–20:00 | Carousel / Reels visual |
 | LinkedIn | Selasa, Kamis | 08:00 | Long-post B2B |
+
+### 5.5. 9 Content Angle untuk Audience Sekunder (UMKM, Akademis, Pelajar)
+
+> **Konteks:** Bio fokus pada `profesional & pemilik usaha`. Tapi UMKM, akademis/pendidik, dan pelajar tetap diserap sebagai audience via **content angle khusus** — bukan via klaim di bio. Strategi: bio sempit (premium positioning), konten luas (resonan ke 3 segmen tambahan).
+>
+> **Bahan baku:** semua dari materi yang sudah ada di buku THE AI ARCHITECT — tidak perlu produksi research baru.
+
+#### 🏪 UMKM (3 angle siap pakai)
+
+| # | Hook | Sumber | Slot di calendar |
+|---|---|---|---|
+| 1 | "Pak Hendra umur 60, tidak punya laptop, tidak pakai sosmed. Profit warungnya naik 45% — bukan dari AI yang dia pakai. Dari pertanyaan yang dia berani tanyakan ke dirinya sendiri." | Bab 5 buku — kasus warung Magelang | Minggu 5 (Hari 29 Senin) |
+| 2 | "Rina ganti foto produk dari yang 'profesional' ke 'jujur'. Return rate dari 12% turun ke 4,5%. Kadang yang bikin pembeli kabur bukan kualitas — tapi ekspektasi yang terlalu sempurna." | Bab 5 — kasus Rina online shop | Minggu 5 (Hari 31 Rabu) |
+| 3 | "AI untuk UMKM bukan soal aplikasi. Soal data yang sudah Anda punya tapi belum pernah dituliskan. Pak Hendra catat penjualan harian 2 minggu — itu langkah paling penting, bukan ChatGPT." | Bab 5 + Lampiran A | Minggu 7 (Hari 45 Rabu) |
+
+#### 🎓 Akademis / Pendidik (3 angle siap pakai)
+
+| # | Hook | Sumber | Slot di calendar |
+|---|---|---|---|
+| 1 | "Prof. Bagus Mulyadi (Nottingham) bilang AI generatif adalah 'mesin simulakrum'. Dan kemampuan yang harus diajarkan di sekolah Indonesia ironisnya hampir tidak diajarkan: kemampuan berbahasa untuk berpikir." | Bab "Hype" hal 76 | Minggu 3 (Hari 17 Rabu) |
+| 2 | "Kalau Anda mengajar di era AI, jangan ajarkan tools. Ajarkan judgment. Riset 2026: skill paling dicari di era AI matang bukan kemampuan menggunakan AI — tapi memutuskan kapan AI tepat dipakai." | Modul 4 + 5 PROMIND-NEUROLINK | Minggu 6 (Hari 38 Rabu) |
+| 3 | "Korzybski 1933: 'peta bukan wilayah'. Itu dasar paling penting dari prompt engineering yang baik. Tidak ada satupun kursus prompt yang mengajarkannya — karena bukan teknik, tapi disiplin." | Bab 3 buku | Minggu 7 (Hari 47 Jumat) — pinned dalam buku TELL phase |
+
+#### 📚 Pelajar (3 angle siap pakai)
+
+| # | Hook | Sumber | Slot di calendar |
+|---|---|---|---|
+| 1 | "Saya menulis buku 'THE AI ARCHITECT' tanpa gelar sarjana. Itu bukan flex. Itu data: cara berpikir tajam tidak datang dari ruang kelas, tapi dari malam dengan saldo Rp 847.000." | Hal 87 buku | Minggu 4 (Hari 26 Jumat) |
+| 2 | "Pelajar yang mempelajari AI dengan benar hari ini akan punya 5 tahun keuntungan kompetitif. Tapi 'dengan benar' bukan berarti tools terbanyak. Tools yang Anda hafal sekarang akan basi sebelum Anda lulus." | Bab 7 buku + skill half-life data | Minggu 8 (Hari 53 Kamis) |
+| 3 | "5 case study di buku saya — termasuk Fajar yang gagal. Sengaja saya masukkan kasus gagal. Karena yang berhasil saya selalu dapat ceritanya. Yang gagal — jarang ada yang mau jujur." | Bab 5 buku — Fajar | Minggu 5 (Hari 33 Jumat) |
+
+#### Aturan integrasi
+
+1. **Tidak menggeser Pilar 1 (60% NEURO-ARC/A.R.S.I./case-study).** 9 angle ini masuk ke Pilar 1 (case-study) atau Pilar 3 (filosofi/origin), bukan menambah pilar baru.
+2. **Tidak ada CTA segmented.** CTA tetap "ARSITEK" — biarkan audience yang resonan self-include.
+3. **Voice tetap "Anda".** Tidak boleh ganti ke "kamu/lu" walaupun audience pelajar.
 
 ---
 

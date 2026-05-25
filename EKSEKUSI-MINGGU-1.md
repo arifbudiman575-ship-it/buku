@@ -26,50 +26,61 @@
 
 ## BAGIAN 1 — Bio Final (siap copy-paste)
 
-### 1.1. Bio Threads (limit ~500 karakter)
+> **Catatan revisi:** Bio ini hasil iterasi multi-round dengan user. Beberapa keputusan kunci yang dijaga:
+> 1. Bio Threads limit aktual = ~150 karakter (bukan 500 seperti perkiraan awal). Bio harus fit dalam constraint ini.
+> 2. CTA keyword "ARSITEK" + link **dipindahkan keluar dari body bio**. Link → kolom Link tersendiri Threads/IG. CTA → pinned post + body post.
+> 3. Audience filter dipakai "profesional & pemilik usaha" (bukan "pemimpin"). Akademis/pelajar disentuh via content angle, bukan via bio.
+> 4. Lowercase styling deliberate (anti-corporate, quiet confidence).
+>
+> Lihat **Prinsip #11 di MASTER-PLAN.md Part I.2**: *"Bio adalah identity, bukan funnel."*
 
-**Versi A — Versi Lengkap (rekomendasi utama)**
+### 1.1. Bio Threads & Instagram (sama persis — fit kedua platform)
 
-```
-The AI Architect — Sistem, bukan tools.
-
-Bantu pemimpin & profesional Indonesia design sistem AI yang tetap berdiri saat tools-nya berubah.
-
-Penulis "THE AI ARCHITECT" (AI Universe Series, Book 0)
-Founder PROMIND-NEUROLINK
-
-Komen "ARSITEK" untuk 7-Day Challenge gratis ↓
-arifb.id/start
-```
-
-**Versi B — Versi Compact (cadangan, lebih punchy)**
-
-```
-The AI Architect — Sistem, bukan tools.
-
-Penulis "THE AI ARCHITECT" (Book 0)
-Founder PROMIND-NEUROLINK
-
-Komen "ARSITEK" → 7-Day Challenge gratis
-arifb.id/start
-```
-
-**Rekomendasi pakai Versi A** karena promise lebih jelas, differentiator "tetap berdiri saat tools-nya berubah" terlihat eksplisit, dan Threads bio limit cukup (~280 karakter dari 500).
-
-### 1.2. Bio Instagram (limit 150 karakter)
+**Bio final (140 karakter ✓ fit Threads dan IG):**
 
 ```
 The AI Architect
-Sistem, bukan tools.
-Penulis THE AI ARCHITECT (Book 0)
-Founder PROMIND-NEUROLINK
-
-DM "ARSITEK" → 7-Day Challenge ↓
+building systems, not hype.
+Bantu profesional & pemilik usaha bangun AI system untuk kerja.
+framework bukan tutorial random
 ```
 
-(Instagram bio limit 150 karakter, jadi format compact ini wajib. Beda dengan Threads, di IG pakai "DM" karena norma platform.)
+**Breakdown char count:**
 
-### 1.3. Display name
+| Element | Char |
+|---|---|
+| `The AI Architect` | 16 |
+| (newline) | 1 |
+| `building systems, not hype.` | 27 |
+| (newline) | 1 |
+| `Bantu profesional & pemilik usaha bangun AI system untuk kerja.` | 63 |
+| (newline) | 1 |
+| `framework bukan tutorial random` | 31 |
+| **TOTAL** | **140** |
+
+**Yang masuk:**
+- ✅ Title kategori-creation (`The AI Architect`)
+- ✅ Tagline bilingual signature (`building systems, not hype.`)
+- ✅ Audience filter eksplisit (`profesional & pemilik usaha`)
+- ✅ Promise spesifik (`bangun AI system untuk kerja`)
+- ✅ Anti-hype reinforcement double (`not hype` + `bukan tutorial random`)
+
+**Yang sengaja TIDAK masuk (dipindah ke tempat yang lebih kuat):**
+
+| Element | Lokasi baru |
+|---|---|
+| Authority anchor (Penulis "THE AI ARCHITECT" Book 0) | Pinned post #1 — Manifesto closing line |
+| Brand umbrella (Founder PROMIND-NEUROLINK) | Pinned post #2 — Anti-audience filter signature |
+| CTA keyword "ARSITEK" | Body post (pinned + 3 testing post + ongoing post BOFU) |
+| Link `arifb.id/start` | Kolom Link Threads + IG (dedicated field, clickable) |
+
+**Mengapa lowercase styling:**
+- Lowercase di "building systems, not hype" + "framework bukan tutorial random" deliberate
+- Capital = corporate/loud (kompetitor mass)
+- Lowercase = quiet confidence (premium tech/engineering culture)
+- Konsisten dengan anti-hype positioning
+
+### 1.2. Display name
 
 | Platform | Display name |
 |---|---|
@@ -77,21 +88,23 @@ DM "ARSITEK" → 7-Day Challenge ↓
 | Instagram | `Arif Budiman` atau `Arif Budiman \| The AI Architect` |
 | LinkedIn (nanti) | `Arif Budiman \| The AI Architect` |
 
-### 1.4. Link in bio
+### 1.3. Link in bio (ke kolom Link tersendiri, bukan body bio)
 
-Untuk minggu 1, **belum perlu** landing page kompleks. Untuk testing awal, cukup:
+Threads dan Instagram punya **kolom "Link" terpisah** di profile. Link tidak ditulis di body bio. Pakai kolom dedicated:
 
-**Opsi 1 (cepat, 30 menit):** Pakai Linktree free tier dengan 1 link saja:
+- **Threads:** Profile → Edit profile → Link → `arifb.id/start` (atau placeholder Linktree dulu)
+- **Instagram:** Profile → Edit profile → Website → `arifb.id/start`
+
+**Untuk Minggu 1 (cepat, 30 menit):** Pakai Linktree free tier dengan 1 link saja:
+
 ```
 🆓 7-Day AI Architect Challenge (gratis)
    → form opt-in (Google Form atau Tally.so)
 ```
 
-**Opsi 2 (1 hari kerja):** Build `arifb.id/start` proper. Tunda dulu sampai data testing keluar.
+**Setelah testing data keluar (Minggu 2+):** Build `arifb.id/start` proper.
 
-Untuk Minggu 1 → **pakai Opsi 1**. Kita validasi dulu hook mana yang menarik audience, baru invest di landing page proper.
-
-### 1.5. Profile picture
+### 1.4. Profile picture
 
 - **Wajah Anda**, polos background netral, ekspresi tenang (bukan senyum lebar)
 - Square crop, minimal 400×400 px
@@ -152,11 +165,11 @@ Setelah Post C tayang Rabu pagi, **tunggu 72 jam tanpa post baru di Threads**. I
 
 ### 2.5. Pre-launch checklist (Minggu 0 — sebelum Post A tayang)
 
-- [ ] Bio Threads diupdate (Bagian 1.1)
-- [ ] Bio Instagram diupdate (Bagian 1.2)
-- [ ] Display name diupdate (Bagian 1.3)
-- [ ] Link in bio dipasang (Bagian 1.4 — Opsi 1 cukup)
-- [ ] Profile picture diupdate (Bagian 1.5)
+- [ ] Bio Threads diupdate (Bagian 1.1 — sama dengan IG)
+- [ ] Bio Instagram diupdate (Bagian 1.1 — sama dengan Threads)
+- [ ] Display name diupdate (Bagian 1.2)
+- [ ] Link di kolom Link tersendiri Threads + IG (Bagian 1.3)
+- [ ] Profile picture diupdate (Bagian 1.4)
 - [ ] **Pinned post #1: Manifesto** (lihat `STRATEGI-PERSONAL-BRANDING.md` Section 10)
 - [ ] **Pinned post #2: Anti-audience filter** (lihat `analisa_launch_v2.md` Disiplin 6)
 - [ ] Form lead magnet ready (Google Form/Tally.so) — link aktif
