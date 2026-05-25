@@ -12,30 +12,33 @@
 
 Setiap opsi di sini **bukan ide baru** — semuanya turunan dari Hook Bank yang sudah disusun di strategi. Ditulis ulang sebagai dokumen tersendiri supaya 3 long-thread bisa di-side-by-side untuk testing.
 
-| Opsi | Source di Hook Bank | Posisi di Roadmap 90-Hari | Slot Mingguan |
+| Opsi | Source | Posisi di Roadmap 90-Hari | Status |
 |---|---|---|---|
-| **A** — Riko story | Hook #10 (long-form) | Fase 1 Minggu 2 — Persona introduce (Riko vs Citra series) | Kamis MOFU Confession |
-| **B** — Confession 1.247 prompt | Hook #9 (long-form) | Fase 2 Minggu 5 — Studi kasus + buku tease | Kamis MOFU Confession |
-| **C** — Pukul 02.34 | Hook #13 (long-form) | Fase 2 Minggu 5 — Studi kasus | Kamis MOFU Confession |
+| **A** — Origin story Rp 847.000 | Prolog buku THE AI ARCHITECT (hal 11–14) | Fase 1 Minggu 1 — Soft launch / umpan pertama | ✅ Versi final, grounded di buku |
+| **B** — Confession 1.247 prompt | Hook #9 (long-form) | Fase 2 Minggu 5 — Studi kasus + buku tease | ⚠️ Perlu revisi (1.247 → 347, hapus klaim jualan kursus) |
+| **C** — Pukul 02.34 | Hook #13 (long-form) | Fase 2 Minggu 5 — Studi kasus | ⚠️ Perlu revisi (klien fiktif → composite Riko/Citra dari buku) |
 
 Sumber lain yang dipakai:
 - `analisa_kompetitor.md` Section 6 — 5 hook style terbukti viral
 - `RINGKASAN-SESI.md` Section 4 Insight 3 — karakter Riko vs Citra sebagai aset narasi ownable
+- Buku THE AI ARCHITECT (Prolog, Bab 1, Bab 2) — anchor angka & adegan otentik
+
+> **⚠️ Catatan dari iterasi:** Versi awal Opsi A, B, dan C menggunakan detail enterprise (klien head of operations 200 karyawan, kursus prompt yang dijual, dll) yang **tidak ada di buku**. Setelah baca ulang Prolog buku, Opsi A direvisi total ke origin story Rp 847.000 yang autentik. Opsi B dan C menyusul setelah Opsi A divalidasi dengan data lapangan.
 
 ---
 
 ## RINGKASAN 3 OPSI
 
-| Opsi | Pola Storytelling | Hook Style (per Section 6 STRATEGI) | Sudut Pandang | Karakter |
-|---|---|---|---|---|
-| **A** | Client transformation story | Confession + List | Third-person | "Riko" (klien) |
-| **B** | Founder confession arc | Confession + Contrarian | First-person past | Saya |
-| **C** | Cinematic present-tense scene | Confession + Question | First-person now | Saya, dini hari |
+| Opsi | Pola Storytelling | Karakter | Status |
+|---|---|---|---|
+| **A** | First-person origin story (Februari 2024) | Saya (autentik dari Prolog buku) | ✅ Final |
+| **B** | Founder confession arc (prompt deletion) | Saya | ⚠️ Revisi pending |
+| **C** | Cinematic present-tense scene | Saya / klien composite | ⚠️ Revisi pending |
 
 **Ketiganya:**
 - 9–10 post panjang, format `1/N`, setiap post di bawah 500 karakter (limit Threads)
-- Voice "Anda" formal — konsisten Section 5
-- Closing pakai signature phrase + CTA ke 7-Day Challenge di bio
+- Voice "Anda" formal — konsisten Section 5 STRATEGI
+- **Mode "no-CTA"** untuk fase pemahaman algoritma — closing pakai pertanyaan reflektif yang trigger reply, BUKAN link bio
 
 ---
 
@@ -104,137 +107,186 @@ Yang dilacak per opsi:
 
 ---
 
-# OPSI A — CLIENT TRANSFORMATION STORY
+# OPSI A — ORIGIN STORY (REKOMENDASI UMPAN PERTAMA)
 
-> **Judul kerja:** "Riko, 847 prompt, dan satu pertanyaan yang tidak ingin dia dengar"
+> **Judul kerja:** "Februari 2024, Rp 847.000, 347 prompt"
 >
-> **Pola:** Buka dengan dilema klien → reveal angka spesifik → tension via pertanyaan retoris → audit ulang → solusi 3 sistem → resolusi 3 bulan kemudian → pertanyaan ke pembaca → CTA.
+> **Pola:** Adegan visual jam 2 pagi → reveal isi folder Notion → pertanyaan jujur → realisasi "saya kolektor, bukan pengguna" → metafora → reframe pertanyaan → permission untuk reader → hasil 3 bulan kemudian → frase signature → reply trigger TANPA CTA.
 >
-> **Mengapa ini bisa menang:** Pakai karakter Riko yang sudah ada di buku — leverage IP. Third-person bikin pembaca tidak defensive. Spesifik angka (847, 12, 4,3JT) bikin terasa nyata.
+> **Sumber:** Prolog buku THE AI ARCHITECT halaman 11–14. Semua angka autentik (Rp 847.000 = saldo rekening real, 347 prompt = isi Notion real, 340% = data omset Maret–Mei 2024). Pertanyaan retoris di post 7/10 mengikuti voice halaman 13.
+>
+> **Mengapa ini cocok jadi umpan pertama:**
+> 1. 100% autentik — origin story = anchor brand
+> 2. Vulnerability + spesifik angka (Rp 847.000, 347 prompt) = scroll-stop natural
+> 3. Reply-trigger di post 7/10 dan 10/10 memaksa reader hitung sendiri → reply karena urgensi internal
+> 4. Tidak ada CTA / link bio — sesuai mode "membangun interaksi untuk pahami algoritma"
 
 ---
 
 **1/10**
 
-Klien saya — head of operations di perusahaan logistik 200 karyawan — kirim WhatsApp jam 22.47:
+Februari 2024. Pukul 2 pagi.
 
-"Mas, saya punya ChatGPT Plus, Claude Pro, dan 12 tools AI lainnya. 847 prompt tersimpan rapi di Notion. Tiap minggu ikut 2 webinar. Tapi kenapa kerjaan saya tidak makin cepat?"
+Layar laptop adalah satu-satunya cahaya di ruang kerja saya.
 
-Saya tahu jawabannya. Tapi yang menarik bukan jawabannya. Yang menarik: apa yang dia *tidak* ingin dengar.
+Di sisi kiri layar: folder Notion berlabel "AI Mastery Prompt Collection."
+
+Di sisi kanan layar: internet banking.
+
+Saldo rekening operasional bisnis: **Rp 847.000.**
+
+Itu semua yang tersisa untuk bulan itu.
 
 ---
 
 **2/10**
 
-Sebut saja namanya Riko.
+Saya buka folder Notion. Scroll perlahan.
 
-Riko bukan orang sembarangan. S2 dari kampus baik. Bawahan 47 orang. Gajinya sembilan digit per tahun. Dia rajin. Dia kerja keras. Dia investasi besar di pendidikan AI dirinya sendiri.
+**347 prompt.** Tersimpan rapi. Terkategorisasi sempurna.
 
-Yang membuat saya yakin Riko tidak sendirian: saya pernah jadi Riko. Mungkin Anda juga.
+— Email Marketing: 47 prompt
+— Copywriting: 63 prompt
+— Social Media: 89 prompt
+— Content Strategy: 52 prompt
+— Creative Ideas: 96 prompt
+
+Hasil dari 6 bulan: 4 kursus online, 23 akun "AI expert" yang saya follow, belasan channel YouTube, ratusan carousel di-save.
 
 ---
 
 **3/10**
 
-Saya tanya satu hal di video call besoknya:
+Lalu saya lihat lagi layar sebelah kanan.
 
-"Pak Riko, dari 847 prompt itu, mana yang masih Anda pakai bulan lalu?"
+Rp 847.000.
 
-Hening 7 detik.
+Dan malam itu — untuk pertama kalinya dalam 6 bulan — saya menanyakan pertanyaan yang selalu saya hindari, karena jawabannya menyakitkan:
 
-Lalu beliau menjawab jujur — yang membuat saya hormat:
+*"Prompt mana dari 347 ini yang menghasilkan uang yang ada di rekening saya?"*
 
-"Mungkin... 4 atau 5."
+Saya sudah tahu jawabannya.
 
-842 prompt menganggur. 12 subscription aktif. Total perubahan di rekening dan kalender Riko: nol.
+Tidak ada.
 
 ---
 
 **4/10**
 
-Yang Riko butuh bukan tool ke-13. Bukan juga prompt ke-848.
+Prompt-prompt itu menghasilkan banyak hal.
 
-Yang Riko butuh adalah pertanyaan yang berbeda.
+Caption yang bagus.
+Draft email yang profesional.
+Ide konten yang menarik.
+Outline yang terstruktur.
 
-Pengguna bertanya: *"Prompt apa yang harus saya pakai?"*
+Tapi tidak menghasilkan uang.
 
-Arsitek bertanya: *"Sistem apa yang harus saya bangun?"*
+Saya tutup laptop. Duduk dalam gelap.
 
-Kelihatannya beda tipis. Konsekuensinya berbeda total.
+Dan saya sadar sesuatu yang membuat perut saya mual:
+
+Saya bukan pengguna AI yang produktif.
+
+Saya kolektor.
 
 ---
 
 **5/10**
 
-Kami audit ulang pekerjaan Riko. Bukan dengan daftar tools. Dengan satu lembar kertas dan tiga kolom:
+Seperti seseorang yang menghabiskan setahun:
 
-— Apa yang dia lakukan berulang setiap minggu?
-— Output apa yang seharusnya tetap konstan, tidak peduli tool apa yang dia pakai?
-— Di mana representasinya tentang masalah, bocor?
+— mengunjungi setiap toko buku
+— mencatat resep terbaik dari semua koki terkenal
+— menyusun kartu resep dengan rapi di laci dapur
 
-47 menit kemudian, kami menemukan **3 sistem** — bukan 847 prompt — yang harus dibangun.
+— tapi tidak pernah memasak satu hidangan pun.
+
+Tools-nya kelas dunia. Resepnya nomor satu.
+
+Dapurnya menganggur.
+
+Itu saya.
 
 ---
 
 **6/10**
 
-Sistem 1 — Daily intelligence dari 8 laporan tim, jadi satu briefing 1 halaman setiap pagi.
+Yang merubah arah hidup saya malam itu bukan prompt yang lebih bagus.
 
-Sistem 2 — Kontrak vendor screening, dari 4 jam jadi 4 menit.
+Bukan kursus yang lebih mahal.
 
-Sistem 3 — Briefing eksekutif dari 12 sumber data, jadi satu halaman keputusan.
+Yang berubah adalah pertanyaan yang saya tanyakan.
 
-Tools yang dipakai? Sederhana. Sebagian malah sudah dia punya. Yang membedakan: **arsitekturnya, bukan promptnya.**
+Dari: *"Prompt apa yang harus saya pakai?"*
+
+Menjadi: *"Sistem apa yang harus saya bangun?"*
+
+Beda dua kata. Beda kategori jawaban. Beda hidup.
 
 ---
 
 **7/10**
 
-Tiga bulan kemudian, Riko menelepon saya.
+Saya tidak ingin Anda percaya pada saya.
 
-"Mas, saya copot 9 dari 12 subscription saya. Hemat Rp 4,3 juta per bulan."
+Saya hanya ingin Anda jujur pada diri sendiri.
 
-Lalu beliau diam sebentar, dan menambahkan dengan suara berbeda:
+Anda boleh tidak setuju dengan apapun yang saya tulis di thread ini.
 
-"Tapi yang lebih penting — saya akhirnya pulang jam 6."
+Tapi pertanyaan ini bukan untuk saya — ini untuk Anda:
 
-Tools berubah. Sistem yang bertahan. Itu pelajaran yang saya tulis di buku THE AI ARCHITECT.
+*"Dalam 30 hari terakhir, berapa rupiah yang masuk ke rekening Anda yang bisa Anda lacak langsung dari output AI Anda?"*
+
+Bukan "mungkin membantu."
+Bukan "bikin kerja lebih ringan."
+
+Berapa rupiah konkretnya.
 
 ---
 
 **8/10**
 
-Pertanyaan untuk Anda — bukan untuk Riko.
+Tiga bulan setelah malam Rp 847.000 itu, situasi saya berbeda.
 
-Dari semua tool AI yang Anda subscribe sekarang, mana yang masih Anda pakai 6 bulan lagi?
+Folder Notion: tersisa 12 prompt dari 347.
+Waktu kerja: dari 12 jam sehari menjadi 4 jam.
+Omset bisnis: naik 340%.
 
-Hitung dengan jujur. Lalu hitung berapa biaya bulanan yang Anda bayar untuk yang tidak Anda pakai.
+Yang berubah bukan prompt-nya.
 
-Itu bukan investasi. Itu langganan kebingungan.
+Yang berubah cara saya bertanya tentang AI.
+
+Tools-nya sama. Yang berbeda — di dalam kepala saya.
 
 ---
 
 **9/10**
 
-Pengguna mengoleksi prompt. Arsitek merancang sistem.
+Pengguna AI bertanya: *"Prompt apa yang paling bagus?"*
 
-Pengguna mencari tool berikutnya. Arsitek mempertanyakan kebiasaan kerjanya sendiri.
+Saya pernah jadi pengguna. 6 bulan. Rp 847.000 adalah tagihannya.
 
-Pengguna sibuk update. Arsitek tidur lebih cepat.
+Sekarang saya bertanya beda: *"Sistem apa yang harus saya bangun?"*
 
-Anda boleh memilih posisi. Tapi posisi menentukan hasil — bukan sebaliknya.
+Pertanyaan menentukan kategori jawaban.
+
+Kategori jawaban menentukan apa yang masuk — atau tidak masuk — ke rekening Anda.
 
 ---
 
 **10/10**
 
-Saya susun ulang kerangka audit yang biasa saya pakai dengan klien — jadi 7 langkah harian yang bisa Anda kerjakan sendiri.
+Saya tidak menutup thread ini dengan link.
 
-Gratis. Link di bio.
+Saya tutup dengan pertanyaan yang sama yang saya tanyakan diri saya pukul 2 pagi waktu itu — kepada Anda:
 
-Dari pengguna ke arsitek butuh 7 hari, bukan 7 tahun.
+— Berapa prompt yang Anda simpan saat ini?
+— Berapa rupiah yang sudah ia hasilkan, 30 hari terakhir?
 
-Tools berubah. **Framework abadi.**
+Hitung dulu. Pelan-pelan.
+
+Itu posisi Anda yang sebenarnya — bukan posisi yang Anda kira.
 
 ---
 
