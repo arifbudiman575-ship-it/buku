@@ -1047,3 +1047,106 @@ Tunda BOFU / hard pitch ketika ada salah satu sinyal berikut:
 *Dokumen ini disusun berdasarkan analisa data 31 kompetitor Threads ID, framework dari course "Personal Branding & Digital Product 0 ke 1 Miliar Pertama" oleh Rama (productivityboi), dan IP buku "The AI Architect" oleh Arif Budiman. Strategi ini bisa direvisi setiap kuartal berdasarkan data aktual yang masuk.*
 
 *Last updated: Mei 2026*
+
+
+
+---
+
+## INDEX MASTER — CROSS-REFERENCE PER SUMBER
+
+> Mapping setiap section/sub-section di dokumen ini ke sumber asalnya. Tujuan: traceability untuk audit kuartalan dan revisi terarah setelah ada update dari salah satu sumber.
+
+### Mapping per Sumber
+
+#### 🔒 BUKU THE AI ARCHITECT (core IP, sacred)
+
+| Section | Apa yang dipakai |
+|---|---|
+| 0.1, 0.4 | Detail Prolog yang sacred (Februari 2024, Rp 847.000, 347 prompt, recovery arc) |
+| 1 | Aset NEURO-ARC + A.R.S.I. + karakter Riko/Citra |
+| 2.1 | Identity value "Saya AI Architect bukan AI user" |
+| 2.3 | Frase signature & one-line positioning |
+| 3 | Karakter Riko vs Citra sebagai aset narasi |
+| 5 | Voice "Anda" formal — pola kalimat dari buku |
+| 6 (Hook Bank) | Hook #9, #10, #13 langsung quote dari buku |
+| 8.2 | 7-Day Challenge — direct repurpose Bab 6 buku ("7 Hari Pertama") |
+| 10 | Manifesto — diturunkan dari prinsip buku |
+
+#### RAMA / PRODUCTIVITYBOI (methodology pondasi)
+
+| Section | Apa yang dipakai |
+|---|---|
+| 2 | Framework 3 pilar wajib personal branding (Value/Karisma/Positioning) |
+| 4 | Content Pillar 60/30/10 (Monetize/Complementary/Excitement) |
+| 7 | TOFU/MOFU/BOFU funnel |
+| 8 (1-6) | Value Ladder + Client Ascension Method + Math 1 miliar |
+| 11 | Roadmap 90-hari (fase Authority → Proof → Scale) |
+
+#### THEODERIC (purpose × strength × authenticity)
+
+| Section | Apa yang dipakai |
+|---|---|
+| 12 rule #8 | Purpose-drift detection |
+| 14.5 (via BJM) | Tone yang diasosiasikan |
+| 16 (full) | Purpose Compass — formula + refleksi mingguan + revalidasi kuartalan |
+| 16.4 | "Tidak ada salah/benar branding — tergantung purpose" |
+
+#### PAK SUBYAKTO PRIYOJUDANTO (filosofi 50-tahun branding)
+
+| Section | Apa yang dipakai |
+|---|---|
+| 0.4 | "Buku jual cerita personal, sosmed jual cara berpikir" |
+| 8.7 | "Berbayar = komitmen, gratis = tidak ada komitmen" |
+| 12 rule #6, #7 | Viral-trap detection + ICP mismatch detection |
+| 15.1 | Algoritma manusia 3-tahap (was-was → surprise → kasmaran) |
+| 15.2 | Mapping Hook Bank ke 3-tahap |
+| 15.3 | Storyting paradoks — 4 paradoks (beli/enggak, sekarang/nanti, mahal/murah, tahu/gak tahu) |
+| 15.4 | Network effect > viral — tabel sehat vs viral-trap |
+| 15.5 | Brand intersubjektif + kompetisi sehat |
+
+#### CALEB RALSTON / RSTON CONSULTING (16-tahun praktik US)
+
+| Section | Apa yang dipakai |
+|---|---|
+| 0.5 | Filter 4-lapis (asosiasi sebagai filter ke-2) |
+| 8.7 (full) | Share knowledge, sell execution + tabel free vs paid |
+| 14 (full) | Pemetaan Asosiasi & Audience Tunnel |
+| 14.1 | 3 mekanisme asosiasi (positif aktif / negatif aktif / netral default) |
+| 14.4 | Protokol undangan kolaborasi 4-cek |
+| 17 (full) | Trust-First Sequencing |
+| 17.1 | 3 Trust Gates (kompetensi, karakter, relevansi) |
+| 17.3 | Filter "Free Quality > Competitor Paid Quality" |
+| 17.4 | 6 sinyal premature monetization |
+| `BRAND-JOURNEY-MAP.md` (full) | Brand Journey 4Q framework |
+
+#### ANALISA KOMPETITOR (input riset, bukan sumber framework)
+
+| Section | Apa yang dipakai |
+|---|---|
+| 1 | Posisi battlefield, kompetitor langsung |
+| 6 | 5 hook style yang terbukti viral |
+| 13 | Anti-pattern observasi mayoritas kompetitor |
+
+### Aturan Audit Kuartalan
+
+Setiap 3 bulan, gunakan tabel di atas untuk:
+
+1. **Cek konsistensi** — Apakah tiap section masih align dengan sumber asalnya? Ada drift yang tidak disengaja?
+2. **Cek update sumber** — Apakah ada konten baru dari sumber (Theoderic posting baru, Caleb rilis course tambahan, dll)? Mana yang relevan untuk revisi section?
+3. **Cek konflik baru** — Apakah ada section yang sekarang berkonflik antar sumber? Resolve sesuai aturan Section 0.2 (Buku menang, Rama fondasi, dst).
+
+### Yang SACRED (tidak boleh diubah tanpa diskusi eksplisit)
+
+- 🔒 **Buku THE AI ARCHITECT** sebagai core IP — frase signature, karakter, framework asli
+- **Positioning "AI Architect"** — kategori yang sudah diklaim
+- **Voice "Anda" formal** — diferensiasi dari 31 kompetitor
+- **Math 1 miliar revenue** Section 8.6 — angka konservatif yang sudah dihitung
+
+### Yang BOLEH di-Update Tanpa Diskusi
+
+- Hook Bank Section 6 (tambah hook baru berdasarkan komen audience)
+- Roadmap Section 11 (sesuaikan timeline berdasarkan progress real)
+- Decision Rules Section 12 (tambah rule baru berdasarkan data lapangan)
+- Yang Tidak Boleh Anda Lakukan Section 13 (tambah anti-pattern baru saat ditemukan)
+
+---
