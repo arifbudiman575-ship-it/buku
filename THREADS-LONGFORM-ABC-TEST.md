@@ -1,54 +1,106 @@
 # 3 Long-Thread Story untuk @arifb.id — A/B/C Test
 
-> **Tujuan:** Menguji **3 pola storytelling berbeda** di Threads untuk menemukan format yang paling resonate dengan audience target (pemimpin & profesional Indonesia, premium positioning).
+> **Posisi dokumen ini:** Eksperimen storytelling format panjang untuk slot **Kamis (MOFU Confession)** di posting cadence yang sudah ditetapkan di `STRATEGI-PERSONAL-BRANDING.md` Section 7.
 >
-> **Voice:** "Anda" formal, tenang, anti-hype. Konsisten dengan buku THE AI ARCHITECT.
+> **Voice:** "Anda" formal, tenang, anti-hype — mengikuti Section 5 strategi.
 >
-> **Output target:** Reach awal, reply rate, link click ke 7-Day Challenge.
+> **Bukan dokumen baru:** ini adalah ekspansi 3 hook dari Hook Bank Section 6 menjadi long-form, untuk menguji pola storytelling mana yang paling kuat memindahkan reader ke link bio (7-Day Challenge).
+
+---
+
+## REFERENSI KE STRATEGI YANG SUDAH ADA
+
+Setiap opsi di sini **bukan ide baru** — semuanya turunan dari Hook Bank yang sudah disusun di strategi. Ditulis ulang sebagai dokumen tersendiri supaya 3 long-thread bisa di-side-by-side untuk testing.
+
+| Opsi | Source di Hook Bank | Posisi di Roadmap 90-Hari | Slot Mingguan |
+|---|---|---|---|
+| **A** — Riko story | Hook #10 (long-form) | Fase 1 Minggu 2 — Persona introduce (Riko vs Citra series) | Kamis MOFU Confession |
+| **B** — Confession 1.247 prompt | Hook #9 (long-form) | Fase 2 Minggu 5 — Studi kasus + buku tease | Kamis MOFU Confession |
+| **C** — Pukul 02.34 | Hook #13 (long-form) | Fase 2 Minggu 5 — Studi kasus | Kamis MOFU Confession |
+
+Sumber lain yang dipakai:
+- `analisa_kompetitor.md` Section 6 — 5 hook style terbukti viral
+- `RINGKASAN-SESI.md` Section 4 Insight 3 — karakter Riko vs Citra sebagai aset narasi ownable
 
 ---
 
 ## RINGKASAN 3 OPSI
 
-| Opsi | Pola Storytelling | Hook Style | Sudut Pandang | Karakter Utama |
+| Opsi | Pola Storytelling | Hook Style (per Section 6 STRATEGI) | Sudut Pandang | Karakter |
 |---|---|---|---|---|
-| **A** | Client transformation story | Story + Confession | Third-person | "Riko" (klien) |
-| **B** | Founder confession arc | Contrarian + Confession | First-person past | Saya |
-| **C** | Cinematic present-tense scene | Question + Provocation | First-person now | Saya, dini hari |
+| **A** | Client transformation story | Confession + List | Third-person | "Riko" (klien) |
+| **B** | Founder confession arc | Confession + Contrarian | First-person past | Saya |
+| **C** | Cinematic present-tense scene | Confession + Question | First-person now | Saya, dini hari |
 
 **Ketiganya:**
-- Panjang 9–10 post, format 1/N — 2/N — dst
-- Setiap post di bawah 500 karakter (limit Threads)
-- Closing: signature phrase + CTA ke 7-Day Challenge di bio
+- 9–10 post panjang, format `1/N`, setiap post di bawah 500 karakter (limit Threads)
+- Voice "Anda" formal — konsisten Section 5
+- Closing pakai signature phrase + CTA ke 7-Day Challenge di bio
 
 ---
 
-## ATURAN POSTING (TEST PROTOCOL)
+## PRE-REQUISITE — DARI ROADMAP FASE 0
 
-Supaya hasil A/B/C bisa dibandingkan apple-to-apple:
+Sebelum thread ini di-launch, item **Fase 0 (Section 11 STRATEGI)** harus sudah READY. Kalau belum, drive traffic ke link bio = funnel bocor & data test bias.
 
-1. **Posting di 3 hari berbeda dalam minggu yang sama** — hindari hari Senin (volume tinggi, susah dibaca data). Rekomendasi: Selasa, Kamis, Sabtu.
-2. **Posting di jam yang sama** — pilih satu (07.00 / 12.00 / 20.00). Konsistensi waktu = variabel terkontrol.
-3. **Bio + pinned post + link bio TIDAK diubah selama test** — supaya conversion rate dari thread → link bio terukur murni dari konten thread.
-4. **Jangan boost / paid amplify** salah satu — biarkan organik untuk benchmark sebenarnya.
-5. **Track 72 jam pertama setelah posting** — itu lifetime efektif sebuah thread di Threads.
+- [ ] **Pinned post Manifesto** sudah upload (Section 10 STRATEGI)
+- [ ] **Bio @arifb.id** sudah update ke versi final (Section 9 STRATEGI)
+- [ ] **Link bio aggregator** (`lynk.id` atau `Beacons`) sudah hidup dengan struktur Section 9
+- [ ] **Landing page "7-Day AI Architect Challenge"** live
+- [ ] **Email sequence 7 hari** sudah ditulis & dijadwalkan di tool email
+
+> **Status saat ini:** Berdasarkan `RINGKASAN-SESI.md` Section 6, opsi (E) landing page & (H) email sequence **belum dieksekusi**. Rekomendasi: selesaikan dua itu dulu — atau saya bantu eksekusi paralel — sebelum 3 thread ini di-post.
 
 ---
 
-## METRICS YANG DIUKUR (per opsi)
+## TEST PROTOCOL — DI 3 KAMIS BERURUTAN
+
+Karena slot Kamis = MOFU Confession (Section 7 STRATEGI), test dilakukan **3 Kamis berturut-turut** — bukan diborongkan ke 3 hari berbeda dalam 1 minggu.
+
+| Minggu | Hari | Aksi | Hari lain di minggu itu |
+|---|---|---|---|
+| **N** | Kamis | Posting **Opsi A** | Cadence Section 7 jalan normal |
+| **N+1** | Kamis | Posting **Opsi B** | (sda) |
+| **N+2** | Kamis | Posting **Opsi C** | (sda) |
+| **N+3** | Senin | Review data 72 jam dari ketiga thread | — |
+| **N+3** | Kamis | Repost variasi pemenang (revisi minor di hook 1/N) untuk konfirmasi data | — |
+
+**Mengapa berurutan 3 Kamis, bukan 3 hari berbeda dalam 1 minggu:**
+1. Variabel hari = konstan → variabel hook = terisolasi → data lebih bersih
+2. Tidak rusak cadence Section 7 yang sudah ditetapkan
+3. Audience tidak fatigue dengan 3 long-thread confession beruntun di minggu yang sama
+
+**Aturan tambahan supaya apple-to-apple:**
+- Posting di **jam yang sama** ketiga Kamis (rekomendasi: 19.30 — knowledge worker selesai kerja, pre-tidur)
+- Bio + pinned post + link bio **tidak diubah** sepanjang test (3 minggu + 1)
+- **Tanpa boost / paid amplify**
+- Track **72 jam pertama** setelah posting — itu lifetime efektif thread di Threads
+
+---
+
+## METRICS — ALIGN DENGAN SECTION 12 STRATEGI
+
+Threshold dari Section 12 yang berlaku selama test:
+
+- **Engagement rate** ≥ 5% (target Bulan 1)
+- **Top post views** ≥ 5K
+- **Email opt-in rate dari profile** ≥ 2% — kalau di bawah, problem di **judul lead magnet**, bukan di thread
+- **Follower growth** berkontribusi positif ke target mingguan (~250/minggu di Bulan 1)
+
+Yang dilacak per opsi:
 
 | Metric | Apa yang menjawab |
 |---|---|
-| **Views post 1** | Kekuatan hook |
-| **Views post terakhir** | Retention thread |
-| **Replies** | Provokasi & relatability |
-| **Reposts** | "Ini layak share" — kekuatan ide |
-| **Saves** | Nilai jangka panjang |
-| **Profile clicks** | Curiosity ke siapa Anda |
-| **Link bio clicks** | Conversion ke lead magnet |
-| **Followers gained 72 jam** | Otoritas baru |
+| Views post 1 | Kekuatan hook |
+| Views post terakhir | Retention thread |
+| Replies | Provokasi & relatability |
+| Reposts | Viralability ide |
+| Saves | Nilai jangka panjang |
+| Profile clicks | Curiosity ke siapa Anda |
+| **Link bio clicks** ⭐ | Conversion ke 7-Day Challenge |
+| **Email opt-in dari periode 72 jam thread** ⭐⭐ | Funnel actual conversion |
 
-**Decision rule:** Opsi yang menang = **profile clicks + link bio clicks tertinggi**, bukan likes. Karena tujuan kita lead-gen, bukan vanity.
+> **⭐⭐ Decision rule pemenang:** Opsi yang menang = **email opt-in tertinggi dari traffic 72 jam**, bukan likes / reposts. Tujuan kita lead-gen ke 7-Day Challenge, bukan vanity engagement (per Section 12 STRATEGI).
 
 ---
 
@@ -461,22 +513,23 @@ Dari pengguna ke arsitek. Dari ChatGPT mati ke sistem yang berdiri.
 
 ---
 
-# CHEAT SHEET — KAPAN PAKAI YANG MANA
+# CHEAT SHEET — PEMAKAIAN DI LUAR TEST
 
-| Anda Mau... | Pakai Opsi |
+Setelah pemenang teridentifikasi dari A/B/C test di atas, ketiga opsi tetap punya use case berbeda untuk konten reguler. Jangan dibuang yang kalah — masing-masing punya kekuatan unik.
+
+| Anda mau... | Pakai pola |
 |---|---|
-| Reach luas + relatable + zero defensive di pembaca | **A** (Riko story) |
-| Build trust mendalam + signal vulnerability + premium positioning | **B** (Confession) |
-| Cinematic + identity reframe + viral potential di malam hari | **C** (Pukul 02.34) |
+| Reach luas + zero defensive di pembaca + leverage Riko/Citra IP dari buku | **A** (Third-person client story) |
+| Build trust mendalam + signal vulnerability + premium positioning | **B** (First-person confession) |
+| Cinematic + identity reframe (Consultant → Architect) + post malam hari | **C** (Pukul 02.34 / present-tense scene) |
 
-**Rekomendasi sequence test:**
-
-- Minggu 1, Selasa: Posting **Opsi A**
-- Minggu 1, Kamis: Posting **Opsi B**
-- Minggu 1, Sabtu: Posting **Opsi C**
-- Minggu 2, Senin: Review data 72 jam dari ketiga thread
-- Minggu 2, Rabu: Posting ulang **opsi yang menang** dengan revisi minor (ganti hook 1/N, sisanya tetap) — konfirmasi data
-- Minggu 3 dst: Pakai pola pemenang sebagai template untuk thread mingguan
+**Rekomendasi long-term setelah test pemenang teridentifikasi:**
+- Pemenang → jadi **template default** untuk slot Kamis MOFU Confession
+- Dua sisanya → pakai 1× per bulan untuk variasi
+- **Repurpose lintas platform:**
+  - Opsi A & C → cocok jadi LinkedIn long-post (gabung jadi 1 post panjang)
+  - Opsi B → cocok jadi IG carousel 10 slide (1 slide per nomor)
+  - Threads dipakai sebagai **battlefield testing termurah** dulu, baru repurpose ke platform lain
 
 ---
 
