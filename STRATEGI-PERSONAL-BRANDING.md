@@ -31,6 +31,8 @@
 11. [Roadmap 90 Hari](#11-roadmap-90-hari)
 12. [Metrics & Decision Rules](#12-metrics--decision-rules)
 13. [Yang Tidak Boleh Anda Lakukan](#13-yang-tidak-boleh-anda-lakukan)
+14. [Pemetaan Asosiasi & Audience Tunnel](#14-pemetaan-asosiasi--audience-tunnel)
+15. [Algoritma Manusia & Storyting Paradoks](#15-algoritma-manusia--storyting-paradoks)
 
 ---
 
@@ -729,6 +731,168 @@ Daftar **anti-pattern** yang akan menghancurkan positioning Anda. Hindari **tanp
 ❌ **Jangan delegasikan voice ke tim/AI tanpa edit ketat.** "Anda" tone bisa langsung hilang kalau ghostwriter pakai gaya generik.
 
 ❌ **Jangan launching cohort sebelum punya minimal 5 testimonial publik.** Social proof = oxygen.
+
+---
+
+## 14. PEMETAAN ASOSIASI & AUDIENCE TUNNEL
+
+> *(diturunkan dari Caleb — "intentional pairing" framework, 2.0 version dengan emphasis pada anti-pairing)*
+>
+> Section ini adalah operasional dari `BRAND-JOURNEY-MAP.md` Q2 — bagaimana **mempertahankan** asosiasi yang dibangun dan **mendeteksi + merespon** ketika ada asosiasi yang slip.
+
+### 14.1. Tiga Mekanisme Asosiasi
+
+Caleb mengingatkan: brand = asosiasi yang inherent. Anda mengontrol asosiasi melalui 3 mekanisme:
+
+1. **Asosiasi positif yang aktif dibangun** — pairing intentional dengan hal-hal yang Anda pilih (lihat `BRAND-JOURNEY-MAP.md` Q2)
+2. **Asosiasi negatif yang aktif ditolak** — refuse pairing dengan hal-hal yang merusak brand (lihat `BRAND-JOURNEY-MAP.md` Q2 daftar landmines)
+3. **Asosiasi netral yang dibiarkan** — hal-hal yang tidak dipair maupun ditolak, tidak diberi attention. Default state.
+
+Mekanisme ke-2 (yang sering diabaikan oleh 90% creator) adalah pembeda brand premium dari brand generic.
+
+### 14.2. Audit Asosiasi Mingguan
+
+Setiap Senin pagi (sebagai bagian dari refleksi mingguan), lewati 5 pertanyaan:
+
+| Pertanyaan | Action kalau "ya" |
+|---|---|
+| Apakah saya muncul di komen / mention akun yang ada di daftar landmine `BRAND-JOURNEY-MAP.md` Q2? | Mute akun, decline future tag, jangan reply |
+| Apakah ada konten saya minggu ini yang voice-nya slip ke "lo/gw" atau caps lock atau emoji berlebih? | Catat sebagai red flag, jangan diulang |
+| Apakah saya menerima undangan kolaborasi/podcast minggu ini? Bagaimana profil yang ngundang? | Pakai protokol Section 14.4 |
+| Apakah ada follower baru dari minggu ini yang profile-nya tidak match ICP (decision-maker, profesional, premium)? | Audit hook minggu lalu — ada yang terlalu generic? |
+| Apakah ada moment saya tergoda pakai bahasa "BURUAN", "DISKON", "TINGGAL X SLOT"? | Tolak. Kalau perlu urgensi, pakai voice tenang. |
+
+### 14.3. "Asosiasi Slip" — Protokol Deteksi & Respon
+
+**Slip kategori 1 — Slip kecil (recoverable, tidak perlu announcement):**
+- Pakai "lo" sekali di reply komen
+- Reply slightly defensive di komen kritik
+- Posting dengan 1 emoji terlalu casual
+
+→ **Respon:** Tidak perlu hapus. Catat di journal mingguan. Jangan diulang.
+
+**Slip kategori 2 — Slip menengah (reputasi belum rusak, tapi awas):**
+- Posting ikut tren tactical (5 prompt, X vs Y) sekali
+- Reply panjang dengan tone emosional ke kritik
+- Tag/mention akun yang ada di daftar landmine
+
+→ **Respon:** Hapus / edit dalam 12 jam pertama (sebelum di-screenshot). Tidak perlu announcement. Lanjut konten reguler.
+
+**Slip kategori 3 — Slip besar (potensi reputasi rusak, audience kebingungan):**
+- Muncul di podcast / kolab dengan creator sketchy yang sudah di list landmine
+- Endorse produk/tools yang Anda tidak pakai sendiri
+- Posting hype tanpa sudut arsitektural (sekali dianggap accident, dua kali dianggap pivot)
+- Drama publik di komen / DM yang kelihat ke audience
+
+→ **Respon:** Akui dengan singkat & jujur (tidak panjang lebar). Pivoting konten 1-2 minggu ke topik yang reinforce kategori. Jangan hapus tanpa acknowledgment kalau sudah viral / di-screenshot.
+
+### 14.4. Protokol Undangan Kolaborasi / Podcast
+
+Setiap undangan masuk via DM/email, lewati 4 cek (semua harus PASS sebelum yes):
+
+1. **Cek kategori host** — Apakah host pernah jualan prompt collection? Promosi tools tactical tanpa frame strategic? Endorse produk sketchy?
+2. **Cek audience host** — Apakah follower host adalah ICP Anda (decision-maker, profesional, premium) atau audience tactical (pemula, kolektor prompt)?
+3. **Cek format** — Apakah formatnya kasih Anda ruang untuk discuss prinsip arsitektural, atau cuma quick tactical Q&A?
+4. **Cek post-podcast association** — Setelah episode rilis, akan muncul thumbnail/clip Anda berdampingan dengan host. Anda nyaman dengan asosiasi visual itu untuk 6 bulan ke depan?
+
+Kalau ada **1 dari 4 yang FAIL** → decline dengan sopan. *Awareness murah, reputasi mahal* (Caleb).
+
+### 14.5. Audience Tunnel — Siapa yang Diizinkan Masuk
+
+Tidak semua follower adalah aset. Audience yang salah = follower count tinggi tapi conversion ke buku/cohort = 0.
+
+| Tipe audience | Target % follower | Cara membangun |
+|---|---|---|
+| **Decision-maker** (founder, head of dept, executive) | 30% | Konten Pillar 1 (NEURO-ARC, A.R.S.I.), bahasa B2B |
+| **Profesional senior** (5+ tahun karir, knowledge worker) | 40% | Konten Pillar 2 (workflow, framework keputusan) |
+| **Praktisi serius** (consultant, freelancer premium) | 20% | Konten studi kasus + framework breakdown |
+| **Pelajar / pengamat** (mahasiswa, observer industri) | 10% | Konten Pillar 3 (filosofi, mental model) |
+| ~~"Saya mau jago AI dalam 7 hari"~~ | 0% | **Bukan ICP.** Konten bukan untuk mereka. |
+| ~~"Cari prompt gratis untuk side hustle"~~ | 0% | **Bukan ICP.** Tolak engagement. |
+
+> **Implikasi:** Konten Anda harus **filter sendiri** — tidak semua orang akan suka, dan itu fitur bukan bug. Voice formal "Anda" + topik strategic = otomatis menolak audience yang tidak match.
+
+---
+
+## 15. ALGORITMA MANUSIA & STORYTING PARADOKS
+
+> *(diturunkan dari Pak Subyakto Priyojudanto — 50 tahun pengalaman branding)*
+>
+> Section ini menjelaskan **mekanika emosional** di balik konten yang resonate. Pakai sebagai filter ketika menyusun hook (Section 6) dan long-thread (`THREADS-LONGFORM-ABC-TEST.md`).
+
+### 15.1. Algoritma Manusia: 3-Tahap Emosi
+
+Pak Bi mengamati: manusia mengkonsumsi konten dalam 3 tahap emosi yang berurutan.
+
+| Tahap | Emosi | Kondisi reader | Apa yang Anda lakukan |
+|---|---|---|---|
+| **1. Was-was** | Cemas, tidak nyaman, takut kehilangan | "Apakah saya melewatkan sesuatu? Apakah orang lain sudah tahu hal ini, sementara saya belum?" | **Hook** harus paint ketakutan kehilangan / ketinggalan / salah arah |
+| **2. Surprise** | Kaget, terkejut, perspektif baru | "Lho, ternyata bukan begitu. Saya selama ini salah." | **Body** harus reveal pattern berbeda dari ekspektasi reader |
+| **3. Kasmaran** | Tertarik, terikat, ingin lebih | "Saya butuh lebih dari orang ini. Saya mau follow / save / share." | **Closing** harus kasih reader hal yang membuat dia kembali |
+
+**Aturan urutan:** Was-was → Surprise → Kasmaran. Jangan loncat. Konten yang langsung surprise tanpa was-was = jatuh datar. Konten yang langsung kasmaran tanpa surprise = terdengar sales pitch.
+
+### 15.2. Aplikasi ke Hook Bank (Section 6)
+
+Hook Bank existing (25 hook) bisa di-mapping ke 3-tahap algoritma:
+
+| Hook style | Tahap algoritma yang dipicu | Contoh dari Section 6 |
+|---|---|---|
+| Contrarian (8 hook) | Was-was kuat ("saya selama ini salah?") | Hook #1, #3, #5 |
+| Confession (5 hook) | Was-was + Surprise ("dia juga pernah salah seperti saya") | Hook #9, #11 |
+| Callout (5 hook) | Was-was kuat ("apakah saya termasuk yang dimaksud?") | Hook #14, #18 |
+| Question (4 hook) | Was-was ("saya bisa jawab?") + potensi Kasmaran | Hook #19, #20 |
+| List + Authority (3 hook) | Surprise + Kasmaran ("dia tahu hal yang saya tidak") | Hook #23, #24 |
+
+> **Implikasi untuk Hook Bank update:** Saat menulis hook baru, pikirkan tahap mana yang dipicu. Idealnya 1 long-thread = bawa reader melalui ke-3 tahap berurutan (lihat THREADS Opsi A V3 — mekanisme persis ini sudah dipakai).
+
+### 15.3. Storyting (Bukan Telling Story) — Engine Paradoks
+
+Pak Bi: *"Storyting meninggalkan kesan, bukan menceritakan urutan."*
+
+Beda **telling story** vs **storyting**:
+
+| Telling Story | Storyting |
+|---|---|
+| "Suatu hari ada pengusaha bernama X yang gagal lalu sukses" | "Pengusaha yang gagal sebelum sukses, atau pengusaha yang sukses lalu gagal — Anda yang mana?" |
+| Linear: A → B → C → D | Paradoks: A vs B (reader pilih) |
+| Reader pasif konsumsi | Reader aktif posisikan diri |
+
+**Storyting selalu pakai paradoks.** 4 paradoks utama Pak Bi yang bisa Anda pakai:
+
+1. **Beli vs Enggak** — *"Investasi 7,5 juta itu mahal. Tidak invest 7,5 juta itu lebih mahal — 6 bulan dari sekarang."*
+2. **Sekarang vs Nanti** — *"Anda boleh tunda. Tapi tunggu sebentar lagi, ChatGPT sudah jago dari Anda."*
+3. **Mahal vs Murah** — *"Kursus prompt 1,5 juta itu murah. Kursus prompt 1,5 juta yang Anda tidak praktikkan itu mahal."*
+4. **Tahu vs Gak Tahu** — *"Anda tahu Anda harus build sistem. Anda tidak tahu mengapa Anda belum mulai."*
+
+Masukkan 1-2 paradoks per long-thread. Tempatnya: post 4-6 (transisi dari was-was ke surprise).
+
+### 15.4. Network Effect > Viral — Update untuk Section 12 Decision Rules
+
+Pak Bi: *"Viral tujuan instan. Network effect tujuan berkelanjutan. 1000 views yang care lebih bernilai dari 1 juta views yang tidak care."*
+
+**Update untuk Section 12 (decision rules):** Saat audit metrik mingguan, evaluasi bukan cuma volume tapi kualitas:
+
+| Metrik | Yang sehat (network effect) | Yang viral-trap (jangan diulangi) |
+|---|---|---|
+| Engagement rate | 5%+ konsisten | Spike 20% sekali, 0% setelahnya |
+| Komentar | Substantif (paragraf, pertanyaan lanjutan) | Emoji-only, "great", "wow" |
+| Reply Anda | Punya konteks audience | Generic copy-paste |
+| Follower yang masuk dari thread | Profile match ICP (Section 14.5) | Akun anonim, no profile |
+| Save rate | Tinggi (reader mau revisit) | Rendah (sekali konsumsi, lupa) |
+| Repost ke thread berikutnya | High (audience datang kembali) | Low (spike sekali) |
+
+**Aturan baru:** Kalau ada thread viral tapi metrik kualitas (komentar substantif, save, follower ICP) rendah → **JANGAN ulangi format itu.** Pelajari dari thread medium-views tapi metrik kualitas tinggi.
+
+### 15.5. Brand Intersubjektif — Implikasi untuk Voice & Konten
+
+Pak Bi: *"Brand bukan apa yang Anda katakan tentang Anda. Brand adalah paduan apa yang Anda katakan + apa yang pembeli pikirkan tentang Anda."*
+
+Implikasi praktis:
+
+1. **Listen sebelum bicara.** Setiap kuartal, baca 50 komentar tertinggi di akun Anda. Bagaimana audience mengatakan tentang Anda? Apakah persepsi mereka match dengan positioning Anda?
+2. **Asosiasi kelihatan dari follower-list.** Cek: 10 akun terakhir yang follow Anda — mereka mengikuti karena topik apa? Kalau ada mismatch → audit konten 2 minggu terakhir.
+3. **Kompetisi sehat.** Pak Bi: *"Coca-Cola sendiri 100 kaleng, ada Pepsi → 200 kaleng."* Industri AI Architect Indonesia akan tumbuh kalau ada lebih banyak orang seperti Anda. Tidak perlu menjelekkan kompetitor — cukup pertahankan voice & framework Anda yang unik.
 
 ---
 
