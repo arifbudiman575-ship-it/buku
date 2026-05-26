@@ -1,175 +1,141 @@
-# 👋 LANJUTKAN DI SINI — Handover Strategi @arifb.id
+# LANJUTKAN DI SINI — Handover Session Kiro Web (Mei 2026)
 
-> **Pintu masuk cepat untuk lanjut diskusi di chat baru kalau token habis.**
-> Cukup paste isi file ini ke chat baru, atau sebut path-nya.
-
----
-
-## STATUS PROYEK (per Mei 2026)
-
-**Siapa Anda:** Arif Budiman — penulis buku **THE AI ARCHITECT** (123 hal). Founder PROMIND-NEUROLINK. Handle: `@arifb.id`.
-
-**Tujuan 12 bulan:** 30K followers Threads + Rp 1 miliar revenue dengan positioning "AI Architect" sebagai kategori baru di Indonesia.
-
-**Mode strategi:** Authority play (depth), bukan volume play.
-
-**Status terakhir (Layer 12, Mei 2026):** Bulan 1 **siap eksekusi penuh** — 30 post detail + 4 long-thread Kamis + email sequence 7-hari + landing page + manifesto carousel + Hook Bank 40 hook + 8 post Pillar 3 untuk Bulan 2-3 — semua final di repo. PR #12 active di branch `add-thread-arsi-7-hari` berisi Layer 11 + Layer 12.
+> **File ini = entry point untuk melanjutkan di percakapan baru.**
+> Paste link file ini ke Kiro/ChatGPT baru + sebut "lanjut dari sini".
 
 ---
 
-## DOKUMEN UTAMA DI REPO
+## STATUS TERAKHIR
 
-Branch utama: `main` (PR #11 sudah merged · commit `9231d4f`)
-Branch sesi terbaru: `add-thread-arsi-7-hari` (Layer 11 — Opsi D + Layer 12 — Bulan 1 deliverables complete + audit, di **PR #12**)
-
-| File | Isi | Wajib? |
-|---|---|---|
-| `STRATEGI-PERSONAL-BRANDING.md` | Strategi 18 section + Master Index + Hook Bank 40 hook (extended Layer 12). Sumber utama. | ✅ YA |
-| `BRAND-JOURNEY-MAP.md` | Workbook 4Q (Caleb): outcome → asosiasi → aksi → pembelajaran | ✅ YA |
-| `CONTENT-CALENDAR-BULAN-1.md` | 30 post detail Fase 1 Authority Building + Pre-Launch checklist final | ✅ Saat eksekusi Bulan 1 |
-| `THREADS-LONGFORM-ABC-TEST.md` | 4 thread story siap post (A V3 + B V2 + C V2 + **D — A.R.S.I. 7-Hari**) | Saat mau posting |
-| `EMAIL-SEQUENCE-7-DAY-CHALLENGE.md` | 9 email harian (Welcome + 7 daily + 1 follow-up) + 7 worksheet specs untuk lead magnet | ✅ Saat setup email tool |
-| `LANDING-PAGE-7-DAY-CHALLENGE.md` | Single-page content + design spec + FAQ untuk landing page lead magnet | ✅ Saat deploy landing |
-| `MANIFESTO-CAROUSEL-IG.md` | 7-slide IG carousel (Manifesto) + design spec + caption + cross-format adaptasi | ✅ Saat render visual D1 |
-| `PILLAR-3-STUDI-CASE-PAK-BI.md` | 8 post Pillar 3 (3 case authentic Pak Bi + 5 insight) untuk Mgg 5-12 Bulan 2-3 | Saat eksekusi Pillar 3 |
-| `CHAT-LOG-LAYER-10.md` | Jejak sesi Layer 10 — kronologi, output, status PR, pending items | Saat lanjut chat baru |
-| `RINGKASAN-SESI.md` | Riwayat sesi lengkap (Sesi 1-6) | Saat butuh konteks |
-| `analisa_kompetitor.md` | Battlefield map 31 kompetitor Threads ID | Reference |
-
-Plus 3 file sumber asli: `ilmu Theoderic.txt`, `pak bi.txt`, `personal branding caleb ralston.docx`.
+**Tanggal:** 26 Mei 2026
+**Branch aktif:** `add-thread-arsi-7-hari`
+**PR aktif:** https://github.com/arifbudiman575-ship-it/buku/pull/12
+**Total commits di PR:** 6 commits (Layer 11 → 12a → 12b → 13 → 14 → 15)
 
 ---
 
-## YANG SUDAH SELESAI (Sesi 4 — Integrasi 5 Sumber)
+## PROGRESS PLAYBOOK — 4/12 DONE (33%)
 
-✅ **5 sumber framework ter-integrasi:**
-1. 🔒 Buku THE AI ARCHITECT (core IP, sacred)
-2. Rama / ProductivityBoi (methodology pondasi)
-3. Theoderic (purpose × strength × authenticity)
-4. Pak Subyakto Priyojudanto (algoritma manusia, network effect, storyting paradoks)
-5. Caleb Ralston / Rston (brand journey 4Q, association map, trust-first)
-
-✅ **6 section baru di STRATEGI:** Section 0 (Hierarki + filter 4-lapis), 14 (Pemetaan Asosiasi), 15 (Algoritma Manusia & Storyting), 16 (Purpose Compass), 17 (Trust-First Sequencing), sub-section 8.7 (Share knowledge sell execution).
-
-✅ **3 decision rules baru** Section 12 (rules 6, 7, 8 — viral-trap, ICP mismatch, purpose-drift).
-
-✅ **3 thread story book-safe** siap untuk A/B/C testing slot Kamis (Opsi A V3 + B V2 + C V2).
-
-✅ **Brand Journey Map** lengkap dengan 12 landmines yang ditolak.
-
-✅ **Master Cross-Reference Index** — setiap section traceable ke sumber asli.
-
-
+| # | Item | Layer | File | Status |
+|---|---|---|---|---|
+| 1 | Visual Brand Identity | 13 | `VISUAL-BRAND-IDENTITY.md` | ✓ Done |
+| 2 | Tracking Dashboard | 13 | `TRACKING-DASHBOARD.md` | ✓ Done |
+| 3 | Operational Setup Guide | 14 | `OPERATIONAL-SETUP.md` | ✓ Done |
+| 4 | Reply Farm Playbook | 15 | `REPLY-FARM-PLAYBOOK.md` | ✓ Done |
+| **5** | **Calendar Bulan 2 + 4 long-thread** | — | `CONTENT-CALENDAR-BULAN-2.md` | **⚪ NEXT** |
+| 6 | Buku Launch Pack | — | `LAUNCH-PACK-BUKU.md` | ⚪ Queue |
+| 7 | Calendar Bulan 3 + 4 long-thread | — | `CONTENT-CALENDAR-BULAN-3.md` | ⚪ Queue |
+| 8 | Cohort Launch Pack | — | `LAUNCH-PACK-COHORT.md` | ⚪ Queue |
+| 9 | Corporate Inbound 1-Pager | — | `CORPORATE-INBOUND-PLAYBOOK.md` | ⚪ Queue |
+| 10 | Anti-Burnout Protocol | — | `ANTI-BURNOUT-PROTOCOL.md` | ⚪ Queue |
+| 11 | Cross-Platform Playbook | — | `CROSS-PLATFORM-PLAYBOOK.md` | ⚪ Queue |
+| 12 | Strategy Refresh Protocol | — | `STRATEGY-REFRESH-PROTOCOL.md` | ⚪ Queue |
+| + | Master Index | — | `PLAYBOOK-MASTER.md` | ⚪ Terakhir |
 
 ---
 
-## YANG MASIH PENDING — PILIH UNTUK NEXT SESI
+## MILESTONE
 
-### Pre-launch funnel
-- ✅ ~~**(E)** Landing page lead magnet "7-Day AI Architect Challenge"~~ — **SELESAI Layer 12**, draft final di `LANDING-PAGE-7-DAY-CHALLENGE.md`
-- ✅ ~~**(F)** Manifesto carousel 7-slide untuk Instagram~~ — **SELESAI Layer 12**, draft final di `MANIFESTO-CAROUSEL-IG.md`
-- ✅ ~~**(G)** Content calendar Bulan 1~~ — **SELESAI Layer 10**, file `CONTENT-CALENDAR-BULAN-1.md`
-- ✅ ~~**(H)** Email sequence 7-hari untuk lead magnet~~ — **SELESAI Layer 12**, draft final di `EMAIL-SEQUENCE-7-DAY-CHALLENGE.md`
-
-### Long-thread baru yang muncul dari calendar Bulan 1
-- ✅ ~~**(M)** Draft long-thread "A.R.S.I. 7-Hari" (Opsi D)~~ — **SELESAI Layer 11**, di `THREADS-LONGFORM-ABC-TEST.md` Section "Opsi D"
-
-### Yang muncul dari Sesi 4
-- ✅ ~~**(I)** Hook Bank refresh~~ — **SELESAI Layer 12**, 15 hook baru (#26-40) di `STRATEGI-PERSONAL-BRANDING.md` Section 6.B (kategori F/G/H). Total Hook Bank: 40 hook.
-- ✅ ~~**(J)** Studi case Pak Bi (Kopiko, Coca-Cola/Pepsi, Suharti) untuk konten Pillar 3 filosofi~~ — **SELESAI Layer 12**, 8 post (3 case + 5 insight) di `PILLAR-3-STUDI-CASE-PAK-BI.md`. *(Catatan: trio sebelumnya tertulis "Kopiko, Mizone, Rolex" yang merupakan placeholder fabrikasi dari Sesi 4 — telah dikoreksi ke trio authentic dari `pak bi.txt`.)*
-
-### Operational
-- ✅ ~~**(K)** Merge PR #11 ke main~~ — **SELESAI**, commit merge `9231d4f` di main
-- ✅ ~~**(L)** Audit konsistensi 5 sumber satu putaran terakhir sebelum eksekusi Bulan 1~~ — **SELESAI Layer 12**, hasil audit + koreksi tertuang di Commit B (commit korektif). Tidak ada drift signifikan; 1 critical fix (Mizone/Rolex), Hook #34 ditandai composite dengan disclaimer pakai.
-
-### Yang TINGGAL (post-Layer 12)
-- 🔵 **Eksekusi Bulan 1** — semua deliverable siap. Tinggal: setup email tool (ConvertKit/MailerLite/Substack), deploy landing page (Framer/Webflow/Carrd), render visual carousel (Canva/Figma), schedule 30 post + 4 long-thread di tool kalender Anda.
-- 🔵 **Merge PR #12** — saat Anda sudah review 4 file baru + extension Hook Bank.
-- 🔵 **Re-audit pasca-eksekusi** — setelah Bulan 1 berjalan ~14 hari, audit performance vs ekspektasi BJM Q1, refine sebelum Bulan 2 (kalau perlu).
-
-> **Rekomendasi default setelah Layer 12:** Tinggal **eksekusi Bulan 1**. Semua aset strategis sudah final. Yang perlu sekarang adalah implementasi operasional (tooling, deploy, scheduling) — bukan strategy work tambahan. Kalau Anda butuh bantuan teknis di salah satu langkah eksekusi (mis. setup email automation, copy untuk re-format ke platform, render carousel), buka chat baru dengan scope spesifik.
+- **Tier CRITICAL (Item 1-4):** ✓ SELESAI — Day 1 launching ready dari sisi infrastruktur
+- **Tier HIGH — Buku Launch Mgg 7 (Item 5-6):** Belum dimulai
+- **Tier HIGH — Cohort Launch Mgg 11 (Item 7-8):** Belum dimulai
+- **Tier D — Compound (Item 9-12):** Belum dimulai
 
 ---
 
-## ATURAN OPERASIONAL — Filter 4-Lapis Sebelum Posting Apapun
+## KEPUTUSAN KUNCI YANG SUDAH FIX
 
-(Lihat `STRATEGI-PERSONAL-BRANDING.md` Section 0.5)
-
-1. **Filter Buku** — Apakah konten ini membocorkan detail Prolog / scene spesifik buku?
-2. **Filter Asosiasi** — Apakah konten ini secara tidak sengaja pair Anda dengan landmine di `BRAND-JOURNEY-MAP.md` Q2?
-3. **Filter Voice** — Apakah voice "Anda" formal anti-hype tetap konsisten?
-4. **Filter Purpose** — Apakah konten ini support outcome di `BRAND-JOURNEY-MAP.md` Q1?
-
-Konten gagal di salah satu filter → revisi atau drop.
-
----
-
-## ATURAN SACRED (TIDAK BOLEH DIUBAH TANPA DISKUSI EKSPLISIT)
-
-- 🔒 **Buku THE AI ARCHITECT** sebagai core IP — frase signature, karakter, framework asli
-- **Positioning "AI Architect"** sebagai kategori
-- **Voice "Anda" formal** (no "lo/gw", no caps, no urgensi-tipuan)
-- **Math 1 miliar revenue** Section 8.6
-- **Detail Prolog** (Februari 2024, Rp 847.000, 347 prompt) — HANYA di buku, JANGAN di sosmed sebelum buku rilis publik
+| Keputusan | Pilihan |
+|---|---|
+| Target revenue 12 bulan | Rp 1 miliar |
+| Mode launch | Staged Launch (buku Mgg 7, cohort Mgg 11, corporate Bulan 4+) |
+| Payment | Lynk.id + WA (simple, no complex tax/invoice dulu) |
+| Email tool | MailerLite (free <1K subs) |
+| Visual theme | Light (landing/email/sales) + Dark (IG/Reels/TikTok) |
+| Accent color | Deep Navy #1E3A5F (light) + Burnt Sand #D4A574 (dark) |
+| Font | Playfair Display (heading) + Inter (body) |
+| Wordmark primary | "ARIF BUDIMAN / the ai architect" |
+| Scheduler | Native Bulan 1-2, Metricool Bulan 3+ |
+| Idea bank | Notion (3 database: Idea Bank, Komen-to-Content, Reference) |
+| Platform focus | Threads (primary) + IG + TikTok + LinkedIn (funnel structure) |
+| Reply commitment | 10 komen pertama, 30-min target, 60-min red line |
+| Commit flow | Brainstorm di chat → fix → Kiro commit langsung (ChatGPT kena 403 ke branch ini) |
 
 ---
 
-## TEMPLATE PROMPT UNTUK CHAT BARU
-
-Copy paste ini ke chat baru:
+## FLOW KERJA YANG DISEPAKATI
 
 ```
-Halo, saya Arif Budiman / @arifb.id, penulis buku THE AI ARCHITECT.
+1. Brainstorm item di chat (Kiro atau percakapan baru)
+2. Anda feedback "fix" atau "tweak X"
+3. Kiro commit langsung ke branch add-thread-arsi-7-hari
+4. PR #12 auto-update
+5. Lanjut item berikutnya
+```
 
-Lanjutkan dari sesi sebelumnya yang tersimpan di repo
-arifbudiman575-ship-it/buku, branch main (PR #11 sudah merged,
-sesi terbaru Layer 11 di branch add-thread-arsi-7-hari).
+**PENTING:** ChatGPT Plus TIDAK bisa commit ke branch ini (403 — branch dibuat kiro-agent[bot]). Semua commit harus dari Kiro.
 
-Baca dulu file LANJUTKAN-DI-SINI.md untuk konteks lengkap.
+---
 
-Kalau perlu detail, baca juga:
-- STRATEGI-PERSONAL-BRANDING.md (strategi utama 18 section)
-- BRAND-JOURNEY-MAP.md (workbook 4Q)
-- RINGKASAN-SESI.md Section 10-11 (rekap Sesi 4 + Sesi 5)
+## KONTEKS PENTING UNTUK PERCAKAPAN BARU
 
-Sekarang saya mau lanjut ke: [pilih (E)/(F)/(H)/(I)/(J)/(L)
-atau sebut topik lain]
+### Tentang Pak Arif / @arifb.id
+- Founder PROMIND-NEUROLINK
+- Penulis buku THE AI ARCHITECT (PDF sudah ada di repo)
+- Target: kategori "AI Architect" Indonesia = Arif Budiman
+- Voice: formal "Anda", anti-hype, tenang, premium decision-maker
+- ICP: founder, C-level, manajer senior, decision-maker
+- Produk: Buku 3-tier (Rp 297K/547K/897K) + Cohort A.R.S.I. (Rp 4,9JT/7,5JT) + Corporate audit (Rp 25-100JT)
+
+### Tentang Repository
+- **Repo:** `arifbudiman575-ship-it/buku`
+- **Isi:** Strategi personal branding 18 section + deliverable playbook
+- **File penting:**
+  - `STRATEGI-PERSONAL-BRANDING.md` — dokumen master strategi (18 section)
+  - `BRAND-JOURNEY-MAP.md` — roadmap 4 quarter (Caleb framework)
+  - `CONTENT-CALENDAR-BULAN-1.md` — 30 post detail Bulan 1
+  - `THREADS-LONGFORM-ABC-TEST.md` — 4 long-thread Bulan 1
+  - `EMAIL-SEQUENCE-7-DAY-CHALLENGE.md` — 9 email lead magnet
+  - `LANDING-PAGE-7-DAY-CHALLENGE.md` — landing page copy
+  - `MANIFESTO-CAROUSEL-IG.md` — carousel Day 1
+  - `PILLAR-3-STUDI-CASE-PAK-BI.md` — 8 post filosofi Mgg 5-12
+  - `analisa_kompetitor.md` — 31 kompetitor tier T1/T2/T3
+  - `RINGKASAN-SESI.md` — kronologi 12 sesi sebelumnya
+
+### Tentang Playbook Structure (22 Chapter)
+```
+PART 0 — START HERE (3 ch): Master Index, Lanjutkan Di Sini, Ringkasan Sesi
+PART 1 — STRATEGI (4 ch): Master 18 Section, BJM, Kompetitor, Filter 4-Lapis
+PART 2 — KONTEN HARIAN (7 ch): Voice, Hook Bank, Visual ID, Manifesto, Cross-Platform, Calendar 12 Bulan, Long-thread Library, Pillar 3
+PART 3 — LAUNCH (4 ch): Lead Magnet, Buku Launch, Cohort Launch, Corporate Inbound
+PART 4 — OPERASIONAL (4 ch): Ops Setup, Tracking, Reply Farm, Anti-Burnout, Strategy Refresh
 ```
 
 ---
 
-## LINK PENTING
+## ITEM 5 YANG HARUS DIKERJAKAN BERIKUTNYA
 
-- **Repo:** https://github.com/arifbudiman575-ship-it/buku
-- **PR #11 (Layer 1-10 — MERGED):** https://github.com/arifbudiman575-ship-it/buku/pull/11
-- **PR #3 (analisa kompetitor):** https://github.com/arifbudiman575-ship-it/buku/pull/3
-- **PR #5 (strategi awal — superset oleh PR #11):** https://github.com/arifbudiman575-ship-it/buku/pull/5
+**Calendar Bulan 2 + 4 long-thread Kamis Mgg 5-8**
 
-### Catatan PR
-
-- ✅ **PR #11 sudah merged** (commit merge `9231d4f`). Strategi Layer 1-10 sekarang di `main`.
-- **PR #5** sudah jadi subset PR #11, bisa di-close tanpa merge (atau abaikan).
-- **PR #3** independen, bisa merge terpisah kalau diinginkan.
-- **Sesi Layer 11** (file ini) di branch `add-thread-arsi-7-hari` — PR baru akan dibuat saat eksekusi.
+Isi yang dibutuhkan:
+- ~24 post detail Senin-Sabtu Mgg 5-8 (Sunday sudah ada di PILLAR-3-STUDI-CASE-PAK-BI.md)
+- 4 long-thread Kamis Mgg 5, 6, 7, 8
+- Theme Bulan 2: transisi dari authority building → buku launch tease → buku launch Day (Mgg 7)
+- Funnel shift: lebih banyak MOFU + mulai BOFU di Mgg 7
+- Harus konsisten dengan voice + hook bank + pillar distribution di STRATEGI
 
 ---
 
-## RINGKASAN COMMIT INTEGRASI (Sesi 4 — Layer 1-10 + Sesi 5 — Layer 11)
+## CARA LANJUT DI PERCAKAPAN BARU
 
-| Commit | Layer | Apa yang ditambahkan |
-|---|---|---|
-| `15da685` | 1+2 | Hierarki 5 Sumber + Brand Journey Map |
-| `c2acdf5` | 3+4 | Pemetaan Asosiasi + Algoritma Manusia & Storyting |
-| `1013e78` | 5+6 | Purpose Compass + Trust-First Sequencing + Section 8.7 |
-| `4f47c3c` | 7+8+9 | Threads V2 final + Sesi 4 record + Master Cross-Reference Index |
-| `3c9b315` | 10 | Content Calendar Bulan 1 — 30 post detail (Fase 1 Authority Building) |
-| `d016ef8` | 10b | CHAT-LOG-LAYER-10.md — handover detail sesi Layer 10 |
-| `9231d4f` | merge | **PR #11 merged ke main** — Layer 1-10 resmi di branch utama |
-| `c62b39c` | 11 | **Opsi D A.R.S.I. 7-Hari** — long-thread lead magnet driver final, calendar D25 unblocked |
-| `acb2ee2` | 12a | **Bulan 1 deliverables complete** — 4 file baru (EMAIL/LANDING/MANIFESTO/PILLAR-3) + STRATEGI Section 6.B Hook Bank #26-40 + Section 6.C cadence + Section 15.2 mapping extended + CONTENT-CALENDAR Pre-Launch checklist closed |
-| _(Layer 12b)_ | 12b | **Audit corrections + handover sync** — koreksi Mizone/Rolex (5 file) + RINGKASAN Section 12 record (Sesi 6) |
+Copy-paste ini ke percakapan Kiro baru:
+
+```
+Lanjutkan dari file LANJUTKAN-DI-SINI.md di repo arifbudiman575-ship-it/buku 
+branch add-thread-arsi-7-hari. Item 5 berikutnya: Calendar Bulan 2 + 4 long-thread.
+Brainstorm di chat, pakai rekomendasi default, commit langsung dari Kiro.
+```
 
 ---
 
-*File ini dibuat: Sesi 4 Mei 2026. Update terakhir: Sesi 6 — Layer 12 (Bulan 1 deliverables complete: E/F/H/I/J final + audit konsistensi L done; di PR #12 branch `add-thread-arsi-7-hari`).*
-*Update file ini juga setiap kali ada sesi baru yang significant.*
+*Last updated: Layer 15, 26 Mei 2026.*
