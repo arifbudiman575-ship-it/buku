@@ -61,7 +61,7 @@ Kalau salah satu fail → **JANGAN POST.** Kalender ini sudah lulus filter di ra
 - [ ] **Long-thread Opsi A V3** sudah final di `THREADS-LONGFORM-ABC-TEST.md` (siap publish Day 4)
 - [ ] **Long-thread Opsi C V2** sudah final di file yang sama (siap publish Day 11)
 - [ ] **Long-thread Opsi B V2** sudah final di file yang sama (siap publish Day 18)
-- [ ] **Long-thread A.R.S.I. 7-Hari** — DRAFT BARU, perlu disusun sebelum Day 25 (lihat catatan D25)
+- [x] **Long-thread A.R.S.I. 7-Hari (Opsi D)** — final di `THREADS-LONGFORM-ABC-TEST.md` (siap publish Day 25)
 
 ### Funnel Setup
 - [ ] **Landing page** "7-Day AI Architect Challenge" live di domain Anda (bisa di subdomain seperti `arifb.id/start` atau `challenge.arifb.id`)
@@ -177,7 +177,7 @@ Kalau salah satu fail → **JANGAN POST.** Kalender ini sudah lulus filter di ra
 - **D4 Kamis** = Opsi A V3 (sudah final di THREADS file)
 - **D11 Kamis** = Opsi C V2 (sudah final)
 - **D18 Kamis** = Opsi B V2 (sudah final)
-- **D25 Kamis** = NEW thread A.R.S.I. 7-Hari (perlu draft sebelum Day 25 — *brief ada di detail D25 di bawah*)
+- **D25 Kamis** = Opsi D — A.R.S.I. 7-Hari (final di THREADS file — lead magnet driver)
 
 
 ---
@@ -899,37 +899,32 @@ Closing: *"30 menit. Tanpa AI. Pulpen, kertas. Anda akan kaget berapa banyak pat
 
 ---
 
-#### **D25 — Kamis · 20:00 WIB · P1 · MOFU long-thread (NEW — perlu draft)**
+#### **D25 — Kamis · 20:00 WIB · P1 · MOFU long-thread (Opsi D — FINAL)**
 
-**🪝 HOOK** (proposed — finalize sebelum publish)
+**🪝 HOOK** (final — sudah lulus filter 4-lapis)
 > *7 hari yang mengubah cara saya bekerja dengan AI.*
 >
 > *Bukan tentang prompt yang lebih bagus. Bukan tentang tools yang lebih banyak.*
 >
-> *Tentang 4 disiplin yang saya tidak tahu saya butuhkan, sampai saya coba.*
+> *Tentang 4 disiplin yang saya tidak tahu saya butuhkan — sampai saya coba.*
 >
-> *(thread, ~9-10 post)*
+> *(thread, 9 post)*
 
-**📝 BODY** — **DRAFT BARU yang harus disusun sebelum Day 25.** Brief:
-- Post 1-2: Hook + setup (was-was) — "saya juga pernah Riko, ngumpulkan tools". Voice 1st person, akui kelemahan.
-- Post 3-4: Hari 1-2 = Audit (langkah A). Apa yang Anda lihat saat audit jujur sistem AI Anda? Surprise.
-- Post 5-6: Hari 3-4 = Rancang (langkah R). Bedakan "lebih banyak prompt" vs "1 sistem yang jelas". Surprise + paradoks Mahal/Murah.
-- Post 7-8: Hari 5-6 = Sistemasi + Iterasi (langkah S+I). Pattern yang muncul.
-- Post 9: Closing — *"Ini bukan kursus 1,5 juta. Ini 7 hari yang Anda jalan sendiri. Saya kasih kerangka, Anda yang isi konteks Anda. Link di bio."* — soft CTA ke 7-Day Challenge.
+**📝 BODY**: **PAKAI Opsi D yang sudah final di `THREADS-LONGFORM-ABC-TEST.md`.** Tidak perlu draft ulang. 9 post mapped ke A.R.S.I. 4 langkah (Audit hari 1-2, Rancang hari 3-4, Sistemasi hari 5-6, Iterasi hari 7) + paradoks Pak Bi Mahal/Murah di post 6 + closing CTA tenang ke 7-Day Challenge di post 9. Book-safe — tidak ada detail Prolog buku.
 
-**🎯 ALGO**: was-was → surprise (audit reveal) → paradoks Mahal/Murah → kasmaran (CTA gratis = barrier rendah).
+**🎯 ALGO**: Sudah implicit. Post 1-3 was-was (mirror universal + audit reveal), post 4-7 surprise + paradoks Mahal/Murah, post 8-9 kasmaran ringan + CTA tenang.
 
-**🛡️ GATE**: Trust 2 + soft Trust 3 (relevansi — 7-day = applicable ke konteks individu reader).
+**🛡️ GATE**: Trust 2 (Karakter — vulnerability "saya pernah ratusan prompt") + soft Trust 3 (Relevansi — "Anda yang isi konteks Anda").
 
-**🎨 BJM**: A.R.S.I. = ownable IP, lead magnet 7-Day Challenge (Section 8.2), Voice tenang.
+**🎨 BJM**: A.R.S.I. = ownable IP (nama disebut, isi protected), 7-Day Challenge lead magnet, Voice tenang anti-pushy.
 
-**📤 CTA**: **Soft lead magnet** — *"Detail panduannya gratis di 7-Day Challenge. Link di bio."* (Bukan "BURUAN DAFTAR!" — voice tetap tenang.)
+**📤 CTA**: **Soft lead magnet** — *"Bukan kursus. Bukan webinar. 1 email per hari, 1 worksheet, 4 langkah A.R.S.I. yang Anda jalani di konteks Anda. Gratis. Link di bio. Daftar atau tidak — bukan ke saya pengaruhnya. Ke 6 bulan Anda."*
 
-**🔗 X-POST**: Threads native + LinkedIn (long-form essay version) + IG carousel teaser (ke Threads thread).
+**🔗 X-POST**: Threads native (9 post) + LinkedIn long-form essay (~600 kata gabung) + IG carousel 10 slide (1 cover + 9 slide).
 
-**📚 SRC**: STRATEGI §1 A.R.S.I., §8.2 (7-Day Challenge), §15.3 (paradoks Mahal/Murah). + Aturan "share knowledge sell execution" §8.7.
+**📚 SRC**: STRATEGI §1 A.R.S.I., §8.2 (7-Day Challenge), §15.3 (paradoks Mahal/Murah), §8.7 (share knowledge sell execution). Thread final: `THREADS-LONGFORM-ABC-TEST.md` Opsi D.
 
-> ⚠️ **TO-DO sebelum Day 25:** Draft thread A.R.S.I. 7-Hari versi lengkap, tambahkan ke `THREADS-LONGFORM-ABC-TEST.md` sebagai "Opsi D — A.R.S.I. 7-Hari". Kalau perlu bantuan draft, sebutkan dan saya kerjakan di iterasi terpisah.
+> ✅ **Status:** Final. Sudah lulus 4 filter (Buku ✓ Asosiasi ✓ Voice ✓ Purpose ✓). Lihat tabel "Catatan per post Opsi D" di THREADS file untuk audit per-post sebelum publish.
 
 
 ---

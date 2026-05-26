@@ -17,16 +17,17 @@
 
 ## DOKUMEN UTAMA DI REPO
 
-Branch: `add-threads-abc-test` — PR #11
+Branch utama: `main` (PR #11 sudah merged · commit `9231d4f`)
+Branch sesi terbaru: `add-thread-arsi-7-hari` (Layer 11 — Opsi D A.R.S.I. 7-Hari)
 
 | File | Isi | Wajib? |
 |---|---|---|
 | `STRATEGI-PERSONAL-BRANDING.md` | Strategi 18 section + Master Index. Sumber utama. | ✅ YA |
 | `BRAND-JOURNEY-MAP.md` | Workbook 4Q (Caleb): outcome → asosiasi → aksi → pembelajaran | ✅ YA |
 | `CONTENT-CALENDAR-BULAN-1.md` | 30 post detail Fase 1 Authority Building (hook + body + slot + filter 4-lapis) | ✅ Saat eksekusi Bulan 1 |
-| `CHAT-LOG-LAYER-10.md` | Jejak sesi Layer 10 — kronologi, output, status PR, pending items, template chat baru | ✅ Saat lanjut chat baru |
-| `THREADS-LONGFORM-ABC-TEST.md` | 3 thread story siap post (A V3 + B V2 + C V2) | Saat mau posting |
-| `RINGKASAN-SESI.md` | Riwayat sesi lengkap, ada Sesi 4 di Section 10 | Saat butuh konteks |
+| `THREADS-LONGFORM-ABC-TEST.md` | 4 thread story siap post (A V3 + B V2 + C V2 + **D — A.R.S.I. 7-Hari**) | Saat mau posting |
+| `CHAT-LOG-LAYER-10.md` | Jejak sesi Layer 10 — kronologi, output, status PR, pending items | Saat lanjut chat baru |
+| `RINGKASAN-SESI.md` | Riwayat sesi lengkap (Sesi 1-5) | Saat butuh konteks |
 | `analisa_kompetitor.md` | Battlefield map 31 kompetitor Threads ID | Reference |
 
 Plus 3 file sumber asli: `ilmu Theoderic.txt`, `pak bi.txt`, `personal branding caleb ralston.docx`.
@@ -65,17 +66,17 @@ Plus 3 file sumber asli: `ilmu Theoderic.txt`, `pak bi.txt`, `personal branding 
 - **(H)** Email sequence 7-hari untuk lead magnet
 
 ### Long-thread baru yang muncul dari calendar Bulan 1
-- **(M)** Draft long-thread "A.R.S.I. 7-Hari" (Opsi D) — dijadwalkan Day 25 di calendar, brief sudah di file kalender. Append ke `THREADS-LONGFORM-ABC-TEST.md`.
+- ✅ ~~**(M)** Draft long-thread "A.R.S.I. 7-Hari" (Opsi D)~~ — **SELESAI Layer 11**, di `THREADS-LONGFORM-ABC-TEST.md` Section "Opsi D"
 
 ### Yang muncul dari Sesi 4
 - **(I)** Hook Bank refresh — tambah hook baru pakai algoritma manusia 3-tahap (Pak Bi)
 - **(J)** Studi case Pak Bi (Kopiko, Mizone, Rolex) untuk konten Pillar 3 filosofi
 
 ### Operational
-- **(K)** Merge PR #11 ke main supaya stable, lalu mulai eksekusi
-- **(L)** Audit konsistensi 5 sumber satu putaran terakhir sebelum merge
+- ✅ ~~**(K)** Merge PR #11 ke main~~ — **SELESAI**, commit merge `9231d4f` di main
+- **(L)** Audit konsistensi 5 sumber satu putaran terakhir sebelum eksekusi Bulan 1
 
-> **Rekomendasi default setelah Layer 10:** (M) → (E) → (H) → (K). Karena (M) blocker untuk Day 25 di kalender, (E) + (H) prereq Fase 0 yang masih kosong, (K) housekeeping sebelum Bulan 1 eksekusi.
+> **Rekomendasi default setelah Layer 11:** (H) → (E) → (F) → (I) → (J) → (L). (M) dan (K) sudah selesai. (H) email sequence + (E) landing page = pasangan funnel yang harus live sebelum Bulan 1 dieksekusi (lihat Pre-Launch Checklist di `CONTENT-CALENDAR-BULAN-1.md`). (F) carousel manifesto = aset cross-post yang dipakai di D1. (I) (J) (L) bisa diparalelkan setelah funnel ready.
 
 ---
 
@@ -110,16 +111,17 @@ Copy paste ini ke chat baru:
 Halo, saya Arif Budiman / @arifb.id, penulis buku THE AI ARCHITECT.
 
 Lanjutkan dari sesi sebelumnya yang tersimpan di repo
-arifbudiman575-ship-it/buku, branch add-threads-abc-test (PR #11).
+arifbudiman575-ship-it/buku, branch main (PR #11 sudah merged,
+sesi terbaru Layer 11 di branch add-thread-arsi-7-hari).
 
 Baca dulu file LANJUTKAN-DI-SINI.md untuk konteks lengkap.
 
 Kalau perlu detail, baca juga:
 - STRATEGI-PERSONAL-BRANDING.md (strategi utama 18 section)
 - BRAND-JOURNEY-MAP.md (workbook 4Q)
-- RINGKASAN-SESI.md Section 10 (rekap Sesi 4 integrasi 5 sumber)
+- RINGKASAN-SESI.md Section 10-11 (rekap Sesi 4 + Sesi 5)
 
-Sekarang saya mau lanjut ke: [pilih (E)/(F)/(G)/(H)/(I)/(J)/(K)/(L)
+Sekarang saya mau lanjut ke: [pilih (E)/(F)/(H)/(I)/(J)/(L)
 atau sebut topik lain]
 ```
 
@@ -128,19 +130,20 @@ atau sebut topik lain]
 ## LINK PENTING
 
 - **Repo:** https://github.com/arifbudiman575-ship-it/buku
-- **PR #11 (sesi ini — superset):** https://github.com/arifbudiman575-ship-it/buku/pull/11
+- **PR #11 (Layer 1-10 — MERGED):** https://github.com/arifbudiman575-ship-it/buku/pull/11
 - **PR #3 (analisa kompetitor):** https://github.com/arifbudiman575-ship-it/buku/pull/3
-- **PR #5 (strategi awal):** https://github.com/arifbudiman575-ship-it/buku/pull/5
+- **PR #5 (strategi awal — superset oleh PR #11):** https://github.com/arifbudiman575-ship-it/buku/pull/5
 
 ### Catatan PR
 
-- **PR #11 = superset PR #5.** Kalau merge PR #11, PR #5 bisa di-close tanpa merge.
-- **PR #3** independen, bisa merge terpisah.
-- **Urutan merge yang aman:** PR #3 (research) → PR #11 (strategi + threads).
+- ✅ **PR #11 sudah merged** (commit merge `9231d4f`). Strategi Layer 1-10 sekarang di `main`.
+- **PR #5** sudah jadi subset PR #11, bisa di-close tanpa merge (atau abaikan).
+- **PR #3** independen, bisa merge terpisah kalau diinginkan.
+- **Sesi Layer 11** (file ini) di branch `add-thread-arsi-7-hari` — PR baru akan dibuat saat eksekusi.
 
 ---
 
-## RINGKASAN 6 COMMIT INTEGRASI (Sesi 4 + Layer 10)
+## RINGKASAN COMMIT INTEGRASI (Sesi 4 — Layer 1-10 + Sesi 5 — Layer 11)
 
 | Commit | Layer | Apa yang ditambahkan |
 |---|---|---|
@@ -150,8 +153,10 @@ atau sebut topik lain]
 | `4f47c3c` | 7+8+9 | Threads V2 final + Sesi 4 record + Master Cross-Reference Index |
 | `3c9b315` | 10 | Content Calendar Bulan 1 — 30 post detail (Fase 1 Authority Building) |
 | `d016ef8` | 10b | CHAT-LOG-LAYER-10.md — handover detail sesi Layer 10 |
+| `9231d4f` | merge | **PR #11 merged ke main** — Layer 1-10 resmi di branch utama |
+| _(Layer 11)_ | 11 | **Opsi D A.R.S.I. 7-Hari** — long-thread lead magnet driver final, calendar D25 unblocked |
 
 ---
 
-*File ini dibuat: Sesi 4 Mei 2026. Update terakhir: integrasi 5 sumber framework selesai.*
+*File ini dibuat: Sesi 4 Mei 2026. Update terakhir: Sesi 5 — Layer 11 (Opsi D A.R.S.I. 7-Hari final, PR #11 merged ke main).*
 *Update file ini juga setiap kali ada sesi baru yang significant.*

@@ -323,3 +323,90 @@ Sama seperti Section 6 (E/F/G/H) — **(G) selesai di Layer 10** — sisanya:
 - **Layer 10:** 30 post detail untuk Bulan 1 Fase 1 Authority Building, derivative penuh dari STRATEGI + BJM + filter 4-lapis
 
 ---
+
+
+
+---
+
+## 11. SESI 5 — LAYER 11: OPSI D A.R.S.I. 7-HARI (Mei 2026)
+
+> **Tujuan:** Menutup blocker yang muncul dari Layer 10 — Day 25 di Content Calendar Bulan 1 butuh long-thread "A.R.S.I. 7-Hari" yang belum punya draft. Tanpa Opsi D, eksekusi Bulan 1 akan punya hari kosong di slot Kamis paling visible (Minggu 4, lead magnet push window).
+
+### 11.1. Konteks Sesi
+
+User membuka chat baru dengan template prompt dari `LANJUTKAN-DI-SINI.md`. Saat eksekusi:
+
+- Branch state: PR #11 ternyata **sudah merged** ke `main` (commit `9231d4f`) sejak Layer 10 ditutup. Item (K) yang sebelumnya pending = otomatis selesai.
+- Working tree clean di `main`. Strategi Layer 1-10 sekarang resmi di branch utama.
+- User memilih item **(M)** sebagai prioritas berikutnya — sesuai rekomendasi default Layer 10.
+
+### 11.2. Eksekusi Layer 11
+
+Branch baru: `add-thread-arsi-7-hari` (dibuat dari `main`).
+
+**Output:**
+
+1. **Opsi D — A.R.S.I. 7-Hari (FINAL)** appended ke `THREADS-LONGFORM-ABC-TEST.md`:
+   - 9 post Threads (target <340 karakter/post, di bawah limit 500)
+   - Pola algoritma manusia 3-tahap Pak Bi: was-was (post 1-3) → surprise + paradoks Mahal/Murah (post 4-7) → kasmaran (post 8-9)
+   - 4 langkah A.R.S.I. mapped: Audit (hari 1-2), Rancang (hari 3-4), Sistemasi (hari 5-6), Iterasi (hari 7)
+   - Soft CTA closing ke 7-Day Challenge: *"Daftar atau tidak — bukan ke saya pengaruhnya. Ke 6 bulan Anda."*
+   - Trust 2 (Karakter — vulnerability) + soft Trust 3 (Relevansi — agency reader)
+   - Cheat Sheet pemakaian di-update untuk 4 thread (A/B/C/D)
+   - Tabel audit per-post dengan estimasi karakter + filter validation
+
+2. **Filter book-safe lulus:**
+   - ❌ TIDAK menyebut: scene Februari 2024, saldo Rp 847.000, 347 prompt + 5 kategori, metafora resep masakan/toko buku (hal 12), recovery arc 340%, karakter Riko/Citra/Adi spesifik
+   - ✅ MEMAKAI: dichotomy prompt vs sistem, nama A.R.S.I. (isi protected), pertanyaan brand di-rephrase, vulnerability first-person tanpa angka spesifik buku
+   - Metafora baru "screenshot tutorial tapi tidak pernah eksekusi" sebagai pengganti "resep masakan/toko buku" sacred
+
+3. **Sync 3 file dokumentasi:**
+   - `CONTENT-CALENDAR-BULAN-1.md`: Pre-Launch checklist item Long-thread A.R.S.I. 7-Hari sekarang ✓ · Detail D25 di-rewrite jadi reference ke Opsi D yang final (bukan brief draft)
+   - `LANJUTKAN-DI-SINI.md`: Status PR #11 = MERGED · Item (K) ✓ done · Item (M) ✓ done · Rekomendasi default berikutnya = (H) → (E) → (F) → (I) → (J) → (L) · Commit history extended dengan Layer 11
+   - `RINGKASAN-SESI.md` Section 11 (file ini)
+
+### 11.3. Mengapa Anchor Storytelling Opsi D Berbeda dari Opsi A V3
+
+| Aspek | Opsi A V3 (Pattern Observer) | Opsi D (A.R.S.I. 7-Hari) |
+|---|---|---|
+| Sudut narasi | Third-party observer pasca-buku | First-person experiential log |
+| Karakter | Composite founder samaran | Saya sendiri (vulnerability langsung) |
+| CTA | None (no-CTA mode) | Soft lead magnet (Day 25 = funnel push window) |
+| Trust gate | Trust 1 (Kompetensi) | Trust 2 + soft Trust 3 |
+| Storyting paradoks | Pertanyaan apa vs pertanyaan apa | Mahal vs Murah (Pak Bi §15.3) |
+| Posisi roadmap | Soft launch / umpan pertama | Lead magnet driver / funnel bridge |
+
+**Kesimpulan:** A & D **bukan duplikat**, mereka **2 ujung spektrum** yang sama: A untuk fase establish kategori, D untuk fase activate funnel. Dipakai di waktu berbeda untuk tujuan berbeda.
+
+### 11.4. Status Section STRATEGI Setelah Sesi 5
+
+Tidak ada perubahan section STRATEGI. Sesi 5 fokus delivery thread, bukan framework. Aturan Section 0.4 (book-safe), Section 15 (algoritma manusia + paradoks), Section 17 (trust-first) **diaplikasikan**, bukan diubah.
+
+### 11.5. Yang TIDAK Dilakukan Sesi 5 (sesuai aturan one-thing-at-a-time)
+
+- ❌ Tidak draft (E) landing page — diserahkan ke sesi berikutnya supaya scope kontrol
+- ❌ Tidak draft (H) email sequence — sda
+- ❌ Tidak draft (F) carousel manifesto — sda
+- ❌ Tidak refresh Hook Bank (I) — sda
+- ❌ Tidak studi case Pak Bi (J) — sda
+- ❌ Tidak audit konsistensi 5 sumber (L) — sda
+
+### 11.6. Open Items Berikutnya (urutan rekomendasi default)
+
+1. **(H) Email sequence 7 hari** — pasangan funnel langsung Opsi D. Tanpa email sequence, CTA Day 25 = link ke landing page kosong.
+2. **(E) Landing page "7-Day AI Architect Challenge"** — endpoint dari CTA Opsi D + setiap "Link di bio" di kalender Bulan 1.
+3. **(F) Manifesto carousel 7-slide IG** — aset cross-post untuk D1 launch.
+4. **(I) Hook Bank refresh** — tambah hook pakai algoritma manusia 3-tahap.
+5. **(J) Studi case Pak Bi** — Kopiko/Mizone/Rolex untuk konten Pillar 3.
+6. **(L) Audit konsistensi 5 sumber** — polish sebelum Bulan 1 eksekusi.
+
+### 11.7. Total Output Sesi 5
+
+- **1 commit baru** di branch `add-thread-arsi-7-hari` (dari main)
+- **0 file baru** (semua perubahan = append/update file existing)
+- **1 thread book-safe final** (Opsi D — A.R.S.I. 7-Hari) — total threads sekarang **4** (A V3 + B V2 + C V2 + D)
+- **3 file dokumentasi disinkronkan** (calendar, handover, ringkasan-sesi)
+- **Day 25 calendar UNBLOCKED** — Bulan 1 sekarang punya semua 30 post + 4 long-thread Kamis siap eksekusi
+- **PR #11 = MERGED** di main (operasi housekeeping yang sudah selesai sebelumnya, tercatat di Layer 11)
+
+---
