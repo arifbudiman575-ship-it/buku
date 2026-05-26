@@ -235,3 +235,91 @@ Sekarang saya mau lanjut ke: [pilih (E)/(F)/(G)/(H) atau topik lain]
 ---
 
 *File ini dibuat: Mei 2026. Repo: arifbudiman575-ship-it/buku.*
+
+
+
+---
+
+## 10. SESI 4 — INTEGRASI 5 SUMBER FRAMEWORK (Mei 2026)
+
+> **Tujuan:** Upgrade seluruh materi strategi @arifb.id agar sekarang memakai gabungan 5 sumber pengetahuan — Buku THE AI ARCHITECT (core IP) + Rama (existing) + 3 sumber baru: Theoderic, Pak Subyakto Priyojudanto, Caleb Ralston.
+
+### 10.1. Konteks Sesi
+
+User upload 3 file baru ke repo:
+- `ilmu Theoderic.txt` — podcast Theoderic (purpose × strength × authenticity)
+- `pak bi.txt` — Pak Subyakto Priyojudanto (50 tahun branding Indonesia)
+- `personal branding caleb ralston.docx` — full course Caleb Ralston (16 tahun praktik US)
+
+User explicit pilih:
+1. ✅ 5 sumber hierarki (Buku core + Rama + 3 baru)
+2. ✅ Scope D — sentuh STRATEGI + THREADS + RINGKASAN + new file `BRAND-JOURNEY-MAP.md`
+3. ✅ Mode incremental (9 layer per commit)
+
+### 10.2. Eksekusi 9-Layer + Layer 10 (Bulan 1 Calendar)
+
+| Layer | Commit | Apa yang berubah |
+|---|---|---|
+| 1+2 | `15da685` | Section 0 NEW (hierarki 5 sumber + filter 4-lapis) + file baru `BRAND-JOURNEY-MAP.md` (Caleb 4Q) |
+| 3+4 | `c2acdf5` | Section 14 NEW (Pemetaan Asosiasi - Caleb) + Section 15 NEW (Algoritma Manusia & Storyting - Pak Bi) |
+| 5+6 | `1013e78` | Section 12 enriched (5→8 rules) + Section 16 NEW (Purpose Compass - Theoderic) + Section 8.7 NEW + Section 17 NEW (Trust-First Sequencing - Caleb) |
+| 7+8+9 | `4f47c3c` | THREADS Opsi B V2 + Opsi C V2 (book-safe + algoritma manusia + paradoks) + Sesi 4 record + Master Cross-Reference Index |
+| **10** | `3c9b315` | **Content Calendar Bulan 1** — file baru `CONTENT-CALENDAR-BULAN-1.md` (1.310 baris): 30 post detail untuk Fase 1 Authority Building, dengan filter 4-lapis lulus per post, traceable ke Trust Gates, BJM Q1-Q3, algoritma manusia 3-tahap |
+
+### 10.3. Status Section STRATEGI Setelah Integrasi
+
+| Section | Status | Sumber utama |
+|---|---|---|
+| 0 (Hierarki) | ✅ NEW | Meta — 5 sumber |
+| 1-7 | Intact | Existing + Rama |
+| 8 | ✅ Enriched 8.7 | Caleb |
+| 9-11 | Intact | — |
+| 12 | ✅ Rules 6-8 baru | Pak Bi + Theoderic |
+| 13 | Intact | — |
+| 14 | ✅ NEW | Caleb |
+| 15 | ✅ NEW | Pak Bi |
+| 16 | ✅ NEW | Theoderic |
+| 17 | ✅ NEW | Caleb |
+
+### 10.4. Yang TIDAK Berubah (sesuai aturan "jangan hapus yang masih valid")
+
+- Positioning utama **"AI Architect"** — tetap
+- Voice **"Anda" formal** — tetap
+- 3 frase signature — tetap
+- Section 1-7, 9-11, 13 — intact (hanya di-enrich, tidak diganti)
+- Roadmap 90 hari Section 11 — tidak diubah
+- Math 1 miliar revenue Section 8.6 — tidak diubah
+- 🔒 Buku THE AI ARCHITECT sebagai core IP — sacred, dilindungi
+
+### 10.5. Aturan Operasional Baru yang Berlaku
+
+1. **5 sumber hierarki dengan resolusi konflik jelas** — Buku menang atas semua, Rama fondasi, 3 sumber baru harmonis, Indonesia menang untuk hal kultural
+2. **Aturan ketidakbocoran book-safe** diperluas dari hanya THREADS ke seluruh konten public-facing (Section 0.4)
+3. **Filter 4-lapis wajib** untuk setiap konten: Buku → Asosiasi → Voice → Purpose
+4. **Audit mingguan** = Audit Asosiasi (Section 14.2, 5 pertanyaan) + Refleksi Theoderic (Section 16.2, 4 pertanyaan)
+5. **Network effect > viral** — decision rule #6 baru di Section 12
+6. **Trust gates** — tidak boleh BOFU sebelum reader lewat 3 lapis trust (Section 17.1)
+7. **Share knowledge, sell execution** — filter sebelum decide harga produk (Section 8.7)
+
+### 10.6. Open Items Berikutnya
+
+Sama seperti Section 6 (E/F/G/H) — **(G) selesai di Layer 10** — sisanya:
+- ✅ ~~(G) Content calendar bulan 1~~ — selesai di `CONTENT-CALENDAR-BULAN-1.md`
+- (E) Landing page lead magnet "7-Day Challenge"
+- (F) Manifesto carousel 7-slide
+- (H) Email sequence 7-Day Challenge
+- **(M) NEW dari Layer 10** — Draft long-thread "A.R.S.I. 7-Hari" (Opsi D) untuk Day 25 di calendar. Brief sudah ada di kalender section D25. Append ke `THREADS-LONGFORM-ABC-TEST.md`.
+- (NEW dari Sesi 4) Hook Bank Section 6 refresh dengan algoritma manusia — saat ini hanya mapping, belum hook baru ditambahkan
+- (NEW dari Sesi 4) Studi case Pak Bi (Kopiko, Mizone, Rolex) untuk konten Pillar 3 filosofi
+
+### 10.7. Total Output Sesi 4
+
+- **5 commits** di branch `add-threads-abc-test` (Layer 1+2, 3+4, 5+6, 7+8+9, **10**)
+- **2 file baru:** `BRAND-JOURNEY-MAP.md`, **`CONTENT-CALENDAR-BULAN-1.md`** (1.310 baris)
+- 6 section baru di STRATEGI (0, 14, 15, 16, 17, sub 8.7)
+- 3 decision rules baru di Section 12 (#6, #7, #8)
+- 1 thread book-safe sudah final (Opsi A V3) + 2 thread V2 (B+C) di THREADS
+- 1 Master Cross-Reference Index untuk audit traceability
+- **Layer 10:** 30 post detail untuk Bulan 1 Fase 1 Authority Building, derivative penuh dari STRATEGI + BJM + filter 4-lapis
+
+---
