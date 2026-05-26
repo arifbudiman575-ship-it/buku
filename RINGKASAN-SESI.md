@@ -310,7 +310,7 @@ Sama seperti Section 6 (E/F/G/H) — **(G) selesai di Layer 10** — sisanya:
 - (H) Email sequence 7-Day Challenge
 - **(M) NEW dari Layer 10** — Draft long-thread "A.R.S.I. 7-Hari" (Opsi D) untuk Day 25 di calendar. Brief sudah ada di kalender section D25. Append ke `THREADS-LONGFORM-ABC-TEST.md`.
 - (NEW dari Sesi 4) Hook Bank Section 6 refresh dengan algoritma manusia — saat ini hanya mapping, belum hook baru ditambahkan
-- (NEW dari Sesi 4) Studi case Pak Bi (Kopiko, Mizone, Rolex) untuk konten Pillar 3 filosofi
+- (NEW dari Sesi 4) Studi case Pak Bi (Kopiko, Coca-Cola/Pepsi, Suharti) untuk konten Pillar 3 filosofi *(catatan: trio dikoreksi dari placeholder "Mizone, Rolex" Sesi 4 ke trio authentic dari `pak bi.txt` di Layer 12)*
 
 ### 10.7. Total Output Sesi 4
 
@@ -397,7 +397,7 @@ Tidak ada perubahan section STRATEGI. Sesi 5 fokus delivery thread, bukan framew
 2. **(E) Landing page "7-Day AI Architect Challenge"** — endpoint dari CTA Opsi D + setiap "Link di bio" di kalender Bulan 1.
 3. **(F) Manifesto carousel 7-slide IG** — aset cross-post untuk D1 launch.
 4. **(I) Hook Bank refresh** — tambah hook pakai algoritma manusia 3-tahap.
-5. **(J) Studi case Pak Bi** — Kopiko/Mizone/Rolex untuk konten Pillar 3.
+5. **(J) Studi case Pak Bi** — Kopiko/Coca-Cola-Pepsi/Suharti untuk konten Pillar 3 *(trio authentic dari `pak bi.txt`, sebelumnya keliru tertulis Mizone/Rolex di handover Sesi 4)*.
 6. **(L) Audit konsistensi 5 sumber** — polish sebelum Bulan 1 eksekusi.
 
 ### 11.7. Total Output Sesi 5
@@ -408,5 +408,119 @@ Tidak ada perubahan section STRATEGI. Sesi 5 fokus delivery thread, bukan framew
 - **3 file dokumentasi disinkronkan** (calendar, handover, ringkasan-sesi)
 - **Day 25 calendar UNBLOCKED** — Bulan 1 sekarang punya semua 30 post + 4 long-thread Kamis siap eksekusi
 - **PR #11 = MERGED** di main (operasi housekeeping yang sudah selesai sebelumnya, tercatat di Layer 11)
+
+---
+
+
+
+---
+
+## 12. SESI 6 — LAYER 12: BULAN 1 DELIVERABLES COMPLETE + AUDIT (Mei 2026)
+
+> **Tujuan:** Menutup semua item pre-launch (E, F, H) + item lateral (I, J) + audit konsistensi (L) dalam satu sesi terstruktur. Output: 4 file baru + 2 file di-extend + 5 file dikoreksi. Bulan 1 sekarang **siap eksekusi penuh** — tinggal tooling & deployment operasional, bukan strategy work tambahan.
+
+### 12.1. Konteks Sesi
+
+User membuka chat baru dengan template prompt dari `LANJUTKAN-DI-SINI.md` (state Layer 11). Saat eksekusi:
+
+- Branch state: `main` di `9231d4f`, branch sesi terakhir `add-thread-arsi-7-hari` (PR #12) di `c62b39c` — open, belum merged.
+- User pilih **(M)** sebagai prioritas pertama untuk review/tweak. Setelah Opsi D di-fix, lanjut sequential ke (H) → (E) → (F) → (I) → (J) → (L).
+- **Aturan operasional sesi:** semua draft di-iterate **di chat dulu** — tidak ada commit/push/merge sampai user eksplisit perintahkan. Tujuan: hemat kredit + user kontrol penuh terhadap setiap kalimat sebelum masuk repo.
+
+### 12.2. Eksekusi Layer 12 — Iterasi di Chat (semua FIX sebelum commit)
+
+| Opsi | Deliverable | Mode iterasi |
+|---|---|---|
+| (M) Opsi D | Review 9-post thread, tweak voice — FIX as-is, sudah committed di Layer 11 | Tampil di chat, no edit |
+| (H) Email Sequence | 9 email (Welcome + 7 daily + 1 follow-up) + 7 worksheet specs | FIX di chat |
+| (E) Landing Page | Single-page 8-section + design spec + FAQ. User pilih: Headline Opsi 3, CTA "Mulai 7 Hari", buku copy "siap rilis", visual foto | FIX di chat |
+| (F) Manifesto Carousel | 7 slide (1 prinsip Section 10 = 1 slide) + caption + design spec dark theme + cross-format adaptasi (Threads/IG/LinkedIn) | FIX di chat |
+| (I) Hook Bank Refresh | 15 hook baru (#26-40) dalam 3 kategori F/G/H. Hook #34 marked composite dengan disclaimer eksekusi. Cadence Bulan 2+ turun dari 8 ke 7 post/minggu | FIX di chat |
+| (J) Studi Case Pak Bi | 8 post Pillar 3 untuk Mgg 5-12 (3 case authentic + 5 insight). Insight 1 dan 5 di-revise sesuaikan pakem strategi (Trust Gates, Section 17.4) | FIX di chat |
+| (L) Audit Konsistensi | Audit 5 sumber: Source Fidelity, 4-Lapis Filter, Trust Gates, Voice, BOFU Restriction, Roadmap Alignment. Hasil: 0 violations + 1 critical drift teridentifikasi | FIX di chat |
+
+### 12.3. Audit Findings (dari Opsi L)
+
+**Hasil ringkas:**
+
+| Kategori audit | Status |
+|---|---|
+| A. Source Fidelity (5 sumber) | ✅ Konsisten kecuali 1 drift (lihat di bawah) |
+| B. Filter 4-Lapis (Buku/Asosiasi/Voice/Purpose) | ✅ Semua 6 deliverable lulus |
+| C. Trust Gate Sequence (Section 17) | ✅ Aman — Bulan 2 = T2 dominan, Bulan 3 = T3 dominan |
+| D. Voice Consistency (Section 5) | ✅ Tidak slip di mana pun |
+| E. BOFU Restriction (Section 17.4) | ✅ Tidak ada pelanggaran — semua deliverable Bulan 1 = lead magnet/free/setting expectation, bukan pitch |
+| F. Roadmap Alignment (Section 11) | ✅ Match — Mgg 7 buku launch (Suharti) + Mgg 11 cohort launch (Fakta Baru) sequencing intentional |
+
+### 12.4. Drift Critical: Koreksi Mizone/Rolex
+
+**Temuan:** Trio "Kopiko, Mizone, Rolex" yang muncul di handover docs (Sesi 4 — Layer 10) adalah placeholder fabrikasi yang TIDAK PERNAH muncul di sumber asli `pak bi.txt`.
+
+**Verifikasi sumber `pak bi.txt`** (grep transcript lengkap):
+- ✅ **Kopiko** — disebut Pak Bi sebagai contoh reverse engineering dari outcome ke produk: *"...bahkan brand belum tuh. Belum karena saya yang bikin... ada delapan toples yang harus kita coba satu, food testing..."*
+- ✅ **Coca-Cola vs Pepsi** — disebut Pak Bi sebagai paradoks kompetisi sehat: *"Coca-Cola ketika sendiri cuma laku 100. Tapi ketika sebelahnya ada Pepsi dia lakunya 200."*
+- ✅ **Ayam Goreng Suharti + Gudeg Yu Djum** — disebut Pak Bi sebagai personal branding kuno: *"Ayam Suharti itu adalah Suharti dalam bentuk ayam."*
+- ❌ **Mizone** — TIDAK PERNAH disebut di transcript
+- ❌ **Rolex** — TIDAK PERNAH disebut di transcript
+
+**Aksi koreksi (Commit 12b):**
+
+| File | Sifat koreksi |
+|---|---|
+| `BRAND-JOURNEY-MAP.md` line 163 | Trio diganti + status "Belum dikuasai" → "Sedang dikuasai (Layer 12)" |
+| `CONTENT-CALENDAR-BULAN-1.md` line 1295 | Trio diganti + checklist `[ ]` → `[x]` (sudah done di file PILLAR-3) |
+| `CHAT-LOG-LAYER-10.md` line 172 | Trio diganti (status "pending Low" tetap karena historical record Layer 10) |
+| `LANJUTKAN-DI-SINI.md` line 73 | Trio diganti + item (J) ditandai ✅ SELESAI Layer 12 |
+| `RINGKASAN-SESI.md` Section 10.6 + 11.6 | Trio diganti + catatan koreksi inline |
+
+**Lesson learned (untuk sesi mendatang):** Sebelum tulis "menurut [tokoh]: [trio/quote]" di handover doc, **verify dulu ke transcript**. Placeholder yang tidak diverifikasi akan keep propagating ke sesi-sesi berikutnya kalau tidak segera dikoreksi. Default rule baru: **kalau ngutip Pak Bi atau tokoh sumber lain, sebut nomor baris transcript / waktu podcast** sebagai backstop.
+
+### 12.5. Hook #34 Composite Disclaimer
+
+Hook #34 ("Klien pertama yang saya tolak...") di Hook Bank Section 6.B kategori G ditandai sebagai **composite** (user konfirmasi: bukan kejadian aktual, narrative untuk illustrative purpose). Disclaimer ditambahkan di body hook:
+
+> ⚠️ **Catatan eksekusi (composite):** Hook ini composite. **Pakai HANYA kalau Anda punya pengalaman aktual menolak klien karena mismatch ekspektasi prompt vs sistem.** Kalau belum, pakai Hook #33 atau #35 yang lebih universal applicable. Jangan klaim narrative yang Anda tidak punya pengalamannya — itu melanggar Trust 2 (Karakter).
+
+Disclaimer ini juga berfungsi sebagai **template** untuk vulnerability hook composite lain di masa depan.
+
+### 12.6. Status Section STRATEGI Setelah Layer 12
+
+| Section | Status | Catatan |
+|---|---|---|
+| 6 | ✅ Extended (6.B + 6.C) | Hook Bank 25 → 40 hook (3 kategori baru F/G/H) + cadence Bulan 2+ |
+| 15.2 | ✅ Extended | Mapping table tambah 3 baris untuk kategori baru |
+| Section lain (0, 1-5, 7-14, 16-18) | Intact | Tidak ada perubahan |
+
+### 12.7. Yang TIDAK Dilakukan Sesi 6 (sesuai aturan one-thing-at-a-time + scope kontrol user)
+
+- ❌ Tidak merge PR #12 — diserahkan ke user setelah review
+- ❌ Tidak refactor Section 6 (struktur Hook Bank existing #1-25 tetap utuh, hanya append #26-40)
+- ❌ Tidak rewrite manifesto Section 10 — carousel adalah derivative, bukan replacement
+- ❌ Tidak buat draft visual asset (Canva/Figma) — itu eksekusi operasional, bukan strategy
+- ❌ Tidak setup email tool — sda
+- ❌ Tidak deploy landing page — sda
+
+### 12.8. Open Items Berikutnya
+
+| Item | Tipe | Catatan |
+|---|---|---|
+| Merge PR #12 | Operational | Setelah user review 2 commit di branch `add-thread-arsi-7-hari` (Layer 11 + 12a + 12b) |
+| Eksekusi Bulan 1 — tooling | Operational | Setup ConvertKit/MailerLite/Substack untuk email automation |
+| Eksekusi Bulan 1 — deploy | Operational | Deploy landing page di Framer/Webflow/Carrd di domain `arifb.id/start` atau `challenge.arifb.id` |
+| Eksekusi Bulan 1 — visual | Operational | Render 7-slide carousel di Canva/Figma sesuai design spec |
+| Eksekusi Bulan 1 — scheduling | Operational | Schedule 30 post + 4 long-thread + 9 email + 7 worksheet di tool yang Anda pilih |
+| Re-audit pasca-eksekusi | Strategy | Setelah Bulan 1 berjalan ~14 hari, evaluate vs ekspektasi BJM Q1 sebelum Bulan 2 |
+
+### 12.9. Total Output Sesi 6
+
+- **2 commit baru** di branch `add-thread-arsi-7-hari` (PR #12):
+  - Commit 12a (`acb2ee2`): Bulan 1 deliverables (E, F, H, I, J)
+  - Commit 12b: Audit corrections + handover sync
+- **4 file baru:** `EMAIL-SEQUENCE-7-DAY-CHALLENGE.md` (516 lines) · `LANDING-PAGE-7-DAY-CHALLENGE.md` (250 lines) · `MANIFESTO-CAROUSEL-IG.md` (270 lines) · `PILLAR-3-STUDI-CASE-PAK-BI.md` (434 lines)
+- **2 file di-extend (Commit 12a):** `STRATEGI-PERSONAL-BRANDING.md` (+236 lines, Section 6.B + 6.C + 15.2 extended) · `CONTENT-CALENDAR-BULAN-1.md` (Pre-Launch checklist closed)
+- **5 file dikoreksi (Commit 12b):** `BRAND-JOURNEY-MAP.md` · `CONTENT-CALENDAR-BULAN-1.md` (line 1295) · `CHAT-LOG-LAYER-10.md` · `LANJUTKAN-DI-SINI.md` · `RINGKASAN-SESI.md` (file ini, Section 10.6 + 11.6 + Section 12 baru)
+- **Hook Bank: 25 → 40 hook** (15 hook baru dalam 3 kategori)
+- **Pillar 3: 8 post planned** untuk Mgg 5-12 (3 case authentic + 5 insight Pak Bi)
+- **Bulan 1: SIAP EKSEKUSI** — tidak ada strategy work tambahan yang dibutuhkan
 
 ---

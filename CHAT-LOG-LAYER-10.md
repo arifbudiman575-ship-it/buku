@@ -169,7 +169,7 @@ File `CHAT-LOG-LAYER-10.md` ini.
 | **(E)** | pending | Landing page lead magnet "7-Day AI Architect Challenge" HTML | High (endpoint CTA) |
 | (F) | pending | Manifesto carousel 7-slide untuk Instagram | Medium |
 | (I) | pending | Hook Bank refresh dengan algoritma manusia | Medium |
-| (J) | pending | Studi case Pak Bi (Kopiko, Mizone, Rolex) untuk Pillar 3 | Low |
+| (J) | pending | Studi case Pak Bi (Kopiko, Coca-Cola/Pepsi, Suharti) untuk Pillar 3 | Low |
 | (L) | pending | Audit konsistensi 5 sumber sebelum eksekusi | Low |
 
 **Rekomendasi urutan:** (M) → (K) → (H) → (E) → (F) → (I) → (J)

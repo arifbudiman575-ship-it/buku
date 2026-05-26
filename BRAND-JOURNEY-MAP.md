@@ -160,7 +160,7 @@
 |---|---|---|---|
 | Algoritma Threads ID 2026 | Sedang test (3-Kamis) | A/B/C running, evaluate Mei-Jun | Jun 2026 |
 | Hook design pakai algoritma manusia (Pak Bi: was-was→kasmaran→surprise) | Belum diaplikasi | Refresh Hook Bank Section 6 | Jun 2026 |
-| Storyting paradoks (Pak Bi) | Belum dikuasai | Studi case Kopiko, Mizone, Rolex | Jul 2026 |
+| Storyting paradoks (Pak Bi) | Sedang dikuasai (Layer 12) | Studi case Kopiko, Coca-Cola/Pepsi, Suharti + 5 insight Pak Bi (lihat `PILLAR-3-STUDI-CASE-PAK-BI.md`) | Jul 2026 |
 | Email sequence 7-Day Challenge | Belum mulai | Hire copywriter / pakai template Caleb | Sebelum thread A live |
 | Landing page conversion craft | Belum mulai | Reuse template open-source + iterate | Sebelum thread A live |
 

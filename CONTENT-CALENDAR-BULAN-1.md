@@ -1292,7 +1292,7 @@ Luangkan **60-90 menit** di Day 31 (atau Day 30 malam) untuk review komprehensif
 
 ### Nice-to-have (selama Bulan 1)
 - [x] Hook Bank refresh — 15 hook baru ditambahkan ke STRATEGI Section 6.B (kategori F Paradoks Pak Bi #26-30, kategori G Vulnerability #31-35, kategori H Question B2B #36-40). Total Hook Bank sekarang 40 hook.
-- [ ] Studi case Pak Bi (Kopiko, Mizone, Rolex) — untuk konten Pillar 3 Bulan 2
+- [x] Studi case Pak Bi (Kopiko, Coca-Cola/Pepsi, Suharti) + 5 insight — final di `PILLAR-3-STUDI-CASE-PAK-BI.md`. 8 post Pillar 3 untuk Mgg 5-12. Eksekusi yang masih perlu: schedule posting di tool kalender.
 - [ ] IG carousel template visual (kalau Anda mau brand-konsisten visual)
 - [ ] LinkedIn long-form essay rhythm — adapt 5-7 post Threads jadi 1 LinkedIn essay/minggu
 
