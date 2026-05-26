@@ -24,6 +24,7 @@ Branch: `add-threads-abc-test` — PR #11
 | `STRATEGI-PERSONAL-BRANDING.md` | Strategi 18 section + Master Index. Sumber utama. | ✅ YA |
 | `BRAND-JOURNEY-MAP.md` | Workbook 4Q (Caleb): outcome → asosiasi → aksi → pembelajaran | ✅ YA |
 | `CONTENT-CALENDAR-BULAN-1.md` | 30 post detail Fase 1 Authority Building (hook + body + slot + filter 4-lapis) | ✅ Saat eksekusi Bulan 1 |
+| `CHAT-LOG-LAYER-10.md` | Jejak sesi Layer 10 — kronologi, output, status PR, pending items, template chat baru | ✅ Saat lanjut chat baru |
 | `THREADS-LONGFORM-ABC-TEST.md` | 3 thread story siap post (A V3 + B V2 + C V2) | Saat mau posting |
 | `RINGKASAN-SESI.md` | Riwayat sesi lengkap, ada Sesi 4 di Section 10 | Saat butuh konteks |
 | `analisa_kompetitor.md` | Battlefield map 31 kompetitor Threads ID | Reference |
@@ -139,7 +140,7 @@ atau sebut topik lain]
 
 ---
 
-## RINGKASAN 5 COMMIT INTEGRASI (Sesi 4)
+## RINGKASAN 6 COMMIT INTEGRASI (Sesi 4 + Layer 10)
 
 | Commit | Layer | Apa yang ditambahkan |
 |---|---|---|
@@ -148,6 +149,7 @@ atau sebut topik lain]
 | `1013e78` | 5+6 | Purpose Compass + Trust-First Sequencing + Section 8.7 |
 | `4f47c3c` | 7+8+9 | Threads V2 final + Sesi 4 record + Master Cross-Reference Index |
 | `3c9b315` | 10 | Content Calendar Bulan 1 — 30 post detail (Fase 1 Authority Building) |
+| `d016ef8` | 10b | CHAT-LOG-LAYER-10.md — handover detail sesi Layer 10 |
 
 ---
 
