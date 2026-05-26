@@ -23,6 +23,7 @@ Branch: `add-threads-abc-test` — PR #11
 |---|---|---|
 | `STRATEGI-PERSONAL-BRANDING.md` | Strategi 18 section + Master Index. Sumber utama. | ✅ YA |
 | `BRAND-JOURNEY-MAP.md` | Workbook 4Q (Caleb): outcome → asosiasi → aksi → pembelajaran | ✅ YA |
+| `CONTENT-CALENDAR-BULAN-1.md` | 30 post detail Fase 1 Authority Building (hook + body + slot + filter 4-lapis) | ✅ Saat eksekusi Bulan 1 |
 | `THREADS-LONGFORM-ABC-TEST.md` | 3 thread story siap post (A V3 + B V2 + C V2) | Saat mau posting |
 | `RINGKASAN-SESI.md` | Riwayat sesi lengkap, ada Sesi 4 di Section 10 | Saat butuh konteks |
 | `analisa_kompetitor.md` | Battlefield map 31 kompetitor Threads ID | Reference |
@@ -56,11 +57,14 @@ Plus 3 file sumber asli: `ilmu Theoderic.txt`, `pak bi.txt`, `personal branding 
 
 ## YANG MASIH PENDING — PILIH UNTUK NEXT SESI
 
-### Pre-launch funnel (Roadmap Fase 0 — masih kosong)
+### Pre-launch funnel (Roadmap Fase 0 — sebagian sudah)
 - **(E)** Landing page lead magnet "7-Day AI Architect Challenge"
 - **(F)** Manifesto carousel 7-slide untuk Instagram
-- **(G)** Content calendar Bulan 1 — 30 post detail (hook + copy + jadwal)
+- ✅ ~~**(G)** Content calendar Bulan 1~~ — **SELESAI Layer 10**, file `CONTENT-CALENDAR-BULAN-1.md`
 - **(H)** Email sequence 7-hari untuk lead magnet
+
+### Long-thread baru yang muncul dari calendar Bulan 1
+- **(M)** Draft long-thread "A.R.S.I. 7-Hari" (Opsi D) — dijadwalkan Day 25 di calendar, brief sudah di file kalender. Append ke `THREADS-LONGFORM-ABC-TEST.md`.
 
 ### Yang muncul dari Sesi 4
 - **(I)** Hook Bank refresh — tambah hook baru pakai algoritma manusia 3-tahap (Pak Bi)
@@ -70,7 +74,7 @@ Plus 3 file sumber asli: `ilmu Theoderic.txt`, `pak bi.txt`, `personal branding 
 - **(K)** Merge PR #11 ke main supaya stable, lalu mulai eksekusi
 - **(L)** Audit konsistensi 5 sumber satu putaran terakhir sebelum merge
 
-> **Rekomendasi default:** (K) → (E) → (H). Karena landing page + email sequence adalah prereq Fase 0 yang masih kosong dan blocker untuk launch thread di Threads.
+> **Rekomendasi default setelah Layer 10:** (M) → (E) → (H) → (K). Karena (M) blocker untuk Day 25 di kalender, (E) + (H) prereq Fase 0 yang masih kosong, (K) housekeeping sebelum Bulan 1 eksekusi.
 
 ---
 
@@ -135,7 +139,7 @@ atau sebut topik lain]
 
 ---
 
-## RINGKASAN 4 COMMIT INTEGRASI (Sesi 4)
+## RINGKASAN 5 COMMIT INTEGRASI (Sesi 4)
 
 | Commit | Layer | Apa yang ditambahkan |
 |---|---|---|
@@ -143,6 +147,7 @@ atau sebut topik lain]
 | `c2acdf5` | 3+4 | Pemetaan Asosiasi + Algoritma Manusia & Storyting |
 | `1013e78` | 5+6 | Purpose Compass + Trust-First Sequencing + Section 8.7 |
 | `4f47c3c` | 7+8+9 | Threads V2 final + Sesi 4 record + Master Cross-Reference Index |
+| `3c9b315` | 10 | Content Calendar Bulan 1 — 30 post detail (Fase 1 Authority Building) |
 
 ---
 

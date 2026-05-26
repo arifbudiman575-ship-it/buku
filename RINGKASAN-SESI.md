@@ -256,14 +256,15 @@ User explicit pilih:
 2. ✅ Scope D — sentuh STRATEGI + THREADS + RINGKASAN + new file `BRAND-JOURNEY-MAP.md`
 3. ✅ Mode incremental (9 layer per commit)
 
-### 10.2. Eksekusi 9-Layer
+### 10.2. Eksekusi 9-Layer + Layer 10 (Bulan 1 Calendar)
 
 | Layer | Commit | Apa yang berubah |
 |---|---|---|
 | 1+2 | `15da685` | Section 0 NEW (hierarki 5 sumber + filter 4-lapis) + file baru `BRAND-JOURNEY-MAP.md` (Caleb 4Q) |
 | 3+4 | `c2acdf5` | Section 14 NEW (Pemetaan Asosiasi - Caleb) + Section 15 NEW (Algoritma Manusia & Storyting - Pak Bi) |
 | 5+6 | `1013e78` | Section 12 enriched (5→8 rules) + Section 16 NEW (Purpose Compass - Theoderic) + Section 8.7 NEW + Section 17 NEW (Trust-First Sequencing - Caleb) |
-| 7+8+9 | (this commit) | THREADS Opsi B V2 + Opsi C V2 (book-safe + algoritma manusia + paradoks) + Sesi 4 record + Master Cross-Reference Index |
+| 7+8+9 | `4f47c3c` | THREADS Opsi B V2 + Opsi C V2 (book-safe + algoritma manusia + paradoks) + Sesi 4 record + Master Cross-Reference Index |
+| **10** | `3c9b315` | **Content Calendar Bulan 1** — file baru `CONTENT-CALENDAR-BULAN-1.md` (1.310 baris): 30 post detail untuk Fase 1 Authority Building, dengan filter 4-lapis lulus per post, traceable ke Trust Gates, BJM Q1-Q3, algoritma manusia 3-tahap |
 
 ### 10.3. Status Section STRATEGI Setelah Integrasi
 
@@ -302,21 +303,23 @@ User explicit pilih:
 
 ### 10.6. Open Items Berikutnya
 
-Sama seperti Section 6 (E/F/G/H) + tambahan dari integrasi:
+Sama seperti Section 6 (E/F/G/H) — **(G) selesai di Layer 10** — sisanya:
+- ✅ ~~(G) Content calendar bulan 1~~ — selesai di `CONTENT-CALENDAR-BULAN-1.md`
 - (E) Landing page lead magnet "7-Day Challenge"
 - (F) Manifesto carousel 7-slide
-- (G) Content calendar bulan 1
 - (H) Email sequence 7-Day Challenge
+- **(M) NEW dari Layer 10** — Draft long-thread "A.R.S.I. 7-Hari" (Opsi D) untuk Day 25 di calendar. Brief sudah ada di kalender section D25. Append ke `THREADS-LONGFORM-ABC-TEST.md`.
 - (NEW dari Sesi 4) Hook Bank Section 6 refresh dengan algoritma manusia — saat ini hanya mapping, belum hook baru ditambahkan
 - (NEW dari Sesi 4) Studi case Pak Bi (Kopiko, Mizone, Rolex) untuk konten Pillar 3 filosofi
 
 ### 10.7. Total Output Sesi 4
 
-- 4 commits di branch `add-threads-abc-test`
-- 1 file baru: `BRAND-JOURNEY-MAP.md`
+- **5 commits** di branch `add-threads-abc-test` (Layer 1+2, 3+4, 5+6, 7+8+9, **10**)
+- **2 file baru:** `BRAND-JOURNEY-MAP.md`, **`CONTENT-CALENDAR-BULAN-1.md`** (1.310 baris)
 - 6 section baru di STRATEGI (0, 14, 15, 16, 17, sub 8.7)
 - 3 decision rules baru di Section 12 (#6, #7, #8)
 - 1 thread book-safe sudah final (Opsi A V3) + 2 thread V2 (B+C) di THREADS
 - 1 Master Cross-Reference Index untuk audit traceability
+- **Layer 10:** 30 post detail untuk Bulan 1 Fase 1 Authority Building, derivative penuh dari STRATEGI + BJM + filter 4-lapis
 
 ---
