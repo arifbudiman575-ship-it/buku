@@ -10,11 +10,11 @@
 **Tanggal:** 26 Mei 2026
 **Branch aktif:** `add-thread-arsi-7-hari`
 **PR aktif:** https://github.com/arifbudiman575-ship-it/buku/pull/12
-**Total commits di PR:** 6 commits (Layer 11 → 12a → 12b → 13 → 14 → 15)
+**Total commits di PR:** 7 commits (Layer 11 → 12a → 12b → 13 → 14 → 15 → 16)
 
 ---
 
-## PROGRESS PLAYBOOK — 4/12 DONE (33%)
+## PROGRESS PLAYBOOK — 5/12 DONE (42%)
 
 | # | Item | Layer | File | Status |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@
 | 2 | Tracking Dashboard | 13 | `TRACKING-DASHBOARD.md` | ✓ Done |
 | 3 | Operational Setup Guide | 14 | `OPERATIONAL-SETUP.md` | ✓ Done |
 | 4 | Reply Farm Playbook | 15 | `REPLY-FARM-PLAYBOOK.md` | ✓ Done |
-| **5** | **Calendar Bulan 2 + 4 long-thread** | — | `CONTENT-CALENDAR-BULAN-2.md` | **⚪ NEXT** |
-| 6 | Buku Launch Pack | — | `LAUNCH-PACK-BUKU.md` | ⚪ Queue |
+| 5 | Calendar Bulan 2 + 4 long-thread | 16 | `CONTENT-CALENDAR-BULAN-2.md` + `THREADS-LONGFORM-ABC-TEST.md` (Opsi E/F/G/H) | ✓ Done |
+| **6** | **Buku Launch Pack** | — | `LAUNCH-PACK-BUKU.md` | **⚪ NEXT** |
 | 7 | Calendar Bulan 3 + 4 long-thread | — | `CONTENT-CALENDAR-BULAN-3.md` | ⚪ Queue |
 | 8 | Cohort Launch Pack | — | `LAUNCH-PACK-COHORT.md` | ⚪ Queue |
 | 9 | Corporate Inbound 1-Pager | — | `CORPORATE-INBOUND-PLAYBOOK.md` | ⚪ Queue |
@@ -37,9 +37,52 @@
 ## MILESTONE
 
 - **Tier CRITICAL (Item 1-4):** ✓ SELESAI — Day 1 launching ready dari sisi infrastruktur
-- **Tier HIGH — Buku Launch Mgg 7 (Item 5-6):** Belum dimulai
+- **Tier HIGH — Buku Launch Mgg 7 (Item 5-6):** ✓ Item 5 selesai (calendar + long-thread). **Item 6 NEXT** (landing page tier, refund form, email blast launch, FAQ).
 - **Tier HIGH — Cohort Launch Mgg 11 (Item 7-8):** Belum dimulai
 - **Tier D — Compound (Item 9-12):** Belum dimulai
+
+---
+
+## RINGKASAN LAYER 16 (BARU — ITEM 5 SELESAI)
+
+**Layer 16 — Bulan 2 Deliverables (Calendar + Long-thread Mgg 5-8)**
+
+File yang ditambahkan/diupdate:
+1. **`CONTENT-CALENDAR-BULAN-2.md` (NEW)** — 28 post Bulan 2 (D31-D58):
+   - Mgg 5 (D31-D37): Studi kasus B2B — chaos tim 12 cara berbeda, theme "sistem bukan individu"
+   - Mgg 6 (D38-D44): Vulnerability + buku tease — "saya hampir publish yang salah"
+   - Mgg 7 (D45-D51): 🔥 BUKU LAUNCH WEEK — pre-launch, launch day Rab D47, sustained push, FAQ + anti-FOMO
+   - Mgg 8 (D52-D58): Post-launch listen + cohort waitlist tease (cohort launch baru di Mgg 11)
+   - Cadence Section 6.C aktif (7 post/minggu, turun dari 8)
+   - Audit checkpoint mingguan dengan threshold pass/fail
+   - Override schedule khusus Mgg 7 untuk BOFU launch
+   - Aturan SACRED tambahan untuk launch week (no flash sale, no countdown palsu, no scene buku)
+
+2. **`THREADS-LONGFORM-ABC-TEST.md` (UPDATED)** — 4 long-thread Kamis Bulan 2 ditambahkan:
+   - **Opsi E (D34):** "Pak A. Tim 12 orang. 12 cara pakai AI" — composite story B2B, paradoks Sekarang vs Nanti
+   - **Opsi F (D41):** "9 bulan lalu, buku ini hampir saya publish — versi yang salah" — author vulnerability, paradoks Mahal vs Murah
+   - **Opsi G (D48):** "Hari ini buku THE AI ARCHITECT resmi rilis" — first BOFU long-thread, paradoks Beli vs Enggak, 3 tier explicit + refund commitment
+   - **Opsi H (D55):** "5 hal yang berubah sejak buku launch" — reflective listen, soft cohort waitlist tease
+
+Semua book-safe per Section 0.4 STRATEGI: tidak bocor scene Prolog, tidak ada angka fabricated, karakter klien tetap composite per disclaimer buku halaman 2.
+
+---
+
+## ITEM 6 YANG HARUS DIKERJAKAN BERIKUTNYA
+
+**Buku Launch Pack — `LAUNCH-PACK-BUKU.md`**
+
+Isi yang dibutuhkan (untuk eksekusi Mgg 7):
+- **Landing page 3-tier** (lynk.id) — copy lengkap untuk Rp 297K, Rp 547K, Rp 897K
+- **Refund commitment system** — copy form, email auto-reply, SOP fulfillment
+- **Email blast launch** — single email D47 19:00 WIB ke list 800 subscriber
+- **Cross-platform sync pack** — IG carousel 10 slide + LinkedIn long-form 600 kata + Threads anchor (Opsi G sudah ada)
+- **FAQ document** — 10 pertanyaan + jawaban (sebagian sudah preview di D46/D50 calendar)
+- **Order fulfillment SOP** — gimana proses dari order → konfirmasi → akses digital → kirim cetak
+- **Testimonial collection form** — copy form + email follow-up Day 7 dan Day 21
+- **Anti-FOMO positioning copy** — yang akan jadi standard reply ke "tinggal berapa slot?" yang pasti masuk DM
+
+Dependency dari Item 5: calendar + long-thread sudah final, jadi Item 6 langsung bisa drafting.
 
 ---
 
@@ -60,6 +103,10 @@
 | Platform focus | Threads (primary) + IG + TikTok + LinkedIn (funnel structure) |
 | Reply commitment | 10 komen pertama, 30-min target, 60-min red line |
 | Commit flow | Brainstorm di chat → fix → Kiro commit langsung (ChatGPT kena 403 ke branch ini) |
+| **Buku 3-tier (FINAL)** | Rp 297K (digital+cetak) / Rp 547K (+workbook 30 template) / Rp 897K (+4 video walkthrough A.R.S.I.) |
+| **Buku launch date** | Mgg 7 Rab D47, 19:00 WIB sharp, sinkron 4 platform |
+| **Refund commitment** | 30-hari, tanpa pertanyaan, cukup email |
+| **Cohort waitlist** | Soft tease Mgg 8, launch resmi Mgg 11 (Bulan 3 Mgg 3) |
 
 ---
 
@@ -94,7 +141,8 @@
   - `STRATEGI-PERSONAL-BRANDING.md` — dokumen master strategi (18 section)
   - `BRAND-JOURNEY-MAP.md` — roadmap 4 quarter (Caleb framework)
   - `CONTENT-CALENDAR-BULAN-1.md` — 30 post detail Bulan 1
-  - `THREADS-LONGFORM-ABC-TEST.md` — 4 long-thread Bulan 1
+  - `CONTENT-CALENDAR-BULAN-2.md` — 28 post detail Bulan 2 (NEW Layer 16)
+  - `THREADS-LONGFORM-ABC-TEST.md` — 8 long-thread total (Opsi A/B/C/D Bulan 1 + E/F/G/H Bulan 2)
   - `EMAIL-SEQUENCE-7-DAY-CHALLENGE.md` — 9 email lead magnet
   - `LANDING-PAGE-7-DAY-CHALLENGE.md` — landing page copy
   - `MANIFESTO-CAROUSEL-IG.md` — carousel Day 1
@@ -113,29 +161,16 @@ PART 4 — OPERASIONAL (4 ch): Ops Setup, Tracking, Reply Farm, Anti-Burnout, St
 
 ---
 
-## ITEM 5 YANG HARUS DIKERJAKAN BERIKUTNYA
-
-**Calendar Bulan 2 + 4 long-thread Kamis Mgg 5-8**
-
-Isi yang dibutuhkan:
-- ~24 post detail Senin-Sabtu Mgg 5-8 (Sunday sudah ada di PILLAR-3-STUDI-CASE-PAK-BI.md)
-- 4 long-thread Kamis Mgg 5, 6, 7, 8
-- Theme Bulan 2: transisi dari authority building → buku launch tease → buku launch Day (Mgg 7)
-- Funnel shift: lebih banyak MOFU + mulai BOFU di Mgg 7
-- Harus konsisten dengan voice + hook bank + pillar distribution di STRATEGI
-
----
-
 ## CARA LANJUT DI PERCAKAPAN BARU
 
 Copy-paste ini ke percakapan Kiro baru:
 
 ```
 Lanjutkan dari file LANJUTKAN-DI-SINI.md di repo arifbudiman575-ship-it/buku 
-branch add-thread-arsi-7-hari. Item 5 berikutnya: Calendar Bulan 2 + 4 long-thread.
+branch add-thread-arsi-7-hari. Item 6 berikutnya: Buku Launch Pack.
 Brainstorm di chat, pakai rekomendasi default, commit langsung dari Kiro.
 ```
 
 ---
 
-*Last updated: Layer 15, 26 Mei 2026.*
+*Last updated: Layer 16, 26 Mei 2026.*
