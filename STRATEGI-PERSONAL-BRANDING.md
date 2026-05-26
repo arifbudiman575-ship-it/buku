@@ -351,6 +351,227 @@ Pola yang sering muncul di buku Anda — pakai sebagai DNA konten:
 
 ---
 
+### 6.B. EXTENSION — HOOK BANK REFRESH (15 HOOK BARU, #26-40)
+
+> Ditambahkan di Sesi 6 Layer 12. Mengisi gap di kategori existing: paradoks Pak Bi (Section 15.3) belum dirumuskan jadi hook, vulnerability Trust 2 (Section 17) butuh stok lebih banyak untuk Bulan 2-3, question reply-farm B2B perlu framing decision-maker yang lebih tajam.
+>
+> Total Section 6 setelah refresh: **40 hook**.
+
+---
+
+#### KATEGORI F — PARADOKS PAK BI (5 hook, #26-30)
+
+> Berbeda dari telling story biasa. Storyting paradoks = reader memposisikan diri sendiri di antara 2 pilihan, bukan menonton narasi linear.
+
+**#26 — Paradoks Beli vs Enggak**
+
+> *Bayar Rp 7,5 juta untuk membangun 1 sistem AI itu terasa mahal.*
+>
+> *Tidak bayar — lalu 12 bulan lagi masih di posisi yang sama — itu yang sebenarnya mahal.*
+
+- Tahap algoritma: was-was (cost reframe)
+- Slot funnel: MOFU (atau soft BOFU saat cohort launch Bulan 3)
+- Paradoks: Beli vs Enggak (Section 15.3)
+- Catatan: Tidak melanggar Section 17.4 selama posting bukan di Bulan 1.
+
+**#27 — Paradoks Sekarang vs Nanti**
+
+> *Anda boleh tunda 6 bulan lagi.*
+>
+> *Tapi 6 bulan lagi, AI sudah lebih jago dari Anda di pekerjaan yang Anda kerjakan sekarang.*
+>
+> *Bukan ancaman. Itu yang sedang terjadi.*
+
+- Tahap algoritma: was-was (loss aversion ringan, tanpa tipuan urgensi)
+- Slot funnel: TOFU
+- Paradoks: Sekarang vs Nanti
+
+**#28 — Paradoks Mahal vs Murah (versi resmi untuk Bank)**
+
+> *Mengoleksi 100 prompt selama setahun terasa "investasi waktu".*
+>
+> *Merancang 1 sistem dalam 1 minggu terasa "lambat".*
+>
+> *Yang terasa cepat — mahal di kemudian hari.*
+>
+> *Yang terasa lambat — murah pada akhirnya.*
+
+- Tahap algoritma: was-was (mirror) → surprise (reframe)
+- Slot funnel: MOFU
+- Paradoks: Mahal vs Murah
+- Catatan: Varian dari Opsi D 6/9. Diformalkan ke Hook Bank.
+
+**#29 — Paradoks Tahu vs Gak Tahu**
+
+> *Anda tahu Anda harus mulai membangun sistem AI sendiri.*
+>
+> *Anda tidak tahu mengapa Anda belum mulai.*
+>
+> *Dua hal itu yang menyusun 6 bulan terakhir Anda.*
+
+- Tahap algoritma: was-was kuat (painful mirror)
+- Slot funnel: MOFU
+- Paradoks: Tahu vs Gak Tahu
+
+**#30 — Paradoks Skala Reverse (B2B)**
+
+> *Klien yang membayar Anda Rp 100 juta tidak butuh 100 prompt.*
+>
+> *Mereka butuh 1 sistem yang Anda jamin akan tetap jalan, bahkan saat Anda tidak ada di ruangan.*
+
+- Tahap algoritma: surprise (counterintuitive scaling)
+- Slot funnel: BOFU (Bulan 3+, saat consulting positioning)
+- Audience: Decision-maker B2B
+
+---
+
+#### KATEGORI G — TRUST 2: VULNERABILITY (5 hook, #31-35)
+
+> Trust Gate 2 (Karakter) dibangun dari konsistensi vulnerability — bukan dari klaim.
+
+**#31 — Vulnerability: Salah jangka panjang**
+
+> *Sebelum saya berhenti mengoleksi prompt, saya kehilangan sekitar 18 bulan dengan ilusi "sedang belajar".*
+>
+> *Belajar yang tidak menghasilkan output yang bisa saya tunjuk dengan jari — itu konsumsi konten, bukan belajar.*
+
+- Tahap algoritma: was-was (mirror)
+- Slot funnel: MOFU
+
+**#32 — Vulnerability: Strategi tidak selesai**
+
+> *Saya pernah punya 5 strategi konten berbeda dalam 12 bulan.*
+>
+> *Hasilnya: 0 audience yang nyangkut.*
+>
+> *Bukan 5 strategi yang salah. Saya yang tidak pernah menyelesaikan 1.*
+
+- Tahap algoritma: was-was → surprise (self-blame yang fair)
+- Slot funnel: MOFU
+
+**#33 — Vulnerability: Pengukur progres salah**
+
+> *Selama 2 tahun, saya mengukur "sukses dengan AI" dari berapa banyak yang saya tahu.*
+>
+> *Pengukur saya salah.*
+>
+> *Yang benar: berapa banyak yang saya bangun.*
+>
+> *Beda parameter. Beda 24 bulan ke belakang.*
+
+- Tahap algoritma: was-was → surprise → kasmaran (insight quotable)
+- Slot funnel: MOFU
+
+**#34 — Vulnerability: Klien yang ditolak**
+
+> *Klien pertama yang saya tolak adalah klien yang paling membutuhkan saya.*
+>
+> *Dia mau saya kasih prompt. Saya mau kasih sistem.*
+>
+> *Tidak match. Bukan dia yang salah. Bukan saya yang salah. Posisi yang berbeda.*
+
+- Tahap algoritma: surprise (counterintuitive — menolak klien)
+- Slot funnel: MOFU/soft BOFU
+- Catatan: Hook bagus untuk pivot dari prompt-vendor ke arsitek-vendor.
+- ⚠️ **Catatan eksekusi (composite):** Hook ini composite. **Pakai HANYA kalau Anda punya pengalaman aktual menolak klien karena mismatch ekspektasi prompt vs sistem.** Kalau belum, pakai Hook #33 (pengukur progres salah) atau #35 (imposter jujur) yang lebih universal applicable. **Jangan klaim narrative yang Anda tidak punya pengalamannya** — itu melanggar Trust 2 (Karakter) dan akan terdeteksi oleh ICP yang aktual.
+
+**#35 — Vulnerability: Imposter jujur**
+
+> *Saya menulis buku tentang sistem AI.*
+>
+> *Bulan pertama setelah buku selesai, saya buka 1 chat ChatGPT dan bertanya:*
+>
+> *"Apakah saya benar tahu apa yang saya tulis?"*
+>
+> *Jawaban yang saya dapat tidak nyaman. Tapi itu jawaban yang saya butuhkan.*
+
+- Tahap algoritma: was-was → kasmaran (humility yang relatable)
+- Slot funnel: MOFU
+- Catatan: Hook paling deep di kategori ini. Pakai sparingly — 1-2× per quarter.
+
+---
+
+#### KATEGORI H — QUESTION REPLY-FARM B2B (5 hook, #36-40)
+
+> Existing Question (#19-22) lebih ke individu profesional. Kategori H ini ke decision-maker / pemimpin / B2B buyer — segmen ICP utama untuk Corporate Consulting.
+
+**#36 — Decision audit untuk eksekutif**
+
+> *Sebagai pemimpin tim, dari skala 1-10:*
+>
+> *Seberapa yakin Anda kalau besok 1 dari 5 karyawan paling produktif resign, sistem AI mereka akan tetap berjalan di tim Anda?*
+>
+> *Kalau di bawah 7 — itu masalah arsitektural, bukan masalah HR.*
+
+- Tahap algoritma: was-was kuat (existential business risk)
+- Slot funnel: MOFU
+- Audience: Eksekutif / pemimpin tim
+- Catatan: Adaptasi dari D6 calendar. Diformalkan ke Bank.
+
+**#37 — Audit vendor / konsultan**
+
+> *Vendor AI yang Anda pakai sekarang — apakah mereka mendokumentasikan sistem yang mereka bangun untuk Anda?*
+>
+> *Atau mereka cuma punya "orang yang ngerti" di tim mereka?*
+>
+> *Bedanya akan terasa saat Anda butuh ganti vendor — atau saat orang itu resign dari tim mereka.*
+
+- Tahap algoritma: was-was (vulnerability tersembunyi)
+- Slot funnel: MOFU
+- Audience: B2B buyer
+
+**#38 — Audit budget tools**
+
+> *Kalau saya minta Anda potong 50% budget AI tools perusahaan minggu depan — mana yang Anda potong duluan?*
+>
+> *Dan mengapa Anda tidak potong itu hari ini juga?*
+
+- Tahap algoritma: was-was → surprise (unsubscribe trigger)
+- Slot funnel: TOFU
+- Audience: Pemimpin / finance / operations
+
+**#39 — Pertanyaan tabu (formalisasi dari D27)**
+
+> *Apa SATU pertanyaan tentang AI di tempat kerja Anda yang Anda takut tanyakan ke atasan / tim / klien?*
+>
+> *Komen di bawah. Anonim OK.*
+>
+> *Saya akan kasih framework jawaban — atau bilang jujur kalau saya juga belum tahu.*
+
+- Tahap algoritma: was-was → kasmaran (safe space)
+- Slot funnel: TOFU (Sabtu reply-farm)
+- Catatan: Sudah dipakai di D27 calendar Bulan 1. Formalisasi ke Bank supaya bisa di-rotasi setiap bulan dengan tweak ringan.
+
+**#40 — Leadership reflection (future-back)**
+
+> *Pemimpin yang Anda kagumi 5 tahun ke depan — apakah mereka memimpin orang yang **menggunakan** AI, atau memimpin orang yang **membangun** AI?*
+>
+> *Pertanyaan itu menentukan keputusan rekrutmen Anda hari ini.*
+
+- Tahap algoritma: was-was → surprise (future-back framing)
+- Slot funnel: MOFU
+- Audience: HR / leadership / founder
+
+---
+
+### 6.C. CADENCE BULAN 2+ (POST-REFRESH)
+
+Setelah Hook Bank refresh, rekomendasi cadence baru untuk Bulan 2-3 — turun dari 8 ke 7 post/minggu (lebih sustainable, premium-feel):
+
+| Hari | Slot | Kategori hook |
+|---|---|---|
+| Senin | 19:30 TOFU | Contrarian (#1-8) |
+| Selasa | 19:30 MOFU | Paradoks Pak Bi (#26-30) |
+| Rabu | 12:30 TOFU | List + Authority (#23-25) |
+| Kamis | 20:00 MOFU | Vulnerability (#9-13 atau #31-35) — long-thread |
+| Jumat | 19:30 TOFU | Callout (#14-18) |
+| Sabtu | 11:00 TOFU | Question B2B (#36-40) — reply-farm |
+| Minggu | 09:00 MOFU | Pillar 3 filosofi |
+
+Anda bisa skip Sabtu kalau weekend butuh recovery — engagement Sabtu di Threads ID rendah anyway.
+
+---
+
 ## 7. TOFU MOFU BOFU — STRATEGI FUNNEL
 
 > *(Framework Rama: setiap konten harus tahu sedang bicara ke audience temperature mana)*
@@ -865,13 +1086,16 @@ Pak Bi mengamati: manusia mengkonsumsi konten dalam 3 tahap emosi yang berurutan
 
 Hook Bank existing (25 hook) bisa di-mapping ke 3-tahap algoritma:
 
-| Hook style | Tahap algoritma yang dipicu | Contoh dari Section 6 |
+| Hook style | Tahap algoritma yang dipicu | Hook number |
 |---|---|---|
-| Contrarian (8 hook) | Was-was kuat ("saya selama ini salah?") | Hook #1, #3, #5 |
-| Confession (5 hook) | Was-was + Surprise ("dia juga pernah salah seperti saya") | Hook #9, #11 |
-| Callout (5 hook) | Was-was kuat ("apakah saya termasuk yang dimaksud?") | Hook #14, #18 |
-| Question (4 hook) | Was-was ("saya bisa jawab?") + potensi Kasmaran | Hook #19, #20 |
-| List + Authority (3 hook) | Surprise + Kasmaran ("dia tahu hal yang saya tidak") | Hook #23, #24 |
+| Contrarian (8 hook) | Was-was kuat | #1-8 |
+| Confession (5 hook) | Was-was + Surprise | #9-13 |
+| Callout (5 hook) | Was-was kuat | #14-18 |
+| Question — individu (4 hook) | Was-was + potensi Kasmaran | #19-22 |
+| List + Authority (3 hook) | Surprise + Kasmaran | #23-25 |
+| **Paradoks Pak Bi (5 hook) — NEW** | **Was-was + Surprise (engineered)** | **#26-30** |
+| **Vulnerability Trust 2 (5 hook) — NEW** | **Was-was → Kasmaran (sequence engineered)** | **#31-35** |
+| **Question B2B reply-farm (5 hook) — NEW** | **Was-was kuat (existential business risk)** | **#36-40** |
 
 > **Implikasi untuk Hook Bank update:** Saat menulis hook baru, pikirkan tahap mana yang dipicu. Idealnya 1 long-thread = bawa reader melalui ke-3 tahap berurutan (lihat THREADS Opsi A V3 — mekanisme persis ini sudah dipakai).
 

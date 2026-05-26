@@ -56,7 +56,7 @@ Kalau salah satu fail → **JANGAN POST.** Kalender ini sudah lulus filter di ra
 - [ ] Username konsisten di Threads + IG + LinkedIn = `@arifb.id`
 
 ### Aset Konten
-- [ ] **Manifesto** sudah dirancang sebagai pinned post Threads (8-10 bagian) DAN carousel IG (7 slide)
+- [x] **Manifesto** — draft final tersedia (lihat `MANIFESTO-CAROUSEL-IG.md`). Eksekusi yang masih perlu: render visual carousel (Canva/Figma) + upload ke IG, tulis Threads pinned 8-post sesuai script.
 - [ ] **30 post Bulan 1** sudah di-draft (file ini)
 - [ ] **Long-thread Opsi A V3** sudah final di `THREADS-LONGFORM-ABC-TEST.md` (siap publish Day 4)
 - [ ] **Long-thread Opsi C V2** sudah final di file yang sama (siap publish Day 11)
@@ -64,10 +64,10 @@ Kalau salah satu fail → **JANGAN POST.** Kalender ini sudah lulus filter di ra
 - [x] **Long-thread A.R.S.I. 7-Hari (Opsi D)** — final di `THREADS-LONGFORM-ABC-TEST.md` (siap publish Day 25)
 
 ### Funnel Setup
-- [ ] **Landing page** "7-Day AI Architect Challenge" live di domain Anda (bisa di subdomain seperti `arifb.id/start` atau `challenge.arifb.id`)
+- [x] **Landing page** — draft final tersedia (lihat `LANDING-PAGE-7-DAY-CHALLENGE.md`). Eksekusi yang masih perlu: deploy ke `arifb.id/start` atau `challenge.arifb.id` (Framer/Webflow/Carrd/Notion+Super.so).
 - [ ] **Email tool** sudah aktif (rekomendasi: ConvertKit / MailerLite / Substack — sebut-jelas mau yang mana di issue terpisah kalau perlu rekomendasi)
-- [ ] **Email sequence 7 hari** sudah ditulis dan di-schedule di tool
-- [ ] **Welcome email** (Hari 0) ada — kasih tahu apa yang akan datang dalam 7 hari
+- [x] **Email sequence 7 hari** — draft final tersedia (lihat `EMAIL-SEQUENCE-7-DAY-CHALLENGE.md`). Eksekusi yang masih perlu: setup tool email (ConvertKit/MailerLite/Substack) + schedule 9 email automation.
+- [x] **Welcome email** (Hari 0) — draft final di `EMAIL-SEQUENCE-7-DAY-CHALLENGE.md` (Email 0). Trigger: 5 menit setelah subscribe.
 - [ ] **Bio link** redirect ke landing page (atau langsung ke link bio aggregator yang highlight)
 
 ### Operasional
@@ -1291,7 +1291,7 @@ Luangkan **60-90 menit** di Day 31 (atau Day 30 malam) untuk review komprehensif
   - **Kalau Anda butuh saya draft → minta di chat berikutnya, saya kerjakan terpisah.**
 
 ### Nice-to-have (selama Bulan 1)
-- [ ] Hook Bank refresh — 5 hook baru dari komen reader (untuk Bulan 2)
+- [x] Hook Bank refresh — 15 hook baru ditambahkan ke STRATEGI Section 6.B (kategori F Paradoks Pak Bi #26-30, kategori G Vulnerability #31-35, kategori H Question B2B #36-40). Total Hook Bank sekarang 40 hook.
 - [ ] Studi case Pak Bi (Kopiko, Mizone, Rolex) — untuk konten Pillar 3 Bulan 2
 - [ ] IG carousel template visual (kalau Anda mau brand-konsisten visual)
 - [ ] LinkedIn long-form essay rhythm — adapt 5-7 post Threads jadi 1 LinkedIn essay/minggu
