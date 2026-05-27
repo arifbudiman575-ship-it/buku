@@ -20,9 +20,9 @@
 | **1** | 0 | Ringkasan Operasional Launch | ✅ Part 1 |
 | **1** | 1 | Aturan SACRED Launch | ✅ Part 1 |
 | **1** | 2 | Landing Page 3-Tier (copy lengkap) | ✅ Part 1 |
-| **2** | 3 | Order Fulfillment SOP | ⏳ Part 2 |
-| **2** | 4 | Refund System | ⏳ Part 2 |
-| **2** | 5 | Email Blast Launch (D47 19:00) | ⏳ Part 2 |
+| **2** | 3 | Order Fulfillment SOP | ✅ Part 2 |
+| **2** | 4 | Refund System | ✅ Part 2 |
+| **2** | 5 | Email Blast Launch (D47 19:00) | ✅ Part 2 |
 | **3** | 6 | Cross-Platform Sync Pack (IG/LinkedIn) | ⏳ Part 3 |
 | **3** | 7 | FAQ Master Document | ⏳ Part 3 |
 | **3** | 8 | Testimonial Collection System | ⏳ Part 3 |
@@ -491,10 +491,586 @@
 
 ---
 
-# 🚧 SECTION 3-11 — DI PART 2-4
+# 3. ORDER FULFILLMENT SOP
 
-> Section 3-11 (Order Fulfillment SOP, Refund System, Email Blast, Cross-Platform Sync, FAQ Master, Testimonial, Anti-FOMO, Pre/Post Launch Checklists) akan ditambahkan di commit Layer 16c (Part 2), 16d (Part 3), 16e (Part 4).
+> **Tujuan:** Pembeli dapat akses digital dalam 5 menit, cetak dalam 14 hari max, customer service tone tetap "Anda" formal di setiap touchpoint. SOP ini = referensi Anda + customer service freelance + print partner.
+
+## 3.1. Flow Order End-to-End
+
+```
+[1] Pembeli klik tombol "Beli Tier X" di landing
+   ↓
+[2] Lynk.id checkout — pilih tier, isi data (nama, email, WA, alamat untuk cetak)
+   ↓
+[3] Pembayaran (transfer bank / e-wallet / kartu)
+   ↓
+[4] Lynk.id webhook → MailerLite trigger (auto, 0-2 menit)
+   ↓
+[5] EMAIL #1 — Order Confirmation + Akses Digital (5 menit max)
+   ↓
+[6] Anda / customer service review order di Lynk.id dashboard
+   ↓
+[7] Cetak diteruskan ke print partner (1-2 hari kerja)
+   ↓
+[8] EMAIL #2 — Cetak Diproses (Day 1-2)
+   ↓
+[9] Kirim via JNE/J&T (resi tracking)
+   ↓
+[10] EMAIL #3 — Cetak Dikirim + resi (Day 2-3)
+   ↓
+[11] Pembeli terima cetak (Day 7-14)
+   ↓
+[12] EMAIL #4 — Welcome + 7-day check-in (Day 7 setelah akses digital)
+   ↓
+[13] EMAIL #5 — Testimonial request (Day 21 setelah akses digital)
+```
+
+**SLA per step:**
+- Email #1 (akses digital): **5 menit max** dari payment confirmed. Critical — pembeli premium tidak menunggu lebih dari 10 menit tanpa rasa skeptis.
+- Email #2 (cetak diproses): 24 jam kerja max
+- Email #3 (cetak dikirim + resi): 48 jam kerja max
+- Email #4 (welcome): exact 7 hari setelah Email #1 (auto trigger MailerLite)
+- Email #5 (testimonial request): exact 21 hari setelah Email #1
+
+## 3.2. Email Transactional — 5 Template
+
+> **Tooling:** MailerLite Automations. Trigger by Lynk.id webhook untuk Email #1-3 (manual approval Email #2 dan #3 saat cetak benar-benar diproses/dikirim). Email #4 dan #5 = time-delayed auto.
+
+### EMAIL #1 — Order Confirmation + Akses Digital
+
+**Trigger:** Payment confirmed (Lynk.id webhook)
+**Kirim:** Auto, dalam 5 menit
+**Subject:** Buku Anda siap — akses digital di sini
+
+```
+Halo {{first_name}},
+
+Terima kasih sudah pesan The AI Architect — Tier {{tier_number}}.
+
+Akses digital Anda sudah siap. Klik link di bawah:
+
+🔗 Akses folder digital: {{drive_folder_link}}
+
+Folder berisi:
+{{tier_contents_list}}
+
+————————————————————————
+
+PROSES CETAK
+
+Buku cetak akan diproses 1-2 hari kerja, lalu dikirim via JNE/J&T. Estimasi sampai 7-14 hari ke alamat Anda. Saya akan kirim email lagi dengan resi saat sudah dikirim.
+
+Alamat yang Anda input saat checkout:
+{{shipping_address}}
+
+Kalau ada salah, balas email ini dalam 24 jam.
+
+————————————————————————
+
+KOMITMEN REFUND 30-HARI
+
+Mulai hari ini, Anda punya 30 hari untuk refund kalau buku ini tidak sesuai harapan. Tanpa pertanyaan. Kirim email ke refund@arifb.id, saya proses dalam 24 jam.
+
+————————————————————————
+
+Mulai dari Bab 1, halaman 3. Dichotomy Riko vs Citra. Anda akan tahu posisi Anda dalam 5 menit.
+
+Saya tunggu cerita Anda.
+
+Arif
+arifb.id
+```
+
+**Variabel dinamis:**
+- `{{first_name}}` — dari Lynk.id field "nama"
+- `{{tier_number}}` — 1, 2, atau 3
+- `{{drive_folder_link}}` — link Google Drive folder per tier (3 folder berbeda, hardcoded di MailerLite branching)
+- `{{tier_contents_list}}` — bullet list isi tier:
+  - **Tier 1:** PDF buku full
+  - **Tier 2:** PDF buku + workbook 30 template (PDF) + Notion duplicate
+  - **Tier 3:** PDF buku + workbook + 4 video walkthrough (folder Drive)
+- `{{shipping_address}}` — dari Lynk.id checkout field
+
+### EMAIL #2 — Cetak Diproses
+
+**Trigger:** Manual (Anda klik "send" di MailerLite saat order diteruskan ke print partner)
+**Kirim:** Day 1-2 setelah order
+**Subject:** Buku cetak Anda sedang diproses
+
+```
+Halo {{first_name}},
+
+Pesanan cetak Anda sudah diteruskan ke partner cetak kami. Diproses 1-2 hari kerja, lalu dikirim via JNE/J&T.
+
+Saya akan kirim email lagi saat resi tracking tersedia.
+
+Sementara itu — kalau Anda sudah baca PDF, ada 1 hal yang saya minta tolong. Kalau di Bab 1 Anda menemukan diri Anda di posisi Riko (bukan Citra), tidak perlu malu. Itu bukan kabar buruk. Itu data — yang akan jadi titik mulai 4 disiplin di bab berikutnya.
+
+Saya tunggu cerita Anda.
+
+Arif
+```
+
+### EMAIL #3 — Cetak Dikirim + Resi
+
+**Trigger:** Manual saat partner cetak kasih resi
+**Kirim:** Day 2-3
+**Subject:** Buku cetak Anda dalam perjalanan — resi {{tracking_number}}
+
+```
+Halo {{first_name}},
+
+Buku cetak Anda sudah dikirim. Detail:
+
+Kurir: {{courier_name}} (JNE / J&T)
+Resi: {{tracking_number}}
+Tracking: {{tracking_url}}
+
+Estimasi sampai: {{eta_days}} hari kerja
+
+Kalau ada masalah delivery (paket rusak, tidak diterima dalam 14 hari, dll), balas email ini — saya bantu langsung tanpa harus lewat ribet.
+
+Arif
+```
+
+### EMAIL #4 — Welcome + 7-day Check-in
+
+**Trigger:** Auto, tepat 7 hari setelah Email #1
+**Kirim:** Day 7
+**Subject:** 7 hari — pertanyaan jujur untuk Anda
+
+```
+Halo {{first_name}},
+
+7 hari sejak akses digital aktif. Saya tidak akan tanya "sudah baca?" — itu tekanan yang tidak fair.
+
+Saya tanya hal lain: kalau Anda sudah baca minimal Bab 1, satu hal yang Anda *tidak setujui* dari cara saya menulis — apa?
+
+Reply email ini. Tidak harus panjang. 1-2 kalimat cukup.
+
+Saya kompilasikan disagreement pembaca jadi bahan refleksi untuk edisi 2 buku ini. Anda kontribusi tanpa perlu jadi expert.
+
+————————————————————————
+
+REFUND WINDOW
+
+23 hari tersisa. Kalau setelah membaca Anda merasa buku ini tidak sesuai konteks Anda, refund tetap on. Tanpa pertanyaan. Email refund@arifb.id.
+
+Saya tunggu disagreement-nya.
+
+Arif
+```
+
+### EMAIL #5 — Testimonial Request
+
+**Trigger:** Auto, tepat 21 hari setelah Email #1
+**Kirim:** Day 21
+**Subject:** 21 hari — 1 cerita yang ingin saya minta dari Anda
+
+```
+Halo {{first_name}},
+
+21 hari. Cukup waktu untuk Anda baca minimal 3-4 bab dan mungkin sudah aplikasi 1-2 framework.
+
+Kalau ada satu observation tentang buku ini yang Anda mau bagikan — saya minta tolong tulis di form pendek di bawah:
+
+🔗 Form testimonial: {{testimonial_form_link}}
+
+3 hal yang saya tanya:
+1. Bab/framework yang paling resonant untuk Anda
+2. 1 hal yang Anda aplikasikan langsung di kerja Anda
+3. Apakah saya boleh share testimoni Anda (dengan/tanpa nama) di landing buku?
+
+Tidak ada kewajiban. Tidak ada bonus rahasia kalau Anda isi. Cukup karena testimoni jujur dari pembaca yang aplikasi = sumber satu-satunya yang valid untuk pembeli berikutnya.
+
+Terima kasih sudah membaca.
+
+Arif
+```
+
+## 3.3. WhatsApp Templates (Saved Replies)
+
+> **Posisi WhatsApp:** Backup channel untuk customer service. Email dulu — WA hanya kalau pembeli yang inisiasi atau ada urgensi (delivery hilang, akses digital tidak masuk dalam 30 menit, dll).
+
+### WA-T1: Konfirmasi order (kalau pembeli WA dulu sebelum email diterima)
+
+```
+Halo {{nama}}, terima kasih sudah pesan The AI Architect Tier {{X}}.
+
+Email konfirmasi sudah saya kirim ke {{email}} (cek folder Promo/Spam kalau tidak ada di Inbox).
+
+Akses digital ada di link Google Drive di email itu. Cetak akan dikirim 7-14 hari ke alamat yang Anda input.
+
+Ada yang bisa saya bantu lebih lanjut?
+```
+
+### WA-T2: Akses digital tidak diterima
+
+```
+Mohon maaf untuk delay {{nama}}. Saya cek dulu order Anda.
+
+Sementara, link akses digital langsung Tier {{X}}: {{drive_link}}
+
+Email konfirmasi resmi akan saya kirim ulang dalam 30 menit. Kalau tidak masuk juga, mohon kabari saya kembali.
+```
+
+### WA-T3: Pertanyaan tier / cocok yang mana
+
+```
+Halo {{nama}}, default rekomendasi saya: Tier 2 (Rp 547K).
+
+Tier 1 cocok kalau Anda individual reader yang akan aplikasi sendiri.
+Tier 2 cocok kalau Anda mau langsung praktek minggu ini (workbook = jembatan).
+Tier 3 cocok kalau Anda manajer/founder yang butuh thinking partner (4 video).
+
+Kalau Anda ragu antara 1 dan 2, ambil 2. Bisa upgrade ke 3 nanti dengan bayar selisih kalau perlu.
+
+Refund 30-hari sama untuk semua tier. Anda tidak rugi karena pilih "salah".
+```
+
+### WA-T4: Permintaan diskon / urgency check
+
+```
+Halo {{nama}}, mohon maaf — tidak ada diskon flash sale.
+
+Harga 3 tier ini akan tetap sama minimal 90 hari ke depan. Komitmen anti-FOMO saya — yang dijual substansi yang bertahan, bukan tekanan beli sekarang.
+
+Anda bisa beli kapan saja siap. Bonus tier-2/3 sama, refund window sama. Tidak ada urgency tipuan dari saya.
+```
+
+## 3.4. Edge Cases
+
+| Skenario | SLA | Tindakan |
+|---|---|---|
+| **Payment fail / pending >24 jam** | 24 jam follow-up | Email + WA: "Pembayaran belum terkonfirmasi. Cek transfer / coba metode lain." Tetap berikan link Lynk.id baru, JANGAN minta info kartu lagi via email/WA. |
+| **Akses digital tidak diterima dalam 30 menit** | 30 menit cek manual | Cek Lynk.id → MailerLite log. Resend Email #1 manual. Kirim WA-T2 ke pembeli. |
+| **Cetak gagal / partner cetak issue** | 48 jam | Email pembeli + alternatif: re-cetak dengan partner backup, ATAU refund Tier delta cetak (Rp 50K) dengan tetap akses digital. |
+| **Alamat cetak salah** | Sebelum cetak diproses | Email correction confirmation. Kalau sudah cetak: tunggu retur, re-kirim ke alamat baru, biaya kirim ulang ditanggung Anda. |
+| **Cetak hilang dalam pengiriman** | 14 hari setelah dikirim | Cek tracking. Klaim ke kurir kalau hilang. Re-cetak gratis dari sisi Anda. |
+| **Pembeli minta upgrade tier setelah beli** | 7 hari | Boleh. Kirim Lynk.id payment link untuk selisih harga + kirim akses tambahan via Drive. |
+| **Pembeli minta downgrade tier** | TIDAK BOLEH dalam 24 jam | Arahkan ke refund 30-hari → beli ulang tier baru. Cleaner secara akuntansi. |
+| **Refund request masuk** | 24 jam process | Lihat Section 4 di bawah. |
+| **Pembeli ngamuk di sosmed** | 4 jam respond | Reply tenang, public + private. Standard reply: "Mohon maaf untuk pengalaman Anda. Email saya hi@arifb.id atau WA — saya akan bantu langsung." JANGAN debate publik. |
+
+## 3.5. Customer Service Capacity Plan
+
+| Mgg | Order/hari estimate | CS capacity needed | Tooling |
+|---|---|---|---|
+| **D45-D46 (pre-launch)** | 0-5 | Anda solo + email saved replies | MailerLite + Gmail saved replies |
+| **D47 launch day** | 30-60 (peak) | Anda + 1 freelance VA (4 jam window 19:00-23:00) | + WhatsApp Business saved replies |
+| **D48-D51** | 10-30/hari | Anda + VA (4 jam/hari window 17:00-21:00) | sda |
+| **Mgg 8 (D52-D58)** | 5-15/hari | Anda + VA (2 jam/hari) | sda |
+
+**VA brief 1-pager:** template DM/WA saved replies di Section 3.3 + 3.4 + 9 (Anti-FOMO Toolkit Part 4) = sumber single source. VA tidak boleh improvise voice — saved replies VERBATIM. Eskalasi ke Anda hanya untuk: refund dispute >Rp 1JT, cetak hilang multiple, ngamuk publik.
 
 ---
 
-*Last updated: Mei 2026 — Sesi 7 Layer 16b (Part 1 dari 4: Section 0-2 selesai).*
+# 4. REFUND SYSTEM
+
+> **Komitmen:** 30 hari kalendar dari tanggal akses digital sent. Tanpa pertanyaan. Process dalam 24 jam (target SLA aktual 4-12 jam).
+>
+> **Filosofi:** Refund cepat = T2 trust signal yang LEBIH KUAT dari refund prosedural-lambat. Yang refund minggu launch biasanya balik beli minggu berikutnya kalau prosesnya respectful.
+
+## 4.1. Form Refund (Google Form / Tally)
+
+**URL:** `arifb.id/refund` (redirect ke form)
+
+**Fields (3 saja — minimal friction):**
+
+```
+1. Email yang dipakai saat order
+   [text input, required, validation: email format]
+
+2. Nomor order Lynk.id (atau forward email konfirmasi ke refund@arifb.id)
+   [text input, optional]
+
+3. (Opsional) Apa 1 hal yang membuat buku ini tidak resonant dengan Anda?
+   [textarea, optional, helper text: "Tidak harus diisi. Tapi kalau Anda mau beri data — saya akan dengar untuk edisi berikutnya."]
+```
+
+**Tombol submit:** "Kirim refund request"
+
+**Confirmation page (setelah submit):**
+
+```
+Refund request Anda sudah diterima.
+
+Saya proses dalam 24 jam. Email konfirmasi akan masuk ke alamat Anda saat refund di-execute.
+
+Buku digital tetap milik Anda — saya tidak akan revoke akses Drive. Buku cetak (kalau sudah dikirim) tidak perlu dikembalikan.
+
+Terima kasih untuk waktu Anda. Cerita Anda — kalau Anda berbagi di field 3 — akan jadi data untuk edisi berikutnya.
+
+Arif
+```
+
+## 4.2. Auto-Reply Email (saat form submitted)
+
+**Trigger:** Form submission webhook → MailerLite atau Gmail filter
+**Kirim:** Auto dalam 1 menit
+**Subject:** Refund Anda sedang diproses
+
+```
+Halo,
+
+Refund request Anda sudah masuk. Saya proses dalam 24 jam.
+
+Detail yang saya verifikasi:
+- Email order: {{email}}
+- Tanggal order: {{order_date}}
+- Tier: {{tier}}
+
+Refund akan dikembalikan ke metode pembayaran asli (transfer / e-wallet / kartu). Estimasi 1-3 hari kerja sampai dana masuk, tergantung bank/provider.
+
+Kalau ada delay >24 jam, balas email ini.
+
+Buku digital tetap milik Anda. Tidak perlu kembalikan apapun.
+
+Arif
+```
+
+## 4.3. SOP Processor 24-Jam
+
+```
+[1] Form refund submitted → email auto-reply terkirim
+   ↓
+[2] Anda / VA cek dashboard form (cek 2× per hari: pagi 09:00, sore 17:00 WIB)
+   ↓
+[3] Verifikasi 3 hal:
+    - Order ada di Lynk.id (cross-check email + tanggal)
+    - Dalam window 30 hari kalendar dari Email #1
+    - Bukan duplicate request
+   ↓
+[4] Jalankan refund di Lynk.id dashboard
+   ↓
+[5] Kirim Email konfirmasi refund di-execute (template di 4.4)
+   ↓
+[6] Catat di spreadsheet refund tracker:
+    - Email pembeli
+    - Tier
+    - Tanggal order
+    - Tanggal refund
+    - Reason (kalau ada di field 3 form)
+    - Apakah pembeli responsif setelahnya (data untuk follow-up)
+```
+
+## 4.4. Email Konfirmasi Refund Di-Execute
+
+**Trigger:** Manual (Anda kirim setelah refund dijalankan di Lynk.id)
+**Subject:** Refund Anda sudah di-execute
+
+```
+Halo {{first_name}},
+
+Refund Tier {{X}} senilai Rp {{amount}} sudah di-execute. Detail:
+
+Kembali ke: {{payment_method}}
+Tanggal proses: {{date}}
+Estimasi dana masuk: 1-3 hari kerja
+
+Buku digital di Drive tetap milik Anda — tidak saya revoke. Buku cetak (kalau sudah dikirim) tidak perlu kembalikan.
+
+Saya tidak akan kirim email follow-up "yakin?" — keputusan Anda saya hormati.
+
+Kalau di masa depan Anda mau coba lagi, harga akan tetap sama. Refund history Anda tidak jadi penghalang. Saya tidak punya blacklist.
+
+Terima kasih untuk waktu Anda dan kepercayaan Anda di awal.
+
+Arif
+```
+
+## 4.5. Edge Cases Refund
+
+| Skenario | Tindakan |
+|---|---|
+| **Refund request hari ke-31** | Default: TOLAK dengan tone hormat ("Window 30 hari sudah lewat per kebijakan. Saya tidak bisa proses refund di luar window ini."). EXCEPTION: kalau pembeli tunjukkan email pertama kali kontak <30 hari dengan keluhan yang Anda tidak balas tepat waktu, BERIKAN refund as goodwill. |
+| **Refund partial (cetak rusak, tier 3 video tidak bisa akses)** | Refund senilai komponen yang gagal saja: Tier delta cetak Rp 50K, atau Tier 3 video komponen Rp 350K. Akses lain tetap. Kasus ini = bukan ketidakpuasan substansi, tapi technical fail dari sisi fulfillment. |
+| **Refund untuk Tier 3 setelah Anda sudah ikut office-hour grup** | Hak pembeli, tetap berikan. Kalau abuse pattern (3+ pembeli ikut office-hour lalu refund di hari ke-29), evaluasi struktur — bukan policy refund yang harus diperketat, tapi jadwal office-hour yang harus geser ke setelah window 30 hari. |
+| **Dispute (chargeback via kartu kredit / bank)** | Anda PASTI kalah dispute melawan bank. Lebih baik refund proaktif dulu via email sebelum dispute jadi formal. Catat sebagai lesson — siapa pembeli yang pakai bank vs e-wallet untuk identify retention pattern. |
+
+## 4.6. Refund Rate Tracking
+
+**Target:** ≤ 2% refund rate Mgg 7 (target Bulan 2). ≤ 1% stretch goal.
+
+**Update spreadsheet `TRACKING-DASHBOARD.md` Section refund:**
+- Refund count per minggu
+- Refund rate (count / total order minggu itu)
+- Reason cluster (top 3 reason dari field 3 form)
+- Repurchase rate (berapa % refunder yang beli ulang dalam 90 hari)
+
+**Decision rule:**
+- Refund rate < 2% → no action, continue
+- Refund rate 2-5% → review Email #4 ("disagreement check") — apakah ada pattern yang bisa di-address di Email #1 onboarding
+- Refund rate > 5% → SOP review meeting, kemungkinan re-positioning landing page filter section
+
+---
+
+# 5. EMAIL BLAST LAUNCH (D47 19:00 WIB)
+
+> **Posisi:** Single email blast ke email list 800+ subscriber per akhir Bulan 2 Mgg 6. Dikirim sinkron dengan Threads/IG/LinkedIn launch post. **Target open rate ≥ 35%, click-through rate ≥ 8%, conversion rate ≥ 5%.**
+
+## 5.1. Subject Line A/B Test (50/50 split)
+
+**Subject A — Direct:**
+```
+Hari ini buku The AI Architect resmi rilis
+```
+
+**Subject B — Personal:**
+```
+18 bulan dari folder Notion ke buku yang Anda bisa pegang
+```
+
+**Cara kerja A/B di MailerLite:**
+- Split 50/50 random (target winning subject untuk re-blast 24 jam kemudian ke yang belum buka)
+- Decision metric: open rate dalam 4 jam pertama. Yang menang dipakai untuk Email #5b sustained push (D49) ke non-openers.
+
+## 5.2. Preheader (preview text)
+
+```
+3 tier. Refund 30-hari. Tidak ada flash sale. Detail di dalam.
+```
+
+## 5.3. Body Email (full copy)
+
+**From name:** Arif Budiman
+**From email:** hi@arifb.id
+**Send time:** Rab D47, 19:00 WIB exact (scheduled)
+
+```
+Halo {{first_name}},
+
+Hari ini, Rabu jam 7 malam, buku The AI Architect resmi rilis.
+
+Anda termasuk 800-an orang yang sudah follow proses 18 bulan saya menulis ini. Sebagian dari Anda sudah download lead magnet 7-Day Challenge. Sebagian sudah baca thread vulnerability saya minggu lalu tentang "buku yang hampir saya publish — versi yang salah." Sebagian baru join 2 minggu terakhir.
+
+Untuk Anda semua, yang sama: terima kasih sudah ada di tahap di mana saya hampir gagal, dan tetap ada di tahap saya hampir selesai.
+
+————————————————————————
+
+3 TIER. PILIH YANG SESUAI KONTEKS.
+
+Tier 1 — Reader (Rp 297.000)
+Buku digital + cetak. Untuk individual reader yang akan aplikasi sendiri.
+
+Tier 2 — Practitioner (Rp 547.000) ⭐ PALING LAKU
+Tier 1 + workbook 30 template (PDF + Notion). Untuk profesional yang mau langsung praktek minggu ini.
+
+Tier 3 — Walkthrough (Rp 897.000)
+Tier 2 + 4 video walkthrough A.R.S.I. (~3 jam, akses 12 bulan) + 4 office-hour grup. Untuk manajer/founder yang butuh thinking partner.
+
+Default rekomendasi saya: Tier 2.
+
+→ Lihat detail 3 tier dan beli: arifb.id/buku
+
+————————————————————————
+
+YANG TIDAK ADA DI BUKU INI
+
+Saya jujur dulu sebelum Anda klik.
+
+Tidak ada list "100 prompt rahasia."
+Tidak ada review "ChatGPT vs Claude vs Gemini."
+Tidak ada janji "AI akan menggantikan tim Anda otomatis."
+Tidak ada bab "5 cara cepat kaya dari AI."
+
+Kalau salah satu dari 4 ekspektasi itu yang Anda cari — tutup email ini. Beli buku lain. Saya tidak ingin kehilangan kepercayaan Anda di item nomor 1 bab 1.
+
+————————————————————————
+
+YANG ADA DI BUKU INI
+
+4 disiplin A.R.S.I. — Audit, Rancang, Sistemasi, Iterasi — yang dirumuskan dari 18 bulan kerja dengan klien yang sama-sama lelah dengan kategori "AI productivity content."
+
+Plus dichotomy Riko vs Citra: dua karakter komposit yang akan membantu Anda audit posisi Anda sendiri di halaman 1 bab 1. Tidak teori. Bukan abstrak. Cermin.
+
+————————————————————————
+
+KOMITMEN REFUND 30-HARI
+
+Kalau dalam 30 hari kalendar setelah akses digital aktif, Anda merasa tidak ada satu pun framework yang Anda bisa terapkan di pekerjaan Anda — refund 100%. Tanpa pertanyaan. Email refund@arifb.id, saya proses dalam 24 jam.
+
+Saya yakin pada substansi buku — bukan pada hype-nya.
+
+————————————————————————
+
+KOMITMEN ANTI-FOMO
+
+Tidak ada diskon flash sale. Tidak ada bonus rahasia yang hilang besok pagi. Tidak ada "BURUAN TINGGAL X SLOT."
+
+Harga 3 tier akan tetap sama minimal 90 hari ke depan. Beli kapan saja Anda siap.
+
+Yang saya jual: substansi yang bertahan 5 tahun.
+
+————————————————————————
+
+→ arifb.id/buku ←
+
+Saya tunggu cerita Anda.
+
+Arif
+arifb.id
+
+P.S. Kalau Anda mau lihat thread launch yang lebih panjang di Threads, sudah live sejak jam 7:00 malam tepat: threads.net/@arifb.id/post/{{thread_url_id}}
+
+P.P.S. Kalau ini terlalu agresif, balas email ini dengan "stop launch reminders" — saya akan exclude Anda dari 2 follow-up email minggu ini. Tidak ada hard feeling.
+```
+
+## 5.4. Send Logistics
+
+| Aspek | Setting |
+|---|---|
+| Send time | Rab 19:00 WIB sharp (MailerLite scheduled, set H-2) |
+| Audience | All subscribers tag `7day-challenge` + tag `general-list` (estimasi 800 orang per Mgg 6 end) |
+| Excluded | Tag `unsubscribe-launch-reminders` (kalau ada) — yang explicit minta tidak dapat email launch |
+| Tracking | UTM source=email, medium=launch-blast, campaign=buku-launch-d47, content=subject-A atau subject-B |
+| Reply-to | hi@arifb.id (primary), monitored Anda + VA |
+
+## 5.5. Follow-up Email Plan
+
+| Email | Trigger | Send time | Subject |
+|-------|---------|-----------|---------|
+| **#5a Reminder** | 24 jam after blast (D48 19:00 WIB) ke non-openers | Auto | Re: {{winning_subject_AB}} |
+| **#5b Long-form** | D49 Jum 19:30 WIB ke openers yang belum convert | Auto | 24 jam launch — 3 cerita yang saya tidak siap menerima |
+| **#5c Last call** | D50 Sab 12:00 WIB ke segment "viewed-link-no-purchase" | Manual review | FAQ + 1 hal yang mungkin Anda butuh tahu |
+| **#5d Reflection** | D51 Min 19:00 WIB — ke ALL list | Auto | Hari Minggu — saya tidak akan kirim pitch |
+
+**Email #5d body intentionally OFF-pitch:**
+```
+Halo {{first_name}},
+
+Hari Minggu. Saya tidak akan kirim pitch.
+
+Empat hari sejak buku launch. Saya ingin share satu observasi yang saya tidak punya 7 hari lalu...
+
+[reflektif observation, ~150 kata]
+
+Senin saya kembali. Untuk hari ini — istirahat.
+
+Arif
+```
+
+## 5.6. Post-Blast Monitoring SOP (D47 19:00 — D48 12:00)
+
+| Waktu | Aksi |
+|---|---|
+| **19:00** | Confirm blast sent (MailerLite dashboard "sent" status). Confirm Threads/IG/LinkedIn juga live. |
+| **19:15** | Cek delivery rate (target ≥ 95% delivered). Kalau <90%, ada server reputation issue — kontak MailerLite support. |
+| **19:30** | Cek open rate live counter. Target T+30min: ≥ 15% open rate. |
+| **20:00** | Cek click rate. Target T+1h: ≥ 3% click-through. |
+| **21:00** | Cek conversion (order count vs blast send). Target T+2h: ≥ 5 order dari email source (UTM). |
+| **22:00** | Anda + VA cek inbox reply-to (hi@arifb.id) — answer pertanyaan, tag DM yang masuk paralel. |
+| **D48 09:00** | Review semalam metrics. Decide subject A vs B winner. Schedule Email #5a reminder ke non-openers. |
+| **D48 12:00** | Soft check: cek apakah ada complaints / unsubscribes spike (>2× normal rate). Kalau ya, audit tone email — kemungkinan terlalu agresif untuk segment tertentu. |
+
+---
+
+
+
+# 🚧 SECTION 6-11 — DI PART 3-4
+
+> Section 6 (Cross-Platform Sync Pack), Section 7 (FAQ Master Document), Section 8 (Testimonial Collection System), Section 9 (Anti-FOMO Toolkit), Section 10 (Pre-Launch Checklist D-7), Section 11 (Post-Launch Week 1 Ops) akan ditambahkan di commit Layer 16d (Part 3) dan 16e (Part 4).
+
+---
+
+*Last updated: Mei 2026 — Sesi 7 Layer 16c (Part 2 dari 4: Section 3-5 selesai).*
