@@ -1793,3 +1793,464 @@ Pre-cohort 2 launch (Mgg 28):
 ---
 
 *Last updated: Layer 20 (3/4), 27 Mei 2026 — Section 6-8 selesai (Cross-Platform Sync D71-D77 + FAQ Master 10 Q&A + Testimonial Collection). Section 9-11 (Anti-FOMO Toolkit + Pre-Launch Checklist + Post-Launch Operations) di part berikutnya.*
+
+
+
+## Section 9 — Anti-FOMO Cohort Toolkit
+
+(Anchor: SACRED CL-3 anti-discount + CL-5 advisor mode + `LAUNCH-PACK-BUKU.md` §9 anti-FOMO buku adapt untuk cohort.)
+
+### 9.1. Filosofi Anti-FOMO Cohort
+
+**Buku launch:** Anti-FOMO untuk lower-stakes (Rp 297-897K). Audience tergesa = OK kalau decision baik.
+
+**Cohort launch:** Anti-FOMO **lebih ketat** (Rp 4,9-7,5JT high-stakes, 8-minggu commitment). Audience tergesa = high refund risk.
+
+**SACRED:** Anti-FOMO bukan "biarkan audience tergesa, kami tidak peduli". Anti-FOMO = "kami aktif slow-down audience yang tergesa, dengan mengirim mereka ke advisor mode atau cohort 2".
+
+### 9.2. 5 Saved Replies Cohort-Specific
+
+#### CO-AF-1: "Saya tertarik tapi belum yakin tier ARSITEK atau PLUS"
+```
+Terima kasih [Nama] sudah pertimbangkan cohort.
+
+Default rekomendasi saya: pilih ARSITEK group cohort. Kebanyakan
+peserta dapat hasil maksimal dari sini.
+
+Pilih ARSITEK PLUS hanya kalau:
+1. Tim Anda 15+ orang dengan alur kompleks (manufacturing, finance
+   regulated)
+2. Anda butuh saya audit alur tim spesifik
+3. Anda inginkan saya bantu setup 2-3 tools custom
+
+Kalau Anda ragu — jadwalkan 30-min advisor call (gratis), kita
+diskusi konteks tim Anda dulu sebelum checkout.
+
+[Calendly link]
+
+Kalau Anda yakin → [link sales page tier]
+```
+
+#### CO-AF-2: "Slot tersisa berapa lagi? Saya khawatir kehabisan"
+```
+Slot real-time hari ini ([TANGGAL JAM]):
+- ARSITEK: [A] dari 12-15
+- ARSITEK PLUS: [B] dari 5-8
+- Total tersisa: [20-A-B]
+
+Saya update angka ini tiap 24 jam selama launch week. Tidak ada
+inflasi atau "tinggal 3!" gimmick.
+
+Kalau Anda tergesa karena khawatir kehabisan slot:
+- Kalau ragu konteks → 30-min advisor call dulu (Calendly link)
+- Kalau yakin → checkout langsung (link sales page)
+- Kalau Anda decide cohort 1 bukan untuk Anda → cohort 2 = Bulan 7
+
+Tidak ada tekanan. Cohort 1 close Mgg 11 Minggu 23:59 — kalau Anda
+butuh waktu ekstra untuk decide, lewati cohort 1, ikut cohort 2.
+
+— Arif
+```
+
+#### CO-AF-3: "Bisa diskon? Saya peserta loyal yang sudah baca buku"
+```
+Terima kasih [Nama]. Saya hormat Anda sudah baca buku — itu sebabnya
+saya jujur:
+
+Cohort A.R.S.I. anti-discount selamanya. Tidak ada diskon untuk
+loyalty pembaca buku, tidak ada diskon untuk early bird (selain
+bonus 72-jam yang sudah included). Tidak akan ada diskon di cohort
+2-3-4.
+
+Alasan: harga Rp 4,9-7,5JT = mencerminkan delivery 8-minggu real
++ 1-on-1 PLUS + tools setup. Diskon = signal "kami tidak yakin
+nilai delivery" — itu trust break.
+
+Yang BOLEH saya berikan untuk pembaca buku:
+1. Bonus 72-jam (D71-D73): akses Q&A bulanan post-cohort 6 bulan
+   (default 3 bulan)
+2. Decision tree khusus pembaca buku — kalau Anda jawab 4 pertanyaan
+   = "tidak", saya rekomen Anda lewati cohort dan hemat Rp 4,9-7,5JT
+
+Kalau budget jadi blocker, ada 3 opsi yang lebih sustainable:
+1. Tunggu cohort 2 (Bulan 7) — siapkan budget
+2. Mulai dari buku THE AI ARCHITECT + worksheet generic (Rp 547-897K)
+3. Untuk corporate audit (Rp 25-100JT) saat budget tim memungkinkan
+
+Saya hormat keputusan Anda apapun.
+
+— Arif
+```
+
+#### CO-AF-4: "Saya pemilik bisnis kecil/solo, cohort terlalu mahal"
+```
+Terima kasih [Nama] untuk transparansi.
+
+Cohort A.R.S.I. memang TIDAK untuk solo entrepreneur atau bisnis
+mikro. Cohort = tim 5-50 orang, dimana audit alur kerja + sistem
+permission punya leverage.
+
+Yang lebih cocok untuk Anda:
+1. Buku THE AI ARCHITECT (Rp 297-897K, tier digital paling cocok
+   untuk solo) — framework Anda bisa apply solo
+2. 7-Day Challenge gratis di arifb.id — kalau Anda belum coba
+3. Corporate audit BUKAN untuk solo (minimum tim 5 orang)
+
+Sebagai solo founder, Anda butuh framework + waktu eksperimen,
+bukan cohort 8-minggu komitmen tim. Hemat Rp 4,9-7,5JT, beli
+buku, terapkan sendiri 3-6 bulan, kembali kalau tim Anda growth
+ke 5+ orang.
+
+— Arif
+```
+
+#### CO-AF-5: "Saya butuh approval direksi/CFO dulu"
+```
+OK [Nama], saya paham proses budget approval enterprise butuh
+waktu. 3 hal yang bisa membantu:
+
+1. **One-pager justifikasi cohort** — saya bisa kirim PDF 1-page
+   yang Anda forward ke direksi/CFO, isinya: scope cohort, expected
+   ROI framework (waktu jam saved per peserta × tim), refund
+   commitment, risk mitigation. Reply email ini, saya kirim.
+
+2. **Reschedule ke cohort 2** — kalau approval butuh 2-4 minggu,
+   cohort 1 close Minggu D77 mungkin terlalu cepat. Cohort 2 =
+   Bulan 7 (~Mgg 28), Anda dapat priority slot kalau early signal.
+
+3. **Pengajuan tim 2-3 orang** — kalau approval lebih cepat untuk
+   "training tim" (vs 1 orang Rp 7,5JT), cohort bisa terima 2-3
+   peserta dari satu organisasi (slot tetap counted individu).
+   Pricing tetap Rp 4,9-7,5JT/orang, no bulk discount, tetapi
+   approval lebih clean kalau "investasi tim" vs "personal training".
+
+Yang TIDAK saya bisa: tunggu approval > 2 minggu pasca-D77.
+Cohort 1 close Mgg 11. Setelah itu, slot lock.
+
+— Arif
+```
+
+### 9.3. WA Advisor Mode Escalation
+
+**Trigger advisor mode (saya 1-on-1 30-min call):**
+- DM yang ragu tier (sudah pakai CO-AF-1 tapi masih ragu)
+- DM dengan konteks industry-specific (FAQ #8 — regulated industry)
+- DM dengan konteks cohort vs corporate audit decision (FAQ #10)
+- DM yang minta diskon/payment plan (sudah pakai CO-AF-3 tapi masih push)
+- DM dengan red flag fit (mis: "saya sendirian, tidak ada tim, tetapi mau ikut cohort")
+
+**Calendar:** Saya block 4 slot/hari × 5 hari (D71-D75) = 20 slot 30-min advisor. Setelah 20 slot full, defer ke email reply substantif.
+
+**Format advisor call:**
+- 0-5 min: Intro + konteks Anda
+- 5-20 min: Saya tanya struktural — tim, decision-maker, tools, urgency, budget
+- 20-25 min: Saya rekomen (tier ARSITEK / PLUS / lewati cohort / cohort 2 / corporate audit)
+- 25-30 min: Q&A peserta + next step concrete
+
+**Output advisor call:** Email follow-up dalam 4 jam dengan rekomendasi tertulis + link checkout (kalau fit) atau link cohort 2 waitlist.
+
+**SACRED:** Advisor call TIDAK pitch — fokus diskusi fit. Kalau peserta tidak fit, saya rekomen ALTERNATIF (buku, cohort 2, corporate audit, atau lewati semua).
+
+### 9.4. Slot Transparent Update Rules (CL-2 SACRED)
+
+**Update channel + frequency:**
+- Sales page (real-time CMS, refresh 24-jam cron)
+- Threads post (D72, D74, D75 = post slot update)
+- Email (Email 7 D75)
+- IG Stories (D71-D77 daily)
+- WA reply otomatis CO-AF-2 (manual update tiap hari)
+
+**Format update:**
+```
+Update real-time slot cohort A.R.S.I. ([TANGGAL JAM] WIB):
+
+ARSITEK: [A] dari 12-15
+ARSITEK PLUS: [B] dari 5-8
+Total tersisa: [20-A-B]
+```
+
+**SACRED:**
+- TIDAK inflasi ("tinggal 3!" kalau real masih 12)
+- TIDAK round-up favorable (kalau real 11, tulis 11, bukan "10")
+- TIDAK ada panic counter ("URGENT 2 slot!")
+
+### 9.5. Public vs Private Communication Rules
+
+| Channel | Rules |
+|---|---|
+| **Threads/IG/TikTok/LinkedIn (publik)** | Slot transparent + filter aggressive + soft CTA. NO discount discussion publik. |
+| **Email (semi-private)** | Tier comparison + filter + slot. Diskon discussion = TIDAK. |
+| **WA inbound (private)** | OK diskusi tier dalam, advisor mode escalation, FAQ context-specific. NO diskon. |
+| **Advisor call 30-min (1-on-1)** | OK diskusi alternatif (lewati cohort, cohort 2, corporate audit). NO diskon. |
+| **DM Threads/IG (semi-private)** | Redirect ke WA atau advisor call. Tidak handle decision-making di DM panjang (low signal channel). |
+
+### 9.6. Anti-FOMO Decision Tree
+
+```
+DM masuk
+   │
+   ▼
+Pertanyaan = generic FAQ (1-7)?
+   ├─ Ya → Saved reply CO-AF-1 sd CO-AF-5 atau FAQ direct link
+   └─ Tidak ↓
+   
+Pertanyaan = context-specific (FAQ 8-10, industry, regulated, cohort vs corporate)?
+   ├─ Ya → Advisor call escalation (Calendly link)
+   └─ Tidak ↓
+
+Pertanyaan = budget/diskon push?
+   ├─ Push 1× → CO-AF-3 (anti-discount explanation)
+   └─ Push 2× → Polite firm reject + alternatif (buku/cohort 2/corporate)
+   
+Pertanyaan = red flag fit (solo, no team, no decision authority)?
+   └─ CO-AF-4 (filter + redirect to buku) atau direct decline
+```
+
+---
+
+
+## Section 10 — Pre-Launch Checklist D-7
+
+7-hari countdown checklist sebelum launch D71. **Asset freeze deadline = D70 Sabtu 18:00 WIB.**
+
+### 10.1. D64 Mgg 10 Senin — H-7 First Mention Publik
+
+**Day kick-off:**
+- [ ] Sales page draft 80% complete (8 section copy + designer brief)
+- [ ] Email sequence 8 email drafted di MailerLite (test send 1× ke Anda)
+- [ ] Lynk.id 2-tier produk created (ARSITEK Rp 4,9JT + ARSITEK PLUS Rp 7,5JT)
+- [ ] Notion workspace template scaffolded (8 modul folder + worksheet skeleton)
+
+**Threads post Mgg 10 D64:**
+- [ ] Soft signal first mention: "Mgg 11 ada sesuatu yang berbeda" (filosofi 1-baris, no detail)
+
+**Backend:**
+- [ ] Reading list peserta cohort 1 — Anda baca buku 1 chapter/hari Mgg 10 untuk re-anchor diri ke konten
+
+### 10.2. D65 Mgg 10 Selasa — H-6
+
+- [ ] Sales page 100% draft + send ke 1 collaborator (designer/copy reviewer) untuk audit
+- [ ] WA Business saved replies CO-AF-1 sd CO-AF-5 setup
+- [ ] Email sequence test send 2× (1× ke email Anda, 1× ke 1 collaborator)
+- [ ] Calendly slot 1-on-1 ARSITEK PLUS setup (8 slot Mgg 14-15, 90-min each)
+- [ ] Calendly slot advisor call setup (4 slot/hari × D71-D75 = 20 slot, 30-min each)
+
+**Threads:**
+- [ ] Reply farm slot Selasa 12:00 (default cadence)
+- [ ] Long-thread Kamis D67 draft 50% (cohort waitlist announcement)
+
+### 10.3. D66 Mgg 10 Rabu — H-5 Asset Audit Day
+
+- [ ] Sales page final review + designer hand-off
+- [ ] CMS slot counter implemented (test: increment manual + decrement)
+- [ ] Lynk.id payment flow test transaksi Rp 1.000 success → Notion access auto-grant test → group chat WA test invite
+- [ ] Webhook Lynk.id → MailerLite tag "cohort_paid_TIER" tested
+- [ ] WA Business saved reply real-test (1 dummy DM)
+- [ ] Refund form (Tally/Google Form) drafted + tested
+
+### 10.4. D67 Mgg 10 Kamis — H-4 Waitlist Open
+
+**Day kick-off:**
+- [ ] All assets dari D66 verified working
+- [ ] Backup VA briefed (D71-D77 capacity plan)
+
+**Email + Threads:**
+- [ ] **Email 2 D67 19:00 — Cohort waitlist open** (subscribers + buku-buyers)
+- [ ] **Threads long-thread Kamis D67 19:30** — "Cohort waitlist open" (per CONTENT-CALENDAR-BULAN-3 D67)
+- [ ] LinkedIn short post — soft signal cohort-related
+
+**Verifikasi inbound:**
+- [ ] Monitor waitlist signup di MailerLite — target ≥30 signup di Mgg 10
+
+### 10.5. D68 Mgg 10 Jumat — H-3 Operational Setup
+
+- [ ] Final test sales page mobile/desktop/tablet (Chrome, Safari, Firefox)
+- [ ] Final test Lynk.id checkout flow (test mode + actual Rp 1.000 transaction Real)
+- [ ] Final test email sequence (8 email × test trigger)
+- [ ] Backup admin keuangan briefed (refund SOP 24-jam Section 4.4)
+- [ ] Calendly slot advisor call (20 slot D71-D75) — tested booking flow
+- [ ] WA Business respond time SLA documented (30-min business hours)
+
+**Threads:**
+- [ ] Reply farm Jumat 12:00
+- [ ] Threads post P1 vocabulary
+
+### 10.6. D69 Mgg 10 Sabtu — H-2 Asset Lock + Final Audit
+
+**SACRED freeze deadline:** 18:00 WIB. Setelah ini, NO change ke sales page / email / tier curriculum.
+
+**Pre-freeze checklist:**
+- [ ] Sales page final → freeze, lock CMS edit
+- [ ] Email sequence locked di MailerLite (no edit setelah ini)
+- [ ] Lynk.id produk locked (no harga/tier change)
+- [ ] Notion worksheet 8 modul Modul 1-3 ready (Modul 4-8 ready Mgg 13+)
+- [ ] WA saved replies CO-AF-1 sd CO-AF-5 final
+- [ ] FAQ 1-10 final di sales page + advisor talking points
+
+**Sabtu OFF (Anti-Burnout S-3):** Setelah 18:00 freeze, Sabtu OFF total. Recovery untuk launch week.
+
+### 10.7. D70 Mgg 10 Minggu — H-1 Pre-Launch Q&A
+
+- [ ] Email subscribers: short pre-launch tease ("Besok jam 14:00 sales page live")
+- [ ] Threads post P3 refleksi 1-baris (default Minggu cadence)
+- [ ] Personal reflection Anda: cohort 1 = batch pertama, what could go wrong + mitigation already in place
+- [ ] Energy check Anti-Burnout §2 (pastikan tier GREEN untuk launch week)
+- [ ] Tidur ≥7 jam malam D70 (S-1 SACRED)
+
+### 10.8. Rollback Plan — Kalau Blocker Masuk H-2 atau H-1
+
+| Blocker | Mitigation | Decision threshold |
+|---|---|---|
+| Sales page broken di mobile (CSS bug) | Fix dalam 4 jam, kalau >4 jam → temporary text-only fallback | <12 jam ke launch = HALT, push launch +24 jam |
+| Lynk.id payment flow gagal | Switch ke manual transfer + WA confirmation | <6 jam ke launch = HALT, push launch +48 jam |
+| MailerLite email sequence gagal trigger | Manual send batch 1 email langsung | OK, manual fallback acceptable |
+| Anda sakit / energy tier ORANGE+ | Backup plan: VA proxy untuk reply farm + advisor call defer ke Mgg 12 | Tier RED = HALT launch, defer ke cohort 1.5 (Mgg 13-14 launch) |
+| Tim VA tidak available D71-D77 | Hire ad-hoc support atau scope down stories volume | OK, scope down acceptable |
+| Sales page CMS down | Fallback ke Notion public page dengan link ke Lynk.id | OK temporary, fix CMS dalam 24 jam |
+
+**HALT decision authority:** Anda. Setelah HALT decision = announce di Threads + Email "Cohort 1 launch defer +24/+48 jam" dengan reason transparent. Audience B2B cohort tolerate transparency (vs flash launch kompetitor consumer).
+
+---
+
+
+## Section 11 — Post-Launch Cohort Operations
+
+### 11.1. D77 Minggu 21:00-23:59 — Close Night
+
+**21:00 WIB:**
+- [ ] Threads single post: "2 jam lagi tutup pintu cohort 1"
+- [ ] IG Stories: countdown 2-jam + final slot count
+- [ ] LinkedIn TIDAK post pasca 19:00 (audience B2B off-platform)
+
+**23:30 WIB:**
+- [ ] Final manual slot count cek
+- [ ] Confirm WA inbound clear (semua sudah responded)
+
+**23:59 WIB:**
+- [ ] Sales page CMS lock — auto-redirect ke "Cohort 1 closed. Cohort 2 waitlist Bulan 7."
+- [ ] Email sequence Mgg 11 sequence END — last email Email 8 sudah sent D77 08:00
+- [ ] Lynk.id produk pause (no new transaction)
+- [ ] Group chat WA cohort 1 finalized (announce closed peserta = X total)
+
+**Post-23:59 (D77 Senin pagi):**
+- [ ] Final stats spreadsheet update — total peserta ARSITEK + ARSITEK PLUS + revenue
+- [ ] Share publik Threads: "Cohort 1 close — [X] peserta total. Sesi 1 Mgg 13."
+- [ ] Tidur ≥8 jam (Anti-Burnout S-1 strict — launch week recovery)
+
+### 11.2. D78-D84 Mgg 12 — Onboarding Window
+
+**D78 Senin:**
+- [ ] Email semua peserta: "Welcome — Notion access + pre-cohort form deadline Mgg 12 Sabtu"
+- [ ] VA grant Notion access untuk semua peserta yang sudah bayar
+- [ ] Group chat WA invite link sent
+- [ ] ARSITEK PLUS: email scheduling 1-on-1 audit
+
+**D79-D83:**
+- [ ] Monitor pre-cohort form fill rate
+- [ ] Reminder Email 2 Template (Section 3.2) untuk yang belum isi 48-jam
+- [ ] Prep Modul 1 sesi 1 — pre-read + worksheet review
+
+**D84 Sabtu:**
+- [ ] Pre-cohort form deadline 20:00 WIB
+- [ ] Final review semua peserta input — adjust sesi 1 agenda kalau ada pattern (mis: 60% peserta industri services → adjust example)
+- [ ] Email Mgg 12 Sabtu: briefing pre-sesi 1 (Template 3 Section 3.2)
+
+### 11.3. Mgg 13 — Sesi 1 LIVE
+
+**Mgg 13 Senin 19:30 WIB:**
+- [ ] Sesi 1 LIVE Zoom — agenda 75-min (Section 3.2 Template 3)
+- [ ] Recording captured (post-sesi upload Notion within 24-jam)
+- [ ] Action item Mgg 13-14 dishare di group chat
+
+**Mgg 13 Selasa pagi:**
+- [ ] Energy check Anti-Burnout §2 — recovery dari sesi 1 + launch week
+- [ ] Refund window starts (7-hari = sampai Mgg 14 Senin 19:30)
+- [ ] Monitor refund inbound — process per Section 4 SOP
+
+### 11.4. Mgg 14-15 — 1-on-1 PLUS Audit Window
+
+- [ ] 8 slot × 90-min audit sessions ARSITEK PLUS peserta
+- [ ] Setiap audit: prep 30-min sebelum + post 30-min documentation
+- [ ] Tools setup follow-up sessions scheduled (60-min each, ~2 minggu post-audit)
+
+### 11.5. Mgg 14-22 — Cohort Delivery 8 Minggu
+
+**Cadence default:**
+- 2 sesi grup/minggu (Senin 19:30 + Kamis 19:30 — atau adjust based on peserta poll)
+- Worksheet release Senin pagi
+- Group chat aktif daily
+- Anda available WA/email untuk Q&A — respon dalam 24-jam
+
+**Mid-cohort (Mgg 17):**
+- [ ] Email mid-cohort check-in (Section 3.2 Template 5)
+- [ ] Audit progress: peserta yang stuck → DM personal
+
+**Mgg 21 (akhir Mgg 8):**
+- [ ] Sesi 16 final — capstone presentation peserta (each share 1 alur ter-implement)
+- [ ] Closing ceremony virtual
+
+### 11.6. Mgg 23 — Cohort 1 Selesai + Post-Cohort Onboarding
+
+- [ ] Email peserta: "Cohort 1 selesai. Akses Notion + group chat permanen."
+- [ ] Q&A bulanan post-cohort kick-off (1× per bulan, Mgg 23+, 6 bulan untuk early bird / 3 bulan default)
+- [ ] LinkedIn post: "Cohort 1 selesai. Yang saya pelajari: [3-5 insight, anonimisasi]."
+- [ ] Cohort 2 waitlist signup soft launch (Bulan 7 / Mgg 28 target)
+
+### 11.7. Mgg 27 — Testimonial Harvest Window
+
+- [ ] Email survey 5-pertanyaan ke semua peserta cohort 1 (Section 8.3)
+- [ ] Reminder Mgg 27 Jumat untuk yang belum isi
+- [ ] Optional 30-min interview untuk peserta high-quality testimonial (Section 8.4)
+- [ ] Composite + anonimisasi prep untuk cohort 2 launch
+
+### 11.8. Mgg 28+ — Cohort 2 Launch Prep
+
+- [ ] Curriculum refresh based on cohort 1 retro (Section 11.6 LinkedIn post insight)
+- [ ] Sales page cohort 2 update (testimonial 3 quote anonimisasi + cohort 1 outcome stats)
+- [ ] Email sequence cohort 2 — analog dengan 8-email cohort 1, tweak based on data
+- [ ] Cohort 2 launch resmi target: Mgg 28-30 (Bulan 7 awal)
+
+### 11.9. Energy Management Plan untuk Anda (D71-Mgg 23)
+
+(Anchor `ANTI-BURNOUT-PROTOCOL.md` §7 launch week survival.)
+
+| Periode | Beban | Recovery rule |
+|---|---|---|
+| D71-D77 (launch week) | Peak | 7 jam tidur/malam SACRED + Sabtu OFF + 1 sesi olahraga ringan/minggu |
+| D78-D84 (onboarding) | Tinggi | 7 jam tidur + 1 hari OFF total mid-week (Selasa atau Rabu) + Sabtu OFF |
+| Mgg 13 (sesi 1 + refund window) | Tinggi | Energy check Selasa pagi, kalau YELLOW = pause WA/email response 4-6 jam |
+| Mgg 14-22 (cohort delivery) | Sustained | Sabtu OFF SACRED + 1 hari recovery setelah sesi (Senin malam OFF total) |
+| Mgg 23 (cohort selesai) | Decompression | 3-hari mini-sabbatical + reflection + cohort 2 prep |
+
+### 11.10. Bulan 4+ Handoff — Apa yang Disiapkan dari Cohort 1
+
+- Curriculum cohort 1 yang sudah refined → input untuk cohort 2 (Bulan 7)
+- Testimonial composite + outcome stats → trust signal cohort 2 sales page
+- Group chat WA cohort 1 alumni → potential reciprocal endorsement + co-write LinkedIn essay
+- Bridge ke corporate audit (Bulan 4+) — 2-3 peserta cohort kemungkinan eskalasi ke corporate audit untuk implementasi tim ≥15 orang
+- Pattern insight: 3-5 pola umum kegagalan implementasi → konten future Threads + LinkedIn
+
+---
+
+
+## CLOSING
+
+Cohort Launch Pack = master operasional 11 section yang menghubungkan strategi cohort A.R.S.I. ke eksekusi Mgg 11 D71-D77. 
+
+**Stack relasi Item 6/7/8 (Buku Launch + Calendar Bulan 3 + Cohort Launch):**
+- Item 6 (Buku Launch Pack) = master ops buku Mgg 7 (lower-stakes Rp 297-897K, 30-hari refund, transformasi-focused)
+- Item 7 (Calendar Bulan 3) = run-of-show D71-D77 cohort launch week
+- Item 8 (Cohort Launch Pack — file ini) = master ops cohort Mgg 11 (high-ticket Rp 4,9-7,5JT, 7-hari post-sesi-1 refund, concrete-format-focused)
+
+3 item bekerja bersama-sama untuk Mgg 7 buku launch + Mgg 11 cohort launch dengan 4 minggu gap recovery + nurture di antaranya.
+
+**Cohort 1 ke Cohort 2 cycle:**
+- Cohort 1 Mgg 16-23 (Bulan 4-5)
+- Testimonial harvest Mgg 27 (4 minggu post-cohort)
+- Cohort 2 launch Mgg 28-30 (Bulan 7)
+- Cycle = 12-14 minggu per cohort batch, sustainable
+
+---
+
+*Last updated: Layer 20 (4/4), 27 Mei 2026 — Item 8 Cohort Launch Pack SELESAI. Section 0-11 lengkap, ~2.300 baris total.*
+*Berikutnya: Item 9 (Corporate Inbound 1-Pager) — single-commit, single-file, ~600-800 baris.*
