@@ -26,9 +26,9 @@
 | **3** | 6 | Cross-Platform Sync Pack (IG/LinkedIn) | ✅ Part 3 |
 | **3** | 7 | FAQ Master Document | ✅ Part 3 |
 | **3** | 8 | Testimonial Collection System | ✅ Part 3 |
-| **4** | 9 | Anti-FOMO Positioning Toolkit | ⏳ Part 4 |
-| **4** | 10 | Pre-Launch Checklist D-7 | ⏳ Part 4 |
-| **4** | 11 | Post-Launch Week 1 Ops | ⏳ Part 4 |
+| **4** | 9 | Anti-FOMO Positioning Toolkit | ✅ Part 4 |
+| **4** | 10 | Pre-Launch Checklist D-7 | ✅ Part 4 |
+| **4** | 11 | Post-Launch Week 1 Ops | ✅ Part 4 |
 
 ---
 
@@ -1604,10 +1604,479 @@ Selalu di body, di-introduce dengan voice Anda dulu
 ---
 
 
-# 🚧 SECTION 9-11 — DI PART 4
+# 9. ANTI-FOMO POSITIONING TOOLKIT
 
-> Section 9 (Anti-FOMO Toolkit), Section 10 (Pre-Launch Checklist D-7), Section 11 (Post-Launch Week 1 Ops) akan ditambahkan di commit Layer 16e (Part 4 final).
+> **Posisi:** Saved replies + voice constraint untuk DM, komen, email yang masuk dengan pertanyaan yang mengandung urgency-bait, diskon-fishing, atau competitor comparison. SEMUA reply HARUS verbatim dari toolkit ini — VA tidak boleh improvise voice.
+>
+> **Filosofi:** Anti-FOMO = pricing/scarcity policy yang konsisten + voice tenang yang tidak defensif. Yang membedakan brand premium dari brand T2/T3 adalah: kemampuan jawab "tidak" tanpa apologetics, dan tetap respectful ke yang bertanya.
+
+## 9.1. 5 Saved Replies — Pertanyaan yang Pasti Muncul Mgg 7
+
+### AF-T1: "Tinggal berapa slot?"
+
+> **Konteks:** DM/komen yang asumsi-nya buku ini terbatas stok. Pattern dari konsumen yang trained oleh kursus T2/T3 yang menjual artificial scarcity.
+
+```
+Halo {{nama}}, tidak ada slot terbatas. Buku ini cetak on-demand — selama Anda
+order dalam window pembelian, akan saya proses.
+
+Yang terbatas bukan stok bukunya. Yang terbatas adalah waktu Anda — itu yang saya
+hormati dengan tidak ngomong "BURUAN TINGGAL X SLOT" supaya Anda merasa harus
+buru-buru beli.
+
+Beli kapan saja Anda siap. Harga tetap sama 90 hari ke depan.
+```
+
+### AF-T2: "Ada diskon?" / "Promo akhir tahun?"
+
+> **Konteks:** Pertanyaan diskon yang muncul karena audience sudah trained ekspektasi diskon dari setiap launch.
+
+```
+Halo {{nama}}, mohon maaf — tidak ada diskon flash sale, tidak ada promo akhir
+tahun, tidak ada bundle "BURUAN!" dengan timer mundur.
+
+Harga 3 tier akan tetap sama minimal 90 hari ke depan. Komitmen anti-FOMO saya:
+yang dijual substansi yang bertahan, bukan tekanan beli sekarang.
+
+Kalau substansi buku ini tidak match dengan konteks Anda saat baca — refund
+30-hari, tanpa pertanyaan. Email refund@arifb.id.
+
+Itu lebih jujur dari diskon 50%.
+```
+
+### AF-T3: "Harga akan naik kapan?"
+
+> **Konteks:** Variasi diskon-fishing — pembeli mau tunggu sampai harga naik supaya merasa beruntung beli sekarang.
+
+```
+Halo {{nama}}, harga 3 tier ini akan tetap sama minimal 90 hari setelah launch.
+
+Setelah 90 hari, kalau ada review harga, akan saya kabari di newsletter dan sosmed
+minimal 14 hari sebelum perubahan. Tidak ada "harga sewaktu-waktu naik tanpa
+pemberitahuan."
+
+Anda bisa beli sekarang atau bulan depan — pengalaman membaca-nya sama, refund
+window-nya sama.
+```
+
+### AF-T4: "Kenapa lebih mahal dari kursus prompt Rp 1,5JT?"
+
+> **Konteks:** Pertanyaan compare-with-competitor — biasanya dari audience yang sudah pernah beli kursus prompt sebelumnya.
+
+```
+Halo {{nama}}, saya tidak akan compare buku saya dengan kursus prompt mana pun.
+Itu bukan kompetisi yang saya mau menang.
+
+Yang saya bisa bilang: kursus prompt menjual koleksi solusi (yang akan obsolete
+dalam 6-12 bulan saat tools berubah). Buku ini menjual cara berpikir (yang akan
+tetap relevan saat tools yang sekarang sudah ganti generasi).
+
+Beda kategori. Beda horizon waktu. Beda kategori "value yang Anda dapat."
+
+Kalau Anda mencari skill operator yang bisa langsung Anda jual ke klien minggu
+depan — kursus prompt mungkin lebih cocok. Kalau Anda mencari kerangka untuk
+membangun sistem yang bertahan — buku ini.
+
+Refund 30-hari sama di kedua kategori. Anda tidak rugi karena coba.
+```
+
+### AF-T5: Competitor "BURUAN!" urgency-baiting (saat audience tanya tentang competitor X)
+
+> **Konteks:** Audience refer ke competitor yang lagi run diskon flash sale dan tanya kenapa Anda tidak ikut. JANGAN sebut nama kompetitor — sebut KATEGORI saja.
+
+```
+Halo {{nama}}, saya hormati setiap kreator yang punya cara berbeda jualan.
+Termasuk yang pakai pendekatan "BURUAN!" atau "TINGGAL X SLOT!" — itu strategi
+yang BISA bekerja untuk audience yang berbeda dari audience saya.
+
+Yang saya pilih beda. Saya tidak menjual urgensi waktu — saya menjual substansi
+yang Anda bisa baca dalam 5 tahun ke depan dan masih relevan.
+
+2 strategi yang berbeda untuk 2 jenis pembeli yang berbeda. Kalau Anda mencari
+yang "buruan harga naik," strategi competitor mungkin cocok. Kalau Anda mencari
+yang "tenang, tidak terburu-buru, refund 30-hari" — saya di sini.
+
+Saya tidak akan kritik strategi mereka. Saya juga tidak akan mengikuti.
+```
+
+## 9.2. Voice Constraint untuk DM/Komen Scaled Response
+
+> **Aturan untuk Anda + VA + customer service:**
+
+| ❌ TIDAK BOLEH | ✅ BOLEH |
+|---|---|
+| Defensive ("Mohon maaf kami beda dari kompetitor X karena...") | Tenang ("Saya pilih cara berbeda. Yang saya jual: ___") |
+| Apologetics ("Maaf banget kalau Anda tidak setuju...") | Statement of position ("Itu bukan strategi saya. Hormati pilihan Anda.") |
+| Sebut nama kompetitor | Sebut KATEGORI ("kursus prompt", "ebook AI generic") |
+| Caps lock 3+ kata | Italic untuk emphasis 1-2 kata max |
+| Emoji 3+ per reply | 0-1 emoji per reply, kalau perlu |
+| Argumentasi panjang (>200 kata) | Reply ≤ 150 kata, ≤ 4 paragraf |
+| Tag balik orang yang nyinyir | Reply pribadi via DM, jangan public debate |
+
+## 9.3. 2-Tier Escalation: VA → Anda
+
+| Tier | Kondisi | Yang Handle | Voice constraint |
+|---|---|---|---|
+| **Tier 1 — Routine** | Pertanyaan ada di FAQ #1-#10 atau saved reply AF-T1 sampai AF-T5 | VA verbatim copy-paste saved reply | TIDAK BOLEH improvise |
+| **Tier 2 — Eksalasi** | Pertanyaan tidak match saved reply, ATAU pembeli ngamuk publik, ATAU refund dispute >Rp 1JT, ATAU keluhan substansi buku | Anda direct | Voice "Anda" formal — tetap |
+
+**Eskalasi protocol:**
+1. VA tag dengan "@arif" di Notion comment thread (atau forward email ke hi@arifb.id)
+2. Eskalasi SLA: 4 jam kerja max (D45-D58 launch period), 24 jam max (post-launch)
+3. Anda respond → balik feedback ke VA "ini bisa jadi saved reply baru" kalau pattern muncul ≥ 3×
+
+## 9.4. Public Comment vs Private DM Rules
+
+### Komen publik (Threads/IG/LinkedIn comment)
+
+> **Default:** Reply dalam 30 menit (REPLY-FARM-PLAYBOOK Section 3 SLA). Tone tenang. Kalau ada nyinyir publik, jangan debate — pindahkan ke private.
+
+| Skenario komen publik | Reply |
+|---|---|
+| **Pertanyaan tier yang cocok** | Reply singkat + arahkan ke FAQ #5 + tag link bio |
+| **Pertanyaan diskon** | Reply singkat AF-T2 versi pendek (≤ 100 kata) + sebut komitmen 90-hari |
+| **Komen positif tentang voice anti-hype** | Like + reply 1-2 line thank-you (BUKAN auto-pitch buku) |
+| **Komen kritis valid** | Reply respect + akui poin + kalau perlu DM untuk diskusi panjang |
+| **Komen nyinyir / troll** | TIDAK reply publik. Hide kalau melanggar guideline platform. JANGAN debate. |
+| **Komen dari bot/spam** | Hide + report. JANGAN engage. |
+
+### Private DM
+
+> **Default:** Reply dalam 4 jam window kerja. Tone lebih personal dari komen publik (boleh sebut nama, boleh casual sedikit), tapi tetap "Anda" formal.
+
+- Pertanyaan yang sudah ada di FAQ → kirim FAQ link + 1 paragraf summary
+- Pertanyaan unik → reply personal, tidak template
+- Refund dispute → arahkan ke `refund@arifb.id` + tetap respond personal
+- Sales pitch dari pihak lain (afiliasi, joint venture proposal, sponsorship) → "Terima kasih, saya tidak terima sponsored content / afiliasi di buku launch ini." STOP.
+
+## 9.5. Saat Audience Frustrasi — De-escalation Script
+
+> **Skenario:** Pembeli yang sudah order, ada masalah delivery / akses digital / tidak puas. Sebelum mereka publik ngamuk.
+
+```
+Halo {{nama}}, mohon maaf untuk pengalaman yang Anda dapatkan. Saya pribadi yang
+balas pesan Anda — bukan template, bukan support agent.
+
+Boleh saya minta detail lebih spesifik?
+1. Tanggal order Anda
+2. Tier yang Anda beli
+3. Masalah konkret yang Anda alami sekarang
+
+Saya commit untuk solve dalam 24 jam ke depan. Kalau ternyata buku ini memang
+tidak match dengan harapan Anda, refund 30-hari tetap berlaku — tanpa pertanyaan.
+
+Saya tunggu detailnya. Saya di sini.
+
+— Arif
+```
+
+**Aturan de-escalation:**
+- TIDAK BOLEH defend posisi sebelum dengar masalah
+- TIDAK BOLEH "tapi" dalam reply pertama (validate dulu)
+- Offer 2 jalan keluar: solve atau refund — JANGAN paksa pilih solve
+- Follow-up email Anda pribadi (BUKAN VA) dalam 24 jam — Anda tunjukkan ownership
+
+## 9.6. Anti-FOMO Decision Tree
+
+```
+DM/komen masuk dengan pertanyaan
+   ↓
+Apakah pertanyaan ada di FAQ Section 7 atau saved reply Section 9?
+   ↓ YA → VA reply verbatim (≤ 30 menit)
+   ↓ TIDAK
+Apakah pertanyaan teknis fulfillment (akses digital, cetak, alamat)?
+   ↓ YA → VA reply pakai WA-T2 atau saved reply Section 3.3 (≤ 30 menit)
+   ↓ TIDAK
+Apakah pembeli ngamuk publik / refund dispute / keluhan substansi?
+   ↓ YA → ESKALASI ke Anda (≤ 4 jam)
+   ↓ TIDAK
+Apakah pertanyaan unik tapi non-urgent?
+   ↓ YA → Anda reply personal (≤ 24 jam)
+```
 
 ---
 
-*Last updated: Mei 2026 — Sesi 7 Layer 16d (Part 3 dari 4: Section 6-8 selesai).*
+# 10. PRE-LAUNCH CHECKLIST D-7
+
+> **Posisi:** 7 hari sebelum launch (D40-D46) = critical setup window. Setiap hari punya output yang harus selesai sebelum hari berikutnya — tidak boleh skip ke depan kalau day-output belum ready.
+>
+> **Owner notation:** A = Anda · V = Freelance VA · D = Designer · P = Print partner · M = MailerLite admin Anda
+
+## 10.1. D40 — H-7 (Rabu 12:00 WIB) — First Mention Publik
+
+| Time | Item | Owner | Output |
+|---|---|---|---|
+| 09:00 | Review dependency check Section 0.5 — confirm 13/13 items hijau | A | Status hijau di TRACKING-DASHBOARD |
+| 10:00 | Test order Lynk.id 3× (Tier 1, 2, 3) dummy account | A | 3 transaksi dummy passed, refund 3× to test refund flow |
+| 12:00 | **POST: D40 First Mention publik** — "4 hal yang TIDAK ada di buku" | A | Post Threads/IG/LinkedIn published |
+| 14:00 | Reply 10 komen pertama D40 post (REPLY-FARM Section 3) | A | 10 reply done, sentiment screenshot |
+| 17:00 | Tracking dashboard update D40 metrics | A | Sheet baseline angka |
+
+**Decision rule end-of-day D40:**
+- Engagement post D40 ≥ 5% → continue plan
+- ER < 3% → audit copy, kemungkinan re-frame post tease
+
+## 10.2. D41 — H-6 (Kamis 19:30 WIB) — Long-thread Vulnerability
+
+| Time | Item | Owner | Output |
+|---|---|---|---|
+| 09:00 | Final review IG carousel 10-slide (designer) | A + D | Carousel finalized, ready for export |
+| 11:00 | LinkedIn long-form essay draft selesai (Section 6.3) | A | Draft ready for D47 |
+| 14:00 | Print partner confirm sample cetak terima + QC pass | A + P | Sample approved untuk POD |
+| 19:30 | **POST: D41 Long-thread Opsi F vulnerability** | A | Threads thread 10 post live |
+| 20:30 | Reply 10 komen pertama D41 thread | A | 10 reply done |
+
+**Decision rule end-of-day D41:**
+- DM/komen "kapan rilis?" ≥ 20 organic → audience excited, GO continue
+- DM signal confused/skeptis → tunda launch 1 minggu, perpanjang vulnerability arc
+
+## 10.3. D42 — H-5 (Jumat) — Asset Lock Day
+
+| Time | Item | Owner | Output |
+|---|---|---|---|
+| 09:00 | Lock IG carousel 10-slide final + brief Reels 30-sec untuk D47 | A + D | Visual asset locked, no more revision |
+| 11:00 | LinkedIn long-form revision pass 2 — voice audit | A | Final version, ≤ 650 kata |
+| 14:00 | Email blast launch (Section 5.3) draft + UTM setup di MailerLite | A + M | Email scheduled draft di MailerLite |
+| 16:00 | Refund form Tally/Google Form live + auto-reply tested | V | Form URL active, test submission passed |
+| 18:00 | Testimonial collection form live + Day 7/Day 21 trigger setup | V | Form URL active, automation tested |
+| 20:00 | Threads launch post (Section 6.1) + reply chain final | A | Copy locked, ready for D47 manual post |
+
+**Output check D42:**
+- All assets locked (no more design/copy revision selepas hari ini — hanya bug fix kalau ada)
+
+## 10.4. D43 — H-4 (Sabtu) — Email Schedule + Drive Setup
+
+| Time | Item | Owner | Output |
+|---|---|---|---|
+| 09:00 | Email blast launch SCHEDULED di MailerLite untuk Rab D47 19:00 WIB | A + M | Schedule active, send-time confirmed |
+| 11:00 | Google Drive 3 folder per tier dibuat + permission "anyone with link" | A | Drive links per tier ready, hardcoded di MailerLite |
+| 14:00 | Email transactional sequence (5 email Section 3.2) tested via dummy order | A + M | All 5 email triggers verified |
+| 16:00 | WhatsApp Business saved replies (Section 3.3) di-setup | V | Quick reply ready di WA Business app |
+| 18:00 | DM saved replies di Threads/IG (Section 9.1) di-setup | V | Saved replies ready di scheduling tool |
+
+**Output check D43:**
+- Email blast countdown timer di MailerLite menunjukkan "Scheduled for Wed 19:00" — verify visual
+- Drive akses digital tested oleh 2 device berbeda
+
+## 10.5. D44 — H-3 (Minggu) — Rest + Final Audit
+
+| Time | Item | Owner | Output |
+|---|---|---|---|
+| 09:00 | Final audit dependency check Section 0.5 — 13/13 hijau | A | Sign-off audit dokumen |
+| 11:00 | Print partner confirm bulk-cetak ready untuk Mgg 7 (estimasi 50-100 unit) | A + P | Konfirmasi WhatsApp dari partner |
+| 13:00 | **OFF afternoon — istirahat** (D44 = hari Minggu, OFF-pitch) | A | — |
+| 17:00 | Brief VA: timing matrix Section 6.4, saved replies Section 9, eskalasi rule | A + V | VA brief done, ready untuk D45-D51 |
+
+**Aturan critical D44:**
+- TIDAK ADA posting D44 — hari ini pure rest day untuk Anda
+- Kalau ada item yang BELUM hijau di dependency check, GANTI ke "tunda launch 1 minggu" — daripada launch dengan hole di operasional
+
+## 10.6. D45 — H-2 (Senin 19:30 WIB) — Pre-Launch Tease
+
+| Time | Item | Owner | Output |
+|---|---|---|---|
+| 09:00 | Final test order Lynk.id end-to-end (1 dummy) | A | Order → email → akses Drive → cetak partner notif chain confirmed |
+| 11:00 | Domain `arifb.id/buku` redirect ke landing — final test | A | URL access from 3 different device |
+| 14:00 | DM Anda yang follow setia 30+ hari — soft notify "Rab launch" tanpa pitch | A | 10-15 personal DM done |
+| 19:30 | **POST: D45 Pre-launch tease "48 jam lagi"** | A | Post Threads/IG live |
+| 20:30 | Reply 10 komen pertama D45 + monitor DM sampai 22:00 | A + V | All replies done, DM categorized |
+
+**Output check D45:**
+- Order Lynk.id functional end-to-end → GO
+- Komen sentiment positive ≥ 80% → GO
+- Kalau ada blocker masuk siang D45 (Lynk.id error, MailerLite down, dll), eskalasi support langsung — DON'T proceed kalau blocker tidak resolved sebelum D46 12:00
+
+## 10.7. D46 — H-1 (Selasa) — Pre-Launch Q&A
+
+| Time | Item | Owner | Output |
+|---|---|---|---|
+| 09:00 | Compile 3 pertanyaan terbanyak dari DM Mgg 6 (untuk D46 post) | A | 3 Q&A ready |
+| 11:00 | Final review email blast scheduling — confirm send time Rab 19:00 WIB | A + M | Email blast READY status di MailerLite |
+| 14:00 | Brief VA: launch day timeline (Section 11.1) — D47 19:00 sharp | A + V | VA timeline lock, standby Rab 17:00 |
+| 19:30 | **POST: D46 Pre-launch Q&A "3 pertanyaan terbanyak"** | A | Post Threads/IG live |
+| 21:00 | OFF — istirahat sebelum launch day | A | — |
+
+**Output check D46:**
+- All 4 channel scheduled/ready for D47 19:00 WIB
+- VA standby slot D47 17:00-23:00 confirmed
+- Anda istirahat malam D46 — TIDAK begadang. Launch day butuh energi penuh.
+
+## 10.8. Rollback Plan — Kalau Blocker Masuk H-2 atau H-1
+
+**Skenario blocker:**
+- Lynk.id payment gateway down (>2 jam outage)
+- MailerLite email blast tidak bisa scheduled (server issue)
+- Print partner cancel kontrak last-minute
+- Domain redirect broken / SSL issue
+- Designer asset belum final / desain off-brand
+
+**Tindakan:**
+
+```
+[1] Eskalasi langsung ke Anda (bukan VA)
+   ↓
+[2] Assess: bisa solve dalam 12 jam atau tidak?
+   ↓ YA → solve, lanjut launch sesuai timeline
+   ↓ TIDAK
+[3] Tunda launch 7 hari (D54 jadi launch day baru)
+   ↓
+[4] Notify audience via post:
+    "Saya tunda launch 7 hari. Alasan: [briefly explain — operational issue].
+    Buku siap, tapi sistem di belakangnya belum match standar yang saya pegang.
+    Saya hormati waktu Anda — tidak akan launch dengan hole."
+   ↓
+[5] Re-schedule semua 4 channel + email blast ke D54 19:00 WIB
+```
+
+**Aturan tunda:**
+- Lebih baik tunda dengan jujur daripada launch dengan operasional pincang
+- Audience yang sudah excited akan tetap di sana 7 hari kemudian — yang menghargai keputusan Anda untuk tidak rush
+
+---
+
+# 11. POST-LAUNCH WEEK 1 OPS
+
+> **Posisi:** SOP harian D47-D58 (12 hari Mgg 7 + Mgg 8) untuk Anda + VA. Mgg 7 = peak load (launch + sustained push), Mgg 8 = lower load (reflective listen + cohort waitlist). Dokumen ini = single source untuk daily ritual.
+
+## 11.1. D47 LAUNCH DAY — Detail Timeline
+
+| Time | Item | Owner | Notes |
+|---|---|---|---|
+| 09:00 | Anda + VA breakfast meeting — confirm timeline + saved replies recall | A + V | 30 menit, kopi |
+| 10:00 | Anda OFF until 17:00 — istirahat, persiapan mental | A | — |
+| 17:00 | VA + Anda standby di laptop. Open MailerLite, Lynk.id, Threads, IG, LinkedIn dashboard | A + V | Test connectivity |
+| 18:30 | Anda set timer 30-min ke 19:00. Final read launch post copy. | A | Tarik napas |
+| 18:55 | Switch off notification HP yang tidak relevan | A | Fokus mode |
+| **19:00** | **🚀 LAUNCH** — 4 channel sinkron live | A | Threads + IG + LinkedIn manual at 19:00:00. MailerLite auto. |
+| 19:00:30 | Threads Reply 1 (manual) | A | per Section 6.1 protocol |
+| 19:01:00 | Threads Reply 2 + 3 + IG Story 1 sticker link | A | sda |
+| 19:05 | Confirm 4 channel actually live di dashboard | V | Screenshot sebagai proof |
+| 19:15 | Cek email delivery rate (target ≥ 95%) | A | MailerLite dashboard |
+| 19:30 | IG Story 2 (quote) + reply 10 komen pertama Threads | A + V | per REPLY-FARM Section 3 |
+| 20:00 | Cek click rate email + early order count | A | Lynk.id dashboard refresh |
+| 21:00 | Cek conversion (T+2h: target ≥ 5 order) | A | sda |
+| 22:00 | VA respond 30+ DM yang masuk dengan saved replies | V | per Section 9.1 |
+| 23:00 | IG Story 3 (BTS Day 1) — kalau ada permission | A | Optional |
+| 23:30 | Anda OFF — TIDUR. VA continue sampai 24:00 | A | Critical |
+
+## 11.2. D48-D51 — Daily Ritual (Peak Sustained Push)
+
+```
+RITUAL HARIAN MGG 7 (D48 Kam — D51 Min)
+
+09:00 — Pagi review (30 menit)
+   - Buka spreadsheet TRACKING-DASHBOARD
+   - Update angka semalam: order count, refund count, sentiment
+   - Read top 3 DM/email yang masuk untuk audit signal
+   - Decide 1 hal yang akan adjust hari ini (atau "stay course")
+
+12:00-15:00 — Customer service window 1 (3 jam)
+   - VA handle DM/komen routine (Tier 1) verbatim saved reply
+   - Anda check inbox refund@arifb.id + hi@arifb.id
+   - Process refund yang masuk (target SLA 12 jam aktual)
+
+15:00-17:00 — Anda content prep window
+   - Schedule next-day post di tool scheduling
+   - Reply ke email yang butuh personal touch
+   - Catat learnings di Notion (untuk update FAQ kalau pattern muncul)
+
+17:00-21:00 — Customer service window 2 (4 jam)
+   - VA handle DM/komen volume tinggi (sore-malam = peak DM)
+   - Anda standby untuk eskalasi Tier 2
+
+19:30 — Daily post live (D48/D49/D50)
+   - Per calendar Mgg 7 Section 5 di CONTENT-CALENDAR-BULAN-2.md
+
+22:00 — Anda OFF
+   - VA continue 1 jam sampai 23:00 untuk closing inbox
+```
+
+## 11.3. D51 Sunday — OFF-PITCH Reflection
+
+> **Aturan kritikal:** D51 = HARI MINGGU = OFF-PITCH ABSOLUT.
+
+```
+RITUAL HARIAN D51 (MINGGU)
+
+09:00 — Pagi review SINGKAT (15 menit)
+   - Cek refund queue — process kalau ada urgent
+   - TIDAK update sosmed metric hari ini (rest)
+
+11:00 — Anda OFF SAMPAI 19:00
+   - Tidak buka MailerLite, Lynk.id, sosmed dashboard
+   - Tidak balas DM kerja
+   - Istirahat aktual
+
+14:00 — VA reduced shift (2 jam, 14-16:00)
+   - Routine reply only
+   - Refund queue catch-up
+   - Eskalasi DI-DEFER ke Senin pagi (tidak diteruskan ke Anda)
+
+19:00 — Email #5d Reflection auto-send
+   - Tone OFF-pitch (Section 5.5)
+
+19:30 — POST: D51 Pillar 3 Pak Bi (sudah final di PILLAR-3-STUDI-CASE-PAK-BI.md)
+   - TIDAK ada pitch buku
+   - TIDAK ada link bio harvest
+
+22:00 — Senin schedule lock (15 menit Anda)
+   - Confirm D52 Sen post sudah ready di scheduling
+   - Tidur lebih awal — Mgg 8 dimulai besok
+```
+
+## 11.4. Mgg 8 D52-D58 — Post-Launch Listen Mode
+
+> **Tone shift:** Dari "launch push" ke "reflective listen + cohort waitlist tease". Lower volume, deeper engagement.
+
+| Day | Aktivitas Inti | CS Load |
+|---|---|---|
+| **D52 Sen** | Post post-launch reflection + start waitlist soft tease | 5-15 order/hari, VA 2 jam |
+| **D53 Sel** | Paradoks Pak Bi (sederhana vs kompleks) | sda |
+| **D54 Rab** | List 5 hal post-launch (preview untuk Kamis long-thread) | sda |
+| **D55 Kam** | Long-thread Opsi H "5 hal yang berubah" | sda + reply 1-jam window |
+| **D56 Jum** | Cohort waitlist soft tease | sda |
+| **D57 Sab** | Question B2B reply-farm | sda |
+| **D58 Min** | Pillar 3 Pak Bi closing Bulan 2 | OFF-pitch hari Minggu (sda D51) |
+
+**Audit checkpoint Mgg 8 Senin (D59):**
+- Cumulative order Bulan 2: ≥ 100 unit (50 di Mgg 7 + 50+ di Mgg 8)
+- Cohort waitlist signup: ≥ 80
+- Refund cumulative: ≤ 2%
+- Testimonial collected: ≥ 10
+- Email list growth: 200 → 800 (achieved? on-track to Bulan 3?)
+- Followers Threads: 1.000 → 5.000 (achieved? gap?)
+
+## 11.5. Energy Management Plan untuk Anda (D47-D58)
+
+> **Realita:** 12 hari peak intensitas. Burnout = customer service quality drop = brand damage. Energy management = product safety.
+
+| Day | Energy slot | Boundary |
+|---|---|---|
+| D47 LAUNCH | High intensity 17:00-23:00 (6 jam) | NO work 09-17, OFF after 23:00 |
+| D48-D50 | Medium intensity 09-21 (12 jam dengan break 15-17) | OFF after 22:00, no laptop di kasur |
+| D51 Min | LOW intensity 09-11 + 22:00 brief check | OFF 11:00-22:00 absolute |
+| D52-D54 | Medium-low 09-21 (sda, lebih tenang) | sda |
+| D55 Kam | Spike sampai 22:00 (long-thread night) | OFF after 22:00 |
+| D56-D57 | Low intensity 09-18 (6 jam efektif/hari) | OFF after 18:00 |
+| D58 Min | LOW (sda D51) | OFF 11-22 |
+
+**Aturan critical:**
+- TIDAK ADA "ngecek angka" sebelum tidur — itu meningkatkan kortisol, mengganggu tidur
+- TIDAK ADA balas DM dari kasur — set boundary fisik
+- VA = bukan replacement Anda. VA = filter routine. Substansi tetap Anda.
+- Kalau Anda burnout → customer service quality drop dalam 48 jam → refund rate naik 3-5×
+
+## 11.6. Bulan 3 Handoff — Apa yang Disiapkan dari Mgg 8
+
+| Item | Output Mgg 8 | Untuk dipakai di |
+|---|---|---|
+| **Cohort waitlist data** | Spreadsheet 80+ kontak dengan konteks tim | Cohort launch Mgg 11 (Bulan 3) |
+| **5+ testimonial published** | Section testimonial di landing buku | Permanent landing improvement |
+| **Refund pattern data** | Reason cluster top 3 dari refund Mgg 7-8 | Edisi 2 buku (Bulan 12+) |
+| **B2B inbound dari D33/D43/D57 Question post** | List 20+ B2B leader yang reply | Corporate inbound playbook (Bulan 4+) |
+| **Composite testimonial Day 1-7** | Material untuk D49 sustained push + D55 long-thread | Repurpose Bulan 3 sosmed |
+| **Customer service learnings** | Update FAQ master + saved replies | Prevent same questions Mgg 9+ |
+
+---
+
+*Last updated: Mei 2026 — Sesi 7 Layer 16e (Item 6 SELESAI: Part 4 Section 9-11 + struktur akhir).*
