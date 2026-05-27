@@ -505,4 +505,658 @@ Mgg 11 tambahan: filter ke-5 = **URGENSI ETIS**. Post BOFU di Mgg 11 boleh hard,
 
 ---
 
-*[Commit #1 dari 3. Section selanjutnya — Mgg 10 + Mgg 11 launch week + long-thread D67 & D74 — akan ditambahkan di Commit #2.]*
+## DETAIL PER POST — MINGGU 10 (D64-70)
+
+**Tema minggu:** Cohort waitlist push + A.R.S.I. behind-the-scenes. Trust 3 (Relevansi) jadi gate dominan. Waitlist link mulai visible di bio Senin D64. Soft pitch 2 post (D64 + D67), feed lainnya tetap MOFU/TOFU. Email blast waitlist-open Mgg 10 D64.
+
+---
+
+#### **D64 — Senin · 19:30 WIB · P2 · MOFU · Cohort Waitlist Open**
+
+**🪝 HOOK** (3-baris)
+> *Hari ini saya buka satu pintu — untuk yang ingin berhenti baca dan mulai praktik.*
+>
+> *Bukan jualan. Pre-list — supaya yang serius dapat info pertama, yang sekedar lihat-lihat tidak dipaksa.*
+>
+> *(thread, 5 post)*
+
+**📝 BODY** — 5 post:
+- Post 2: Konteks — selama 9 minggu saya share kerangka berpikir AI. Banyak DM bertanya "lalu praktiknya bagaimana?" — sah, dan saya tidak bisa jawab di komen 280 karakter.
+- Post 3: Yang saya buka: A.R.S.I. Cohort 1. 8 minggu, 2× sesi/minggu, cap 20 peserta. Format yang membuat deliberate practice terjadi konsisten — di konteks pekerjaan Anda sendiri.
+- Post 4: Hari ini = waitlist open. **Belum jualan.** Yang masuk waitlist dapat: (1) info detail tier + curriculum sebelum publik, (2) early-bird bonus, (3) tidak ada paksaan. Anda bisa keluar kapan saja.
+- Post 5 (closing): "Link waitlist di bio. Yang penasaran formatnya tanpa komitmen — silakan. Yang sudah tahu jawabannya — silakan juga."
+
+**🎯 ALGO**: was-was (frame "berhenti baca, mulai praktik") → surprise (cap 20 = real constraint, no paksaan) → kasmaran soft (action: klik bio kalau penasaran)
+
+**🛡️ GATE**: Trust 2 (Karakter — "bukan jualan, pre-list") + Trust 3 (Relevansi via specific format)
+
+**🎨 BJM**: Anchor "deliberate practice", "konteks pekerjaan Anda" — vocabulary ulang dari D58, D60. Hindari: "BURUAN", "TINGGAL X SLOT".
+
+**📤 CTA**: **Cohort-waitlist** (link di bio, no link di body — Threads anti-link-in-body untuk feed)
+
+**🔗 X-POST**: Threads (5-post) + IG carousel 5 slide + LinkedIn (single ~450 kata) + Email blast MailerLite (waitlist subscribers list)
+
+**📚 SRC**: STRATEGI §8 (Value Ladder — cohort tier) · §11 Roadmap Q3 · `LAUNCH-PACK-BUKU.md` SACRED rules echo
+
+**✅ FILTER 4-LAPIS**: Buku ✓ · Asosiasi ✓ (no urgency palsu) · Voice ✓ · Purpose ✓ · **+ URGENSI ETIS** ✓ (cap 20 = real, soft tone)
+
+---
+
+#### **D65 — Selasa · 19:30 WIB · P1 · MOFU · 3 Alasan Tidak Implement**
+
+**🪝 HOOK** (3-baris)
+> *3 alasan struktural mayoritas pembaca buku self-help tidak pernah implement.*
+>
+> *Bukan tentang motivasi. Bukan tentang disiplin.*
+>
+> *(thread, 5 post)*
+
+**📝 BODY** — 5 post:
+- Post 2: **Alasan 1 — Konteks aplikasi belum ada.** Buku = peta. Tanpa teritori spesifik (1 masalah konkret di tangan), peta tidak terhubung ke aksi.
+- Post 3: **Alasan 2 — Feedback loop tidak ada.** Membaca solo = tidak ada koreksi saat asumsi salah. Iterasi butuh feedback dari konteks nyata atau dari orang yang lebih senior melihat blind spot.
+- Post 4: **Alasan 3 — Struktur waktu tidak ada.** "Saya akan implement minggu depan" — minggu depan tidak pernah datang tanpa slot kalender + komitmen pihak ke-3.
+- Post 5 (closing): "3 hal di atas yang saya rancang masuk ke desain Cohort A.R.S.I. — bukan kebetulan. Detail lebih lengkap minggu depan."
+
+**🎯 ALGO**: was-was (post 2-4, jujur tentang celah) → surprise (post 5, soft reveal Cohort dirancang spesifik untuk celah ini)
+
+**🛡️ GATE**: Trust 1 (Kompetensi — frame struktural) + Trust 3 (Relevansi via design intent)
+
+**🎨 BJM**: "konteks aplikasi", "feedback loop", "struktur waktu" — 3 vocabulary cohort yang akan diulang di D67, D74
+
+**📤 CTA**: Soft (komen — "Mana dari 3 alasan yang paling sering Anda alami?")
+
+**🔗 X-POST**: Threads (5-post) + LinkedIn (single ~400 kata)
+
+**📚 SRC**: STRATEGI §4.2 (Pillar 1) · §15.3 (paradoks Pak Bi)
+
+**✅ FILTER 4-LAPIS**: Buku ✓ · Asosiasi ✓ · Voice ✓ · Purpose ✓
+
+---
+
+#### **D66 — Rabu · 12:30 WIB · P2 · TOFU · A.R.S.I. Step A Practical**
+
+**🪝 HOOK** (3-baris)
+> *Sebelum Anda audit AI di organisasi, jawab 5 pertanyaan ini dulu.*
+>
+> *Kalau Anda tidak bisa jawab 3 dari 5 — audit Anda akan menabrak tembok di minggu kedua.*
+>
+> *(thread, 6 post)*
+
+**📝 BODY** — 6 post:
+- Post 2: **Pertanyaan 1** — Output bisnis apa yang Anda mau pengaruhi dengan AI? (bukan "apa yang AI bisa lakukan", tapi "apa yang Anda mau ubah")
+- Post 3: **Pertanyaan 2** — Siapa pengguna akhir output AI itu? Tim internal, klien, atau mesin lain dalam pipeline?
+- Post 4: **Pertanyaan 3** — Apa yang sekarang sudah bekerja yang Anda TIDAK mau hancur saat AI dimasukkan?
+- Post 5: **Pertanyaan 4** — Berapa toleransi error organisasi Anda untuk output AI saat ini? (Tinggi = boleh eksplorasi luas. Rendah = harus narrow scope dulu.)
+- Post 6 (closing): **Pertanyaan 5** — Siapa di organisasi yang akan menjadi "owner" sistem AI ini setelah pilot selesai? Kalau jawabannya tidak ada — audit jangan dimulai.
+
+**🎯 ALGO**: was-was (5 pertanyaan = filter) → surprise (post 6, "kalau jawaban kosong — jangan mulai" = anti-hype)
+
+**🛡️ GATE**: Trust 1 (Kompetensi — pertanyaan struktural senior) + Trust 3 (Relevansi via specific applicability)
+
+**🎨 BJM**: Bocoran A.R.S.I. step Audit pertama 1 layer — generous tanpa kebocoran framework full
+
+**📤 CTA**: Soft (komen — "Pertanyaan ke-berapa yang paling susah dijawab di organisasi Anda?")
+
+**🔗 X-POST**: Threads (6-post) + IG carousel 6 slide + LinkedIn (single ~500 kata) + save-worthy untuk MOFU return-traffic
+
+**📚 SRC**: STRATEGI §4.2 (Pillar 2) · A.R.S.I. step A high-level (no leak isi cohort)
+
+**✅ FILTER 4-LAPIS**: Buku ✓ (no leak A.R.S.I. internal) · Asosiasi ✓ · Voice ✓ · Purpose ✓
+
+---
+
+#### **D67 — Kamis · 20:00 WIB · P2 · MOFU · LONG-THREAD**
+
+> **Long-thread A.R.S.I. case study.** Full draft di section bawah ("LONG-THREAD KAMIS D67").
+>
+> **Posisi:** Bulan 3 long-thread kedua. Build relevansi via case study konkret 8 minggu. Soft CTA ke waitlist (Mgg 11 minus 1 minggu).
+
+**🪝 HOOK** (3-baris pembuka)
+> *8 minggu lalu, Pak D — CEO perusahaan logistik di Surabaya — kirim DM:*
+>
+> *"Tim saya sudah pakai ChatGPT 6 bulan. Output tidak konsisten. Saya tidak tahu salahnya di mana."*
+>
+> *Saya akan ceritakan apa yang berubah — dan apa yang TIDAK.* (thread, 9 post)
+
+**📤 CTA**: **Cohort-waitlist** (link bio + 1 post tease pintu buka pekan depan)
+
+**🔗 X-POST**: Threads (9-post) + IG carousel 9 slide + LinkedIn long-post (~800 kata) + Email blast warming subscribers
+
+---
+
+#### **D68 — Jumat · 19:30 WIB · P1 · TOFU · Hook Callout**
+
+**🪝 HOOK** (single post / 3-baris)
+> *Tools tidak akan menyelamatkan Anda dari kerangka berpikir yang salah.*
+>
+> *ChatGPT Pro tidak akan menyelamatkan Anda dari pertanyaan yang tidak jelas.*
+>
+> *Claude tidak akan menyelamatkan Anda dari workflow yang tidak ter-audit.*
+
+**📝 BODY** — Single post / triplet rhythm. Anchor "tools bukan penyelamat" — vocabulary BJM yang akan jadi shorthand di D71-77.
+
+**🎯 ALGO**: was-was (3× repetisi struktural)
+
+**🛡️ GATE**: Trust 1 (Kompetensi) + Trust 2 (Karakter anti-hype)
+
+**🎨 BJM**: Anchor signature frase "Sistem, bukan tools" rephrase — siap dipakai di sales page CTA
+
+**📤 CTA**: None
+
+**🔗 X-POST**: Threads single + IG quote-graphic + LinkedIn (single ~200 kata)
+
+**📚 SRC**: STRATEGI §6 Hook Bank · BJM landmine "anti-prompt-collection"
+
+**✅ FILTER 4-LAPIS**: Buku ✓ · Asosiasi ✓ · Voice ✓ · Purpose ✓
+
+---
+
+#### **D69 — Sabtu · 11:00 WIB · Mixed · TOFU · Reply-Farm Mgg 10**
+
+**🪝 HOOK** (single post)
+> *Pertanyaan untuk Sabtu Mgg 10:*
+>
+> *Anda sudah punya 1 use case AI yang Anda mau iterate minggu ini di pekerjaan Anda. Saya tantang — tulis di komen: (1) outputnya apa, (2) siapa pengguna akhirnya, (3) success metric-nya bagaimana.*
+>
+> *Yang lengkap saya reply pribadi.*
+
+**📝 BODY** — Single post (Sat reply-farm slot). Tujuan: harvest komen substantif → calon waitlist warm. Pertanyaan yang lengkap = ICP-match siap waitlist. Yang kosong = belum ready, no follow-up.
+
+**🎯 ALGO**: was-was (3× spec filter) → kasmaran (action: tulis spesifik)
+
+**🛡️ GATE**: Trust 2 (Karakter — selektif advisor) + Trust 3 (Relevansi)
+
+**🎨 BJM**: Vocabulary "use case", "success metric" — bahasa decision-maker
+
+**📤 CTA**: Soft (komen wajib lengkap). DM follow-up untuk yang lengkap → ajak ke waitlist (Mgg 10 = waitlist masih open).
+
+**🔗 X-POST**: Threads single
+
+**📚 SRC**: STRATEGI §6 · `REPLY-FARM-PLAYBOOK.md`
+
+**✅ FILTER 4-LAPIS**: Buku ✓ · Asosiasi ✓ · Voice ✓ · Purpose ✓
+
+---
+
+#### **D70 — Minggu · 09:00 WIB · P3 · MOFU · Filosofi Pak Bi**
+
+**🪝 HOOK + BODY**: **Sudah final di `PILLAR-3-STUDI-CASE-PAK-BI.md`** — Insight 1: Brand 1.0–6.0.
+
+**Sequencing match:** Mgg 10 = Insight 1 = T3 → soft T4 (per Pillar 3 file). Cocok untuk transisi minggu sebelum launch — diagnostic "Anda di lapisan mana".
+
+**📤 CTA**: Soft (diagnostic — "Anda di lapisan brand berapa?")
+
+**🔗 X-POST**: Threads + LinkedIn
+
+**📚 SRC**: `PILLAR-3-STUDI-CASE-PAK-BI.md` Insight 1
+
+
+---
+
+## LONG-THREAD KAMIS D67 — "8 MINGGU SETELAH AUDIT AI DI ORGANISASI PAK D"
+
+> **Posisi di kalender:** Hari ke-67, Kamis 20:00 WIB, Mgg 10 Bulan 3.
+> **Tipe:** Long-thread case study A.R.S.I. methodology in action. Pillar 2.
+> **Trust gate:** 3 (Relevansi) — primary build of Bulan 3.
+> **Tahap algoritma:** was-was (post 1-2) → surprise (post 3-7) → kasmaran (post 8-9)
+> **Karakter limit:** target <340 karakter/post
+> **Total post:** 9
+> **Disclaimer kode:** "Pak D" = nama samaran. Detail spesifik (industri logistik, lokasi Surabaya, 6 bulan ChatGPT) di-anonim/generik agar tidak doxx case real.
+
+---
+
+### Post 1 (Hook — was-was)
+
+> *8 minggu lalu, Pak D — CEO perusahaan logistik regional — kirim DM:*
+>
+> *"Tim saya sudah pakai ChatGPT 6 bulan. Output tidak konsisten. Saya tidak tahu salahnya di mana."*
+>
+> *Saya akan ceritakan apa yang berubah — dan apa yang TIDAK.*
+
+*[thread 🧵, 9 post]*
+
+### Post 2 (was-was — situasi awal)
+
+> *Status awal organisasi Pak D:*
+>
+> *— 14 anggota tim 4 departemen pakai ChatGPT*
+> *— Tidak ada SOP siapa pakai untuk apa*
+> *— Output kualitas naik-turun, tergantung mood prompt-er*
+> *— Pak D frustrasi, hampir mau cancel langganan tim*
+>
+> *Saya tidak ada di posisi untuk menilai. Saya minta izin audit struktural.*
+
+### Post 3 (surprise — A.R.S.I. step Audit)
+
+> *Minggu 1-2: Audit.*
+>
+> *Saya petakan 12 use case yang sedang dikerjakan di 4 departemen. Tidak menambah, tidak mengurangi — petakan dulu apa yang ada.*
+>
+> *Hasil yang membuat Pak D kaget: dari 12, hanya 3 use case punya output bisnis yang jelas. 9 sisanya = "supaya kelihatan modern".*
+
+### Post 4 (surprise — step Rancang)
+
+> *Minggu 3-4: Rancang.*
+>
+> *Dari 12 use case, kami fokus 3 yang punya output bisnis jelas. 9 sisanya di-pause — bukan dibatalkan, tapi tidak diprioritaskan tanpa konteks aplikasi yang valid.*
+>
+> *Per use case: kami rancang prompt library standar + criteria output yang acceptable.*
+
+### Post 5 (surprise — step Sistemasi)
+
+> *Minggu 5-6: Sistemasi.*
+>
+> *3 use case tadi di-bungkus jadi SOP yang bisa di-handover.*
+>
+> *Tools setup: Notion shared workspace + 1 prompt library yang versioned. Bukan tools baru — tools yang sudah ada Pak D, di-strukturkan.*
+>
+> *Tim mulai pakai SOP. Output mulai konsisten — 70% pertama kali, naik ke 85% di minggu 6.*
+
+### Post 6 (surprise — step Iterasi)
+
+> *Minggu 7-8: Iterasi.*
+>
+> *Kami pasang metrik measurable per use case (waktu, akurasi, satisfaction internal). Tim retrospective tiap akhir minggu, update SOP berdasarkan friction.*
+>
+> *Pada akhir minggu 8: 1 use case sudah live di produksi 100%. 2 lainnya masih pilot tapi pola sudah jelas.*
+
+### Post 7 (surprise — yang TIDAK berubah)
+
+> *Yang TIDAK berubah saya catat juga.*
+>
+> *Pak D belum bisa scale ke divisi baru — butuh 2 cohort lagi minimal.*
+>
+> *Tim masih butuh refresher tiap 4 minggu.*
+>
+> *Beberapa anggota tim tetap reluctant — ini human, bukan teknologi. Saya tidak janji 100% adoption — itu unrealistis.*
+
+### Post 8 (kasmaran soft — paradoks Pak Bi)
+
+> *Pak Bi pernah tulis: "Sistem yang konsisten 80% lebih bernilai dari brilian yang sporadic."*
+>
+> *Pak D tidak butuh AI yang revolusioner. Tim butuh sistem AI yang konsisten.*
+>
+> *Itu yang A.R.S.I. (Audit, Rancang, Sistemasi, Iterasi) buat — dalam 8 minggu, dengan metrik measurable, di konteks Pak D yang nyata.*
+
+### Post 9 (kasmaran — soft CTA waitlist)
+
+> *Saya akan jujur — saya tidak bisa kerjakan ini 1-on-1 untuk semua DM yang masuk.*
+>
+> *Saya sedang merancang Cohort A.R.S.I. 1 — 8 minggu, 2× sesi/minggu, 20 peserta, mulai awal Bulan 4. Pendaftaran resmi akan dibuka pekan depan, Senin pagi.*
+>
+> *Yang ingin info pertama, link waitlist di bio. Yang penasaran tanpa komitmen — silakan.*
+
+---
+
+### Cheat Sheet pemakaian D67
+
+| Aspek | Detail |
+|---|---|
+| Slot publish | Kamis 20:00 WIB (D67) |
+| Format alternatif | IG carousel 9 slide + LinkedIn long-post compress ~800 kata + Email blast warming subscribers ("Senin pekan depan pintu Cohort 1 buka") |
+| Reply commitment | 30-min target, 60-min red line. Reply komen yang relate ke "saya posisi mirip Pak D" → DM personal: "Tunggu Senin — saya kirim detail lengkap." |
+| Metric yang diharapkan | Views ≥ 20K · Komen substantif ≥ 40 · Save rate ≥ 6% · Waitlist sign-up D67 malam–D68 pagi ≥ 50 sign-up |
+| Red flag | Waitlist sign-up < 20 dalam 24 jam → audit hook + body D74 ulang. Kemungkinan: case Pak D terlalu jauh dari ICP mayoritas, atau CTA terlalu tipis. |
+| Book-safe filter | "Pak D" = nama samaran. Tidak menyebut karakter buku (Riko/Citra/dll). A.R.S.I. nama disebut, isi step di-share 1 layer (high-level) — tidak leak full curriculum. |
+
+---
+
+## DETAIL PER POST — MINGGU 11 (D71-77) — **COHORT LAUNCH WEEK**
+
+> **Tema minggu:** Cohort launch active. BOFU 50% = setengah konten minggu ini hard pitch (etis). Trust gate 3 + soft 4 (urgensi etis = real slot 20). Reply commitment **15-min target** (intensitas launch). On-call DM/WA 09:00–21:00 WIB.
+>
+> **Premature monetization rules — STATUS MGG 11:**
+> - 🟢 Pitch cohort hard = OK (BOFU active)
+> - 🟢 Slot count transparent ("X dari 20 terisi") = OK kalau real
+> - 🚫 Slot palsu / urgency timer countdown = HARAM
+> - 🚫 Diskon = HARAM (anti-discount, pakai bonus stacking max 1-2 layer)
+>
+> **Daily metrics yang dilacak Mgg 11:**
+> - Cohort sold (ARSITEK + ARSITEK PLUS)
+> - Tier split (target 60% / 40%)
+> - DM/WA inquiry → conversion
+> - Refund/cancel signal (kalau ada — cek pricing/messaging)
+
+---
+
+#### **D71 — Senin · LAUNCH DAY · P1 · BOFU · DOORS OPEN**
+
+> **HARI HISTORIS.** Schedule special — bukan slot 19:30 reguler. Multi-touch hari ini.
+
+**Run-of-show D71 (jam-per-jam):**
+
+| Jam WIB | Aktivitas | Channel |
+|---|---|---|
+| **06:00** | Final check sales page, Lynk.id checkout, WA SOP team brief | Internal |
+| **08:00** | **Post utama: Doors open thread** (5-post) | Threads + IG + LinkedIn |
+| **08:15** | Email blast #1 ke waitlist: "Pintu Cohort 1 terbuka — link, FAQ, tier" | MailerLite |
+| **09:00** | IG Story: "Pintu buka" + swipe-up ke sales page | IG Story (24h) |
+| **09:00–12:00** | On-call inquiry (DM/WA) | Real-time |
+| **13:00** | Quick update post: "Status pagi ini — terima kasih untuk yang sudah daftar pertama" (gratitude, not pitch) | Threads |
+| **17:00** | IG Reels 60-detik: "Apa yang akan terjadi 8 minggu ke depan kalau Anda di Cohort 1" (cross-platform pull) | IG Reels |
+| **19:30** | Reply komen long-thread D71 morning | Threads |
+| **21:00** | Email blast #2 (close-of-day): "Hari pertama. X dari 20 slot terisi. Yang ragu — baca FAQ ini." | MailerLite |
+| **22:00** | Internal log: tier split, geo, source attribution | Notion |
+
+**🪝 HOOK** (D71 morning thread, 5-baris)
+> *Pintu Cohort A.R.S.I. 1 terbuka pagi ini.*
+>
+> *8 minggu, 2× sesi/minggu, 20 peserta cap. Mulai 24 [BULAN_NAMA].*
+>
+> *Pendaftaran resmi tutup Minggu malam — atau saat 20/20 terisi (mana yang duluan).*
+>
+> *Detail tier + curriculum + FAQ saya pasang di sales page. Link di bio.*
+>
+> *(thread, 5 post — apa yang Anda dapat, untuk siapa, untuk siapa BUKAN, refund policy, closing)*
+
+**📝 BODY** — 5 post:
+- Post 2: **Apa yang Anda dapat (8 minggu)** — 16 sesi (8 group teaching + 8 group Q&A) live via Zoom + Notion shared workspace + worksheet 8 modul + akses alumni community.
+- Post 3: **Untuk siapa** — pemimpin tim/founder/decision-maker yang sudah pakai AI di pekerjaan, ingin upgrade dari "tim pakai random" ke "sistem yang ter-audit". Min 1 use case konkret di tangan saat join.
+- Post 4: **Untuk siapa BUKAN** — yang mau "belajar AI dari nol" (lebih cocok beli buku dulu). Yang mau "growth hacking 1 minggu" (cohort = 8 minggu deliberate practice, bukan sprint). Yang tidak punya 4-6 jam/minggu (cohort intensitas medium-high).
+- Post 5 (closing): "2 tier: ARSITEK (Rp 4,9JT) + ARSITEK PLUS (Rp 7,5JT). Refund 7 hari. Pintu tutup [TANGGAL] 23:59 WIB. Link di bio."
+
+**🎯 ALGO**: was-was (post 4, untuk siapa BUKAN = filter etis) → surprise (post 5, refund 7 hari = anti-pressure) → kasmaran (action: klik bio)
+
+**🛡️ GATE**: Trust 3 (Relevansi via specificity) + Trust 4 (Urgensi etis via real cap + real deadline)
+
+**🎨 BJM**: Anchor "ter-audit", "deliberate practice" — vocabulary konsisten dari D58/D60/D67
+
+**📤 CTA**: **Cohort-buy** (link bio sales page)
+
+**🔗 X-POST**: Threads (5-post) + IG carousel 5 slide + LinkedIn (single ~600 kata) + Email blast #1
+
+**📚 SRC**: `LAUNCH-PACK-BUKU.md` SACRED rules (anti-discount, anti-urgency-palsu echo) · STRATEGI §11 Roadmap
+
+**✅ FILTER 4-LAPIS**: Buku ✓ · Asosiasi ✓ · Voice ✓ · Purpose ✓ · **+ URGENSI ETIS** ✓ (real cap + real deadline + refund policy = anti-pressure)
+
+---
+
+#### **D72 — Selasa · 19:30 WIB · P2 · BOFU · Qualifier Post**
+
+**🪝 HOOK** (3-baris)
+> *Saya akan tegas tentang siapa yang TIDAK saya rekomendasi ikut Cohort A.R.S.I.*
+>
+> *Bukan tentang siapa yang "kurang pintar". Tentang fit.*
+>
+> *(thread, 6 post)*
+
+**📝 BODY** — 6 post:
+- Post 2: **Tidak cocok #1** — Anda mau "belajar AI dari nol". Cohort ini bukan kursus dasar. Beli buku dulu, datang Cohort 2 atau 3.
+- Post 3: **Tidak cocok #2** — Anda mencari quick win 1 minggu. Cohort = 8 minggu deliberate practice. Hasil terukur ada di Mgg 6-8, bukan Mgg 1.
+- Post 4: **Tidak cocok #3** — Anda tidak punya 4-6 jam/minggu. Cohort intensitas medium-high. Tanpa slot waktu, hasilnya tidak fair untuk Anda atau peserta lain.
+- Post 5: **Tidak cocok #4** — Anda mau "ikut karena harga lagi murah". Tidak ada diskon. Pricing = pricing. Yang kompromi harga akan kompromi hasil.
+- Post 6 (closing): "Yang cocok: pemimpin/founder/decision-maker dengan 1 use case AI konkret di pekerjaan, butuh struktur 8 minggu untuk implement. Kalau itu Anda — link di bio."
+
+**🎯 ALGO**: was-was (4× rejection = filter sehat) → kasmaran (post 6, who fits)
+
+**🛡️ GATE**: Trust 2 (Karakter — selektif, anti-money-grab) + Trust 3 (Relevansi specific)
+
+**🎨 BJM**: Anchor ulang "deliberate practice 8 minggu" — re-establish dari D60/D67
+
+**📤 CTA**: **Cohort-buy** (link bio)
+
+**🔗 X-POST**: Threads (6-post) + IG carousel 6 slide + LinkedIn (single ~500 kata)
+
+**📚 SRC**: `LAUNCH-PACK-BUKU.md` qualifier section · STRATEGI §15.3 paradoks Pak Bi (selektif > broad)
+
+**✅ FILTER 4-LAPIS**: Buku ✓ · Asosiasi ✓ · Voice ✓ · Purpose ✓ · **URGENSI ETIS** ✓ (no fake scarcity, fokus fit)
+
+---
+
+#### **D73 — Rabu · 12:30 WIB · P1 · MOFU · FAQ Live**
+
+**🪝 HOOK** (3-baris)
+> *Hari ini saya kompilasi pertanyaan paling sering 48 jam terakhir tentang Cohort A.R.S.I.*
+>
+> *5 pertanyaan = 90% volume DM/WA. Saya jawab semua di sini.*
+>
+> *(thread, 7 post)*
+
+**📝 BODY** — 7 post (5 FAQ + opening + closing):
+- Post 2: **Q1: "Berapa jam komitmen per minggu?"** A: 4-6 jam (2 sesi @1.5 jam + ~1-3 jam praktik mandiri). Yang nyaman: punya slot kalender lock. Yang sulit: butuh kompromi pekerjaan.
+- Post 3: **Q2: "Apa bedanya ARSITEK dan ARSITEK PLUS?"** A: ARSITEK = group only (Rp 4,9JT). ARSITEK PLUS = group + 1-on-1 audit 90-min + tools setup priority (Rp 7,5JT). Untuk yang punya use case kompleks atau tim multi-divisi, ambil PLUS. Untuk yang single-use-case clear, ARSITEK cukup.
+- Post 4: **Q3: "Saya belum baca buku — boleh ikut?"** A: Boleh. Tapi rekomendasi: baca minimum bab 1-3 (NEURO-ARC) sebelum sesi pertama, supaya kerangka berpikir sudah selaras. Tidak harus tuntas.
+- Post 5: **Q4: "Refund policy bagaimana?"** A: 7 hari setelah sesi pertama, full refund tanpa pertanyaan. Setelah 7 hari, tidak refund — karena workshop sudah berjalan dan slot tidak bisa diisi peserta lain.
+- Post 6: **Q5: "Kalau Cohort 1 penuh, saya bisa apa?"** A: Otomatis masuk waitlist Cohort 2 (Mgg 28 / sekitar Bulan 7). Yang masuk waitlist Cohort 2 dapat early-bird bonus + pricing yang sama (tidak naik).
+- Post 7 (closing): "Kalau ada Q6 yang tidak ke-cover di atas — DM saya, atau klik link sales page di bio (FAQ section di bawah)."
+
+**🎯 ALGO**: was-was (Q yang sering di-tanya = pain real) → surprise (Q4, refund liberal = anti-pressure) → kasmaran soft (action: DM atau klik bio)
+
+**🛡️ GATE**: Trust 2 (Karakter — transparent + jujur) + Trust 3 (Relevansi via specificity)
+
+**🎨 BJM**: Format FAQ = save-worthy → return traffic untuk yang ragu
+
+**📤 CTA**: Soft (DM open + link bio)
+
+**🔗 X-POST**: Threads (7-post) + LinkedIn (single ~700 kata, ideal MOFU pickup) + IG carousel 7 slide save-worthy
+
+**📚 SRC**: `LAUNCH-PACK-BUKU.md` FAQ section pattern · STRATEGI §17.4 (anti-discount echo)
+
+**✅ FILTER 4-LAPIS**: Buku ✓ · Asosiasi ✓ · Voice ✓ · Purpose ✓ · **URGENSI ETIS** ✓ (refund policy transparent)
+
+---
+
+#### **D74 — Kamis · 20:00 WIB · P2 · BOFU · LONG-THREAD LAUNCH ANNOUNCEMENT**
+
+> **THE BIG THREAD.** Long-thread paling kritis Bulan 3. Full draft di section bawah ("LONG-THREAD KAMIS D74").
+
+**🪝 HOOK** (3-baris pembuka)
+> *Hari ke-4 Cohort A.R.S.I. 1 launch.*
+>
+> *Saya akan kompilasi dalam 1 thread: format, untuk siapa, slot real, dan apa yang TIDAK Anda dapatkan.*
+>
+> *Untuk yang masih timbang-timbang — baca ini sampai selesai.* (thread, 10 post)
+
+**📤 CTA**: **Cohort-buy** (link bio + dedicated sales page)
+
+**🔗 X-POST**: Threads (10-post) + IG carousel 10 slide + LinkedIn long-post (~900 kata) + Email blast #4 mid-week
+
+---
+
+#### **D75 — Jumat · 19:30 WIB · P1 · BOFU · Slot Status Update**
+
+**🪝 HOOK** (3-baris — angka di-fill saat publish, real)
+> *Update Cohort A.R.S.I. — pukul 19:30 WIB, hari ke-5 launch.*
+>
+> *[X] dari 20 slot terisi. ARSITEK [Y]. ARSITEK PLUS [Z].*
+>
+> *Pintu tutup [TANGGAL] 23:59 WIB.*
+
+**📝 BODY** — Single post atau 3-post mini-thread (tergantung X count):
+- **Kalau X ≥ 15** (mendekati cap): "Slot tersisa [20-X]. Yang sudah yakin, link bio. Yang ragu — masih ada Q5 yang sering: [pertanyaan transition smooth]."
+- **Kalau 8 ≤ X < 15** (mid-range): "Per data, [Y]% peserta yang yakin daftar dalam 24 jam pertama. Yang ragu di hari 5 = pertimbangan fit lebih dalam. Saya tidak akan urge."
+- **Kalau X < 8** (slow start): "Per data, ini lebih lambat dari ekspektasi saya. Saya akan jujur: kalau Anda timbang-timbang, kemungkinan ada ke-belum-cocokan dengan messaging saya. DM saya — saya bantu klarifikasi tanpa pitch."
+
+**🎯 ALGO**: was-was/surprise (transparent count = anti-fake-scarcity) → kasmaran (action: klik atau DM)
+
+**🛡️ GATE**: Trust 2 (Karakter — transparent number) + Trust 4 (Urgensi etis real)
+
+**🎨 BJM**: Anchor "saya akan jujur" — anti-marketing-spin
+
+**📤 CTA**: **Cohort-buy** + DM open
+
+**🔗 X-POST**: Threads (1-3 post tergantung scenario) + IG Story update + Email blast pendek
+
+**📚 SRC**: `LAUNCH-PACK-BUKU.md` mid-launch transparency pattern
+
+**✅ FILTER 4-LAPIS**: Buku ✓ · Asosiasi ✓ · Voice ✓ · Purpose ✓ · **URGENSI ETIS** ✓ (count real, scenario-adaptive tone)
+
+**🚨 CRITICAL:** Angka [X], [Y], [Z] WAJIB diisi dengan data real saat publish. Salah angka = kepercayaan rusak permanen.
+
+---
+
+#### **D76 — Sabtu · 11:00 WIB · P2 · BOFU · Final Qualifier**
+
+**🪝 HOOK** (3-baris)
+> *24 jam sebelum pintu Cohort A.R.S.I. tutup.*
+>
+> *Untuk yang masih ragu — bukan post jualan. Post diagnostik.*
+>
+> *Jawab 4 pertanyaan ini dulu sebelum klik "Daftar":*
+
+**📝 BODY** — 5 post (4 diagnostik + closing):
+- Post 2: **D1 — Apakah Anda punya 1 use case AI konkret di pekerjaan Anda saat ini?** Kalau tidak, jangan daftar. Cohort = praktik di konteks nyata, bukan teori.
+- Post 3: **D2 — Apakah Anda bisa lock 4-6 jam/minggu selama 8 minggu?** Kalau tidak (musim sibuk, deadline besar), tunggu Cohort 2.
+- Post 4: **D3 — Apakah Anda ingin "tahu lebih banyak" atau "implement lebih konsisten"?** Cohort = untuk yang kedua. Untuk yang pertama, beli buku saja.
+- Post 5: **D4 — Apakah Anda OK dengan model 8 minggu deliberate practice (bukan sprint)?** Hasil ada di Mgg 6-8, bukan Mgg 1. Ini bukan instagram coaching.
+- Post 6 (closing): "Kalau 4 jawaban Anda 'iya' — link bio. Kalau ada 1 'tidak' — Cohort 2 atau buku saja."
+
+**🎯 ALGO**: was-was (4× filter) → surprise (post 5, "bukan instagram coaching" = positioning anti-hype) → kasmaran (post 6, action clear)
+
+**🛡️ GATE**: Trust 2 (Karakter — selektif final) + Trust 4 (Urgensi etis real)
+
+**🎨 BJM**: "deliberate practice", "instagram coaching" anti-frase — vocabulary anti-hype
+
+**📤 CTA**: **Cohort-buy** + Cohort 2 waitlist signal
+
+**🔗 X-POST**: Threads (5-post) + IG carousel save-worthy + LinkedIn (single ~450 kata) + Email blast #5 mid-Sabtu
+
+**📚 SRC**: `LAUNCH-PACK-BUKU.md` final qualifier pattern · STRATEGI §14 anti-burnout
+
+**✅ FILTER 4-LAPIS**: Buku ✓ · Asosiasi ✓ · Voice ✓ · Purpose ✓ · **URGENSI ETIS** ✓ (no pressure, fokus fit)
+
+---
+
+#### **D77 — Minggu · 09:00 WIB · P3 · MOFU · Filosofi Pak Bi**
+
+**🪝 HOOK + BODY**: **Sudah final di `PILLAR-3-STUDI-CASE-PAK-BI.md`** — Insight 2: Fakta Baru.
+
+**Sequencing match:** Mgg 11 = Insight 2 = T3 → T4 (per Pillar 3 file). Cocok untuk closing day cohort launch — reframe long-term.
+
+**📤 CTA**: None (Sunday reflective, anti-pressure di hari closing)
+
+**🔗 X-POST**: Threads + LinkedIn
+
+**📚 SRC**: `PILLAR-3-STUDI-CASE-PAK-BI.md` Insight 2
+
+**🚨 CRITICAL D77 NIGHT:** Pukul 23:59 WIB = pintu cohort tutup. **Di malam hari (sekitar 21:00 WIB):** 1 post pendek "Tutup beberapa jam lagi — yang yakin, link bio. Yang ragu — Cohort 2 awal Bulan 7." Single post, no thread, no pressure.
+
+---
+
+## LONG-THREAD KAMIS D74 — "COHORT A.R.S.I. — FORMAT, UNTUK SIAPA, SLOT REAL"
+
+> **Posisi di kalender:** Hari ke-74, Kamis 20:00 WIB, Mgg 11 Bulan 3. **Long-thread paling kritis Bulan 3.**
+> **Tipe:** Launch announcement long-thread. Pillar 2. BOFU active.
+> **Trust gate:** 3 (Relevansi via specificity) + 4 (Urgensi etis via real constraint)
+> **Tahap algoritma:** was-was (post 1-3) → surprise (post 4-7) → kasmaran (post 8-10)
+> **Karakter limit:** target <340 karakter/post
+> **Total post:** 10
+> **Catatan:** Angka slot count [X] WAJIB di-update real saat publish, jangan static.
+
+---
+
+### Post 1 (Hook — was-was setup)
+
+> *Hari ke-4 dari 7 hari Cohort A.R.S.I. 1 launch.*
+>
+> *Saya akan kompilasi dalam 1 thread: format, untuk siapa, slot real, dan apa yang TIDAK Anda dapatkan.*
+>
+> *Untuk yang masih timbang-timbang — baca ini sampai selesai.*
+
+*[thread 🧵, 10 post]*
+
+### Post 2 (was-was — pre-frame)
+
+> *Saya tidak akan menggunakan thread ini untuk persuade.*
+>
+> *Saya akan transparan tentang struktur, biaya, dan limitasi. Setelah baca, Anda akan tahu fit atau tidak — tanpa saya ke-buntu jualan.*
+>
+> *Cohort yang tidak fit akan rugi 8 minggu hidup Anda. Jujur lebih murah dari pretty.*
+
+### Post 3 (was-was — angka konteks)
+
+> *Per [TANGGAL] [JAM] WIB:*
+>
+> *— [X] dari 20 slot terisi*
+> *— Tier ARSITEK: [Y] · Tier ARSITEK PLUS: [Z]*
+> *— Pintu tutup [TANGGAL] 23:59 WIB*
+> *— Refund 7 hari (no question asked)*
+>
+> *Tidak ada diskon. Tidak akan ada "spesial harga hari ini". Pricing = pricing.*
+
+### Post 4 (surprise — format konkret)
+
+> *Format 8 minggu:*
+>
+> *— 16 sesi live via Zoom (8 group teaching + 8 group Q&A)*
+> *— Notion shared workspace (akses 12 bulan post-cohort)*
+> *— Worksheet 8 modul (1 per minggu, A.R.S.I. step deeper layer)*
+> *— Komunitas alumni 4 cohort (kalau ini sukses, akan tumbuh)*
+>
+> *Mulai 24 [BULAN_NAMA]. Berakhir [TANGGAL].*
+
+### Post 5 (surprise — 2 tier)
+
+> *2 tier:*
+>
+> *ARSITEK (Rp 4,9JT) — Group teaching + group Q&A + workspace + worksheet. Cocok untuk single-use-case clear.*
+>
+> *ARSITEK PLUS (Rp 7,5JT) — Semua di atas + 1-on-1 audit 90 menit dengan saya + tools setup priority. Cocok untuk multi-divisi atau use case kompleks.*
+
+### Post 6 (surprise — untuk siapa)
+
+> *Cocok untuk:*
+>
+> *— Founder/CEO/decision-maker dengan tim 5+ yang sudah pakai AI*
+> *— Manajer senior yang punya 1 use case AI konkret di tangan*
+> *— Konsultan yang mau upgrade audit framework klien*
+>
+> *Bukan untuk:*
+>
+> *— Yang baru kenal AI (beli buku dulu)*
+> *— Yang cari quick win 1 minggu (cohort = 8 minggu)*
+> *— Yang tidak punya 4-6 jam/minggu*
+
+### Post 7 (surprise — apa yang TIDAK Anda dapat)
+
+> *Yang TIDAK Anda dapat:*
+>
+> *— Saya 1-on-1 setiap minggu (cohort = group, by design)*
+> *— "Magic prompt" yang akan ubah segala (tidak ada — yang ada sistem terstruktur)*
+> *— Janji ROI X% dalam waktu Y (saya tidak janji apa yang saya tidak bisa kontrol)*
+> *— Akses lifetime materi (akses 12 bulan post-cohort, fair)*
+
+### Post 8 (kasmaran — paradoks Pak Bi soft echo)
+
+> *Pak Bi pernah tulis: "Yang berani jujur tentang batasnya, biasanya yang paling penuh isinya."*
+>
+> *Saya bilang ini bukan untuk semua orang — bukan reverse psychology. Real.*
+>
+> *Cohort = format yang spesifik. Untuk pertanyaan spesifik. Dengan komitmen spesifik.*
+
+### Post 9 (kasmaran — bonus etis early bird kalau masih aktif)
+
+> *Bonus 72 jam pertama (yang sudah daftar D71-D73):*
+>
+> *— Akses Q&A live group 60-min sebelum cohort start (icebreaker + clarifikasi)*
+> *— Worksheet bonus: "Audit AI 90-menit untuk diri sendiri sebelum sesi pertama"*
+>
+> *Per [TANGGAL] hari ini, bonus 72 jam SUDAH TUTUP. Yang baru daftar mulai D74 = pricing reguler tanpa bonus 72 jam. Pricing tetap sama, bonus tidak.*
+
+### Post 10 (kasmaran — closing tanpa pressure)
+
+> *Yang sudah punya jawaban "iya" 4 pertanyaan diagnostik di FAQ Rabu — link sales page di bio.*
+>
+> *Yang ragu — DM saya, atau tunggu Cohort 2 awal Bulan 7 (waitlist tetap dibuka, pricing sama).*
+>
+> *Yang sudah daftar — terima kasih. Sesi pertama 24 [BULAN_NAMA]. Saya akan kirim onboarding via email Sabtu.*
+>
+> *— Arif*
+
+---
+
+### Cheat Sheet pemakaian D74
+
+| Aspek | Detail |
+|---|---|
+| Slot publish | Kamis 20:00 WIB (D74) |
+| Variabel WAJIB diisi | [X], [Y], [Z] = slot count real per [TANGGAL] [JAM] WIB. [BULAN_NAMA] = nama bulan start cohort. [TANGGAL] cutoff = D77 23:59 WIB. |
+| Format alternatif | IG carousel 10 slide + LinkedIn long-post (~900 kata) + Email blast #4 mid-week |
+| Reply commitment | **15-min target** (launch week intensitas). Reply komen yang tanya tier comparison → DM dengan flow chart 2 tier kasih konkret. |
+| Metric yang diharapkan | Views ≥ 25K (target top post Bulan 3) · Komen substantif ≥ 60 · Save rate ≥ 8% · D74 night–D75 morning conversion ≥ 5 sold |
+| Red flag | Komen substantif < 30 → audit hook D74 + body D76 ulang. Conversion < 3 → harga atau messaging perlu klarifikasi via D75 update. |
+| Book-safe filter | Nama framework (NEURO-ARC, A.R.S.I.) disebut, isi protected. Tidak menyebut karakter buku spesifik, scene Prolog, angka spesifik buku. |
+
+---
+
+*[Commit #2 dari 3. Section selanjutnya — Mgg 12 retrospective + long-thread D81 bridge ke Bulan 4 + post-Bulan-3 retro template + update LANJUTKAN-DI-SINI.md — akan ditambahkan di Commit #3.]*
