@@ -1159,4 +1159,416 @@ Mgg 11 tambahan: filter ke-5 = **URGENSI ETIS**. Post BOFU di Mgg 11 boleh hard,
 
 ---
 
-*[Commit #2 dari 3. Section selanjutnya — Mgg 12 retrospective + long-thread D81 bridge ke Bulan 4 + post-Bulan-3 retro template + update LANJUTKAN-DI-SINI.md — akan ditambahkan di Commit #3.]*
+## DETAIL PER POST — MINGGU 12 (D78-84)
+
+**Tema minggu:** Cohort closing + retrospective + bridge Bulan 4. BOFU shift dari cohort hard pitch → corporate inbound soft tease. Trust 3 → soft Trust 4 (Bulan 4). Reply commitment kembali ke 30-min target reguler.
+
+**Premature monetization rules — STATUS MGG 12:**
+- 🟢 Pitch cohort tutup (sudah closed D77 23:59)
+- 🟢 Soft tease consulting/corporate = OK (Mgg 12 = bridge week)
+- 🚫 Hard pitch consulting = BELUM (Bulan 4)
+- 🚫 Diskon = HARAM (selamanya)
+
+---
+
+#### **D78 — Senin · 19:30 WIB · P2 · MOFU · Post-Launch Debrief**
+
+**🪝 HOOK** (3-baris)
+> *Kemarin malam pukul 23:59 WIB, pintu Cohort A.R.S.I. 1 tutup.*
+>
+> *Hari ini saya akan refleksi — apa yang berhasil, apa yang tidak. Bukan untuk celebrate. Untuk pembelajaran publik.*
+>
+> *(thread, 6 post)*
+
+**📝 BODY** — 6 post:
+- Post 2: Angka final — [X] dari 20 slot terisi. Tier ARSITEK [Y] · Tier ARSITEK PLUS [Z]. *(Angka real, no inflate.)*
+- Post 3: Yang berjalan baik — [variabel: tergantung scenario sukses, contoh: kualitas inquiry tinggi, decision-maker fit, geo Jabodetabek-luar 50/50]. Saya akan jujur tentang apa yang berhasil.
+- Post 4: Yang TIDAK berjalan sesuai harapan — [variabel: contoh: tier PLUS slow start D71-D72, butuh post diagnostik tambahan D73 untuk menjelaskan]. Saya akan jujur tentang apa yang harus saya perbaiki untuk Cohort 2.
+- Post 5: Pelajaran terbesar — *(observasi spesifik dari data real, bukan kalimat motivational)*. Misal: "ICP saya bukan yang scrolling cepat. ICP saya yang baca FAQ 3× sebelum daftar — itu yang konversi."
+- Post 6 (closing): "Untuk yang sudah daftar — sesi pertama 24 [BULAN]. Saya akan kirim onboarding email Sabtu. Untuk yang masih timbang-timbang — Cohort 2 mulai Mgg 28 (sekitar Bulan 7), waitlist sudah dibuka di sales page yang sama."
+
+**🎯 ALGO**: was-was (post 4 jujur tidak berhasil) → surprise (post 5 pelajaran spesifik) → kasmaran soft (post 6 path forward jelas)
+
+**🛡️ GATE**: Trust 2 (Karakter — jujur post-launch, bukan celebrate-only) + Trust 3 (Relevansi via Cohort 2 path)
+
+**🎨 BJM**: Anchor "pembelajaran publik" — vocabulary yang akan jadi pattern Mgg 12
+
+**📤 CTA**: None (Cohort 2 waitlist bisa diakses di link bio, tapi tidak di-push)
+
+**🔗 X-POST**: Threads (6-post) + LinkedIn (single ~600 kata, ideal MOFU pickup) + IG carousel 6 slide
+
+**📚 SRC**: STRATEGI §15.3 (paradoks Pak Bi — jujur kalah lebih kuat dari pretty win) · `LAUNCH-PACK-BUKU.md` post-launch debrief pattern
+
+**✅ FILTER 4-LAPIS**: Buku ✓ · Asosiasi ✓ · Voice ✓ (anti-celebratory) · Purpose ✓ (anchor Cohort 2 + retro publik)
+
+---
+
+#### **D79 — Selasa · 19:30 WIB · P1 · MOFU · Insight Harvest**
+
+**🪝 HOOK** (3-baris)
+> *200+ inquiry DM/WA/email selama 14 hari launch.*
+>
+> *3 pola yang saya tidak duga muncul — dan akan saya pakai untuk merancang Cohort 2.*
+>
+> *(thread, 5 post)*
+
+**📝 BODY** — 5 post:
+- Post 2: **Pola 1** — [variabel sesuai data real, contoh: "yang paling banyak ragu = manajer middle yang tim-nya 5-15 orang, bukan founder solo. Mereka butuh format yang mengakomodasi politik internal organisasi."]
+- Post 3: **Pola 2** — [contoh: "yang upgrade dari ARSITEK ke PLUS bukan yang punya budget lebih, tapi yang punya use case multi-divisi. Tier PLUS = signal kompleksitas, bukan flexing."]
+- Post 4: **Pola 3** — [contoh: "yang langsung daftar D71-D72 = sudah terbangun trust 8 minggu. Yang daftar D75-D77 = baru kenal di launch week, butuh transparent slot count untuk yakin."]
+- Post 5 (closing): "Cohort 2 akan saya rancang ulang berdasarkan 3 pola di atas. Detail revisi akan saya share Bulan 4 — termasuk untuk yang sudah masuk waitlist Cohort 2."
+
+**🎯 ALGO**: was-was (3× pola tidak terduga) → surprise (insight pattern) → kasmaran soft (Cohort 2 = path forward)
+
+**🛡️ GATE**: Trust 1 (Kompetensi — pattern recognition) + Trust 2 (Karakter — share data, bukan rahasiakan)
+
+**🎨 BJM**: Anchor "saya akan rancang ulang" — anti-static, growth mindset signal
+
+**📤 CTA**: None
+
+**🔗 X-POST**: Threads (5-post) + LinkedIn (single ~500 kata)
+
+**📚 SRC**: STRATEGI §16 (Continuous improvement) · `LAUNCH-PACK-BUKU.md` insight harvest pattern
+
+**✅ FILTER 4-LAPIS**: Buku ✓ · Asosiasi ✓ · Voice ✓ · Purpose ✓ (Cohort 2 nurture)
+
+---
+
+#### **D80 — Rabu · 12:30 WIB · P2 · TOFU · 3 Framework yang Sering Dilewatkan**
+
+**🪝 HOOK** (3-baris)
+> *3 framework yang sering dilewatkan saat audit AI di organisasi.*
+>
+> *Bukan teori akademis. Pola yang saya temukan dari 8 audit dalam 3 bulan terakhir.*
+>
+> *(thread, 5 post)*
+
+**📝 BODY** — 5 post:
+- Post 2: **Framework 1: Output-First Mapping** — kebanyakan audit dimulai dari "tools mana yang dipakai". Yang lebih fundamental: "output bisnis apa yang harus berubah". Tools = downstream decision.
+- Post 3: **Framework 2: Permission Layer** — sebelum scaling AI ke tim, petakan "siapa yang punya wewenang mengubah workflow". Tanpa permission layer jelas, AI = blocked di adoption.
+- Post 4: **Framework 3: Failure Mode Audit** — 80% audit fokus pada "happy path" (kalau AI bekerja). Yang underestimate: failure path. Apa yang terjadi kalau AI salah? Siapa catch? Bagaimana reprocess?
+- Post 5 (closing): "3 framework di atas = layer Audit dalam A.R.S.I. yang saya bahas detail di Cohort. Untuk overview gratis — buku THE AI ARCHITECT bab 4-5."
+
+**🎯 ALGO**: was-was (3× pertanyaan tidak biasa) → surprise (insight struktural) → kasmaran (action: cek di buku/cohort)
+
+**🛡️ GATE**: Trust 1 (Kompetensi — framework asli) + Trust 3 (Relevansi via specificity)
+
+**🎨 BJM**: Bocor 1 layer A.R.S.I. — generous tanpa leak full curriculum cohort
+
+**📤 CTA**: Soft (link buku di bio + Cohort 2 waitlist)
+
+**🔗 X-POST**: Threads (5-post) + LinkedIn (single ~600 kata, save-worthy untuk MOFU return) + IG carousel 5 slide
+
+**📚 SRC**: STRATEGI §4.2 Pillar 2 · A.R.S.I. step Audit deeper (1 layer)
+
+**✅ FILTER 4-LAPIS**: Buku ✓ · Asosiasi ✓ · Voice ✓ · Purpose ✓ (corporate inbound signal — framework relevan ke audit B2B)
+
+---
+
+#### **D81 — Kamis · 20:00 WIB · Mixed · MOFU · LONG-THREAD**
+
+> **Long-thread refleksi 3 bulan publik.** Full draft di section bawah ("LONG-THREAD KAMIS D81").
+>
+> **Posisi:** Bulan 3 long-thread terakhir. Bridge ke Bulan 4. Tease corporate inbound (soft). Trust 3 → soft Trust 4.
+
+**🪝 HOOK** (3-baris pembuka)
+> *3 bulan lalu saya post Manifesto pertama di akun ini.*
+>
+> *Tidak ada plan yang jelas. Hanya hipotesis: kalau saya jujur tentang struktur sistem AI, akan ada audience yang resonate.*
+>
+> *Hari ini saya akan refleksi — angka, pelajaran, dan apa yang berikutnya.* (thread, 9 post)
+
+**📤 CTA**: None (refleksi mode, bukan pitch)
+
+**🔗 X-POST**: Threads (9-post) + IG carousel 9 slide + LinkedIn long-post (~800 kata, ideal MOFU pickup)
+
+---
+
+#### **D82 — Jumat · 19:30 WIB · P1 · TOFU · Hook Contrarian Audit**
+
+**🪝 HOOK** (single post / 4-baris)
+> *Audit AI ≠ install ChatGPT Enterprise.*
+>
+> *Audit AI ≠ pakai prompt library yang viral.*
+>
+> *Audit AI ≠ kirim tim ke training 2-hari.*
+>
+> *Audit AI = pertanyaan struktural sebelum tools, sebelum prompt, sebelum training.*
+
+**📝 BODY** — Single post / 4× negation rhythm. Setup vocabulary "audit struktural" untuk dipakai Bulan 4 corporate inbound.
+
+**🎯 ALGO**: was-was (3× negation) → surprise (post 4, definisi reframe)
+
+**🛡️ GATE**: Trust 1 (Kompetensi — definisi yang spesifik) + Trust 2 (Karakter — anti-shortcut)
+
+**🎨 BJM**: Anchor "audit struktural" — vocabulary corporate-friendly Bulan 4
+
+**📤 CTA**: None
+
+**🔗 X-POST**: Threads single + IG quote-graphic + LinkedIn (single ~250 kata)
+
+**📚 SRC**: STRATEGI §6 Hook Bank · BJM landmine "anti-prompt-collection" echo
+
+**✅ FILTER 4-LAPIS**: Buku ✓ · Asosiasi ✓ · Voice ✓ · Purpose ✓ (corporate inbound vocabulary seed)
+
+---
+
+#### **D83 — Sabtu · 11:00 WIB · Mixed · TOFU · Reply-Farm Corporate Inbound Signal**
+
+**🪝 HOOK** (single post)
+> *Pertanyaan untuk Bulan 4:*
+>
+> *Apa SATU pertanyaan strategis tentang AI di organisasi Anda yang Anda belum punya jawaban?*
+>
+> *Bukan pertanyaan teknis. Strategis — yang akan dibahas di rapat direksi atau board, bukan di rapat IT.*
+>
+> *(Saya akan filter komen serius. Yang mau follow-up private — DM saya.)*
+
+**📝 BODY** — Single post (Sat reply-farm slot). Tujuan: harvest corporate-level inquiry yang akan jadi seed Bulan 4. Yang tanya pertanyaan board-level = ICP corporate audit.
+
+**🎯 ALGO**: was-was (filter "strategis bukan teknis") → kasmaran (action: tulis spesifik atau DM)
+
+**🛡️ GATE**: Trust 2 (Karakter — selektif advisor) + Trust 3 (Relevansi)
+
+**🎨 BJM**: "rapat direksi" / "board" — vocabulary B2B corporate, bukan creator
+
+**📤 CTA**: Soft (komen + DM open)
+
+**🔗 X-POST**: Threads single
+
+**📚 SRC**: STRATEGI §6 Hook Bank · §11 Roadmap Bulan 4+ corporate
+
+**✅ FILTER 4-LAPIS**: Buku ✓ · Asosiasi ✓ · Voice ✓ · Purpose ✓ (corporate inbound activation)
+
+---
+
+#### **D84 — Minggu · 09:00 WIB · P3 · MOFU · Filosofi Pak Bi**
+
+**🪝 HOOK + BODY**: **Sudah final di `PILLAR-3-STUDI-CASE-PAK-BI.md`** — Insight 5: Buyer's Remorse.
+
+**Sequencing match:** Mgg 12 = Insight 5 = soft T4 (per Pillar 3 file). Cocok untuk closing Bulan 3 — reframe peserta cohort yang mungkin masih ragu setelah daftar (post-purchase nurture).
+
+**📤 CTA**: None (Sunday reflective)
+
+**🔗 X-POST**: Threads + LinkedIn
+
+**📚 SRC**: `PILLAR-3-STUDI-CASE-PAK-BI.md` Insight 5
+
+---
+
+## LONG-THREAD KAMIS D81 — "3 BULAN SETELAH SAYA BUKA PINTU PUBLIK"
+
+> **Posisi di kalender:** Hari ke-81, Kamis 20:00 WIB, Mgg 12 Bulan 3.
+> **Tipe:** Refleksi 3 bulan publik + bridge Bulan 4 (soft corporate tease). Pillar Mixed (P1 + P3).
+> **Trust gate:** 3 (Relevansi proven) → soft 4 (Urgensi via Bulan 4 corporate)
+> **Tahap algoritma:** was-was (post 1-2) → surprise (post 3-7) → kasmaran soft (post 8-9)
+> **Karakter limit:** target <340 karakter/post
+> **Total post:** 9
+
+---
+
+### Post 1 (Hook — was-was setup)
+
+> *3 bulan lalu saya post Manifesto pertama di akun ini.*
+>
+> *Tidak ada plan yang jelas. Hanya hipotesis: kalau saya jujur tentang struktur sistem AI, akan ada audience yang resonate.*
+>
+> *Hari ini saya akan refleksi — angka, pelajaran, dan apa yang berikutnya.*
+
+*[thread 🧵, 9 post]*
+
+### Post 2 (was-was — angka mentah)
+
+> *Angka 12 minggu (mentah, no inflate):*
+>
+> *— Followers Threads: ~12.000 (start: ~500)*
+> *— Email subscribers: ~4.000 (start: 0)*
+> *— Buku THE AI ARCHITECT terjual: ~250 unit dalam launch week*
+> *— Cohort A.R.S.I. 1: [X] dari 20 slot terisi*
+>
+> *Angka di atas BUKAN trofi. Saya pakai untuk evaluasi hipotesis.*
+
+### Post 3 (surprise — pelajaran 1)
+
+> *Pelajaran 1: audience yang resonate bukan yang paling banyak. Yang paling konsisten.*
+>
+> *80% engagement saya datang dari ~15% follower yang baca tiap post.*
+>
+> *Kalau saya tarik filter ke yang beli buku + daftar cohort, angkanya turun lagi ke ~3% — tapi merekalah yang membentuk gerakan.*
+
+### Post 4 (surprise — pelajaran 2)
+
+> *Pelajaran 2: jujur tentang batas lebih konversi dari pretty.*
+>
+> *Saya bilang berkali-kali: "Cohort ini bukan untuk semua orang." Setiap kali saya bilang itu, conversion-nya naik.*
+>
+> *Pak Bi pernah tulis: "Yang berani jujur tentang batasnya, biasanya yang paling penuh isinya."*
+>
+> *3 bulan ini saya pegang itu sebagai operating principle.*
+
+### Post 5 (surprise — pelajaran 3)
+
+> *Pelajaran 3: kategori "AI Architect Indonesia" tidak crowded — karena belum dibentuk.*
+>
+> *Saya kira saya akan kompetisi dengan 31 kompetitor di kategori "AI guru". Ternyata audience yang saya tarik bukan dari kategori itu.*
+>
+> *Mereka dari kategori "decision-maker yang bingung adopsi AI di organisasi". Itu kategori yang sebelumnya tidak ada nama.*
+
+### Post 6 (surprise — pelajaran 4)
+
+> *Pelajaran 4: buku ≠ produk. Buku = bukti.*
+>
+> *Yang sebenarnya menjual cohort bukan launch funnel saya — tapi buku yang ada di rak pembaca selama 4-6 minggu.*
+>
+> *Buku adalah long-form proof. Sosmed adalah short-form invitation. Cohort adalah deep-form transformation.*
+>
+> *3 lapisan beda komoditas — sebagaimana Pak Bi prediksi.*
+
+### Post 7 (surprise — pelajaran 5)
+
+> *Pelajaran 5: "Sistem, bukan tools" jadi shorthand audience saya.*
+>
+> *Saya tidak rancang frase itu jadi slogan. Itu hanya posisi yang saya pegang konsisten.*
+>
+> *Ketika frase mulai dipakai oleh follower di komen mereka sendiri (bukan saya yang pasang), itu sinyal asosiasi terbentuk. Bukan saya yang menanam — mereka yang adopt.*
+
+### Post 8 (kasmaran soft — Bulan 4 tease)
+
+> *Apa berikutnya:*
+>
+> *Cohort 1 mulai 24 [BULAN_NAMA] — fokus full saya 8 minggu ke depan ke 20 peserta itu.*
+>
+> *Tapi ada pertanyaan dari beberapa CEO/CTO yang saya belum jawab publik: "Bisa Anda audit AI di organisasi kami sebagai project, bukan sebagai cohort?"*
+>
+> *Saya akan jawab itu di Bulan 4.*
+
+### Post 9 (kasmaran — closing pertanyaan publik)
+
+> *Untuk yang baca thread ini sampai di sini:*
+>
+> *Apakah pertanyaan AI di organisasi Anda lebih cocok dijawab di format cohort (group, 8 minggu) atau format audit private (1-on-1, project-based, 4-12 minggu)?*
+>
+> *Saya akan baca komen. Format yang muncul lebih banyak = format yang akan saya prioritaskan launch Bulan 4.*
+>
+> *— Arif*
+
+---
+
+### Cheat Sheet pemakaian D81
+
+| Aspek | Detail |
+|---|---|
+| Slot publish | Kamis 20:00 WIB (D81) |
+| Variabel WAJIB diisi | [X] = real cohort sold count, [BULAN_NAMA] = nama bulan start cohort |
+| Format alternatif | IG carousel 9 slide + LinkedIn long-post (~800 kata) — LinkedIn slot premium karena reach decision-maker corporate |
+| Reply commitment | 30-min target. Reply yang menulis "audit private" → DM personal: "Tunggu Bulan 4 — saya akan kirim 1-pager corporate audit." → masuk ke list corporate inbound warm. |
+| Metric yang diharapkan | Views ≥ 18K · Komen substantif ≥ 40 · Save rate ≥ 5% · DM corporate inbound signal ≥ 5 (untuk Bulan 4 priming) |
+| Red flag | Komen lebih banyak "format cohort" daripada "audit private" → corporate inbound launch Bulan 4 di-soft; fokus Cohort 2 launch awal Bulan 7. Adaptive plan, bukan static. |
+| Book-safe filter | Frase "Sistem, bukan tools" disebut sebagai outcome (bukan sacred). Tidak menyebut karakter buku. Pelajaran 1-5 = first-person observation 3 bulan, generic. |
+
+---
+
+## POST-BULAN-3 RETROSPECTIVE TEMPLATE
+
+> **Kapan dipakai:** Sabtu D84 sore (sebelum Sunday reflective slot D84). Total ~60 menit, sendiri.
+>
+> **Output:** 1 dokumen Notion + 3 keputusan operasional untuk Bulan 4.
+
+### 1. Numbers Retro (15 menit)
+
+| Metrik | Target | Aktual | Delta | Catatan |
+|---|---|---|---|---|
+| Followers Threads | 12.000+ | __ | __ | __ |
+| Email subscribers | 4.000+ | __ | __ | __ |
+| Cohort waitlist (Cohort 2) | 200+ | __ | __ | __ |
+| Cohort 1 sold | 20 | __ | __ | __ |
+| Tier split (ARSITEK/PLUS) | 60/40 | __/__ | __ | __ |
+| Top post views (Mgg 11) | ≥ 25K | __ | __ | __ |
+| Engagement rate avg | ≥ 6% | __ | __ | __ |
+| ICP match rate | ≥ 50% | __ | __ | __ |
+| Buku long-tail Bulan 3 | 40+ unit | __ | __ | __ |
+
+### 2. Content Retro (10 menit)
+
+- 3 post yang paling resonate Bulan 3: ___
+- 3 post yang underperform (audit kenapa): ___
+- Long-thread mana yang paling konversi (D60/D67/D74/D81): ___
+- Pillar yang paling produktif (P1/P2/P3): ___
+- Pattern hook yang konversi (untuk Bulan 4): ___
+
+### 3. Cohort 1 Retro (15 menit)
+
+- Total inquiry vs daftar (conversion %): ___
+- Tier split actual vs target (60/40): ___
+- Geo distribution (Jabodetabek vs luar): ___
+- Channel acquisition #1 (Threads/IG/LinkedIn/Email): ___
+- DM/WA volume puncak (hari + jam): ___
+- Refund/cancel signal (kalau ada): ___
+- 3 inquiry pattern yang tidak terduga (untuk Cohort 2 redesign): ___
+
+### 4. Audience Retro (10 menit)
+
+- Audience tunnel check (§14.5) — apakah follower Mgg 12 = ICP-match yang Anda inginkan? Y/N + alasan: ___
+- Share-of-voice di komen kompetitor — naik / sama / turun?: ___
+- Frase "Sistem, bukan tools" — masih ownable atau ada yang adopt sama frasenya? ___
+- 3 inbound DM/email Bulan 3 yang sangat berarti (anchor di Notion ulang baca Bulan 4): ___
+
+### 5. Bulan 4 Prep — 3 Keputusan Operasional (10 menit)
+
+**Keputusan 1: Cohort 2 timing.**
+- Default: Mgg 28 (Bulan 7) start, waitlist tetap dibuka.
+- Trigger ubah: kalau waitlist Cohort 2 hit 100+ di akhir Bulan 3 → pertimbangkan Mgg 24 (Bulan 6) start.
+- Decision Bulan 4: ___
+
+**Keputusan 2: Corporate inbound activation.**
+- Default: Bulan 4 = soft tease + 1-pager. Bulan 5 = aktif outreach 5 prospek warm.
+- Trigger ubah: kalau D83 reply-farm + D81 thread yield ≥ 10 corporate inquiry serius → accelerate ke Bulan 4 aktif.
+- Decision Bulan 4: ___
+
+**Keputusan 3: Buku long-tail strategy.**
+- Default: residual flow dari Cohort 1 testimoni + Pillar 3 evergreen.
+- Trigger ubah: kalau buku Mgg 9-12 < 30 unit → reignite Bulan 5 dengan repost-friendly testimoni dari pembeli buku.
+- Decision Bulan 4: ___
+
+---
+
+## BRIDGE KE BULAN 4
+
+### Tema Bulan 4 (preview)
+**Cohort 1 Live + Corporate Inbound Activation + Buku Long-tail**
+
+| Mgg | Tema | Aktivitas Utama |
+|---|---|---|
+| 13 | Cohort kick-off + corporate seed | Sesi 1-2 cohort live · 1-pager corporate dipublish soft · D83-style reply-farm escalate ke DM |
+| 14 | Cohort Mgg 2 + corporate outreach Wave 1 | 5 corporate prospek warm dari Bulan 3 di-DM private |
+| 15 | Mid-cohort pivot signal + corporate Wave 2 | Cohort retro mid-point · adaptive content · 5 prospek baru |
+| 16 | Cohort Mgg 4 + 1 corporate audit booked | Public case study (anonymized) corporate engagement pertama |
+
+### Item yang harus siap sebelum Bulan 4 mulai
+- [ ] **CORPORATE-INBOUND-PLAYBOOK.md** (Item 9 di queue) — 1-pager untuk dipublish soft Mgg 13, plus SOP outreach private
+- [ ] Cohort 1 onboarding email + Notion workspace finalized (Sabtu Mgg 12 D84)
+- [ ] Cohort 1 sesi 1 deck final (Mgg 13 awal)
+- [ ] Buku Bulan 3 sales report → testimoni harvest baru (untuk Pillar 3 Bulan 4)
+
+### Premature monetization rules — STATUS BULAN 4
+| Aturan | Status Bulan 4 |
+|---|---|
+| 🟢 Pitch buku | OK (long-tail) |
+| 🟢 Pitch cohort | OK (Cohort 2 waitlist tetap dibuka, no hard pitch) |
+| 🟢 Soft pitch corporate audit | **ON Mgg 13+** (1-pager publish + 1-on-1 DM) |
+| 🚫 Hard pitch corporate (mass) | Belum (Bulan 5 baru aktif outreach) |
+| 🚫 Diskon | HARAM (selamanya) |
+
+---
+
+## CHANGELOG FILE INI
+
+| Tanggal | Layer | Perubahan |
+|---|---|---|
+| 27 Mei 2026 | 16 (1/3) | File created — Foundation, konteks, pre-launch checklist, dashboard, master overview, Mgg 9 detail + long-thread D60 |
+| 27 Mei 2026 | 16 (2/3) | Mgg 10 detail + long-thread D67 (case Pak D), Mgg 11 launch week detail (D71-77, run-of-show D71) + long-thread D74 (launch announcement 10-post) |
+| 27 Mei 2026 | 16 (3/3) | Mgg 12 detail (D78-84) + long-thread D81 (refleksi 3 bulan + bridge Bulan 4), post-Bulan-3 retrospective template, bridge ke Bulan 4 |
+
+---
+
+*Item 7 SELESAI. File operasional 28 hari Bulan 3 + 4 long-thread + retrospective template + Bulan 4 bridge — siap dipakai untuk eksekusi.*
