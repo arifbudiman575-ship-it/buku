@@ -561,3 +561,774 @@ Untuk tim 30-50 orang cross-functional, 4 sesi tidak cukup. Variant 6-sesi:
 ---
 
 *Last updated: Layer 21 (1/2), 27 Mei 2026 — Section 0-4 selesai (Foundation + SACRED + 1-Pager spec + Qualification flow + Diagnostic format). Section 5-9 (Pricing matrix + Email replies + Contract + Delivery + Upsell) di part berikutnya.*
+
+
+
+## Section 5 — Pricing Scope Matrix Rp 25/50/100JT
+
+### 5.1. Small Tier — Rp 25.000.000
+
+| Field | Spec |
+|---|---|
+| **Tim size target** | 5-15 orang (1 fungsi tunggal — sales / marketing / ops / customer service) |
+| **Format** | 4 sesi diagnostic 90-min + 1 deliverable + 1 handover sesi 60-min |
+| **Deliverable** | PDF custom 30-40 halaman |
+| **Timeline** | 6 minggu (kickoff sd handover) |
+| **Effort estimate Anda** | 18-22 jam total (sesi + prep + deliverable writing + handover) |
+| **Klien commitment** | Founder/decision-maker hadir 4 sesi + 1-2 senior tim co-attend |
+| **Output** | Audit 2-3 alur priority + permission system + roadmap implementasi 8-mgg |
+| **Best fit** | Founder bisnis services Rp 5-50M revenue/bulan dengan tim sales/ops 5-15 orang yang sudah pakai AI 6+ bulan |
+
+**Rasional pricing Rp 25JT:**
+- Effort 20 jam × Rp 1JT/jam (premium rate post-buku) = Rp 20JT base
+- + 25% risk premium untuk first-tier corporate audit + brand commitment
+- = Rp 25JT clean
+
+### 5.2. Medium Tier — Rp 50.000.000
+
+| Field | Spec |
+|---|---|
+| **Tim size target** | 15-30 orang (2-3 fungsi cross-team) |
+| **Format** | 4 sesi diagnostic 90-min + 1 deliverable + 1 handover sesi 60-min |
+| **Deliverable** | PDF custom 40-50 halaman |
+| **Timeline** | 7 minggu (kickoff sd handover) |
+| **Effort estimate Anda** | 28-32 jam total |
+| **Klien commitment** | Founder + 2-3 manajer fungsi co-attend |
+| **Output** | Audit 3 alur cross-functional + permission system + roadmap multi-fungsi 10-mgg |
+| **Best fit** | SMB/scale-up Rp 50-500M revenue/bulan dengan tim 15-30 orang multi-fungsi |
+
+**Rasional pricing Rp 50JT:**
+- Effort 30 jam × Rp 1JT/jam = Rp 30JT base
+- + 30% complexity premium (multi-fungsi cross-team coordination)
+- + 25% risk premium
+- = Rp 50JT clean
+
+### 5.3. Large Tier — Rp 100.000.000
+
+| Field | Spec |
+|---|---|
+| **Tim size target** | 30-50 orang cross-functional (3+ fungsi atau divisi) |
+| **Format** | 6 sesi diagnostic (mix 90-min + 120-min) + 1 deliverable strategic + 2 handover sesi (90-min senior + 60-min implementation team) |
+| **Deliverable** | PDF custom 60-80 halaman |
+| **Timeline** | 8-10 minggu (kickoff sd handover) |
+| **Effort estimate Anda** | 50-60 jam total |
+| **Klien commitment** | C-level + 4-6 manajer fungsi + designated implementation lead |
+| **Output** | Audit cross-divisional + permission system multi-tier + roadmap multi-fase 16-mgg + tools strategy enterprise |
+| **Best fit** | Mid-market enterprise Rp 500M-5B revenue/bulan dengan tim 30-50 orang multi-divisi |
+
+**Rasional pricing Rp 100JT:**
+- Effort 55 jam × Rp 1JT/jam = Rp 55JT base
+- + 50% complexity premium (cross-divisional + enterprise stakeholder management)
+- + 30% risk premium (engagement size = reputational stake tinggi)
+- = Rp 100JT clean
+
+### 5.4. Premium Add-Ons (Optional, Klien Request)
+
+| Add-on | Price delta | When |
+|---|---|---|
+| **Rush timeline** (kickoff <2 minggu post-contract) | +20% base price | Klien punya internal deadline (board meeting, fiscal year, dll) |
+| **Additional diagnostic sesi** (di atas standard count) | +Rp 5-10JT/sesi | Klien butuh dalam ke 4+ alur atau 4+ fungsi |
+| **30-day post-handover check-in 30-min** | +Rp 3JT (1×) atau +Rp 8JT (3× monthly) | Klien butuh accountability post-engagement |
+| **Co-write internal AI policy doc** (ko-author dengan klien legal/HR) | +Rp 10-15JT | Klien butuh formal AI policy untuk compliance |
+| **Tools setup hands-on session** (post-handover, 60-min) | +Rp 5JT/session | Klien butuh saya bantu setup specific tools (Zapier custom, Claude API) |
+
+**SACRED:** Add-ons WAJIB diskusi di scoping call atau via formal change order. Tidak ada "nego di tengah engagement". Anti-scope-creep CO-3.
+
+### 5.5. Pricing Rationale per Tier
+
+| Faktor | Small | Medium | Large |
+|---|---|---|---|
+| Effort hour Anda | 20 jam | 30 jam | 55 jam |
+| Klien stakeholder count | 1-2 | 3-4 | 6-10 |
+| Cross-functional complexity | Minimal | Moderate | High |
+| Reputational stake | Standard | Standard | Premium |
+| Documentation depth | 30-40 halaman | 40-50 halaman | 60-80 halaman |
+| Timeline | 6 minggu | 7 minggu | 8-10 minggu |
+| Risk premium | 25% | 25% | 30% |
+
+**SACRED pricing principle:** TIDAK ada diskon. Klien yang push diskon → decline graceful (CO-IN-2 redirect) atau scope down ke tier lower.
+
+### 5.6. Yang TIDAK Termasuk dalam Corporate Audit Standard
+
+**SACRED — clear boundary mencegah scope creep:**
+
+- **Implementation hands-on** — saya tidak deploy tools, code workflow, atau hire/train tim klien. Itu = klien yang execute, atau hire vendor implementation specialist.
+- **Ongoing maintenance** — setelah handover, saya tidak monitor implementasi klien. Itu = annual retainer (Section 9.1) atau quarterly check-in (Section 9.2).
+- **Tools subscription cost** — klien yang bayar Claude/ChatGPT/Zapier subscription. Saya rekomen tools, klien yang procure.
+- **Training delivery ke tim klien** — saya tidak conduct training session ke 30 orang tim klien. Itu = klien yang internal-train pakai roadmap saya, atau hire training specialist.
+- **Compliance audit (legal/regulatory)** — saya bukan compliance officer. Kalau klien butuh AI policy compliance certification, refer ke firma legal specialized.
+- **Custom AI model development** — saya bukan AI engineer. Kalau klien butuh custom LLM fine-tuning, refer ke vendor AI engineering.
+
+**Kalau klien push untuk include item-item di atas:** CO-3 SACRED — decline + redirect ke vendor specialized.
+
+---
+
+
+## Section 6 — Email Saved Replies Corporate (5 Template)
+
+### 6.1. CO-IN-1: Inbound Qualified Initial Response
+
+**Trigger:** Inbound email/DM dari decision-maker dengan signal qualified (tim 5+, authority, AI experience).
+
+```
+Subject: Discovery call — corporate audit AI Anda
+
+Halo [Nama],
+
+Terima kasih sudah pertimbangkan corporate audit. Sebelum saya share detail
+scope + pricing, saya butuh discovery call 30-min untuk memahami konteks
+tim Anda — supaya kalau kami kerja sama, scope yang saya propose fit
+konteks Anda spesifik (bukan template generic).
+
+Discovery call:
+- Durasi: 30 menit
+- Format: Zoom, gratis, tanpa pitch
+- Konten: Anda walkthrough tim + masalah AI saat ini, saya analisis pattern,
+  fit assessment honest
+
+Kalau setelah discovery saya yakin corporate audit fit, saya invite ke
+scoping call 60-min untuk finalize scope + exact pricing. Range pricing
+corporate audit = Rp 25-100JT tergantung tim size + complexity.
+
+Schedule discovery call: [Calendly link, 4 slot/minggu]
+
+Atau kalau Anda preferensi async: balas email ini dengan 5 baris konteks
+(tim size, fungsi, masalah AI primary, urgency timeline, budget range
+yang Anda envision) — saya respon dalam 24 jam business hours.
+
+Salam,
+Arif Budiman
+the ai architect
+```
+
+**Length:** ~190 kata.
+
+### 6.2. CO-IN-2: Graceful Decline Borderline (Alternative Path)
+
+**Trigger:** Inbound borderline — qualified untuk authority + interest, tetapi tim size <5 atau AI experience <6 bulan, atau budget signal Rp <20JT.
+
+```
+Subject: Tentang corporate audit — alternatif yang mungkin lebih fit
+
+Halo [Nama],
+
+Terima kasih sudah pertimbangkan corporate audit. Berdasarkan konteks
+yang Anda share ([konteks: tim X orang, AI experience Y bulan, budget Z]),
+saya jujur: corporate audit (Rp 25-100JT, format 1-on-1 dengan tim Anda)
+mungkin bukan fit terbaik untuk situasi sekarang.
+
+Yang lebih cocok untuk tahap Anda saat ini:
+
+1. **Buku THE AI ARCHITECT (Rp 297-897K).** Framework A.R.S.I. lengkap
+   yang Anda bisa apply sendiri. Cocok untuk founder yang masih
+   mengexplore implementasi AI di tim kecil.
+   → arifb.id/buku
+
+2. **Cohort A.R.S.I. (Rp 4,9-7,5JT, 8 minggu).** Implementasi terpandu
+   dengan 17-23 founder lain di group cohort + accountability mingguan.
+   Cohort 2 buka Bulan 7 (sekitar [TANGGAL]). Cocok kalau Anda inginkan
+   struktur + peer cohort, tetapi bisnis belum punya budget corporate
+   audit.
+   → arifb.id/cohort
+
+3. **Tunggu 6-12 bulan, kembali ke corporate audit.** Setelah tim Anda
+   scaling ke 5+ orang dan AI tools sudah dipakai 6+ bulan team-wide,
+   corporate audit baru worth Rp 25-100JT investment.
+
+Mana yang fit dengan situasi Anda? Reply email ini, atau direct ke
+arifb.id/[buku|cohort].
+
+Salam,
+Arif
+```
+
+**Length:** ~250 kata.
+
+### 6.3. CO-IN-3: Graceful Redirect Not-Qualified
+
+**Trigger:** Inbound dengan tim <3 orang, atau IC tanpa decision authority, atau pure curiosity tanpa serious intent.
+
+```
+Subject: Resource yang bisa membantu Anda
+
+Halo [Nama],
+
+Terima kasih sudah reach out. Berdasarkan konteks yang Anda share,
+corporate audit (format saya: 1-on-1 dengan tim 5-50 orang dengan
+otoritas decision-maker) bukan fit untuk situasi Anda saat ini.
+
+Yang lebih cocok:
+
+1. **7-Day Challenge gratis** di arifb.id/challenge — framework AI
+   minimum viable untuk individu/solo. 7 hari, ~30-min/hari.
+
+2. **Buku THE AI ARCHITECT (Rp 297K digital)** — framework A.R.S.I.
+   lengkap untuk apply solo atau tim kecil. → arifb.id/buku
+
+Kalau di masa depan tim Anda growth ke 5+ orang dan Anda yang punya
+otoritas implementation, kembali ke corporate audit — saya senang
+dengar progress Anda.
+
+Salam,
+Arif
+```
+
+**Length:** ~140 kata.
+
+### 6.4. CO-IN-4: Post-Discovery Scoping Invitation
+
+**Trigger:** Discovery call 30-min selesai, fit confirmed, klien siap lanjut scoping.
+
+```
+Subject: Scoping call — let's finalize scope + pricing
+
+Halo [Nama],
+
+Terima kasih untuk discovery call hari [TANGGAL]. Berdasarkan diskusi
+kita, saya rekomendasi corporate audit [tier: Small/Medium/Large] —
+range pricing [Rp X-Y JT].
+
+Next step: scoping call 60-min untuk finalize:
+- Scope detail (alur prioritas, sesi count, deliverable depth)
+- Exact pricing (di range yang sudah kita diskusi)
+- Timeline kickoff dan handover
+- Q&A klien tambahan
+
+Sebelum scoping call, saya butuh Anda isi pre-scoping form (5
+pertanyaan, ~20 menit):
+[Form link]
+
+Pertanyaan cover: tim breakdown per fungsi, 3-5 alur paling memakan
+waktu, tools AI saat ini + frustrasi spesifik, 1 alur priority untuk
+audit dalam, timeline + budget envision.
+
+Setelah form Anda submit, schedule scoping call: [Calendly link
+gated post-discovery — 2 slot/minggu]
+
+Saya tunggu pre-scoping form dalam 1 minggu.
+
+Salam,
+Arif
+```
+
+**Length:** ~190 kata.
+
+### 6.5. CO-IN-5: Proposal Sent with Summary
+
+**Trigger:** Scoping call 60-min selesai, proposal tertulis siap kirim 5-7 hari kemudian.
+
+```
+Subject: Proposal corporate audit — [Nama Perusahaan]
+
+Halo [Nama],
+
+Terima kasih untuk scoping call hari [TANGGAL]. Proposal tertulis
+attached — review summary di bawah.
+
+────────────────────────────────────
+
+**RINGKASAN SCOPE**
+
+Tier: [Small/Medium/Large]
+Pricing: Rp [X] juta (exact, fixed)
+Timeline: [N] minggu (kickoff [TANGGAL] sd handover [TANGGAL])
+
+Format:
+- [N] sesi diagnostic 90-min via Zoom
+- 1 deliverable PDF custom (~[N] halaman)
+- 1 handover sesi 60-min
+
+Yang akan kami audit:
+- Alur priority 1: [nama alur dari klien]
+- Alur priority 2: [nama alur]
+- Alur priority 3: [nama alur]
+
+Deliverable include:
+- Executive summary 1-page
+- Audit 3 alur dengan A.R.S.I. analysis
+- Permission system tim
+- Roadmap implementasi [N] minggu post-handover
+- Tools setup priority (2-3 tools)
+
+────────────────────────────────────
+
+**PAYMENT TERMS**
+
+50% upfront (Rp [X/2] JT) — kickoff trigger
+50% handover (Rp [X/2] JT) — post-handover sesi
+
+Invoice + payment instructions di proposal page 2.
+
+────────────────────────────────────
+
+**NEXT STEP**
+
+Review proposal — saya available untuk Q&A via email atau call
+30-min kalau dibutuhkan.
+
+Approve = balas email ini "Approved" → saya kirim contract digital
+signing.
+
+Negotiate scope = balas dengan adjustment request. Saya respon
+revision dalam 3 hari kerja (max 2 revision rounds — anchor
+anti-scope-creep policy).
+
+Decline = balas "Decline" → no hard feelings, kalau di masa depan
+butuh diskusi lagi, email saya langsung.
+
+Saya tunggu respon Anda dalam 7 hari kerja. Kalau >7 hari belum ada
+respon, saya treat as soft decline + add ke nurture list.
+
+Salam,
+Arif Budiman
+the ai architect
+```
+
+**Length:** ~280 kata.
+
+### 6.6. Voice Consistency Check Email Corporate
+
+Sebelum send setiap email corporate, audit 3-pertanyaan:
+
+1. **Voice "Anda" formal konsisten?** (no "lo/gw" walaupun klien casual)
+2. **Tone tidak hype?** (no "BURUAN/Limited") — high-stakes B2B reject hype
+3. **CTA jelas + actionable?** (Calendly / form / approve / decline — bukan vague "let me know")
+
+≥1 jawaban "tidak" → revise sebelum send.
+
+---
+
+
+## Section 7 — Contract Template Skeleton
+
+### 7.1. SACRED Clauses (Non-Negotiable)
+
+#### Clause 1: Anti-Scope-Creep (CO-3 SACRED)
+
+```
+Klien dapat meminta revision pada deliverable maksimum 3 (tiga)
+revision rounds per deliverable. Setiap revision round wajib
+disampaikan dalam written form (email atau dokumen tertulis) dengan
+spesifikasi perubahan yang konkret.
+
+Revision round didefinisikan sebagai: penyesuaian pada deliverable
+yang sudah dipresentasikan, dengan scope yang konsisten dengan
+proposal awal.
+
+PERUBAHAN SCOPE FUNDAMENTAL (mis: tambah alur audit, tambah fungsi,
+ekstensi timeline >2 minggu, tambah deliverable section yang tidak
+ada di proposal awal) BUKAN revision — itu = engagement scope baru
+dengan additional fee minimum Rp 5JT/scope addition.
+
+Setelah 3 revision rounds tercapai, deliverable dianggap final.
+Revision tambahan = engagement terpisah dengan fee terpisah.
+```
+
+#### Clause 2: Payment Terms (CO-6 SACRED)
+
+```
+Total fee: Rp [X] juta
+Pembayaran: 50/50 split
+
+- 50% (Rp [X/2] juta) upfront, dibayar dalam 7 hari kerja
+  setelah contract signed. Kickoff sesi 1 dilakukan setelah
+  upfront diterima.
+
+- 50% (Rp [X/2] juta) post-handover, dibayar dalam 14 hari kerja
+  setelah handover sesi selesai dan deliverable diterima.
+
+Late payment: bunga 2%/bulan (sesuai standard B2B Indonesia).
+
+Tidak ada partial pay sebelum kickoff atau cicilan beyond 50/50.
+Tidak ada refund sebagian atau penuh setelah kickoff (engagement
+scope-bounded, deliverable concrete sesuai proposal).
+```
+
+#### Clause 3: IP Ownership
+
+```
+1. METHODOLOGY (Framework A.R.S.I., diagram template generic, voice
+   "Sistem bukan tools" dan signature phrases): Tetap milik Service
+   Provider (Arif Budiman / PROMIND-NEUROLINK). Klien tidak diizinkan
+   menggunakan methodology branded ini di luar konteks internal
+   tim klien.
+
+2. IMPLEMENTATION DOCUMENT custom yang dibuat untuk klien (audit
+   alur klien, permission system tim klien, roadmap implementasi,
+   tools setup spec): Milik klien sepenuhnya post-handover. Klien
+   bebas pakai internal, share ke tim, modifikasi.
+
+3. RECORDING sesi diagnostic + handover: Milik klien sepenuhnya.
+   Service Provider tidak retain post-engagement.
+
+4. TESTIMONIAL klien: Service Provider tidak akan publish testimonial
+   atau case study spesifik tanpa written consent klien (anchor CO-7
+   privacy SACRED).
+```
+
+#### Clause 4: NDA (Optional, By Request — CO-4 SACRED)
+
+```
+Kalau klien butuh NDA mutual:
+
+- Standard mutual NDA, durasi 24 bulan post-engagement
+- Cover: data klien, alur kerja klien, deliverable content, recording
+- Tidak cover: methodology generic Service Provider, framework
+  A.R.S.I., voice signature
+- NDA ditandatangani BEFORE scoping call (post-discovery)
+```
+
+#### Clause 5: Termination
+
+```
+Kedua pihak dapat terminate engagement dengan written notice 14 hari
+sebelum sesi berikutnya, dengan kondisi:
+
+1. Termination by Klien sebelum kickoff: 50% upfront refundable
+   minus Rp 5JT processing fee.
+
+2. Termination by Klien post-kickoff: 50% upfront NOT refundable.
+   Service Provider deliver partial deliverable based on sesi yang
+   sudah dilakukan.
+
+3. Termination by Service Provider (force majeure, breach): Refund
+   pro-rata berdasarkan sesi yang belum dilakukan.
+
+4. Termination by mutual agreement: Refund pro-rata.
+
+Tidak ada termination ad-hoc tanpa written notice.
+```
+
+### 7.2. Standard Clauses
+
+#### Clause 6: Scope Boundary Explicit
+
+```
+Scope terbatas pada:
+- [N] sesi diagnostic 90-min via Zoom (jadwal sesuai mutual agreement)
+- 1 deliverable PDF custom ~[N] halaman
+- 1 handover sesi 60-min
+
+Yang TIDAK termasuk:
+- Implementation hands-on (deploy tools, hire tim, dll)
+- Ongoing maintenance post-handover
+- Tools subscription cost (klien yang procure)
+- Training delivery ke tim >5 orang
+- Compliance audit / legal review
+- Custom AI model development
+
+Untuk item di atas, refer ke vendor specialized atau add-on terpisah
+dengan fee terpisah.
+```
+
+#### Clause 7: Recording & Documentation
+
+```
+Sesi diagnostic + handover dapat direcord dengan consent kedua
+pihak. Recording menjadi milik klien sepenuhnya post-engagement.
+
+Service Provider working notes (Notion private workspace):
+- Akses internal Service Provider only
+- Anonimisasi composite untuk reference 12 bulan post-engagement
+- Purge full data 12 bulan post-engagement (kecuali NDA mensyarakatkan
+  earlier purge)
+
+Diagram + sketsa Miro: Klien retain ownership transfer post-engagement.
+```
+
+### 7.3. Edge Case Clauses
+
+#### Clause 8: Force Majeure
+Standard force majeure (bencana alam, pandemi, perubahan regulasi
+fundamental). Engagement defer atau terminate by mutual agreement.
+
+#### Clause 9: Indemnification (Limited)
+Service Provider tidak liable untuk consequence implementasi klien
+post-handover. Deliverable = recommendation; eksekusi = klien
+responsibility.
+
+Maximum liability: total fee yang sudah dibayar klien. Tidak ada
+liability untuk consequential damages, lost profits, dll.
+
+#### Clause 10: Jurisdiction
+Hukum Indonesia. Dispute resolution: BANI (Badan Arbitrase Nasional
+Indonesia) atau pengadilan Jakarta Pusat (mutual choice).
+
+### 7.4. Signing Process
+
+| Step | Format | Timeline |
+|---|---|---|
+| 1. Proposal sent | PDF email | Post-scoping call |
+| 2. Klien review + Q&A | Email atau 30-min call | 5-7 hari kerja |
+| 3. Approve in principle | Email reply "Approved" | Trigger contract draft |
+| 4. Contract sent | PDF DocuSign atau wet signature | 2 hari kerja post-approve |
+| 5. Klien sign | DocuSign atau scan wet signature email | 5-7 hari kerja |
+| 6. Service Provider counter-sign | DocuSign atau wet signature | 2 hari kerja |
+| 7. 50% upfront invoice sent | PDF email + payment instructions | Post-counter-sign |
+| 8. Payment received | Bank transfer | 7 hari kerja |
+| 9. Kickoff sesi 1 scheduled | Calendly | Post-payment receipt |
+
+**Total signing process:** 14-21 hari kerja proposal sd kickoff.
+
+---
+
+
+## Section 8 — Delivery Operational
+
+### 8.1. Pre-Kickoff Setup (Post-Contract Signing)
+
+| T+ jam | Action | Owner |
+|---|---|---|
+| T+0 | Counter-sign contract diterima klien | Klien |
+| T+24 | 50% upfront invoice received | Klien |
+| T+24 | Lunas confirmation email + Notion workspace setup trigger | Anda |
+| T+72 | Notion workspace klien ready: 4 sesi folder + worksheet template + pre-cohort form to klien | Anda + VA |
+| T+72 | Email klien: "Notion ready, pre-cohort form deadline 5 hari" | Anda |
+| T+5 hari | Klien isi pre-cohort form | Klien |
+| T+5-7 hari | Saya review form, prep sesi 1 agenda | Anda |
+| T+7 hari | Sesi 1 kickoff (Senin atau Selasa default) | Mutual |
+
+**SLA:** Maksimum 7 hari kerja dari payment receipt ke kickoff sesi 1.
+
+### 8.2. Sesi 1-4 Cadence
+
+**Default cadence:** 1 sesi/minggu (Senin atau Selasa 14:00-15:30 WIB default).
+
+**Adjustment options:**
+
+| Klien preference | Adjustment |
+|---|---|
+| Tim klien butuh implementasi gradual antar-sesi | 1 sesi per 2 minggu (timeline jadi 8-12 minggu, no extra fee) |
+| Klien rush timeline | 2 sesi per minggu (timeline jadi 4-5 minggu, +20% premium kalau total <4 minggu) |
+| Klien holiday/event conflict | Reschedule 1× OK, 2× = case-by-case, 3× = case-by-case dengan kemungkinan timeline extension |
+
+**SACRED:** TIDAK ada sesi >2/minggu walaupun klien push (Anti-Burnout S-4 — kolab schedule rule).
+
+### 8.3. Inter-Sesi Support
+
+**Channel komunikasi:**
+- **Notion comment thread:** Default async untuk Q&A, klarifikasi, follow-up action item. Saya respon 1 hari kerja.
+- **Email:** Untuk formal request (perubahan scope, timeline adjustment, deliverable feedback). Respon 1-2 hari kerja.
+- **WA group:** EMERGENCY ONLY (mis: sesi cancel mendadak, force majeure). Tidak untuk daily Q&A.
+
+**Working hours:** Monday-Friday 09:00-17:00 WIB. Off weekend (Anti-Burnout S-3 SACRED).
+
+**Anti-pattern:**
+- Klien push WA daily Q&A → redirect ke Notion comment
+- Klien expect <1 jam response time → set expectation 1 hari kerja default
+- Klien ad-hoc request "quick call sebentar" → schedule via Calendly, bukan ad-hoc
+
+### 8.4. Quality Control SOP (Pre-Deliverable)
+
+**Sebelum kirim deliverable PDF ke klien:**
+
+| Step | Apa yang dicek |
+|---|---|
+| 1. Self-review draft (saya) | Voice consistency + factual accuracy + alur logic |
+| 2. Recording cross-reference | Setiap claim di deliverable bisa di-trace ke recording sesi 1-4 |
+| 3. Anonimisasi audit (CO-7) | Pastikan tidak ada PII tim klien yang slip ke deliverable (nama orang, email internal, phone, dll) |
+| 4. Designer review (kalau ada) | Visual consistency Light theme + Playfair+Inter |
+| 5. Spell check + grammar | Bahasa Indonesia formal — paste ke spell checker |
+| 6. Cross-ref methodology | A.R.S.I. mention konsisten + signature phrase muncul minimum 1× |
+| 7. Final read-through | 1-jam break + read fresh — catch yang missed di first review |
+
+**Turnaround time deliverable:** 5-7 hari kerja post-sesi-4 (Standard). 7-10 hari kerja (Large variant). NO same-week delivery — quality > speed.
+
+### 8.5. Handover Ritual
+
+**Handover sesi (60-min, default Selasa atau Kamis 14:00-15:00 WIB):**
+
+| Menit | Block |
+|---|---|
+| 0-5 | Welcome + recap engagement journey 6-8 minggu |
+| 5-30 | Walkthrough deliverable section-by-section + Q&A klarifikasi |
+| 30-45 | Action plan 30-hari pasca-handover (klien yang lead) — saya validate + suggest priority |
+| 45-55 | Q&A klien tambahan + edge cases yang muncul saat reading deliverable |
+| 55-60 | Closing + soft mention upsell path (Section 9) — TIDAK push, hanya inform options |
+
+**SACRED:** TIDAK push annual retainer atau phase 2 di handover sesi (Section 9.7 anti-churn rule). Soft mention only.
+
+**Post-handover:**
+- 50% final invoice sent dalam 24 jam post-handover
+- Access Notion workspace klien tetap aktif 30 hari (untuk klien re-reference deliverable atau worksheet)
+- Email follow-up D+30: "Bagaimana progress 30-hari pasca-handover?" → trigger upsell organic kalau klien stuck atau butuh next step
+
+### 8.6. Post-Engagement Protocol
+
+**D+30 days post-handover:**
+- Notion workspace access REVOKE
+- Working notes saya = anonimisasi composite untuk reference
+- Recording handover = klien retain, saya purge
+
+**D+12 months post-handover:**
+- Working notes saya = full purge (NDA atau policy)
+- Aggregate insight (anonimisasi composite) dipakai untuk konten editorial generic OK
+
+**Long-term:**
+- Klien tetap dapat Q&A reasonable (1-2 email/tahun) — nurture goodwill
+- Kalau klien butuh phase 2 atau ongoing = upsell path Section 9
+
+### 8.7. Energy Management Plan untuk Anda
+
+(Anchor `ANTI-BURNOUT-PROTOCOL.md` §S-4 + §7 launch survival adapt corporate.)
+
+**Default cap:**
+- Max 1 sesi diagnostic / hari (90-min sesi + 30-min prep + 60-min post-sesi notes = 3 jam minimum)
+- Buffer 2 jam post-sesi sebelum next meeting/work
+- 1 hari OFF total post-handover (full decompression)
+
+**Cap simultaneous engagement:**
+- Bulan 4-5 (build capacity): 2 engagement aktif max
+- Bulan 6-12 (steady state): 3 engagement aktif max (mix tier OK)
+- NEVER: 4+ engagement aktif simultaneous = quality drop + Anti-Burnout RED tier risk
+
+**Energy check trigger:**
+- Pre-kickoff: Energy audit GREEN required (skor ≥21)
+- Mid-engagement: Weekly energy check
+- Post-handover: 3-day mini-sabbatical (Anti-Burnout §10 sabbatical cadence)
+
+---
+
+
+## Section 9 — Post-Engagement Upsell Path
+
+### 9.1. Annual Retainer
+
+**Spec:**
+
+| Field | Detail |
+|---|---|
+| **Pricing** | Rp 75-150JT/tahun (small/medium tier basis) |
+| **Format** | 4 quarterly check-in 90-min via Zoom + email Q&A unlimited (24-jam SLA) + priority access (skip waitlist untuk corporate audit phase 2) |
+| **Cap** | Max 5 retainer klien simultaneous |
+| **Trigger** | Klien proactive ask post-handover atau 30-day check-in |
+
+**Best fit:** Klien yang sudah selesai corporate audit awal + butuh ongoing accountability + tidak siap commit ke corporate audit phase 2.
+
+### 9.2. Quarterly Check-In (Standalone)
+
+**Spec:**
+
+| Field | Detail |
+|---|---|
+| **Pricing** | Rp 15-25JT/quarter |
+| **Format** | 1-on-1 sesi 90-min via Zoom + mini-deliverable update (5-10 halaman) |
+| **Cadence** | Per kuartal, fleksibel 3-4 bulan gap |
+
+**Best fit:** Klien yang inginkan periodic accountability tanpa commitment annual retainer.
+
+### 9.3. Cohort Referral
+
+**Trigger:** Klien punya tim manajer/senior yang belum punya konteks A.R.S.I. — bisa direkomen ke cohort A.R.S.I.
+
+**Mekanisme:**
+- Klien refer manajer/senior ke cohort
+- Manajer dapat **priority slot** (skip queue waitlist)
+- Manajer dapat **waiver discovery call** (klien sudah validate mereka sebagai qualified)
+- TIDAK ada referral fee (anti-affiliate)
+
+**Best fit:** Klien Medium/Large dengan tim manajer multi-level yang butuh up-skilling A.R.S.I.
+
+### 9.4. Speaker Engagement
+
+**Spec:**
+
+| Field | Detail |
+|---|---|
+| **Pricing** | Rp 25-50JT/event |
+| **Format** | 60-90 min talk + Q&A 30-min, internal event klien (offline atau online) |
+| **Topic** | A.R.S.I. methodology + case study anonimisasi (NOT case klien sendiri kecuali consent) |
+| **Cap** | Max 1 speaker engagement/bulan (Anti-Burnout) |
+
+**Best fit:** Klien yang organize internal AI conference / town hall / leadership summit dan ingin saya keynote.
+
+### 9.5. Phase 2 Audit
+
+**Spec:**
+
+| Field | Detail |
+|---|---|
+| **Pricing** | Rp 25-50JT (lower tier vs phase 1 — context already known) |
+| **Format** | 4 sesi diagnostic (similar phase 1) tetapi fokus phase 2: alur kerja yang BELUM di-audit di phase 1 atau scaling beyond original tim |
+| **Trigger** | Post 6-bulan implementasi phase 1 + klien butuh extension scope |
+
+**Best fit:** Klien yang phase 1 sudah selesai implementasi 6 bulan + ada alur baru atau divisi baru yang butuh audit.
+
+### 9.6. Trigger Upsell — Kapan Push (atau TIDAK Push)
+
+**OK untuk soft mention:**
+- Handover sesi (60-min) — closing 5-min slot mention options (CO-3.7 anti-churn — soft only)
+- 30-day check-in email post-handover
+- Klien proactive ask
+
+**TIDAK OK push:**
+- Mid-engagement sebelum handover
+- Setiap touchpoint klien (over-pitch fatigue)
+- Klien yang explicitly decline upsell di handover
+
+### 9.7. Anti-Churn Rule (Defer Upsell ke 30-Day Check-In)
+
+**SACRED:** Tidak push upsell di handover sesi (di luar soft 5-min mention).
+
+**Rationale:** Klien yang baru selesai engagement = fatigue + processing deliverable. Push upsell di handover = trust break + perception "saya cuma cari uang". Defer ke 30-day check-in = klien sudah sempat eksperimen, kalau butuh next step, mereka yang minta.
+
+**30-day check-in email format:**
+
+```
+Subject: 30 hari post-engagement — bagaimana progress?
+
+Halo [Nama],
+
+30 hari pasca-handover. Quick check-in:
+
+1. Apakah Anda sudah mulai implement roadmap 30-hari yang kita
+   diskusi di handover?
+
+2. Ada blocker yang muncul yang TIDAK ter-cover di deliverable?
+
+3. Apakah ada update dari tim yang Anda ingin share (positif atau
+   negatif)?
+
+Tidak ada commitment dari reply — saya cuma curious dan ingin
+support kalau ada yang bisa saya bantu.
+
+Kalau Anda inginkan support struktural berkelanjutan, saya punya
+beberapa option:
+- Annual retainer (4× quarterly check-in + email Q&A)
+- Quarterly check-in standalone
+- Phase 2 audit untuk alur baru atau scaling
+
+Tidak ada urgency — opsi ini ada kalau Anda inginkan, tidak kalau
+tidak inginkan.
+
+Salam,
+Arif
+```
+
+**Send timing:** D+30 hari post-handover, hari kerja pagi (Selasa atau Rabu 09:00 WIB).
+
+---
+
+
+## CLOSING
+
+Corporate Inbound Playbook = master operasional 10 section yang menghubungkan strategi corporate audit ke eksekusi inbound Bulan 4+.
+
+**Stack relasi Item 6/7/8/9 (full launch ops triad):**
+- Item 6 (Buku Launch Pack) = master ops Mgg 7 (Rp 297-897K, 30-hari refund, transformasi-focused)
+- Item 7 (Calendar Bulan 3) = run-of-show D71-D77 cohort launch week
+- Item 8 (Cohort Launch Pack) = master ops Mgg 11 (Rp 4,9-7,5JT, 7-hari post-sesi-1 refund, concrete-format-focused)
+- Item 9 (Corporate Inbound Playbook — file ini) = master ops Bulan 4+ (Rp 25-100JT, no refund post-kickoff, scope-bounded contract)
+
+4 item bekerja sama sebagai **full-funnel launch ops triad**: dari low-ticket buku → mid-ticket cohort → high-ticket corporate, dengan SACRED rules berbeda yang mencerminkan stake + audience expectation per tier.
+
+**Activation timeline:**
+- Mgg 1-12 (Bulan 1-3): Item 6/7/8 aktif, Item 9 SOFT defer
+- Mgg 13-16 (Bulan 4): Item 9 SOFT activation (1-pager publik + arifb.id/corporate live)
+- Mgg 17-26 (Bulan 5-6): Item 9 FULL activation (active outreach decision-maker LinkedIn)
+- Mgg 27+ (Bulan 7+): Item 9 STEADY state (2-3 corporate engagement/bulan target)
+
+---
+
+*Last updated: Layer 21 (2/2), 27 Mei 2026 — Item 9 Corporate Inbound Playbook SELESAI. Section 0-9 lengkap, ~1.250 baris total.*
+*Berikutnya: Master Index PLAYBOOK-MASTER.md sebagai final closing — 12/12 done akan tercapai.*

@@ -10,11 +10,11 @@
 **Tanggal:** 27 Mei 2026
 **Branch aktif:** `add-thread-arsi-7-hari`
 **PR aktif:** https://github.com/arifbudiman575-ship-it/buku/pull/12
-**Total commits di PR (terbaru):** 23 commits (Layer 11 → 12a/b → 13 → 14 → 15 → 16/16b/c/d/e → 16(1/3)(2/3)(3/3) → 17 → 18 → 19(1/3)(2/3)(3/3) → **20(1/4)(2/4)(3/4)(4/4)**)
+**Total commits di PR (terbaru):** 25 commits (Layer 11 → 12a/b → 13 → 14 → 15 → 16/16b/c/d/e → 16(1/3)(2/3)(3/3) → 17 → 18 → 19(1/3)(2/3)(3/3) → 20(1/4)(2/4)(3/4)(4/4) → **21(1/2)(2/2)**)
 
 ---
 
-## PROGRESS PLAYBOOK — 11/12 DONE (92%)
+## PROGRESS PLAYBOOK — 12/12 DONE (100%) ✓
 
 | # | Item | Layer | File | Status |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@
 | 5 | Calendar Bulan 2 + 4 long-thread | 16 | `CONTENT-CALENDAR-BULAN-2.md` + `THREADS-LONGFORM-ABC-TEST.md` | ✓ Done |
 | 6 | Buku Launch Pack | 16b/16c/16d/16e | `LAUNCH-PACK-BUKU.md` (4-part, ~2.160 lines) | ✓ Done |
 | 7 | Calendar Bulan 3 + 4 long-thread | 16(1/3)/16(2/3)/16(3/3) | `CONTENT-CALENDAR-BULAN-3.md` (3-part, ~1.420 lines) | ✓ Done |
-| **8** | **Cohort Launch Pack** | **20(1/4)/(2/4)/(3/4)/(4/4)** | **`LAUNCH-PACK-COHORT.md` (4-part, ~2.300 lines)** | **✓ Done** |
-| 9 | Corporate Inbound 1-Pager | — | `CORPORATE-INBOUND-PLAYBOOK.md` | ⚪ NEXT |
+| 8 | Cohort Launch Pack | 20(1/4)/(2/4)/(3/4)/(4/4) | `LAUNCH-PACK-COHORT.md` (4-part, ~2.260 lines) | ✓ Done |
+| **9** | **Corporate Inbound Playbook** | **21(1/2)/(2/2)** | **`CORPORATE-INBOUND-PLAYBOOK.md` (2-part, ~1.330 lines)** | **✓ Done** |
 | 10 | Anti-Burnout Protocol | 17 | `ANTI-BURNOUT-PROTOCOL.md` (single, 831 lines) | ✓ Done |
 | 11 | Cross-Platform Playbook | 19(1/3)/(2/3)/(3/3) | `CROSS-PLATFORM-PLAYBOOK.md` (3-part, ~1.322 lines) | ✓ Done |
 | 12 | Strategy Refresh Protocol | 18 | `STRATEGY-REFRESH-PROTOCOL.md` (single, 937 lines) | ✓ Done |
@@ -39,12 +39,61 @@
 - **Tier CRITICAL (Item 1-4):** ✓ SELESAI
 - **Tier HIGH — Buku Launch Mgg 7 (Item 5-6):** ✓ SELESAI
 - **Tier HIGH — Cohort Launch Mgg 11 (Item 7-8):** ✓ SELESAI
-- **Tier D — Compound (Item 9-12):** Item 10 ✓ · Item 11 ✓ · Item 12 ✓ · **Item 9 NEXT**
-- **Sisa:** Item 9 (Corporate Inbound 1-Pager) + Master Index
+- **Tier D — Compound (Item 9-12):** ✓ SELESAI (Item 9 ✓ · 10 ✓ · 11 ✓ · 12 ✓)
+- **Sisa:** Master Index `PLAYBOOK-MASTER.md` (final closing)
 
 ---
 
-## RINGKASAN LAYER 20(1/4)–20(4/4) — ITEM 8 SELESAI (4 PART)
+## RINGKASAN LAYER 21(1/2)–21(2/2) — ITEM 9 SELESAI (2 PART)
+
+**Layer 21 — Corporate Inbound Playbook (Bulan 4+ activation, Rp 25-100JT)**
+
+**Anchor:** STRATEGI §8 (value ladder top tier) + §17 (trust-first untuk B2B high-ticket) + LAUNCH-PACK-COHORT §11.10 (handoff cohort → corporate).
+
+File: `CORPORATE-INBOUND-PLAYBOOK.md` — 10 section, ~1.330 baris, 2-part commit.
+
+### Layer 21(1/2) — Foundation + SACRED + 1-Pager + Qualification + Diagnostic (563 baris)
+- **Sec 0** Ringkasan: 4-fase activation (Bulan 1-3 inactive → Bulan 4 SOFT → Bulan 5-6 FULL → Bulan 7+ STEADY) + 3-scope FINAL (Small Rp 25JT 5-15 / Medium Rp 50JT 15-30 / Large Rp 100JT 30-50) + cap simultaneous 3 + 4 path masuk + filosofi vs cohort + 11 dependency Mgg 13
+- **Sec 1** 7 SACRED CO-1 sd CO-7: no exact public price, discovery 30-min wajib, anti-scope-creep 3 revision rounds, NDA by request, decline beyond expertise, payment 50/50 SACRED, klien data privacy SACRED selamanya
+- **Sec 2** 1-Pager PDF asset: 5 distribution channel + 11-block A4 structure + visual design Light theme + arifb.id/corporate landing page + update protocol quarterly
+- **Sec 3** Qualification flow: end-to-end chart + 6-dimensi criteria + discovery 30-min agenda + scoping 60-min agenda gated + 8 edge cases + pipeline tracking 8-kolom + 5 conversion floor metrics
+- **Sec 4** Diagnostic format: 4-sesi standard (audit / 2× audit alur priority / synthesis) + deliverable PDF 30-50 halaman + handover sesi 60-min + Large variant 6-sesi + recording rules
+
+### Layer 21(2/2) — Pricing + Email + Contract + Delivery + Upsell (~770 baris)
+- **Sec 5** Pricing matrix detail: Small Rp 25JT (effort 20 jam + risk premium 25%) · Medium Rp 50JT (30 jam + complexity 30% + risk 25%) · Large Rp 100JT (55 jam + complexity 50% + risk 30%) + 5 premium add-ons (rush 20% / additional sesi / 30-day check-in / co-write policy / tools setup hands-on) + 6 item TIDAK termasuk
+- **Sec 6** 5 Email saved replies: CO-IN-1 inbound qualified initial / CO-IN-2 graceful decline borderline / CO-IN-3 redirect not-qualified / CO-IN-4 post-discovery scoping invitation / CO-IN-5 proposal sent with summary
+- **Sec 7** Contract template skeleton: 5 SACRED clauses (anti-scope-creep / payment 50/50 / IP ownership / NDA optional / termination) + 2 standard clauses (scope boundary / recording) + 3 edge case (force majeure / indemnification limited / jurisdiction Indonesia) + 9-step signing process 14-21 hari kerja
+- **Sec 8** Delivery operational: pre-kickoff SLA 7-hari + sesi 1-4 cadence 1/mgg default + inter-sesi support (Notion async + email + WA emergency only) + quality control SOP 7-step + handover ritual 60-min + post-engagement protocol D+30/D+12 mo + energy management cap 1 sesi/hari + max 3 simultaneous
+- **Sec 9** Post-engagement upsell path: annual retainer Rp 75-150JT/tahun + quarterly check-in Rp 15-25JT + cohort referral (priority slot, no fee) + speaker engagement Rp 25-50JT + phase 2 audit Rp 25-50JT + trigger upsell rules + anti-churn rule (defer ke 30-day check-in, NOT push di handover)
+
+### Stack relasi Item 6/7/8/9 (full launch ops triad)
+- Item 6 (Buku Launch) = Mgg 7 low-mid ticket Rp 297-897K, 30-hari refund, transformasi-focused
+- Item 7 (Calendar Bulan 3) = run-of-show D71-D77 cohort launch week
+- Item 8 (Cohort Launch) = Mgg 11 high ticket Rp 4,9-7,5JT, 7-hari post-sesi-1 refund
+- **Item 9 (Corporate Inbound) = Bulan 4+ premium ticket Rp 25-100JT, no refund post-kickoff, scope-bounded contract**
+
+4 item bekerja sebagai **full-funnel launch ops** dari low-ticket buku → mid-ticket cohort → high-ticket corporate, dengan SACRED rules berbeda yang mencerminkan stake + audience expectation per tier.
+
+---
+
+## ITEM TERAKHIR — MASTER INDEX
+
+**Master Index — `PLAYBOOK-MASTER.md`** (single-commit, ~400 baris target)
+
+Final closing dokumen — single navigation entry untuk seluruh playbook 22 chapter.
+
+Outline:
+- TOC 22 chapter dengan anchor link ke setiap file
+- Reading order rekomendasi 4 path:
+  - **Start Here** path (3 file): Master Index, Lanjutkan Di Sini, Ringkasan Sesi
+  - **Strategi** path (4 file): Master 18 section + BJM + Kompetitor + Filter
+  - **Launch** path (4 file): Lead Magnet + Buku + Cohort + Corporate
+  - **Operasional** path (5 file): Ops + Tracking + Reply Farm + Anti-Burnout + Strategy Refresh
+  - **Konten harian** path (7 file): Voice + Hook Bank + Visual ID + Manifesto + Cross-Platform + Calendar 1-3 + Long-thread Library + Pillar 3
+- Cross-reference matrix (file ↔ STRATEGI section anchor)
+- Stats final: 12/12 done, ~14.000 baris total, 22 chapter
+- Recommended reading time per file
+- Quick decision lookup (ke file mana untuk pertanyaan apa)
 
 **Layer 20 — Cohort Launch Pack (master operasional Cohort A.R.S.I. Mgg 11)**
 
@@ -76,35 +125,6 @@ File: `LAUNCH-PACK-COHORT.md` — 11 section, ~2.300 baris, 4-part commit (mirro
 - Item 6 (Buku Launch) = master ops Mgg 7 lower-stakes Rp 297-897K, 30-hari refund, transformasi-focused
 - Item 7 (Calendar Bulan 3) = run-of-show D71-D77 cohort launch week
 - Item 8 (Cohort Launch Pack) = master ops Mgg 11 high-ticket Rp 4,9-7,5JT, 7-hari post-sesi-1 refund, concrete-format-focused
-
----
-
-## ITEM 9 YANG QUEUE BERIKUTNYA
-
-**Corporate Inbound 1-Pager — `CORPORATE-INBOUND-PLAYBOOK.md`**
-
-Bulan 4+ sales material untuk corporate audit Rp 25-100JT. Lebih ringkas dari Cohort Launch Pack — 1 file ~600-800 baris, **single-commit single-file** (per pattern Item 10/12).
-
-Anchor: STRATEGI §8 (value ladder top tier corporate audit) + §17 (trust-first sequencing) + LAUNCH-PACK-COHORT §11.10 (handoff cohort → corporate).
-
-Outline kasar (10 section target):
-- Sec 0: Ringkasan + Bulan 4+ activation timing + 3-scope corporate audit (small Rp 25JT / medium Rp 50JT / large Rp 100JT)
-- Sec 1: SACRED Corporate Inbound (no public price disclosure, advisor mode mandatory, NDA optional, scope bounded)
-- Sec 2: 1-Pager Corporate Audit (PDF asset — distribusi via LinkedIn/email decision-maker)
-- Sec 3: Inbound qualification flow (LinkedIn DM → email → 30-min discovery → proposal scoping)
-- Sec 4: 4-sesi diagnostic format + 1 deliverable + 1 handover sesi
-- Sec 5: Pricing scope matrix (Rp 25/50/100JT — apa yang termasuk per tier)
-- Sec 6: Email saved replies corporate (5 template — initial inquiry / scoping / proposal / objection / NDA request)
-- Sec 7: Contract template skeleton (anti-scope-creep clause + IP ownership + payment terms 50/50)
-- Sec 8: Delivery operational (timeline 6-8 minggu standard, recording rules, deliverable handoff)
-- Sec 9: Post-engagement upsell path (annual retainer / quarterly check-in / cohort referral / speaker engagement)
-
-Pertanyaan strategis untuk brainstorm Item 9:
-1. Pricing publik vs private? Default = pricing range public (Rp 25-100JT) tetapi exact quote private. OK?
-2. NDA default behavior — automatic offer atau by request? Default by request (less friction inbound)
-3. Scope sesi diagnostic 4 vs 6? Default 4 (intensive) untuk small/medium, 6 untuk large
-4. Co-author IP — siapa yang own framework yang dibuild? Default: framework = milik Anda (signature methodology), implementation document = milik klien
-5. Single-commit (Item 10/12 pattern) atau multi-part? Rekomendasi single-commit (~600-800 baris) — manageable
 
 ---
 
@@ -144,6 +164,15 @@ Pertanyaan strategis untuk brainstorm Item 9:
 | **Cohort 1 → Cohort 2 cycle (Layer 20)** | **Cohort 2 launch target Mgg 28-30 (Bulan 7) — 12-14 minggu per cohort batch** |
 | **WA advisor mode cap (Layer 20)** | **20 slot 30-min D71-D75 (4 slot/hari × 5 hari) — defer ke email kalau full** |
 | **Cohort partial refund (Layer 20)** | **PLUS → ARSITEK conversion OK Hari 1-3 post-sesi-1 (refund selisih Rp 2,6JT). Hari 4+ TIDAK** |
+| **Corporate audit 3-scope (Layer 21)** | **Small Rp 25JT (5-15 orang) / Medium Rp 50JT (15-30) / Large Rp 100JT (30-50, 6-sesi variant)** |
+| **Corporate pricing publik vs private (CO-1)** | **Range publik Rp 25-100JT · Exact quote post-discovery call 30-min only** |
+| **Corporate diagnostic format** | **4 sesi 90-min standard (Small/Medium) · 6 sesi (Large) + 1 deliverable PDF + 1 handover** |
+| **Corporate IP ownership** | **Framework methodology = milik Anda (SACRED) · Implementation document custom = milik klien** |
+| **Corporate payment 50/50 SACRED (CO-6)** | **50% upfront kickoff + 50% post-handover. Tidak negosiasi 30/70 atau pure post-pay** |
+| **Corporate NDA (CO-4)** | **By request only, bukan auto-offer. Standard mutual NDA 24 bulan post-engagement** |
+| **Corporate cap simultaneous (CO-3 §8.7)** | **Max 3 engagement aktif (Bulan 4-5 = 2 max build capacity, Bulan 6+ = 3 max steady)** |
+| **Corporate refund (CO-6 + Sec 7.1)** | **NO refund post-kickoff (scope-bounded contract). Pre-kickoff = full refund minus Rp 5JT processing fee** |
+| **Corporate activation timeline (Layer 21 §0.1)** | **Bulan 1-3 inactive · Bulan 4 SOFT · Bulan 5-6 FULL · Bulan 7+ STEADY (target 2-3 engagement/bulan)** |
 
 ---
 
@@ -163,12 +192,14 @@ Pertanyaan strategis untuk brainstorm Item 9:
 - Item 10 = single-commit (Layer 17)
 - Item 12 = single-commit (Layer 18)
 - Item 11 = 3-part (Layer 19(1-3))
-- **Item 8 = 4-part (Layer 20(1-4))** — analog Item 6 pattern
+- Item 8 = 4-part (Layer 20(1-4))
+- **Item 9 = 2-part (Layer 21(1-2))** — analog dengan dokumen ~1.300 baris
 
 **Pattern decision per item:**
-- Single-commit: dokumen ~800-1000 baris, scope tight
-- 3-part: dokumen ~1.300-1.500 baris, multi-section per platform
-- 4-part: dokumen ~2.000-2.300 baris, multi-platform launch operasional
+- Single-commit: dokumen ~800-1000 baris, scope tight (Item 10/12)
+- 2-part: dokumen ~1.300 baris (Item 9)
+- 3-part: dokumen ~1.300-1.500 baris, multi-section per platform (Item 7/11)
+- 4-part: dokumen ~2.000-2.300 baris, multi-platform launch operasional (Item 6/8)
 
 ---
 
@@ -184,7 +215,7 @@ Pertanyaan strategis untuk brainstorm Item 9:
 
 ### Tentang Repository
 - **Repo:** `arifbudiman575-ship-it/buku`
-- **File penting (UPDATED Layer 20):**
+- **File penting (UPDATED Layer 21):**
   - `STRATEGI-PERSONAL-BRANDING.md` — 18 section master strategi
   - `BRAND-JOURNEY-MAP.md` — roadmap 4 quarter
   - `CONTENT-CALENDAR-BULAN-{1,2,3}.md` — 86 post + long-thread
@@ -194,7 +225,8 @@ Pertanyaan strategis untuk brainstorm Item 9:
   - `MANIFESTO-CAROUSEL-IG.md` — carousel Day 1
   - `PILLAR-3-STUDI-CASE-PAK-BI.md` — 8 post filosofi
   - `LAUNCH-PACK-BUKU.md` — Master ops buku launch (~2.160 lines)
-  - **`LAUNCH-PACK-COHORT.md`** — Master ops cohort launch (NEW Layer 20, ~2.300 lines)
+  - `LAUNCH-PACK-COHORT.md` — Master ops cohort launch (Layer 20, ~2.260 lines)
+  - **`CORPORATE-INBOUND-PLAYBOOK.md`** — Master ops corporate audit Bulan 4+ (NEW Layer 21, ~1.330 lines)
   - `VISUAL-BRAND-IDENTITY.md` — visual standard
   - `TRACKING-DASHBOARD.md` — KPI tracking
   - `OPERATIONAL-SETUP.md` — tooling stack
@@ -207,16 +239,16 @@ Pertanyaan strategis untuk brainstorm Item 9:
 
 ### Tentang Playbook Structure (22 Chapter)
 ```
-PART 0 — START HERE (3 ch): Master Index, Lanjutkan Di Sini, Ringkasan Sesi
+PART 0 — START HERE (3 ch): Master Index (NEXT), Lanjutkan Di Sini, Ringkasan Sesi
 PART 1 — STRATEGI (4 ch): Master 18 Section, BJM, Kompetitor, Filter 4-Lapis
 PART 2 — KONTEN HARIAN (7 ch): Voice, Hook Bank, Visual ID ✓, Manifesto ✓, Cross-Platform ✓, Calendar 12 Bulan, Long-thread Library, Pillar 3
-PART 3 — LAUNCH (4 ch): Lead Magnet ✓, Buku Launch ✓, Cohort Launch ✓ (NEW), Corporate Inbound (NEXT)
+PART 3 — LAUNCH (4 ch): Lead Magnet ✓, Buku Launch ✓, Cohort Launch ✓, Corporate Inbound ✓ (NEW)
 PART 4 — OPERASIONAL (5 ch): Ops Setup ✓, Tracking ✓, Reply Farm ✓, Anti-Burnout ✓, Strategy Refresh ✓
 ```
 
 ---
 
-## REVIEW STATUS SEMUA ITEM (UPDATE — END OF LAYER 20(4/4))
+## REVIEW STATUS SEMUA ITEM (UPDATE — END OF LAYER 21(2/2))
 
 | Status | Item | Detail |
 |---|---|---|
@@ -224,14 +256,16 @@ PART 4 — OPERASIONAL (5 ch): Ops Setup ✓, Tracking ✓, Reply Farm ✓, Anti
 | ✓ DONE | Item 5 (Calendar Bulan 2) | 28 post + 4 long-thread |
 | ✓ DONE | Item 6 (Buku Launch Pack) | 11 section, 4-part, ~2.160 lines |
 | ✓ DONE | Item 7 (Calendar Bulan 3) | 28 post + 4 long-thread + retro |
-| ✓ DONE | **Item 8 (Cohort Launch Pack)** | **Layer 20, 11 section, 4-part, ~2.300 lines, anchor §8/§11/§17** |
-| ⚪ NEXT | Item 9 (Corporate Inbound 1-Pager) | CORPORATE-INBOUND-PLAYBOOK.md, single-commit, ~600-800 baris |
+| ✓ DONE | Item 8 (Cohort Launch Pack) | Layer 20, 11 section, 4-part, ~2.260 lines, anchor §8/§11/§17 |
+| ✓ DONE | **Item 9 (Corporate Inbound Playbook)** | **Layer 21, 10 section, 2-part, ~1.330 lines, anchor §8/§17** |
 | ✓ DONE | Item 10 (Anti-Burnout Protocol) | Layer 17, 831 lines, anchor §14 |
 | ✓ DONE | Item 11 (Cross-Platform Playbook) | Layer 19, 3-part, 1.322 lines, anchor §7 |
 | ✓ DONE | Item 12 (Strategy Refresh Protocol) | Layer 18, 937 lines, anchor §11 |
-| ⚪ Last | Master Index PLAYBOOK-MASTER.md | Setelah Item 9 selesai |
+| ⚪ NEXT | Master Index PLAYBOOK-MASTER.md | Final closing — single-commit ~400 baris |
 
-**Progress: 11/12 (92%) — tinggal Item 9 Corporate Inbound + Master Index. Tier HIGH closing 100%.**
+**Progress: 12/12 (100%) — semua item core SELESAI. Tinggal Master Index sebagai final navigation closing.**
+
+**Total dokumen yang ditulis:** ~14.000 baris di 19 file `.md`. 22-chapter playbook structure 95% complete.
 
 ---
 
@@ -241,18 +275,12 @@ Copy-paste ini ke percakapan Kiro baru:
 
 ```
 Lanjutkan dari file LANJUTKAN-DI-SINI.md di repo arifbudiman575-ship-it/buku
-branch add-thread-arsi-7-hari. Item 9 berikutnya: Corporate Inbound 1-Pager
-(file CORPORATE-INBOUND-PLAYBOOK.md, single-commit, ~600-800 baris).
-Brainstorm di chat, pakai rekomendasi default, commit langsung dari Kiro.
-```
-
-Atau kalau mau langsung Master Index (skip Item 9 untuk sekarang):
-```
-Lanjutkan dari file LANJUTKAN-DI-SINI.md di repo arifbudiman575-ship-it/buku
-branch add-thread-arsi-7-hari. Master Index PLAYBOOK-MASTER.md sebagai final
-closing — single-commit navigation entry untuk seluruh 22 chapter playbook.
+branch add-thread-arsi-7-hari. Final closing: Master Index PLAYBOOK-MASTER.md
+sebagai single navigation entry untuk seluruh 22-chapter playbook.
+Single-commit, ~400 baris. Brainstorm di chat, pakai rekomendasi default,
+commit langsung dari Kiro.
 ```
 
 ---
 
-*Last updated: Layer 20(4/4), 27 Mei 2026 — Item 8 Cohort Launch Pack SELESAI (4 part, ~2.300 lines). Item 9 Corporate Inbound 1-Pager berikutnya (rekomendasi default).*
+*Last updated: Layer 21(2/2), 27 Mei 2026 — Item 9 Corporate Inbound Playbook SELESAI (2 part, ~1.330 lines). 12/12 (100%) item core complete. Master Index sebagai final closing item berikutnya.*
