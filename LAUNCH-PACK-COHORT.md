@@ -541,3 +541,762 @@ Kalau Anda yakin, saya tunggu Anda di Mgg 13.
 ---
 
 *Last updated: Layer 20 (1/4), 27 Mei 2026 — Section 0-2 selesai (Foundation + SACRED + Sales Page Cohort 8-section copy). Section 3-5 (Onboarding + Refund + Email) di part berikutnya.*
+
+
+
+## Section 3 — Cohort Onboarding Flow
+
+### 3.1. Flow Order End-to-End (post-purchase)
+
+```
+[Peserta klik CTA "Pilih ARSITEK" / "Pilih ARSITEK PLUS"]
+   │
+   ▼
+[Lynk.id checkout — pilih payment method (transfer/QRIS/VA)]
+   │
+   ▼
+[Pembayaran sukses]
+   │
+   ├─→ [Email konfirmasi otomatis Lynk.id] (T+0 menit)
+   │
+   ├─→ [Webhook Lynk.id → MailerLite tag "cohort_paid_TIER"] (T+1 menit)
+   │
+   ▼
+[Email konfirmasi MAS — saya pribadi] (T+5 menit otomatis)
+   "Selamat — saya tunggu Anda. Akses Notion & next steps di bawah."
+   │
+   ▼
+[Notion workspace access invite] (T+15 menit — VA proses manual)
+   - Worksheet 8 modul (locked, akan unlock per minggu)
+   - Pre-cohort form (5 pertanyaan: ukuran tim, fungsi, tools dipakai, 1 alur paling memakan waktu, 1 ekspektasi)
+   - Group chat WA invite link
+   │
+   ▼
+[ARSITEK PLUS only: Email 1-on-1 audit scheduling] (T+30 menit)
+   "Pilih slot 90-min Anda di Mgg 14-15: [Calendly link]"
+   │
+   ▼
+[Peserta isi pre-cohort form dalam 48 jam]
+   │
+   ▼
+[Saya review form + briefing pre-cohort] (1 hari sebelum sesi 1)
+   "Mgg 13 Senin 19:30 sesi 1. Lihat agenda + worksheet pre-read di Notion."
+   │
+   ▼
+[Sesi 1 LIVE — Mgg 13 Senin 19:30 WIB]
+```
+
+**SLA waktu:** Maksimum **4 jam** dari payment success ke Notion access (kalau VA available; backup pribadi kalau >4 jam).
+
+### 3.2. Email Konfirmasi Mas — 5 Template
+
+#### Template 1: Email Konfirmasi Pembelian (T+5 menit, otomatis dari MailerLite trigger)
+
+```
+Subject: Selamat — saya tunggu Anda di Cohort A.R.S.I.
+
+Halo [Nama],
+
+Terima kasih sudah memilih [TIER]. Pembayaran Rp [HARGA] saya konfirmasi.
+
+Berikutnya, dalam 15 menit Anda akan dapat:
+1. Akses Notion workspace (worksheet 8 modul + pre-cohort form)
+2. Group chat WA invite link
+[Untuk ARSITEK PLUS:]
+3. Email scheduling 1-on-1 audit 90-min
+
+Yang perlu Anda lakukan dalam 48 jam:
+1. Isi pre-cohort form di Notion (5 pertanyaan, ~15 menit)
+2. Bergabung ke group chat WA
+3. [PLUS only:] Pilih slot 1-on-1 Anda di Mgg 14-15
+
+Sesi 1 cohort: Mgg 13 Senin 19:30 WIB via Zoom (link di Notion).
+
+Kalau ada pertanyaan, balas email ini langsung — saya akan respon
+dalam 24 jam.
+
+— Arif Budiman
+   the ai architect
+```
+
+#### Template 2: Email Reminder Pre-Cohort Form (T+24 jam kalau form belum diisi)
+
+```
+Subject: Quick reminder — pre-cohort form (15 menit)
+
+Halo [Nama],
+
+Saya lihat pre-cohort form Anda belum terisi. Tidak masalah — tetapi
+form ini membantu saya memahami konteks tim Anda sebelum sesi 1
+sehingga waktu sesi tidak dipakai untuk introductions yang generic.
+
+Akses form: [Notion link]
+5 pertanyaan, ~15 menit.
+
+Deadline: Mgg 12 Sabtu 20:00 WIB (2 hari sebelum sesi 1).
+
+Kalau ada blocker, balas email ini.
+
+— Arif
+```
+
+#### Template 3: Email Briefing Pre-Sesi 1 (Mgg 12 Minggu 18:00 WIB)
+
+```
+Subject: Sesi 1 besok — agenda + 1 hal yang harus disiapkan
+
+Halo [Nama],
+
+Sesi 1 cohort = besok, Mgg 13 Senin 19:30 WIB via Zoom.
+
+Agenda 75 menit:
+- 0-15 min: Welcome + ground rules + introduce 17-23 peserta
+- 15-35 min: Modul 1 — Audit alur kerja (framework + walkthrough)
+- 35-55 min: Walkthrough worksheet Modul 1 (Anda mulai isi live)
+- 55-70 min: Q&A peer
+- 70-75 min: Action item Mgg 13-14 (worksheet Modul 1 selesai)
+
+Yang harus disiapkan sebelum sesi 1:
+1. Pre-read di Notion: "Modul 1 Pre-read — 8 menit" (sudah unlock)
+2. Notebook fisik atau digital — kami akan banyak menulis
+3. Mental space — sesi ini intens, tidak multi-tasking dengan email
+
+Zoom link: [link di Notion]
+Recording: tersedia 24 jam pasca-sesi di Notion.
+
+Sampai besok 19:30.
+
+— Arif
+```
+
+#### Template 4: Email Konfirmasi 1-on-1 Audit Scheduled (ARSITEK PLUS only, T+1 jam setelah Calendly booking)
+
+```
+Subject: 1-on-1 audit Anda — [TANGGAL] [JAM] WIB
+
+Halo [Nama],
+
+1-on-1 audit alur kerja Anda saya jadwalkan:
+[TANGGAL] pukul [JAM] WIB, durasi 90 menit, via Zoom.
+
+Yang harus disiapkan sebelum sesi:
+1. Worksheet Modul 1 sudah selesai (audit alur Anda real)
+2. List 3-5 alur paling memakan waktu di tim
+3. Tools AI yang sudah dipakai tim + frustrasi spesifik
+4. 1 alur yang Anda inginkan kami audit dalam paling fokus
+
+Format sesi:
+- 0-30 min: Anda walkthrough audit alur Anda + 1 alur fokus
+- 30-60 min: Saya audit + tanya klarifikasi + identifikasi leverage tinggi
+- 60-80 min: Diskusi tools setup priority (2-3 tools yang akan saya bantu setup)
+- 80-90 min: Action items + scheduling tools setup session (terpisah, ~60 min)
+
+Recording sesi 1-on-1 hanya untuk Anda (tidak shared ke group cohort).
+
+Zoom link: [link di calendar invite]
+
+— Arif
+```
+
+#### Template 5: Email Mid-Cohort Check-in (Mgg 17, mid-point)
+
+```
+Subject: Mgg 17 — mid-cohort check-in
+
+Halo [Nama],
+
+Kita sudah 4 minggu di cohort. Modul 1-4 selesai (audit + refine output
+standard). Modul 5-8 = systemize permission + integrate.
+
+Quick check-in (saya butuh 2 menit Anda):
+
+1. Apakah worksheet Modul 1-4 sudah selesai 80%+?
+   [ ] Ya, on track
+   [ ] Tertinggal 1-2 modul
+   [ ] Stuck di modul tertentu
+
+2. Apakah 1+ alur sudah mulai di-implement di tim Anda?
+   [ ] Ya, sudah 1 alur live
+   [ ] Belum, masih audit
+   [ ] Stuck di sosialisasi
+
+3. Apakah ada blocker yang saya bisa bantu di sesi mendatang?
+   [Open text]
+
+Reply email ini singkat. Kalau Anda stuck, saya akan tambah 1 sesi
+debugging 30-min di Mgg 18.
+
+Lanjut bersama,
+— Arif
+```
+
+### 3.3. WhatsApp Templates (Saved Replies — 3 cohort-specific)
+
+#### WA-1: Welcome group chat (saat peserta join)
+```
+Selamat datang [Nama] di group ARSITEK Cohort 1.
+
+Ground rules:
+- Diskusi worksheet + framework cohort = di group ini
+- DM saya pribadi = untuk hal sensitif (data tim, dll)
+- Voice "Anda" formal — sama dengan tone cohort
+- Off-topic → channel terpisah (akan saya buat kalau dibutuhkan)
+
+Sesi 1: Mgg 13 Senin 19:30 WIB via Zoom (link di Notion).
+
+Saya tunggu walkthrough audit alur Anda di Modul 1.
+
+— Arif
+```
+
+#### WA-2: Reminder sesi (T-2 jam sebelum sesi)
+```
+Sesi [N] dimulai 2 jam lagi (19:30 WIB).
+
+Agenda + pre-read sudah di Notion (link sama).
+Zoom link: [link]
+
+Sampai jumpa.
+— Arif
+```
+
+#### WA-3: Group nudge action item (akhir sesi)
+```
+Action item Mgg [X-Y]:
+
+1. [Action item 1, dari sesi tadi]
+2. [Action item 2]
+3. Worksheet Modul [N] selesai sebelum Mgg [Y] Sabtu 20:00 WIB
+
+Stuck? Tag saya di group atau DM langsung.
+
+— Arif
+```
+
+### 3.4. Edge Cases Onboarding
+
+| Scenario | Action |
+|---|---|
+| Payment success tapi Notion access >4 jam belum di-grant | VA priority + email apology + comp +1 sesi Q&A bulanan post-cohort |
+| Pre-cohort form belum diisi 48 jam | Email Template 2 reminder + WA personal kalau belum 72 jam |
+| Peserta tidak hadir sesi 1 tanpa notif | WA personal Mgg 13 Selasa pagi: "Sesi 1 kemarin Anda tidak hadir — semua baik?" |
+| Peserta minta refund pre-sesi-1 | Refund full, no friction, anchor Section 4 |
+| Peserta join late (cohort sudah jalan 1+ minggu) | TIDAK terima — slot lock D77. Waitlist cohort 2. |
+| Group chat WA peserta toxic/spam | Kontak personal langsung, kalau tidak respect = remove dari group, refund pro-rata kalau pre-Mgg-15 |
+| 1-on-1 audit ARSITEK PLUS reschedule | 1× reschedule OK, 2+ = case-by-case, 3+ = tidak fleksibel (commitment timeline) |
+
+### 3.5. Customer Service Capacity Plan
+
+**D71-D77 (launch week):**
+- Inbound WA: target 30-min respon business hours (10:00-18:00 WIB)
+- Inbound email: target 4 jam respon
+- DM Threads/IG: target 60-min respon
+- Volume estimasi: 80-150 inbound total selama 7 hari
+
+**D78-D84 (onboarding week):**
+- Volume estimasi: 30-50 inbound (yang sudah bayar — onboarding question)
+- Semua via email/Notion comment, bukan DM
+- VA bisa handle 70%, saya backup 30%
+
+**Mgg 13+ (cohort jalan):**
+- Inbound minimal — peserta primarily via group chat + sesi
+- DM personal hanya untuk sensitif
+
+---
+
+
+## Section 4 — Refund System Cohort
+
+### 4.1. Refund Policy Statement (di sales page Section 7 + sales page T&C)
+
+```
+Refund Commitment Cohort A.R.S.I.
+
+7-hari money-back setelah sesi 1.
+
+Window: Hari 1 (Mgg 13 Senin 19:30) sampai Hari 7 (Mgg 14 Senin
+19:30) — refund tersedia tanpa pertanyaan, tanpa checklist,
+cukup email refund@arifb.id.
+
+Setelah Mgg 14 Senin 19:30: refund tidak tersedia.
+
+Alasan: slot sudah teralokasi, group dynamics terbentuk, dan
+kapasitas 1-on-1 PLUS tidak bisa di-realokasikan ke peserta lain
+mid-cohort.
+
+Pre-sesi-1 refund (D71-D84): juga tersedia full refund.
+Email saja — proses 24 jam kerja.
+```
+
+### 4.2. Form Refund (Google Form / Tally)
+
+Field minimum:
+- Nama lengkap
+- Email pendaftaran cohort
+- Tier (ARSITEK / ARSITEK PLUS)
+- Tanggal pembelian
+- Alasan refund (open text, optional — TIDAK wajib, untuk learning kami)
+- Konfirmasi rekening untuk transfer (nama bank + nomor + nama pemegang)
+
+**SACRED:** Alasan refund OPTIONAL. Wajib = friction yang melanggar SACRED CL-4 (no-question refund).
+
+### 4.3. Auto-Reply Email (saat form submitted)
+
+```
+Subject: Refund Anda diterima — proses 24 jam kerja
+
+Halo [Nama],
+
+Refund cohort [TIER] Anda saya terima ([TANGGAL FORM]).
+
+Yang terjadi berikutnya:
+1. Saya proses refund dalam 24 jam kerja
+2. Transfer ke rekening yang Anda input — pakai bukti screenshot
+3. Email konfirmasi setelah transfer eksekusi
+4. Akses Notion + group chat di-revoke 1 hari setelah refund
+
+Tidak ada follow-up sales atau pertanyaan tambahan dari saya
+kecuali Anda yang mulai. Hormat sepenuhnya untuk keputusan Anda.
+
+Kalau di masa depan ada cohort lain (cohort 2 = Bulan 7) dan Anda
+ingin kembali, Anda akan dapat priority slot tanpa harus
+re-aplikasi.
+
+— Arif
+```
+
+### 4.4. SOP Processor 24-Jam
+
+| Jam dari form submit | Action | Owner |
+|---|---|---|
+| T+0 | Form auto-tag di MailerLite "refund_pending" | Sistem |
+| T+15 menit | Auto-reply email (Section 4.3) | Sistem |
+| T+1 jam | Saya cek form (priority alert) | Anda |
+| T+4 jam | Validasi data rekening + amount + tier (cross-check Lynk.id record) | Anda atau VA |
+| T+8 jam | Eksekusi transfer bank | Anda |
+| T+12 jam | Email konfirmasi transfer + screenshot | Anda |
+| T+18 jam | Revoke akses Notion + group chat WA | VA |
+| T+24 jam | Update tracking spreadsheet refund | VA |
+
+**Backup rule:** Kalau saya tidak available di window 24 jam (travel/sabbatical), VA escalate ke admin keuangan dengan SOP tertulis. Refund TIDAK ditunda > 48 jam dengan alasan apapun.
+
+### 4.5. Email Konfirmasi Refund Di-Execute
+
+```
+Subject: Refund eksekusi — terima kasih untuk percaya
+
+Halo [Nama],
+
+Refund Rp [JUMLAH] sudah saya transfer ke [BANK] [NO REKENING] hari
+ini, [TANGGAL] pukul [JAM] WIB.
+
+Bukti transfer: [attachment]
+
+Akses Notion + group chat WA di-revoke besok 12:00 WIB. Worksheet
+yang sudah Anda download tetap milik Anda — tidak ada DRM.
+
+Kalau ada pertanyaan tambahan, balas email ini.
+
+Terima kasih sudah mencoba cohort. Saya hormat keputusan Anda.
+
+Kalau di masa depan ingin diskusi tentang AI di tim Anda (tanpa
+pitch cohort), email saya langsung — saya senang dengar.
+
+— Arif Budiman
+   the ai architect
+```
+
+### 4.6. Edge Cases Refund
+
+| Scenario | Action |
+|---|---|
+| Refund di hari 1 (sebelum sesi 1) | Full refund, no question, 24 jam proses |
+| Refund di Hari 5 post-sesi-1 (window aktif) | Full refund, no question, 24 jam proses |
+| Refund di Hari 8+ post-sesi-1 | TIDAK refund. Email reply: "Refund window expired Hari 7. Saya hormat keinginan Anda — kami diskusi penyesuaian kalau ada masalah konkret." |
+| Refund request dengan alasan "cohort tidak sesuai ekspektasi" | Full refund, no defense. Trigger learning: review sales page expectation-setting Section 2. |
+| Refund partial request (mis: dari PLUS Rp 7,5JT ke ARSITEK Rp 4,9JT) | Konversi tier kalau hari 1-3 post-sesi-1 (refund selisih Rp 2,6JT). Hari 4-7 case-by-case kalau slot ARSITEK masih tersedia. Hari 8+ tidak tersedia. |
+| Refund dengan dispute Lynk.id/bank | Eskalasi ke admin keuangan, mediator dispute resolution dalam 7 hari kerja |
+| Peserta minta refund mid-cohort (Mgg 17, hari 30+) | Tidak refund, tetapi: comp +6 bulan akses Q&A bulanan + worksheet final + LinkedIn endorsement (kalau diminta). Ini = goodwill investment. |
+
+### 4.7. Refund Rate Tracking
+
+Spreadsheet `arifb.id/internal/refund-tracker-cohort` (anchor `TRACKING-DASHBOARD.md`):
+
+| Cohort | Total peserta | Refund pre-sesi-1 | Refund post-sesi-1 (window) | Refund rate total | Trigger |
+|---|---|---|---|---|---|
+| Cohort 1 | [N] | [X] | [Y] | (X+Y)/N % | >10% = audit Section 2 sales page |
+
+Update mingguan selama Mgg 11-15. Stop tracking after Mgg 15 (refund window closed all).
+
+**Floor & decision rule:**
+- Refund rate ≤5%: GREEN — sales page kalibrasi tepat
+- Refund rate 5-10%: YELLOW — audit pre-cohort form (apakah expectation gap?)
+- Refund rate >10%: ORANGE — audit Section 2 sales page + filter "Untuk siapa BUKAN" Section 2.5 — apakah filter terlalu lembut?
+- Refund rate >20%: RED — pause cohort 2 launch, foundational refresh anchor STRATEGY-REFRESH §8
+
+---
+
+
+## Section 5 — Email Launch Sequence Cohort (8 Email)
+
+Outline kasar di `CONTENT-CALENDAR-BULAN-3.md` Mgg 10-11. Section ini = **full draft 8 email** ready-to-load di MailerLite.
+
+Audience: lead magnet 7-Day Challenge subscribers + manual import buku-buyer list (Mgg 7+).
+
+### 5.1. Email Map — Schedule Mgg 10-11
+
+| # | Email | Tanggal kirim | Subject | Tujuan |
+|---|---|---|---|---|
+| 1 | Pre-launch tease | D64 Senin 09:00 (Mgg 10) | Setelah 8 minggu di laboratorium — sesuatu yang baru | Awareness |
+| 2 | Cohort waitlist open | D67 Kamis 19:00 (Mgg 10) | Cohort A.R.S.I. — waitlist dibuka hari ini | Soft signal |
+| 3 | Launch day announcement | D71 Senin 08:00 (Mgg 11) | Cohort A.R.S.I. dibuka — Anda dapat undangan pertama | Sales |
+| 4 | Filter "Untuk siapa BUKAN" | D72 Selasa 08:00 (Mgg 11) | Cohort ini BUKAN untuk Anda kalau... | Filter aggressive |
+| 5 | Bridge pembaca buku | D73 Rabu 08:00 (Mgg 11) | Sudah baca buku — apakah cohort cocok? | Bridge |
+| 6 | Tier comparison | D74 Kamis 08:00 (Mgg 11) | ARSITEK vs ARSITEK PLUS — mana untuk Anda? | Tier clarity |
+| 7 | Slot real-time + bonus 72-jam reminder | D75 Jumat 08:00 (Mgg 11) | [X] slot tersisa + bonus 72-jam end Sabtu | Slot transparency |
+| 8 | Final 24-jam | D77 Minggu 08:00 (Mgg 11) | Tutup pintu jam 23:59 malam ini | Soft urgency |
+
+**SACRED:** Tidak ada email pakai "BURUAN" / "JANGAN SAMPAI KETINGGALAN" / hype. Tone tetap formal-tenang.
+
+### 5.2. Email 1 — Pre-Launch Tease (D64 Senin 09:00)
+
+```
+Subject: Setelah 8 minggu di laboratorium — sesuatu yang baru
+
+Halo [Nama],
+
+Sejak buku THE AI ARCHITECT publikasi 4 minggu lalu, saya dapat 200+
+DM yang versinya kurang lebih sama:
+
+"Pak Arif, saya sudah baca, saya paham A.R.S.I. — tapi saat
+sosialisasi ke tim, saya stuck. Bisa kita bicara?"
+
+Saya tidak bisa bicara 1-on-1 dengan 200+ orang. Tapi saya juga
+tidak bisa biarkan 200 founder/manajer ini stuck di gap eksekusi.
+
+Jadi saya mengerjakan sesuatu yang lebih scalable dari 1-on-1, tetapi
+lebih dalam dari buku.
+
+Detail Kamis ini (D67) — kalau Anda sudah baca buku dan masih stuck
+di "tim belum berubah", subscribe ke email ini akan dapat early
+access info 24 jam sebelum publik.
+
+— Arif
+```
+
+**Length:** ~155 kata. **Tone:** Tenang, vulnerable (200+ DM observation), tidak menjual langsung.
+
+### 5.3. Email 2 — Cohort Waitlist Open (D67 Kamis 19:00)
+
+```
+Subject: Cohort A.R.S.I. — waitlist dibuka hari ini
+
+Halo [Nama],
+
+Cohort A.R.S.I. — Kohort 1 — official:
+
+8 minggu kerja bersama untuk meng-implement framework yang Anda
+baca di buku. 16 sesi grup + Notion workspace + group chat.
+
+Bukan kursus rekaman. Bukan webinar one-shot. Cohort tertutup
+dengan cap 20 peserta.
+
+2 tier:
+- ARSITEK Rp 4,9JT (group only)
+- ARSITEK PLUS Rp 7,5JT (+ 1-on-1 audit + tools setup)
+
+Cohort 1 mulai Mgg 16 (awal Bulan 4). Daftar publik dibuka Senin
+[D71] depan.
+
+**Waitlist khusus subscribers:** Klik link di bawah, Anda akan dapat:
+- Notif 24 jam SEBELUM publik launch (Anda klik checkout duluan)
+- Bonus extra: 30-min 1-on-1 sebelum sesi 1 (ARSITEK PLUS only)
+
+[CTA: Saya mau di waitlist cohort 1]
+
+Tidak ada commitment dengan klik waitlist — Anda bisa decline
+saat publik launch nanti.
+
+Detail full di sales page hari Senin.
+
+— Arif
+```
+
+**Length:** ~210 kata. **Tone:** Concrete (price + format) tapi tidak hype.
+
+### 5.4. Email 3 — Launch Day Announcement (D71 Senin 08:00)
+
+```
+Subject: Cohort A.R.S.I. dibuka — Anda dapat undangan pertama
+
+Halo [Nama],
+
+Cohort A.R.S.I. — Kohort 1 — sales page live.
+
+Anda di waitlist (atau saya rasa Anda akan tertarik) — jadi Anda
+dapat undangan ini 6 jam sebelum publik di Threads.
+
+Sales page lengkap di sini:
+[CTA: arifb.id/cohort]
+
+Yang harus Anda baca DULU sebelum klik checkout:
+
+1. **Section "Untuk siapa BUKAN"** — 4 rejection criteria. Saya
+   lebih suka kehilangan calon peserta sekarang daripada peserta
+   yang menyesal di Mgg 14. Kalau Anda mengenali 1+ kriteria
+   rejection, lewati cohort ini.
+
+2. **Section "Anda sudah baca buku"** — decision tree 4 pertanyaan
+   self-qualify. Cohort BUKAN otomatis lebih baik dari buku saja —
+   ada audience yang sudah optimal dengan buku saja.
+
+3. **Refund commitment** — 7-hari post-sesi-1 money-back, tanpa
+   pertanyaan. Ini berarti Anda commit Rp 4,9-7,5JT, ikut sesi 1,
+   dan masih bisa keluar full-refund kalau tidak fit.
+
+Kalau Anda ragu setelah baca, balas email ini — saya jadwalkan
+30-min advisor call (gratis, tanpa pitch).
+
+Slot: 20 peserta total. Real-time count di sales page.
+
+— Arif
+```
+
+**Length:** ~270 kata. **Tone:** Soft sell + filter-first + advisor mode mention.
+
+### 5.5. Email 4 — Filter Untuk Siapa BUKAN (D72 Selasa 08:00)
+
+```
+Subject: Cohort ini BUKAN untuk Anda kalau...
+
+Halo [Nama],
+
+Saya jarang menulis email yang menolak audience. Tapi cohort
+A.R.S.I. = high-ticket (Rp 4,9-7,5JT) dengan komitmen 8-minggu —
+saya butuh peserta yang fit, bukan peserta yang akan refund di
+Mgg 14.
+
+Lewati cohort ini kalau:
+
+❌ Anda baru kenal AI 2-3 bulan terakhir.
+❌ Anda tidak punya tim atau otoritas keputusan.
+❌ Anda mengharapkan saya yang implement untuk Anda.
+❌ Anda butuh template "10 prompt sakti".
+
+Kalau Anda mengenali 1+ di atas, hemat Rp 4,9-7,5JT — saya
+tunggu Anda di cohort 2 (Bulan 7) atau cohort lain di tahun
+depan.
+
+Kalau jawaban "tidak" untuk 4 di atas:
+
+- Anda sudah pakai AI 6+ bulan dengan tim 5-50 orang
+- Anda yang punya otoritas eksekusi
+- Anda commit untuk implement (4-6 jam/minggu)
+- Anda inginkan framework + accountability + peer cohort
+
+→ [Lihat sales page lengkap]
+
+Slot real-time: [X] dari 20.
+
+— Arif
+```
+
+**Length:** ~190 kata.
+
+### 5.6. Email 5 — Bridge Pembaca Buku (D73 Rabu 08:00)
+
+```
+Subject: Sudah baca buku — apakah cohort cocok?
+
+Halo [Nama],
+
+Saya kira ~60% pembeli cohort sudah baca THE AI ARCHITECT.
+Pertanyaan yang sering muncul:
+
+"Kalau saya sudah baca buku + paham A.R.S.I., apakah cohort masih
+worth it?"
+
+Jawaban jujur: TIDAK selalu.
+
+Decision tree 4 pertanyaan untuk self-qualify:
+
+**1. Sudah implement A.R.S.I. di 1-2 alur kerja sendiri?**
+Belum → Cohort cocok. Implementasi terpandu = lebih cepat dari
+solo.
+
+**2. Mengalami friction sosialisasi A.R.S.I. ke tim?**
+Ya → Cohort cocok khususnya. Modul 4-5 fokus permission layer +
+anti-rejection.
+
+**3. Butuh peer cohort untuk accountability mingguan?**
+Ya → Cohort cocok. Group chat + sesi mingguan = peer pressure
+positif.
+
+**4. Butuh saya audit alur tim Anda secara spesifik?**
+Ya → ARSITEK PLUS (1-on-1 audit 90-min termasuk).
+
+Kalau jawaban 4 pertanyaan = "tidak" — Anda kemungkinan sudah
+optimal dengan buku saja. Hemat Rp 4,9-7,5JT.
+
+Kalau 1+ "ya":
+→ [Lihat sales page lengkap + 2 tier comparison]
+
+Slot: [X] dari 20.
+
+— Arif
+```
+
+**Length:** ~210 kata.
+
+### 5.7. Email 6 — Tier Comparison (D74 Kamis 08:00)
+
+```
+Subject: ARSITEK vs ARSITEK PLUS — mana untuk Anda?
+
+Halo [Nama],
+
+Side-by-side comparison singkat:
+
+                    ARSITEK             ARSITEK PLUS
+Harga              Rp 4,9JT            Rp 7,5JT
+Group cohort        ✓                   ✓ (sama)
+Worksheet 8 modul   ✓                   ✓ (sama)
+Group chat WA       ✓                   ✓ (sama)
+1-on-1 audit 90-min —                  ✓
+Tools setup help    —                  ✓
+Slot                12-15               5-8
+
+──────────────────────────────────
+
+**Default: pilih ARSITEK.**
+
+Kebanyakan peserta dapat hasil maksimal dari group cohort. Saya
+TIDAK akan push Anda ke PLUS — kalau ragu, ambil ARSITEK.
+
+**Pilih ARSITEK PLUS hanya kalau:**
+
+1. Tim Anda ≥15 orang dengan alur kerja kompleks (manufacturing,
+   finance, healthcare regulated) yang group cohort tidak bisa
+   cover detail.
+
+2. Anda sudah baca buku + ikut 1-2 webinar AI sebelumnya, dan
+   masih stuck di "saya butuh ada orang yang lihat alur saya
+   spesifik baru saya bisa lanjut".
+
+3. Anda inginkan saya bantu setup 2-3 tools paling kritikal
+   (workflow automation custom, AI API integration, dll).
+
+Kalau salah satu di atas familiar → ARSITEK PLUS worth selisih
+Rp 2,6JT.
+
+Kalau tidak, ARSITEK group sudah cukup.
+
+Bonus 72-jam (sampai D73 Sabtu 23:59) untuk kedua tier:
+- Akses Q&A bulanan post-cohort 6 bulan (default 3 bulan)
+
+→ [Pilih tier Anda]
+
+Slot real-time: [X] dari 20.
+
+— Arif
+```
+
+**Length:** ~290 kata.
+
+### 5.8. Email 7 — Slot Real-Time + Bonus Reminder (D75 Jumat 08:00)
+
+```
+Subject: [X] slot tersisa + bonus 72-jam end Sabtu
+
+Halo [Nama],
+
+Update real-time slot cohort A.R.S.I.:
+
+Total cap: 20 peserta
+ARSITEK terisi: [A] dari 12-15
+ARSITEK PLUS terisi: [B] dari 5-8
+Slot tersisa total: [20 - A - B]
+
+──────────────────────────────────
+
+Bonus 72-jam (early bird):
+- Akses Q&A bulanan post-cohort 6 bulan (default 3 bulan)
+
+End Sabtu D76 23:59 WIB.
+
+──────────────────────────────────
+
+Yang masih ragu — 30-min advisor call gratis, tanpa pitch:
+[CTA: Jadwalkan call]
+
+Yang sudah yakin:
+[CTA: Pilih ARSITEK Rp 4,9JT]
+[CTA: Pilih ARSITEK PLUS Rp 7,5JT]
+
+Tidak ada extension. Tidak ada flash sale. Tidak ada negosiasi
+harga.
+
+Kalau Anda lewatkan cohort 1, cohort 2 = Bulan 7 (sekitar Mgg 28).
+
+— Arif
+```
+
+**Length:** ~150 kata.
+
+### 5.9. Email 8 — Final 24-Jam (D77 Minggu 08:00)
+
+```
+Subject: Tutup pintu jam 23:59 malam ini
+
+Halo [Nama],
+
+Sales page cohort A.R.S.I. tutup hari ini, Mgg 11 Minggu, jam
+23:59 WIB.
+
+Setelah itu — sales page redirect ke "Cohort 1 closed. Cohort 2
+waitlist Bulan 7." Tidak ada extension, tidak ada pengecualian.
+
+Slot real-time: [X] dari 20.
+
+Kalau Anda sudah yakin → [Pilih tier].
+Kalau Anda ragu → email ini balas, saya jadwalkan 30-min sore
+ini atau Senin pagi pre-launch close.
+Kalau Anda decide pass → terima kasih sudah pertimbangkan. Saya
+hormat keputusan Anda.
+
+— Arif
+
+p.s. Sesi 1 cohort = Mgg 13 Senin 19:30. Saya tunggu Anda di
+sana — atau di cohort 2.
+```
+
+**Length:** ~135 kata.
+
+### 5.10. Send Logistics
+
+| Email | Trigger | Audience filter | Send time |
+|---|---|---|---|
+| 1 | Manual schedule | All subscribers + buku-buyers | D64 09:00 |
+| 2 | Manual schedule | Same | D67 19:00 |
+| 3 | Manual schedule | Waitlist (priority) — 6 jam early | D71 08:00 (pub at 14:00 D71) |
+| 4 | Manual schedule | Non-purchaser yet | D72 08:00 |
+| 5 | Manual schedule | Buku-buyers segment ONLY | D73 08:00 |
+| 6 | Manual schedule | Non-purchaser + advisor-call-attendees | D74 08:00 |
+| 7 | Manual schedule | Non-purchaser | D75 08:00 |
+| 8 | Manual schedule | Non-purchaser | D77 08:00 |
+
+**Suppression rule:** Setelah peserta CHECKOUT (Lynk.id webhook → MailerLite tag "cohort_paid"), suppress dari email 4-8. Mereka dapat email konfirmasi pembelian (Section 3.2 Template 1) instead.
+
+**Test plan D70 Sabtu:**
+- Send test email 1-8 ke email Anda + 1 collaborator
+- Verify rendering mobile/desktop
+- Verify CTA links work
+- Verify suppression logic (test purchase trigger)
+
+---
+
+*[Section 6-11 → Layer 20 (3/4) dan (4/4)]*
+
+---
+
+*Last updated: Layer 20 (2/4), 27 Mei 2026 — Section 3-5 selesai (Onboarding + Refund + Email Sequence 8-email). Section 6-8 (Cross-Platform Sync + FAQ + Testimonial) di part berikutnya.*
