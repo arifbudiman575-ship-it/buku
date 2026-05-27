@@ -23,9 +23,9 @@
 | **2** | 3 | Order Fulfillment SOP | ✅ Part 2 |
 | **2** | 4 | Refund System | ✅ Part 2 |
 | **2** | 5 | Email Blast Launch (D47 19:00) | ✅ Part 2 |
-| **3** | 6 | Cross-Platform Sync Pack (IG/LinkedIn) | ⏳ Part 3 |
-| **3** | 7 | FAQ Master Document | ⏳ Part 3 |
-| **3** | 8 | Testimonial Collection System | ⏳ Part 3 |
+| **3** | 6 | Cross-Platform Sync Pack (IG/LinkedIn) | ✅ Part 3 |
+| **3** | 7 | FAQ Master Document | ✅ Part 3 |
+| **3** | 8 | Testimonial Collection System | ✅ Part 3 |
 | **4** | 9 | Anti-FOMO Positioning Toolkit | ⏳ Part 4 |
 | **4** | 10 | Pre-Launch Checklist D-7 | ⏳ Part 4 |
 | **4** | 11 | Post-Launch Week 1 Ops | ⏳ Part 4 |
@@ -1067,10 +1067,547 @@ Arif
 
 
 
-# 🚧 SECTION 6-11 — DI PART 3-4
+# 6. CROSS-PLATFORM SYNC PACK
 
-> Section 6 (Cross-Platform Sync Pack), Section 7 (FAQ Master Document), Section 8 (Testimonial Collection System), Section 9 (Anti-FOMO Toolkit), Section 10 (Pre-Launch Checklist D-7), Section 11 (Post-Launch Week 1 Ops) akan ditambahkan di commit Layer 16d (Part 3) dan 16e (Part 4).
+> **Tujuan:** 4 platform (Threads, IG, LinkedIn, Email) go live sinkron dalam window 5 menit di **D47 Rabu 19:00 WIB**. Email sudah di Section 5. Threads anchor sudah final di `THREADS-LONGFORM-ABC-TEST.md` Opsi G (untuk D48 Kamis long-thread). Section 6 ini = IG carousel + LinkedIn long-form + Threads launch post (D47 single post, bukan thread).
+
+## 6.1. Threads Launch Post — D47 Rab 19:00 WIB (single post)
+
+> **Beda dengan Opsi G:** Opsi G = D48 Kam 19:30 long-thread BOFU 10 post (origin 18 bulan). Yang di Section 6 ini = D47 Rab 19:00 single post yang sinkron dengan email blast + IG + LinkedIn. Tone tegas, lebih singkat, link-driver ke landing.
+
+**Format:** Single post Threads, max 500 karakter, dengan 1 image (mockup buku 3D atau foto cetak).
+
+```
+Hari ini buku THE AI ARCHITECT resmi rilis.
+
+3 tier — Rp 297K, 547K, 897K.
+
+Tidak ada flash sale. Tidak ada countdown palsu.
+Refund 30-hari, tanpa pertanyaan.
+
+18 bulan kerja. Versi yang lebih lambat. Lebih jujur.
+
+Untuk siapa BUKAN: pemula yang belum pernah pakai AI, operator puas dengan koleksi prompt.
+
+Untuk siapa: founder, manajer 6+ tim, profesional yang sudah lelah dengan kategori "AI productivity content."
+
+Detail + 3 tier: arifb.id/buku
+```
+
+**Reply chain ke post 1 (3 reply):**
+
+```
+[Reply 1] Long-thread "18 bulan dari folder Notion ke buku cetak" — saya post besok malam jam 19:30 WIB. 10 post. Origin proses, bukan pitch.
+
+[Reply 2] Untuk yang baca thread saya minggu lalu tentang "buku yang hampir saya publish — versi yang salah" — yang Anda baca hari ini bukan versi itu. Yang ini hasil tunda 6 bulan dan restrukturisasi.
+
+[Reply 3] Pertanyaan tier mana cocok? Default: Tier 2 (Rp 547K). Buku + workbook 30 template. Bingung antara 1 dan 2 — ambil 2. Bisa upgrade ke 3 nanti. Refund window sama untuk semua tier.
+```
+
+**Posting protocol:**
+- 19:00:00 sharp — post utama (set timer)
+- 19:00:30 — Reply 1 (manual, langsung)
+- 19:01:00 — Reply 2 (manual)
+- 19:01:30 — Reply 3 (manual)
+- 19:02:00 onwards — monitor komen + reply ke 10 komen pertama dalam 30 menit (REPLY-FARM-PLAYBOOK Section 3)
+
+## 6.2. Instagram Carousel 10 Slide
+
+> **Format:** 10 slide, 1080x1350px portrait, light theme. Cover + 9 content. Caption ≤ 2.000 karakter, hashtag minimal (3-5 max — voice anti-keyword-stuff).
+>
+> **Anchor narrative:** Same beats sebagai Opsi G long-thread Threads, tapi di-condense ke 9 slide visual + caption sebagai voice anchor.
+
+### Slide Brief (untuk designer)
+
+```
+SLIDE 1 — COVER
+Heading: "The AI Architect"
+Subheading: "Hari ini resmi rilis"
+Visual: mockup buku 3D atau foto cetak hand-held, light bg
+Footer: "Swipe →"
+
+SLIDE 2 — TIMELINE
+Heading: "18 bulan"
+Body: "dari folder Notion bernama 'Buku?' (6 catatan acak)
+       ke buku cetak yang Anda bisa pegang"
+Visual: timeline horizontal Bulan 1 → Bulan 9 → Bulan 18
+
+SLIDE 3 — APA YANG TIDAK ADA (Filter)
+Heading: "4 hal yang TIDAK ada di buku ini"
+Bullet list ❌ (4 items dari Section 2.3 landing)
+Footer: "Saya jujur dulu sebelum Anda klik."
+
+SLIDE 4 — 4 DISIPLIN A.R.S.I.
+Heading: "4 disiplin"
+Layout: 2x2 grid dengan icon
+- A — Audit
+- R — Rancang
+- S — Sistemasi
+- I — Iterasi
+
+SLIDE 5 — RIKO vs CITRA
+Heading: "Dua karakter. Dichotomy."
+Body: "Riko vs Citra. Komposit dari klien-klien saya.
+       Cermin posisi Anda di halaman 1 bab 1.
+       Tidak teori. Bukan abstrak."
+
+SLIDE 6 — UNTUK SIAPA
+Heading: "Untuk Anda kalau:"
+Bullet list ✅ (4 ICP from landing 2.6)
+
+SLIDE 7 — UNTUK SIAPA BUKAN
+Heading: "BUKAN untuk Anda kalau:"
+Bullet list ❌ (4 anti-ICP from landing 2.6)
+Footer: "Saya lebih bahagia kehilangan order Anda hari ini
+        daripada Anda kecewa di halaman 47."
+
+SLIDE 8 — 3 TIER
+Heading: "Pilih tier"
+Layout: 3 kolom (T1 Rp 297K / T2 Rp 547K ⭐ / T3 Rp 897K)
+Per kolom: harga + 3 line isi + "untuk Anda yang ___"
+
+SLIDE 9 — REFUND COMMITMENT
+Heading: "Refund 30-hari"
+Body: "Tanpa pertanyaan. Tanpa 'bukti baca.'
+       Email refund@arifb.id — proses dalam 24 jam."
+Footer: "Yang saya jual bukan FOMO.
+        Yang saya jual: substansi yang bertahan."
+
+SLIDE 10 — FINAL CTA
+Heading: "Siap mulai?"
+Body: "Link di bio.
+       arifb.id/buku
+       3 tier. Refund 30-hari. Harga tetap 90 hari ke depan."
+Footer: "— Arif"
+```
+
+### Caption IG (full copy)
+
+```
+Hari ini buku The AI Architect resmi rilis.
+
+18 bulan dari folder Notion bernama "Buku?" — yang isinya 6 catatan acak — ke buku yang Anda bisa pegang hari ini.
+
+3 tier:
+• Tier 1 — Rp 297K (Reader)
+• Tier 2 — Rp 547K (Practitioner) ⭐
+• Tier 3 — Rp 897K (Walkthrough)
+
+Refund 30-hari, tanpa pertanyaan.
+Harga tetap sama 90 hari ke depan.
+Tidak ada flash sale. Tidak ada countdown palsu.
+
+Untuk siapa BUKAN buku ini: pemula yang belum pernah pakai AI, operator puas dengan koleksi prompt.
+
+Untuk siapa: founder, manajer dengan tim 6+ orang, profesional yang sudah lelah dengan kategori "AI productivity content."
+
+Detail dan 3 tier — link di bio.
+
+— Arif
+
+#TheAIArchitect #ArifBudiman #AIuntukBisnis
+```
+
+**Hashtag rule:** 3-5 max. TIDAK pakai hashtag spam ("#sukses #motivasi #hustleculture"). Hashtag = signal kategori, bukan reach hack.
+
+### IG Stories Sequence (D47 19:00 - D48 24:00)
+
+**6 stories, 1 set (kirim per 4 jam):**
+
+```
+Story 1 (19:00) — "Hari ini" cover, 1 visual buku, sticker link ke arifb.id/buku
+Story 2 (19:30) — Quote pull-out: "Yang menyelamatkan buku ini bukan saya. Orang yang berani bilang saya hampir salah."
+Story 3 (D47 23:00) — Behind-the-scene foto pertama buyer (kalau ada permission)
+Story 4 (D48 09:00) — Recap order Day 1 (angka aggregate, NO names)
+Story 5 (D48 13:00) — Highlight 1 testimonial composite Day 1 (anonim)
+Story 6 (D48 19:00) — Tease long-thread Opsi G "live tonight 19:30 WIB"
+```
+
+**Aturan stories:**
+- TIDAK pakai countdown sticker urgensi
+- TIDAK pakai poll "siap beli? YA/MUNGKIN"
+- TIDAK tag random orang
+- Pakai sticker link ke arifb.id/buku di setiap story (engagement signal)
+
+## 6.3. LinkedIn Long-Form Essay (~650 kata)
+
+> **Tone:** Lebih B2B sharper dari Threads/IG. Voice tetap "Anda" formal, tapi vocabulary leans ke "tim", "decision-maker", "operational reality" — bukan "self-improvement journey." Audience LinkedIn = manajer, head of ops, C-level.
+
+```
+Hari ini, setelah 18 bulan, buku The AI Architect resmi rilis.
+
+Saya tidak akan menulis post selebrasi. Saya tulis ini sebagai filter — supaya Anda tahu apakah buku ini relevan dengan konteks operasional Anda, atau bukan.
+
+————————————————
+
+Saya bekerja dengan founder, manajer, dan decision-maker yang punya pola yang sama:
+
+Tim mereka sudah adopt ChatGPT. Mereka sudah investasi training berlipat juta. Setiap orang punya prompt library pribadi di Notion.
+
+Tapi outputnya 12 versi tidak nyambung antar tim. Klien mereka mulai notice inkonsistensi. Dan kalau orang nomor 7 di tim mereka resign minggu depan — sebagian kapasitas AI perusahaan hilang permanen.
+
+Itu bukan masalah training. Itu masalah sistem yang tidak pernah dibangun.
+
+————————————————
+
+Buku ini hampir saya kirim ke percetakan 9 bulan lalu. Manuskrip selesai. Cover sudah di-design.
+
+Lalu seseorang yang saya percaya membaca draft saya dan kasih feedback yang menohok:
+
+"Pak, ini bagus. Tapi ini masih jualan AI. Bukan jualan cara berpikir tentang AI."
+
+Saya tunda 6 bulan. Restrukturisasi.
+
+Yang Anda baca hari ini bukan versi yang akan saya kirim 9 bulan lalu. Versi yang lebih lambat. Lebih sulit ditulis. Lebih jujur.
+
+————————————————
+
+Yang TIDAK ada di buku ini:
+
+→ Tidak ada list "100 prompt rahasia"
+→ Tidak ada review "ChatGPT vs Claude vs Gemini"
+→ Tidak ada janji "AI akan otomatis menggantikan tim Anda"
+→ Tidak ada bab "5 cara cepat kaya dari AI"
+
+Kalau salah satu dari 4 itu yang Anda cari — saya hormati waktu Anda. Buku lain mungkin lebih cocok. Saya tidak mau kehilangan kepercayaan Anda di item nomor 1 bab 1.
+
+Yang ADA di buku ini:
+
+4 disiplin **A.R.S.I.** — Audit, Rancang, Sistemasi, Iterasi — yang dirumuskan dari 18 bulan kerja dengan klien yang sama-sama lelah dengan kategori "AI productivity content."
+
+Plus dichotomy **Riko vs Citra**: dua karakter komposit dari klien saya yang membantu Anda audit posisi tim Anda di halaman 1 bab 1. Bukan teori. Cermin.
+
+————————————————
+
+3 tier:
+
+**Tier 1 — Reader (Rp 297.000)** — Buku digital + cetak. Untuk individual reader.
+
+**Tier 2 — Practitioner (Rp 547.000)** — Tier 1 + workbook 30 template (PDF + Notion). Untuk profesional yang mau langsung praktek minggu ini. Default rekomendasi saya.
+
+**Tier 3 — Walkthrough (Rp 897.000)** — Tier 2 + 4 video walkthrough A.R.S.I. + 4 office-hour grup. Untuk manajer/founder yang butuh thinking partner.
+
+Refund 30-hari, tanpa pertanyaan. Harga tetap sama minimal 90 hari ke depan.
+
+Tidak ada flash sale. Tidak ada countdown palsu. Tidak ada "BURUAN TINGGAL X SLOT."
+
+Yang saya jual: substansi yang bertahan 5 tahun.
+
+————————————————
+
+Untuk Anda yang manager dengan tim adopt AI — buku ini akan paling cepat berdampak di Anda, bukan di founder atau di operator. Karena yang dibutuhkan bukan "lebih banyak yang Anda tahu tentang AI," tapi "satu kerangka yang bisa Anda relay ke tim sampai output mereka konsisten."
+
+→ Detail 3 tier dan order: arifb.id/buku
+
+Saya tunggu cerita dari tim Anda.
+
+— Arif Budiman
+Founder PROMIND-NEUROLINK
+```
+
+**Hashtag (LinkedIn): 3-5 max.**
+
+```
+#AIuntukBisnis #LeadershipAI #SistemBukanTools
+```
+
+**Posting protocol LinkedIn:**
+- Post sebagai personal account (bukan company page) — premium audience LinkedIn lebih trust personal
+- Tag PROMIND-NEUROLINK di body (sekali saja, soft mention)
+- TIDAK request connection di komen
+- Reply ke 5-10 komen pertama dalam 1 jam pertama
+- Re-share dari company page 1× di hari ke-3 (D49) untuk amplify reach
+
+## 6.4. Cross-Platform Timing Matrix
+
+> **Single source of truth untuk eksekutor (Anda + VA):**
+
+| Waktu | Threads | IG Feed | IG Stories | LinkedIn | Email |
+|---|---|---|---|---|---|
+| **D47 19:00** | Post utama + 3 reply | Carousel 10 slide | Story 1 (cover + link) | Long-form essay | Email blast scheduled |
+| **D47 19:30** | Monitor komen | — | Story 2 (quote) | — | Cek delivery rate |
+| **D47 23:00** | — | — | Story 3 (BTS Day 1) | — | — |
+| **D48 09:00** | — | — | Story 4 (recap angka) | — | Review metrics |
+| **D48 13:00** | — | — | Story 5 (testimonial composite) | — | — |
+| **D48 19:00** | — | — | Story 6 (tease long-thread) | — | Email #5a reminder |
+| **D48 19:30** | Long-thread Opsi G (10 post) | — | — | — | — |
+| **D49 19:30** | Sustained push post | — | — | Re-share dari company page | Email #5b long-form |
+| **D50 12:00** | FAQ + anti-FOMO post | — | — | — | Email #5c last call |
+| **D51 19:00** | Pillar 3 OFF-pitch | — | — | — | Email #5d reflection |
+
+## 6.5. Repurpose Strategy Beyond D47-D51
+
+| Asset Mgg 7 | Repurpose untuk | Timing |
+|---|---|---|
+| Threads launch post utama | Quote post 1 line di IG/LinkedIn | Mgg 9-10 (saat momentum reda) |
+| IG carousel 10 slide | Pinned post di IG profile | Permanent (sampai cohort launch Mgg 11) |
+| LinkedIn long-form | Adapt jadi Substack/Medium essay | Bulan 3 |
+| Threads Opsi G long-thread | Adapt jadi blog post di arifb.id | Bulan 3-4 |
+| 5 testimonial collected D47-D51 | Section testimonial di landing | D52 (sosmed visible) |
 
 ---
 
-*Last updated: Mei 2026 — Sesi 7 Layer 16c (Part 2 dari 4: Section 3-5 selesai).*
+# 7. FAQ MASTER DOCUMENT (10 Q&A)
+
+> **Posisi:** Single source of truth untuk: landing page accordion (6 tampil inline + 4 di sub-page /faq), DM saved replies, customer service VA script, email reply template.
+>
+> **Aturan voice:** Setiap jawaban "Anda" formal, ≤ 80 kata, no defensive tone. Kalau jawabannya "tidak" — say tidak dengan tegas, tanpa apologetics.
+
+## FAQ #1 — Background teknis
+
+**Q: Apakah saya butuh background teknis untuk baca buku ini?**
+
+A: Tidak. Buku ini tentang cara berpikir, bukan cara coding. Kalau Anda sudah pakai ChatGPT/Claude 3+ bulan untuk pekerjaan, Anda punya cukup background. Yang dibutuhkan: kesediaan mempertanyakan cara Anda selama ini berpikir tentang AI — bukan kemampuan teknis tambahan.
+
+## FAQ #2 — Obsolete dalam 6 bulan?
+
+**Q: Apakah buku ini akan obsolete dalam 6 bulan?**
+
+A: Tools yang saya sebut di buku akan obsolete dalam 12-24 bulan. Tapi 4 disiplin A.R.S.I. dan dichotomy Riko vs Citra — kerangka berpikir yang saya rancang supaya tetap relevan minimal 5 tahun. Kalau dalam 5 tahun kerangka ini juga obsolete, saya tunggu Anda kirim refund email — dengan respect.
+
+## FAQ #3 — Halaman buku
+
+**Q: Berapa halaman buku-nya?**
+
+A: Sekitar 240 halaman. Bukan ringkas (40 halaman tipis), bukan juga tebal (800 halaman ensiklopedia). Saya rancang supaya bisa selesai dibaca dalam 6-8 jam total — atau dicicil 30 menit per hari dalam 2 minggu. Format premium hardcover, paper warm-cream, bukan glossy.
+
+## FAQ #4 — Diskon flash sale
+
+**Q: Apakah ada diskon flash sale?**
+
+A: Tidak. Harga tetap sama minimal 90 hari setelah launch. Saya tidak menjalankan urgency-tipuan. Beli kapan saja Anda siap — bonus tier-2/3 sama, refund window sama. Yang saya jual: substansi yang bertahan, bukan tekanan beli sekarang.
+
+## FAQ #5 — Tier mana yang cocok
+
+**Q: Tier mana yang cocok untuk saya?**
+
+A: Default rekomendasi: **Tier 2** (Rp 547.000). Tier 1 kalau Anda individual reader yang sudah disiplin self-aplikasi. Tier 3 kalau Anda manajer/founder yang butuh thinking partner. Bingung? Tier 2 — Anda bisa upgrade ke 3 nanti dengan bayar selisih saja.
+
+## FAQ #6 — Proses akses digital + cetak
+
+**Q: Bagaimana proses akses digital + cetak?**
+
+A: Saat order masuk, dalam 5 menit Anda dapat email konfirmasi dengan link akses digital (Google Drive berisi PDF + workbook + video sesuai tier). Buku cetak diproses 1-2 hari kerja, kirim via JNE/J&T 7-14 hari sampai alamat Anda. Kalau ada delay, balas email saya — saya bantu langsung.
+
+## FAQ #7 — Beda dengan kursus AI lain (BARU di Part 3)
+
+**Q: Apa beda buku ini dengan kursus prompt yang sudah ada di pasaran?**
+
+A: Kursus prompt menjual koleksi "100 prompt rahasia" — saya tidak. Kursus AI generic menjual "cara pakai ChatGPT untuk X" — saya tidak. Buku ini menjual **cara berpikir** tentang membangun sistem AI — yang akan tetap relevan saat tools yang sekarang obsolete. Saya tidak akan klaim buku ini "lebih bagus" dari kursus mana pun. Saya akan klaim ini **berbeda kategori**.
+
+## FAQ #8 — Sudah baca lead magnet 7-Day Challenge (BARU di Part 3)
+
+**Q: Saya sudah download lead magnet 7-Day AI Architect Challenge. Apakah saya tetap perlu beli buku?**
+
+A: Lead magnet 7-Day Challenge = pintu masuk awal — 7 email harian dengan worksheet ringan untuk audit cara berpikir Anda. Buku = full kerangka A.R.S.I. + dichotomy Riko/Citra + 240 halaman aplikasi. Kalau lead magnet sudah cukup membantu Anda — Anda tidak perlu buku. Kalau Anda mau extend pemahaman jadi sistem operasional komplet, buku adalah lapisan berikutnya.
+
+## FAQ #9 — Komunitas pembaca (BARU di Part 3)
+
+**Q: Apakah ada komunitas pembaca buku ini?**
+
+A: Belum. Saya sengaja tidak buka grup Telegram/Discord/WhatsApp untuk pembaca buku. Bulan depan saya buka **cohort A.R.S.I.** — 20 orang, 4 minggu, eksekusi terstruktur. Itu lapisan berikutnya untuk yang butuh diskusi 2-arah. Pembaca buku saja: cukup. Anda tidak missing-out kalau tidak masuk cohort.
+
+## FAQ #10 — Bulk purchase untuk tim/perusahaan (BARU di Part 3)
+
+**Q: Untuk perusahaan/tim, ada bulk discount?**
+
+A: Untuk pembelian 10+ unit Tier 1, ada diskon 15% (Rp 252K/unit). Untuk pembelian 5+ unit Tier 2 atau Tier 3, ada diskon 10%. Kontak `corporate@arifb.id` dengan info: nama perusahaan, jumlah unit, tier. Saya proses dalam 2 hari kerja dengan invoice resmi. Untuk training tim 20+, saya akan suggest opsi corporate audit (Rp 25-100JT, lihat playbook corporate).
+
+## 7.11. Distribusi FAQ
+
+| Pertanyaan | Tampil di Landing | Sub-page /faq | DM saved reply |
+|---|---|---|---|
+| #1 Background teknis | ✅ Inline | ✅ | ✅ |
+| #2 Obsolete 6 bulan | ✅ Inline | ✅ | ✅ |
+| #3 Halaman | ✅ Inline | ✅ | — |
+| #4 Diskon | ✅ Inline | ✅ | ✅ (lihat Section 9) |
+| #5 Tier mana cocok | ✅ Inline | ✅ | ✅ (WA-T3) |
+| #6 Proses akses | ✅ Inline | ✅ | ✅ |
+| #7 Beda kursus AI lain | — | ✅ | ✅ |
+| #8 Lead magnet sudah cukup | — | ✅ | ✅ |
+| #9 Komunitas | — | ✅ | — |
+| #10 Bulk discount | — | ✅ | ✅ (escalate ke email) |
+
+## 7.12. Update Protocol FAQ
+
+- **Mgg 7-8 launch:** Update FAQ kalau ada pertanyaan baru muncul ≥ 5× dari DM/email/komen
+- **Bulan 3+:** Review FAQ master tiap awal kuartal — drop pertanyaan yang tidak relevan, tambahkan yang muncul dari real customer pattern
+- **Single source rule:** Update di sini DULU, lalu propagate ke landing accordion + DM saved replies + VA script. Jangan ada drift versi.
+
+---
+
+# 8. TESTIMONIAL COLLECTION SYSTEM
+
+> **Filosofi:** Testimoni jujur dari pembaca yang aplikasi = sumber satu-satunya yang valid untuk pembeli berikutnya. TIDAK ADA testimoni fabricated. TIDAK ADA testimoni dengan kompensasi (gift, diskon, bonus). Pembaca yang mau berbagi cerita = volunteer murni.
+
+## 8.1. Form Copy (Tally / Google Form)
+
+**URL:** `arifb.id/testimonial` (redirect ke form)
+
+**Fields:**
+
+```
+Field 1 — Nama (required)
+   [text input]
+   Helper: "Anda boleh isi initial atau samaran kalau preferred. Kami akan tanya
+            permission display di field 5."
+
+Field 2 — Konteks Anda (required, dropdown)
+   [dropdown options:
+     - Founder / Co-founder
+     - Manager / Head of Department
+     - Senior Profesional / IC
+     - Freelancer / Consultant
+     - Lainnya]
+   Helper: "Untuk kami pakai konteks yang relevan saat menampilkan testimoni."
+
+Field 3 — Bab atau framework yang paling resonant (required)
+   [textarea, 50-200 kata]
+   Helper: "Tidak harus 'paling baik dari yang pernah saya baca.'
+            Cukup spesifik — bagian mana, dan kenapa."
+
+Field 4 — Satu hal yang Anda aplikasikan langsung di kerja (required)
+   [textarea, 50-200 kata]
+   Helper: "Konkret. Bukan 'inspiratif sekali' — tapi 'di hari Senin saya audit
+            X di tim saya, hasilnya Y.'"
+
+Field 5 — Permission display (required, radio)
+   [radio:
+     - Boleh display dengan nama lengkap saya
+     - Boleh display dengan initial saja (misal: "AB, founder agensi")
+     - Boleh display tapi tanpa nama sama sekali (anonim)
+     - Tidak boleh display di publik — feedback ini hanya untuk Anda]
+   Helper: "Saya menghormati apapun pilihan Anda. Tidak ada bonus untuk yang pilih
+            'nama lengkap.' Pilih yang Anda nyaman."
+
+Field 6 — Email (required)
+   [text input, validation: email format]
+   Helper: "Untuk verifikasi Anda real reader, dan untuk kalau saya butuh
+            klarifikasi minor sebelum publish."
+
+Field 7 — Apakah Anda OK kalau saya quote di sosmed (Threads/IG/LinkedIn)? (optional, radio)
+   [radio:
+     - Ya, di semua platform
+     - Hanya di Threads
+     - Hanya di IG/LinkedIn (tidak Threads)
+     - Tidak, hanya di landing buku]
+   Helper: "Default kalau Anda tidak isi: hanya di landing buku."
+```
+
+**Tombol submit:** "Kirim cerita Anda"
+
+**Confirmation page:**
+
+```
+Cerita Anda sudah masuk. Terima kasih.
+
+Saya akan baca 1-by-1 (bukan dibaca oleh tim — saya sendiri). Kalau saya butuh klarifikasi minor sebelum publish, saya akan email Anda di {{email}}.
+
+Kalau Anda pilih "tidak boleh display di publik" — feedback Anda akan tetap saya catat untuk refleksi edisi 2 buku, tapi tidak akan muncul di mana pun.
+
+Kalau Anda pilih display di publik — saya akan kabari Anda saat testimonial Anda live, supaya Anda bisa lihat (dan minta revisi kalau ada hal yang tidak nyaman).
+
+— Arif
+```
+
+## 8.2. Email Triggers (sudah di Section 3)
+
+| Trigger | Sumber | Keterangan |
+|---|---|---|
+| **Day 7 setelah akses digital** | Email #4 di Section 3.2 | Soft check-in, request "1 disagreement" — bukan langsung minta testimonial |
+| **Day 21 setelah akses digital** | Email #5 di Section 3.2 | Direct request testimonial dengan link form |
+| **Day 60 follow-up** | Auto trigger MailerLite | Untuk yang belum isi form di Day 21 — soft 1× nudge, lalu STOP |
+
+**Aturan critical:** TIDAK ADA email reminder ke-3 atau lebih. Kalau Day 60 belum balas — terima sebagai signal mereka tidak mau kontribusi. Hormati.
+
+## 8.3. Composite Anonymization Rule
+
+> **Saat boleh:** Untuk testimonial yang dipakai sebagai "studi kasus" di sosmed/blog — bukan testimonial direct quote.
+>
+> **Aturan composite:** Saat Anda gabungkan 3 cerita pembaca jadi 1 narasi (misal: "Sebut saja Bu N, manajer di sebuah perusahaan B2B menengah..."), HARUS:
+>
+> 1. Disebut eksplisit di body bahwa karakter ini = komposit, bukan 1 individu (sesuai disclaimer buku halaman 2 yang sudah Anda set)
+> 2. Detail yang men-trace ke individu real harus disamarkan (industri, ukuran tim, lokasi, nama)
+> 3. Inti pengalaman tetap akurat — yang disamarkan = identifying detail saja
+> 4. Permission tetap collected dari minimal 1 dari 3 individu yang di-composite (yang pengalaman utamanya jadi anchor)
+
+## 8.4. Display Rules — Landing & Sosmed
+
+### Di Landing Page (section testimonial yang akan ditambah Bulan 3+)
+
+```
+Format: 1 photo (kalau permission) atau initial avatar + nama (sesuai permission) + role + kutipan body 50-100 kata
+Maksimal 6 testimonial display di landing (yang terkuat)
+Update setiap 90 hari — rotate yang lama ke /testimonials sub-page
+```
+
+### Di Sosmed (Threads/IG/LinkedIn)
+
+```
+Format: quote pendek (≤ 200 kata di Threads, ≤ 280 kata di IG caption, ≤ 600 kata di LinkedIn) + tag kalau permission Yes-with-name
+TIDAK PAKAI graphic-heavy "testimonial card" yang tampak fabricated
+TIDAK QUOTE testimonial sambil tampilkan harga buku di slide yang sama (rusak voice — feels transactional)
+```
+
+### Di Email
+
+```
+Email blast follow-up Mgg 8+ boleh kutip 1 testimonial composite per email
+TIDAK PAKAI testimonial sebagai header email (rusak signal — feels like sales)
+Selalu di body, di-introduce dengan voice Anda dulu
+```
+
+## 8.5. Tracking Spreadsheet (`arifb.id/internal/testimonial-tracker`)
+
+| Kolom | Isi |
+|---|---|
+| Tanggal masuk | Auto dari form timestamp |
+| Email | Dari Field 6 |
+| Nama / display preference | Dari Field 1 + Field 5 |
+| Konteks | Dari Field 2 |
+| Field 3 quote | Bab/framework resonant |
+| Field 4 quote | Aplikasi konkret |
+| Sosmed permission | Dari Field 7 |
+| Status | New → Reviewed → Approved → Published / Decline |
+| Display location | Landing / Threads / IG / LinkedIn / Internal-only |
+| URL post (kalau published) | Untuk audit + thank-you follow-up |
+| Notes | Catatan Anda sendiri (kuliah pembaca, follow-up bulan depan, dll) |
+
+## 8.6. Compensation Policy (CRITICAL)
+
+> **TIDAK ADA kompensasi untuk testimonial. TITIK.**
+
+- ❌ TIDAK kasih diskon tier upgrade
+- ❌ TIDAK kasih bonus akses (cohort, video, dll)
+- ❌ TIDAK kasih merch / hadiah
+- ❌ TIDAK kasih affiliate link untuk re-sell
+
+**Mengapa ini critical:** Testimonial dengan kompensasi = bukan testimonial. Itu sponsorship. Premium audience akan deteksi pola ini dalam 2-3 testimonial dan kepercayaan ke brand Anda akan rusak bertahun-tahun.
+
+**Yang BOLEH (dan recommended):**
+
+- ✅ **Email thank-you personal** dari Anda saat testimonial published — bukan template, tulis ulang
+- ✅ **Tag mereka** di sosmed kalau permission Yes-with-name — itu reciprocity natural, bukan bayaran
+- ✅ **Mention nama** di edisi 2 buku acknowledgement section (kalau eligible) — public credit
+- ✅ **Invite ke beta-test produk berikutnya** (cohort, kursus, dll) sebelum public — first-access privilege
+
+## 8.7. Edge Cases Testimonial
+
+| Skenario | Tindakan |
+|---|---|
+| **Testimonial too positive ("buku terbaik 2026!!!")** | Email back: "Terima kasih. Boleh saya tanya — 1 hal di buku yang Anda tidak setuju? Ini bantu saya untuk edisi 2." Kalau tidak ada disagreement = kemungkinan tidak baca, jangan publish |
+| **Testimonial mixed (puji + kritik)** | INI TESTIMONIAL EMAS. Publish dengan permission. Premium audience trust mixed review > all-praise |
+| **Testimonial negatif valid** | Tidak publish sebagai testimonial, tapi tetap balas dengan respect. Kalau dalam window 30-hari, offer refund. Catat sebagai data untuk edisi 2 |
+| **Testimonial fake / spam** | Verifikasi via email field — kalau email tidak match order Lynk.id, kemungkinan fake. Ignore |
+| **Permission revoked setelah publish** | Take down dari semua channel dalam 24 jam. Hormati. Tidak debate. |
+
+---
+
+
+# 🚧 SECTION 9-11 — DI PART 4
+
+> Section 9 (Anti-FOMO Toolkit), Section 10 (Pre-Launch Checklist D-7), Section 11 (Post-Launch Week 1 Ops) akan ditambahkan di commit Layer 16e (Part 4 final).
+
+---
+
+*Last updated: Mei 2026 — Sesi 7 Layer 16d (Part 3 dari 4: Section 6-8 selesai).*
