@@ -1300,3 +1300,496 @@ sana — atau di cohort 2.
 ---
 
 *Last updated: Layer 20 (2/4), 27 Mei 2026 — Section 3-5 selesai (Onboarding + Refund + Email Sequence 8-email). Section 6-8 (Cross-Platform Sync + FAQ + Testimonial) di part berikutnya.*
+
+
+
+## Section 6 — Cross-Platform Sync D71-D77
+
+(Anchor: `CROSS-PLATFORM-PLAYBOOK.md` Section 8.5 launch week mode + `CONTENT-CALENDAR-BULAN-3.md` D71-D77.)
+
+### 6.1. Threads Run-of-Show D71 Senin (Launch Day)
+
+| Jam WIB | Action | Format | Catatan |
+|---|---|---|---|
+| 06:00 | Sales page live + final QA test (mobile/desktop/tablet) | Internal | Anda + VA double-check |
+| 08:00 | Email 3 launch day blast (waitlist priority) | Email | 6-jam early access window |
+| 09:00 | Threads post 1: "Hari ini saya buka pintu yang berbeda" | Tipe D filosofi 1-baris | Awareness, no link |
+| 12:00 | Threads post 2: A.R.S.I. mini-framework refresh | Tipe A mini-framework | Authority signal, no link |
+| 14:00 | **Sales page publik live (link bio Threads update)** | Bio update | Linktree update |
+| 15:00 | Threads post 3: "Saya sering ditanya — kenapa cohort, bukan workshop?" | Tipe B anti-pattern | Soft sell, no link di post |
+| 17:00 | Threads post 4: Slot count update transparent | Tipe D 1-baris | Transparency commitment CL-2 |
+| **19:00** | **Threads launch post utama — link bio cohort** | Tipe A + 1 baris CTA "link bio" | Peak slot launch |
+| 20:30 | Threads post 6: 1 testimonial buku-buyer yang relevan (anonimisasi) | Tipe C case mini | Trust signal |
+| 22:00 | Threads post 7: Reminder tutup pintu Minggu 23:59 | Tipe D 1-baris | Soft urgency |
+
+**Total D71 Threads volume:** 7-8 post (vs default 2-3/hari) — launch week mode CP-2 overridden.
+
+**Reply farm cap D71:** 90-min total (vs default 60-min). Anchor `ANTI-BURNOUT-PROTOCOL.md` §7.
+
+### 6.2. Instagram Sync D71-D77
+
+#### Stories volume launch week
+| Hari | Stories count | Konten |
+|---|---|---|
+| D71 Sen | 10-12 | Launch day announce + qualifier poll + slot real + sales link sticker (5×) |
+| D72 Sel | 6-8 | Filter "Untuk siapa BUKAN" carousel preview + sales link |
+| D73 Rab | 6-8 | Bridge pembaca buku decision tree + sales link |
+| D74 Kam | 8-10 | Tier comparison + sales link + 30-min advisor call CTA |
+| D75 Jum | 6-8 | Slot real update + bonus 72-jam reminder |
+| D76 Sab | 4-6 | Final 24-jam soft + author reflection ("ini commitment saya") |
+| D77 Min | 4-6 | Tutup pintu 23:59 reminder (last 6 jam) |
+
+**Total stories Mgg 11:** ~50-60 (vs default 21-35).
+
+#### Carousel D71 — "Cohort A.R.S.I. — apa yang Anda dapatkan"
+- 1080×1350, 10 slide, dark theme
+- Slide 1: hook "Cohort A.R.S.I. — Kohort 1 dibuka hari ini"
+- Slide 2-3: Problem (3 pola dari 31 audit)
+- Slide 4-5: A.R.S.I. recap 4 langkah
+- Slide 6: 2 tier perbedaan visual
+- Slide 7: Untuk siapa BUKAN (filter aggressive)
+- Slide 8: Untuk siapa
+- Slide 9: Refund 7-hari + slot real
+- Slide 10: CTA "arifb.id/cohort" + author signature
+
+**Schedule:** D71 12:00 WIB.
+
+### 6.3. TikTok Sync (limited — CP-6 cap 3/mgg respected)
+
+| Hari | Slot | Konten |
+|---|---|---|
+| D72 Sel | 19:00 | Tipe T-A — A.R.S.I. mini-framework refresh + soft mention "cohort dibuka, link bio" |
+| D74 Kam | 12:00 | Tipe T-B — anti-pattern "3 hal yang tim Anda lakukan salah saat sosialisasi AI" |
+| D77 Min | 19:00 | Tipe T-C — "Saya tutup pintu cohort 1 jam 23:59 — ini yang saya pelajari Mgg 11 ini" |
+
+**Total TikTok Mgg 11:** 3 video — di cap CP-6 SACRED.
+
+**Anti-pattern HARUS DIHINDARI:**
+- Push 5+ video Mgg 11 untuk "ride momentum" → audience non-ICP spike → engagement rate jatuh permanent (CP-6 anchor)
+- Pakai trending audio TikTok yang generic → voice slip kategori 2
+
+### 6.4. LinkedIn Sync D71-D77
+
+#### D71 Senin 08:00 — Long-Form Essay (Launch Announcement)
+
+**Title:** "Setelah 8 minggu di laboratorium — kenapa saya buka cohort, bukan kursus"
+
+**Length:** ~750 kata. **Tone:** B2B profesional, decision-maker positioning.
+
+**Struktur 5-act:**
+- Hook (100 kata): 200+ DM dari pembaca buku — pattern yang muncul
+- Konteks (180 kata): Kenapa kursus rekaman tidak work untuk implementasi A.R.S.I. di tim
+- Body framework (280 kata): Format cohort 8-minggu — apa yang berbeda dari workshop/webinar
+- Insight (130 kata): Decision-maker perspektif — kapan invest 4-7,5JT untuk implementation support worth it
+- Soft CTA (60 kata): "Kalau Anda sedang berpikir tentang implementasi AI di tim Anda, saya senang mendengar — DM atau arifb.id/cohort"
+
+#### D74 Kamis 08:00 — Short Post (Tier Clarity)
+~150 kata, format vocabulary-flip:
+"Berhenti bilang 'kursus AI'. Mulai bilang 'implementasi terpandu'. Kenapa: ..."
+
+#### D77 Minggu 08:00 — Quote Post (Soft Close)
+~120 kata, quote dari sesi advisor call dengan founder (anonimisasi):
+"'Saya sudah ikut 3 webinar AI tahun ini. Yang membedakan cohort, ada orang yang tahu konteks tim saya saat saya stuck di Mgg 4.' — Founder yang akan join cohort 1."
+
+### 6.5. Cross-Platform Timing Matrix Mgg 11
+
+| Hari | 08:00 | 09:00 | 12:00 | 14:00 | 15:00 | 17:00 | 19:00 | 19:30 | 20:30 | 22:00 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| **D71 Sen** | LinkedIn essay | Threads 1 | Threads 2 + IG carousel | Sales live | Threads 3 | Threads 4 slot | **Threads 5 LAUNCH** | — | Threads 6 testi | Threads 7 reminder |
+| **D72 Sel** | Email 4 + LinkedIn — | — | Threads (anti-pattern) | — | — | — | TikTok T-A | — | — | — |
+| **D73 Rab** | Email 5 + LinkedIn — | — | Threads (case mini) | — | — | — | Threads (vocab) | — | — | — |
+| **D74 Kam** | Email 6 + LinkedIn short | — | TikTok T-B | — | — | — | Threads (long-thread D74 launch announcement!) | **Long-thread 19:30** | — | — |
+| **D75 Jum** | Email 7 | — | Threads (slot update) | — | — | — | Threads (bonus reminder) | — | — | — |
+| **D76 Sab** | Stories soft | — | Threads (filosofi) | — | — | — | Threads (24-jam tease) | — | — | — |
+| **D77 Min** | Email 8 + LinkedIn quote | Threads (final 12 jam) | — | — | — | — | TikTok T-C + Threads | — | Threads 21:00 close | **23:59 SALES PAGE LOCK** |
+
+**Stagger logic:** Email 08:00 → LinkedIn 08:00 → Threads 09:00-22:00 distributed → IG/TikTok at platform peak. CP-2 (no bulk-simul) maintained — meskipun Email + LinkedIn 08:00 sama, format beda + audience filter beda.
+
+### 6.6. Cross-Platform Quality Check Mgg 11
+
+Audit setiap publish via 5-pertanyaan (anchor `CROSS-PLATFORM-PLAYBOOK.md` §7.6):
+
+1. Voice "Anda" formal? (no "lo/gw") — CP-1
+2. Signature phrase muncul? (Sistem bukan tools / Arsitek bukan pengguna)
+3. Format native? (carousel 1080×1350 / vertical 9:16 / paragraf pendek LinkedIn)
+4. CTA tidak hype? (no BURUAN/DISKON)
+5. Slot number transparent + match real? — CL-2
+
+≥1 jawaban "tidak" = DELAY publish, fix dulu.
+
+---
+
+
+## Section 7 — Cohort FAQ Master (10 Q&A)
+
+FAQ master = source-of-truth untuk semua kanal: sales page (4 inline), email 4-7, WA saved replies, advisor call talking points.
+
+**Update protocol:** Setelah 1 sales call, kalau ada pertanyaan baru muncul 2+ kali → masuk FAQ. Kalau pertanyaan tidak match 10 di sini → escalate ke advisor mode WA, bukan jawab generic di FAQ.
+
+### FAQ #1 — Komitmen Jam Real per Minggu
+
+**Q:** Realistis berapa jam komitmen per minggu?
+
+**A:** 4-6 jam per minggu total:
+- 2 sesi grup × 75 menit = 2,5 jam
+- Worksheet modul = 1-1,5 jam
+- Implementasi di tim = 0,5-1,5 jam
+- Group chat aktif (read + 1-2 kontribusi/minggu) = 0,5 jam
+
+Kurang dari 4 jam/minggu konsisten = hasil cohort tidak optimal (Anda bayar untuk struktur, tidak Anda manfaatkan).
+
+Lebih dari 6 jam/minggu konsisten = bagus, tetapi tidak wajib — kebanyakan peserta optimal di 5 jam/minggu.
+
+**ARSITEK PLUS tambah:** 90-min 1-on-1 audit (1×) + 60-min tools setup session (1×) = total tambahan ~3-4 jam selama 8 minggu.
+
+### FAQ #2 — Schedule Conflict (Tidak Bisa Hadir Sesi)
+
+**Q:** Kalau saya tidak bisa hadir sesi tertentu?
+
+**A:** Recording tersedia di Notion dalam 24 jam pasca-sesi. Tapi grup dynamics + peer Q&A live tidak terganti.
+
+**Cap absen 3 sesi dari 16.** Lebih dari ini, saya kontak Anda untuk diskusi fit cohort.
+
+**Kalau Anda tahu di awal akan ada konflik schedule besar (mis: travel 2 minggu Mgg 17-18):**
+- Kalau konflik 1-2 sesi: OK, lanjut, ikut recording
+- Kalau konflik 3+ sesi: pertimbangkan cohort 2 (Bulan 7) atau case-by-case via advisor call
+
+### FAQ #3 — Tools Spesifik yang Dipakai
+
+**Q:** Tools AI yang dipakai dalam cohort apa?
+
+**A:** Tergantung audit alur kerja Anda. Common tools yang muncul:
+- **AI assistant:** Claude Pro / ChatGPT Plus / Gemini (pilih 1)
+- **Workflow:** Notion AI / Zapier / Make
+- **Specialized:** Otter (transcription), Perplexity (research), atau case-by-case
+
+**Subscription tools yang WAJIB dibeli peserta:** Tidak ada. Kami akan diskusi case-by-case di sesi 2-3 setelah audit alur kerja Anda selesai. Kalau ada tools strategic untuk konteks Anda, kami diskusi cost-benefit secara terbuka.
+
+**Untuk ARSITEK PLUS:** Tools setup session 60-min termasuk — saya bantu konfigurasi 2-3 tools paling kritikal untuk konteks Anda spesifik (mis: Zapier flow custom + Notion AI permission setup + Claude API integration).
+
+### FAQ #4 — Prerequisite Pengetahuan
+
+**Q:** Saya harus paham coding / AI engineering dulu?
+
+**A:** Tidak. Cohort A.R.S.I. = founder/manajer cohort, bukan technical engineer cohort. Anda butuh:
+
+✓ Pemahaman business workflow tim Anda (Anda yang punya konteks)
+✓ Pengalaman pakai tools AI 6+ bulan (mis: pernah pakai ChatGPT untuk kerjaan)
+✓ Otoritas eksekusi keputusan SOP/permission di tim
+✓ Komitmen 4-6 jam/minggu
+
+Yang TIDAK dibutuhkan:
+✗ Coding skills
+✗ AI engineering background
+✗ Sertifikasi formal apapun
+✗ Background teknologi
+
+### FAQ #5 — Refund Policy Detail
+
+**Q:** Bagaimana kalau saya tidak puas?
+
+**A:** Refund 7-hari money-back setelah sesi 1, tanpa pertanyaan, tanpa checklist. Email refund@arifb.id, proses 24 jam kerja.
+
+**Window timeline:**
+- Hari 1 (Mgg 13 Senin 19:30 = sesi 1) sampai Hari 7 (Mgg 14 Senin 19:30) — REFUND TERSEDIA
+- Hari 8+ — refund tidak tersedia (slot allocation + group dynamics + 1-on-1 PLUS allocation tidak bisa di-realokasikan)
+
+**Pre-sesi-1 refund (D71 sampai D84):** Juga tersedia full refund. Email saja, proses 24 jam kerja.
+
+**Tidak ada partial refund** kecuali:
+- ARSITEK PLUS → ARSITEK conversion di Hari 1-3 post-sesi-1 (refund selisih Rp 2,6JT)
+
+### FAQ #6 — Bedanya dari Buku THE AI ARCHITECT
+
+**Q:** Saya sudah baca buku — apakah cohort masih worth?
+
+**A:** TIDAK selalu. Decision tree 4-pertanyaan (sales page Section 2.6 + Email 5):
+
+1. Sudah implement A.R.S.I. di 1-2 alur sendiri?
+2. Mengalami friction sosialisasi A.R.S.I. ke tim?
+3. Butuh peer cohort accountability?
+4. Butuh saya audit alur tim secara spesifik?
+
+Kalau jawaban 4 = "tidak": Anda sudah optimal dengan buku saja. Hemat Rp 4,9-7,5JT.
+
+Kalau 1+ "ya": Cohort cocok.
+
+**Bedanya konkret cohort vs buku:**
+- Buku = framework + studi case + worksheet generic
+- Cohort = framework + accountability mingguan + audit alur Anda spesifik (PLUS) + group chat peer + 8 minggu kerja bersama
+
+### FAQ #7 — Komunitas Alumni Pasca-Cohort
+
+**Q:** Setelah cohort selesai, masih ada akses?
+
+**A:** Yes:
+- **Notion workspace + worksheet:** Akses 12 bulan post-cohort end (Mgg 23 sampai Mgg 75)
+- **Group chat WA cohort 1:** Permanen (peserta yang ingin keep aktif)
+- **Q&A bulanan post-cohort:** 3 bulan default, 6 bulan kalau early bird bonus 72-jam (D71-D73)
+- **Cohort 2 priority discount:** Alumni dapat priority slot + early bird notif untuk cohort 2 (Bulan 7)
+- **LinkedIn endorsement (kalau diminta):** Saya happy endorse Anda di LinkedIn untuk skill spesifik (mis: "AI workflow architect")
+
+Yang TIDAK ada:
+- Lifetime access ke cohort 2-3-4 future (cohort = per-batch, tidak sustainable lifetime)
+- 1-on-1 ongoing pasca-cohort (kalau butuh, eskalasi ke corporate audit)
+
+### FAQ #8 — Industry-Specific Fit (Manufacturing / Healthcare / Finance Regulated)
+
+**Q:** Saya di industri regulated (healthcare/finance). Cocok cohort generic?
+
+**A:** Case-by-case. Framework A.R.S.I. = industry-agnostic, tetapi implementasi punya constraint regulatori.
+
+**Untuk industri regulated, default rekomendasi:**
+- ARSITEK PLUS (1-on-1 audit 90-min) supaya saya bisa diskusi compliance constraints spesifik
+- Sebelum checkout, jadwalkan 30-min advisor call untuk diskusi fit
+
+**Kalau industri Anda compliance-heavy (mis: PCI-DSS, HIPAA-equivalent, OJK regulated):**
+- Cohort cocok untuk audit alur + framework
+- Implementasi tools spesifik = case-by-case (saya tidak bisa rekomen tools yang TIDAK certified untuk industri Anda)
+- Kalau butuh audit compliance spesifik = corporate audit (bukan cohort), Bulan 4+ Rp 25-100JT
+
+### FAQ #9 — Bedanya Cohort 1 vs Cohort 2 (Bulan 7)
+
+**Q:** Saya skip cohort 1, lebih baik?
+
+**A:** Tergantung urgency Anda.
+
+**Cohort 1 (Mgg 16 — Mgg 23, Bulan 4-5):**
+- First batch — saya highly engaged (cap 20 = ratio mentor:peserta paling baik)
+- Risk: kurikulum first-iteration, saya akan adjust mid-cohort kalau dibutuhkan
+- Bonus 6-bulan Q&A access (early bird 72-jam)
+
+**Cohort 2 (Mgg 28+, Bulan 7):**
+- Curriculum sudah refined dari cohort 1 retro
+- Mungkin ada peserta lebih banyak (cap 25-30, depending on operational capacity)
+- Tidak ada early bird discount (anti-discount SACRED selamanya)
+- Harga kemungkinan SAMA Rp 4,9-7,5JT, tetapi bonus stacking bisa beda
+
+**Default rekomendasi:** Kalau Anda merasa urgency-tinggi (tim Anda sedang stuck implementasi AI, Anda butuh accountability segera), join cohort 1. Kalau Anda inginkan kurikulum yang sudah "polished", tunggu cohort 2.
+
+### FAQ #10 — Setelah Cohort: Path ke Corporate Audit?
+
+**Q:** Setelah cohort, kalau saya butuh audit lebih dalam, ada path?
+
+**A:** Yes — corporate audit (Rp 25-100JT, Bulan 4+ post-launch personal brand).
+
+**Bedanya cohort vs corporate audit:**
+
+| Dimensi | Cohort | Corporate Audit |
+|---|---|---|
+| Format | Group + worksheet + sesi | 1-on-1 dengan tim Anda |
+| Output | Anda yang implement, kami debug | Saya yang audit + deliverable framework custom |
+| Durasi | 8 minggu (16 sesi) | 4-6 sesi diagnostic + 1 deliverable + 1 handover |
+| Peserta | Founder + worksheet | Founder + tim 5-50 orang full participation |
+| Harga | Rp 4,9-7,5JT | Rp 25-100JT (depending tim size + scope) |
+| Cocok kalau | Anda yang akan implement | Anda butuh saya yang audit + deliverable concrete |
+
+**Path natural:**
+1. Buku THE AI ARCHITECT (Rp 297-897K) — framework awareness
+2. Cohort A.R.S.I. (Rp 4,9-7,5JT) — implementasi terpandu 8 minggu
+3. Corporate audit (Rp 25-100JT) — kalau setelah cohort masih ada blocker tim atau scaling beyond cohort scope
+
+Tidak ada audience yang "wajib" semua step. Banyak peserta cohort = stop di sana, sustainable. Beberapa eskalasi ke corporate audit di Bulan 4-5 post-cohort. Beberapa lagi langsung ke corporate audit tanpa cohort (decision-maker dengan budget + urgency tinggi).
+
+### 7.11. Distribusi FAQ ke Kanal
+
+| FAQ # | Sales page inline | Email | WA saved reply | Advisor call talking |
+|---|---|---|---|---|
+| 1 (Jam) | Section 7.2 | Email 5 partial | WA-cohort-1 | Yes |
+| 2 (Schedule conflict) | Section 7.2 | — | WA-cohort-2 | Yes |
+| 3 (Tools) | Section 7.2 | — | WA-cohort-3 | Yes |
+| 4 (Prerequisite) | Section 4 + 5 | Email 4 | — | Yes |
+| 5 (Refund) | Section 7.1 + sales page Section 7 | Email 3 | WA-cohort-4 | Yes |
+| 6 (Buku vs cohort) | Section 5 | Email 5 (full) | — | Yes |
+| 7 (Alumni) | Sales page Section 6 (bonus) | — | WA-cohort-5 | Yes |
+| 8 (Industry regulated) | — (advisor only) | — | — | Yes (escalate) |
+| 9 (Cohort 1 vs 2) | — (advisor only) | — | — | Yes (escalate) |
+| 10 (Path ke corporate) | — (advisor only) | — | — | Yes (escalate) |
+
+**SACRED CL-5 reminder:** FAQ #8/9/10 = TIDAK di-jawab generic via FAQ public. Wajib via WA advisor mode (Anda 1-on-1 30-min) atau email personal — karena jawaban context-dependent + high-stakes.
+
+### 7.12. Update Protocol FAQ
+
+- Setelah 5+ advisor call, audit pertanyaan yang muncul 2+ kali
+- Kalau ada pertanyaan baru: tambah ke FAQ kalau cocok di public-facing, atau ke advisor talking points kalau context-dependent
+- Setelah cohort 1 selesai (Mgg 23), refresh full FAQ untuk cohort 2 (Mgg 28)
+- FAQ versi sales page = static; FAQ master internal = living document
+
+---
+
+
+## Section 8 — Testimonial Collection Cohort
+
+### 8.1. Filosofi Testimonial Cohort (vs Buku Testimonial)
+
+**Buku testimonial:** Quick (1-2 minggu post-baca), volunteer-based, 5-7 quote cukup.
+
+**Cohort testimonial:** **Different game.** High-ticket = high-stakes claim. Testimonial cohort wajib:
+- Verified outcome (ada metrik konkret atau before/after)
+- 4-week post-cohort harvest minimum (peserta sudah implementasikan + lihat hasil)
+- Anonimisasi default (kecuali consent eksplisit)
+- TIDAK ADA kompensasi (anchor SACRED testimonial = volunteer murni)
+
+### 8.2. Harvest Window & Process
+
+**Timeline:**
+- Mgg 23 (cohort 1 selesai) → testimonial harvest START
+- Mgg 27 (4 minggu post-cohort) → primary harvest window (peserta sudah implement + observe)
+- Mgg 32 (8 minggu post-cohort) → secondary harvest window (deeper outcome, kalau ada)
+- Mgg 28+ (cohort 2 launch) → testimonial cohort 1 dipakai pre-launch
+
+**Harvest method:**
+1. **Email survey post-cohort Mgg 27** — 5 pertanyaan structured (Section 8.3)
+2. **Optional 30-min interview** — untuk peserta yang willing share dalam (Section 8.4)
+3. **LinkedIn endorsement reciprocal** — kalau diminta peserta, saya endorse mereka di LinkedIn dulu (build goodwill)
+
+### 8.3. Email Survey Form (Mgg 27)
+
+```
+Subject: 4 minggu post-cohort — quick survey 5 pertanyaan
+
+Halo [Nama],
+
+Cohort A.R.S.I. selesai 4 minggu lalu. Saya kirim survey ringkas
+(5 pertanyaan, ~10 menit) untuk:
+1. Improvement cohort 2 (kurikulum, format, sesi)
+2. Testimonial — KALAU Anda willing share (optional)
+
+Tidak ada commitment dari klik link.
+
+[CTA: Saya isi survey]
+
+— Arif
+
+──────────────────────────────────────
+
+5 pertanyaan:
+
+1. Apakah Anda sudah implement A.R.S.I. di 1+ alur kerja real
+   selama 4 minggu pasca-cohort?
+   [ ] Yes, 1-2 alur live
+   [ ] Yes, 3+ alur live
+   [ ] Belum, masih audit
+   [ ] Stuck di sosialisasi tim
+
+2. Kalau Anda implement, ada metrik before/after (waktu jam,
+   throughput, error rate)? Bisa share angka kalau OK.
+   [Open text]
+
+3. 1 hal yang paling worth dari cohort:
+   [Open text]
+
+4. 1 hal yang BISA lebih baik di cohort 2:
+   [Open text]
+
+5. Apakah Anda willing share testimonial untuk cohort 2 launch?
+   [ ] Yes, full nama + perusahaan OK dipakai
+   [ ] Yes, anonimisasi (mis: "Founder, manufacturing 25 orang")
+   [ ] Yes, tetapi quote saja tanpa identitas
+   [ ] No, terima kasih
+```
+
+**Send timing:** Mgg 27 Senin 09:00 WIB. Reminder Mgg 27 Jumat kalau belum diisi.
+
+### 8.4. Optional 30-min Interview (untuk peserta high-quality testimonial)
+
+**Trigger:** Peserta yang di survey jawab #2 dengan metrik konkret + willing share testimonial.
+
+**Format:** 30-min Zoom, recording dengan consent.
+
+**Talking points (saya ask):**
+1. Konteks tim Anda pre-cohort (ukuran, fungsi, masalah AI saat itu)
+2. Yang Anda implement di Mgg 13-23 + 4 minggu post-cohort
+3. Metrik before/after — angka konkret kalau ada
+4. 1 saat di cohort yang paling impactful (yang membedakan dari kursus/webinar lain)
+5. Untuk siapa Anda rekomendasikan cohort
+
+**Output:** Saya transcribe + composite (anchor §8.6 anonimisasi default).
+
+### 8.5. Composite Anonymization Rule
+
+(Anchor: `LAUNCH-PACK-BUKU.md` Section 8.3 — adapt untuk cohort.)
+
+Untuk display testimonial publik, default = anonimisasi composite:
+
+**Format anonimisasi:**
+```
+"[Quote 1-3 baris]"
+— Founder, [industry], tim [size range]
+```
+
+Sample:
+```
+"Setelah 8 minggu di cohort, saya sadar masalahnya bukan tools — masalahnya
+sistem permission yang tidak saya bangun untuk tim. Ini bukan insight yang
+saya dapat dari 3 webinar AI yang saya ikut sebelumnya."
+— Founder, services profesional, tim 18 orang
+```
+
+**Yang DIANONIMISASI:**
+- Nama lengkap → "Founder" / "Manajer senior" / "C-level"
+- Nama perusahaan → industry generic ("services profesional", "manufacturing", "fintech regulated")
+- Lokasi spesifik → tidak disebutkan
+- Ukuran tim → range ("12-15", "20-25"), bukan exact
+
+**Yang BOLEH disebutkan kalau consent eksplisit:**
+- Nama lengkap (full disclosure)
+- Nama perusahaan (kalau publik OK)
+- Photo/avatar peserta
+
+### 8.6. Display Rules — Sales Page Cohort 2
+
+Pre-cohort 2 launch (Mgg 28):
+
+| Lokasi | Format testimonial | Volume | Rotasi |
+|---|---|---|---|
+| Sales page Section 2.6 (above tier comparison) | 3 quote anonimisasi | 3 | Static, dipilih dari 5-7 best |
+| Email 4 cohort 2 (filter Untuk siapa BUKAN) | 1 quote | 1 | Static |
+| LinkedIn essay D71-cohort2 | 1 quote dengan consent | 1 | Static |
+| Threads launch cohort 2 D71-cohort2 | 0 testimonial — TIDAK pakai testimonial di Threads launch (tone tidak fit) | 0 | — |
+| IG carousel cohort 2 launch | 1 slide testimonial | 1 | Static |
+
+**Cap testimonial sales page:** 3 maksimum. Lebih dari 3 = "promotional", tidak premium.
+
+### 8.7. Tracking Spreadsheet Testimonial Cohort
+
+`arifb.id/internal/testimonial-tracker-cohort` (anchor TRACKING-DASHBOARD).
+
+| Peserta | Tier | Survey filled? | Willing testimonial? | Anonimisasi consent | Metrik konkret | Status |
+|---|---|---|---|---|---|---|
+| [Nama] | ARSITEK / PLUS | Y/N | Y/N | Full / Composite / Quote-only / N | Yes/No (detail) | Pending / Approved / Used |
+
+**Floor:** Target 30%+ peserta cohort 1 willing testimonial. <30% = audit pre-cohort expectation-setting + post-cohort engagement quality.
+
+### 8.8. Compensation Policy SACRED
+
+**TIDAK ADA kompensasi** untuk testimonial cohort:
+- TIDAK refund / refund partial untuk testimonial
+- TIDAK cohort 2 discount / free slot untuk testimonial
+- TIDAK affiliate commission
+- TIDAK consulting hour gratis
+
+**Yang BOLEH** (goodwill, not compensation):
+- LinkedIn endorsement reciprocal (saya endorse mereka, mereka write testimonial — Sequenced separately)
+- Co-write LinkedIn essay tentang case implementasi (post-cohort, kalau peserta willing) — credit ke peserta
+- Priority slot cohort 2 (sama dengan all alumni, bukan exclusive testimonial)
+
+**Rasional SACRED:** Testimonial yang dibayar = trust break. Brand premium dibangun via testimonial volunteer murni.
+
+### 8.9. Edge Cases Testimonial
+
+| Scenario | Action |
+|---|---|
+| Peserta minta refund pasca-cohort tapi sudah kasih testimonial | Refund tidak tersedia (Section 4 SACRED), testimonial tetap valid kecuali peserta minta withdrawn |
+| Peserta minta testimonial di-withdraw | OK, hapus dari sales page dalam 7 hari |
+| Peserta share testimonial generic ("cohort bagus") tanpa metrik | Skip dari sales page (low signal). Pakai untuk LinkedIn endorsement aja kalau OK. |
+| Peserta share testimonial dengan claim outlier ("saya hemat 100 jam/minggu") | Validate dulu via interview, kalau verified → quote dengan caveat "outlier — saya tidak claim ini average" |
+| 0 peserta willing testimonial (worst case) | Pakai composite case study self-write berdasarkan group chat (anonimisasi default + escape hatch) — quality lower tapi ethical |
+
+---
+
+*[Section 9-11 → Layer 20 (4/4)]*
+
+---
+
+*Last updated: Layer 20 (3/4), 27 Mei 2026 — Section 6-8 selesai (Cross-Platform Sync D71-D77 + FAQ Master 10 Q&A + Testimonial Collection). Section 9-11 (Anti-FOMO Toolkit + Pre-Launch Checklist + Post-Launch Operations) di part berikutnya.*
