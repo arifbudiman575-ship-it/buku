@@ -821,3 +821,502 @@ Terima kasih [Nama]. Pertanyaan ini saya jawab di konten reguler — silakan cek
 ---
 
 *Last updated: Layer 19 (2/3), 27 Mei 2026 — Section 4-6 selesai (IG + TikTok + LinkedIn tactics). Section 7-15 (Repurpose Cascade + Cadence + Voice Adapt + Connection Map + Cross-ref + Tracking + Anti-Pattern + Checklist + SACRED Reminder) di part berikutnya.*
+
+
+
+## Section 7 — Repurpose Cascade Matrix
+
+### 7.1. Filosofi Cascade: 1 Parent → 4 Output Native
+
+**Parent content:** Long-thread Threads Kamis 19:30 WIB (~1.500-2.000 kata, 8-10 post).
+
+**Cascade rule:** Setiap parent muncul di 4 platform dengan **format native masing-masing** dalam 7-10 hari setelah Kamis. Bukan duplikasi — adaptasi format.
+
+**Kenapa cascade (bukan original 4 platform):**
+- Voice consistency = naik 4× (1 ide × 4 angle vs 4 ide berbeda).
+- Production cost turun 60% vs original creation 4 platform.
+- Audience yang follow cross-platform lihat reinforcement message (good — bukan duplicate karena format beda).
+- Brand association naik (ide yang sama muncul di 4 tempat = signal authority).
+
+### 7.2. Cascade Matrix — 1 Long-Thread → 4 Output
+
+**Anggap parent = Long-thread Kamis D60 "Kenapa membaca buku saja tidak cukup" (1.800 kata, 8 post).**
+
+| Platform | Output | Format | Slot publish | Adaptasi |
+|---|---|---|---|---|
+| **Threads** (parent) | Long-thread 8 post | Text-thread native | **Kamis 19:30 (D60)** | Original — full depth |
+| **Instagram** | Carousel 10 slide | 1080×1350 dark theme | Senin (D64) 12:00 | Ringkas hook + 5 framework slide + insight + signature |
+| **TikTok** | Vertical video 60-75s | 9:16 voice-over | Selasa (D65) 19:00 | Hook 0-3s aggressive ICP + 3 framework poin + insight |
+| **LinkedIn** | Long-form essay 750 kata | Paragraf pendek | Rabu (D66) 08:00 | Hook profesional + 5-act struktur + soft CTA corporate |
+
+**Total:** Parent + 3 cascade output = 4 platform coverage dalam 7 hari, tanpa original ulang.
+
+### 7.3. Adaptasi Format — Rules per Platform
+
+#### Threads → IG Carousel
+- **Slide 1 (hook):** Reuse 1 baris hook dari Threads post 1, tapi text-only visual (no body).
+- **Slide 2 (konteks):** Compress 200 kata Threads → 40-60 kata IG.
+- **Slide 3-7 (framework):** 1 langkah/slide. Threads post 3-7 → 5 slide.
+- **Slide 8 (insight):** Threads post 8 → 1 baris insight.
+- **Slide 9 (CTA):** "Long-thread di Threads — link bio." (CTA halus, bukan jualan)
+- **Slide 10 (signature):** "Sistem, bukan tools — Arif Budiman" + handle.
+
+**Kompresi rasio:** Threads 1.800 kata → IG carousel ~400-500 kata. Hilang detail = trade-off, gantinya = visual + scrollable.
+
+#### Threads → TikTok Vertical Video
+- **0-3s hook:** Reuse hook Threads, tapi tambah ICP filter aggressive (Section 5.2).
+- **3-10s konteks:** Compress 200 kata → 30 detik voice-over.
+- **10-50s body:** Threads post 3-7 (5 framework) → pilih 3 paling visceral, sisanya skip.
+- **50-60s insight:** 1 baris insight + CTA "lebih dalam, link bio".
+- **60-75s signature:** Voice-over "Sistem, bukan tools — Arif Budiman" + text overlay handle.
+
+**Kompresi rasio:** Threads 1.800 kata → TikTok ~150-200 kata script. Heavy cut, fokus 3 framework paling powerful.
+
+#### Threads → LinkedIn Long-Form Essay
+- **Paragraf 1 (hook):** Reuse hook Threads + 1 paragraf konteks profesional.
+- **Paragraf 2-3 (konteks):** Threads post 2 expanded ke 200-300 kata B2B angle.
+- **Paragraf 4-6 (body):** 5 framework Threads → pilih 3-4, expand setiap dengan B2B example.
+- **Paragraf 7 (insight):** Threads post 8 expanded ke insight decision-maker.
+- **Paragraf 8 (soft CTA):** "Kalau Anda sedang berpikir tentang [X di tim Anda], saya senang mendengar."
+
+**Kompresi rasio:** Threads 1.800 kata → LinkedIn 700-800 kata. Mid-cut, tapi tone shift ke B2B/profesional.
+
+### 7.4. Repurpose Filter — Kapan IDE TIDAK COCOK Cascade
+
+Tidak setiap parent cocok cascade ke 4 platform. **Filter checklist:**
+
+| Filter | Lulus untuk cascade ke ... |
+|---|---|
+| **Visual-friendly (bisa di-carousel)?** | Ya → IG. Tidak → IG SKIP. |
+| **Bisa dibawakan dalam 60-90 detik dengan ICP filter?** | Ya → TikTok. Tidak → TikTok SKIP. |
+| **Relevan untuk decision-maker B2B (bukan personal/IC level)?** | Ya → LinkedIn. Tidak → LinkedIn SKIP. |
+| **Sensitif (tools-bashing, kompetitor-bashing, klien-revealing)?** | Cascade SKIP semua, Threads-only. |
+
+**Contoh:**
+- Long-thread Pillar 3 filosofi (D81 "3 bulan setelah saya buka pintu publik") → IG carousel YES, LinkedIn essay YES, TikTok SKIP (filosofi tidak fit format pendek).
+- Long-thread Pillar 1 framework (D60 A.R.S.I. dalam) → CASCADE 4 platform YES.
+- Long-thread Pillar 2 case mini (D67 Pak D 8 minggu setelah audit) → Threads + IG + LinkedIn (B2B case = sangat cocok). TikTok harus extra anonimisasi (bisa SKIP kalau case terlalu spesifik).
+
+### 7.5. Cascade Production Workflow (per minggu)
+
+**Senin pagi (08:00-09:30, 1.5 jam):**
+- Review long-thread Threads minggu lalu (Kamis D-X)
+- Filter checklist (Section 7.4) — putuskan platform mana di-cascade
+- Draft IG carousel slides 8-10 (text-only struktur)
+- Draft TikTok script 60-90 detik
+- Draft LinkedIn essay outline (5-act)
+
+**Senin siang (14:00-15:30, 1.5 jam):**
+- Design IG carousel di Canva/Figma (template yang sudah ada)
+- Schedule IG carousel ke Senin 12:00 (atau besoknya kalau telat)
+
+**Selasa pagi (08:00-09:30, 1.5 jam):**
+- Shoot TikTok video (workspace setup + voice-over)
+- Edit TikTok di CapCut
+- Schedule TikTok Selasa 19:00
+
+**Selasa siang (14:00-15:30, 1.5 jam):**
+- Tulis LinkedIn essay full draft (700-800 kata)
+- Self-review (voice consistency check)
+- Schedule LinkedIn Rabu 08:00
+
+**Total cascade work/minggu:** 6 jam untuk 3 platform output. Tambah 2 jam writing long-thread Kamis = 8 jam/minggu untuk 4 platform aligned content.
+
+### 7.6. Cascade Quality Check — 5-Minute Pre-Publish
+
+Sebelum publish setiap output cascade, audit 5-pertanyaan:
+
+1. **Voice "Anda" formal masih ada?** (no slip ke "lo/gw" atau "kami") → CP-1
+2. **Signature phrase muncul minimum 1×?** ("Sistem, bukan tools" / "Arsitek, bukan pengguna" / "Tools berubah, framework abadi")
+3. **Format native?** (carousel 1080×1350 untuk IG, 9:16 vertical untuk TikTok, paragraf pendek untuk LinkedIn) → CP-5
+4. **CTA tidak agresif?** (no "BURUAN", "DISKON") → §14.3 slip prevention
+5. **Anonimisasi case sudah dilakukan?** (kalau pakai detail klien) → SACRED LAUNCH-PACK §1.1
+
+Kalau ≥1 jawaban "tidak", DELAY publish, fix dulu.
+
+---
+
+
+## Section 8 — Cross-Platform Posting Cadence
+
+### 8.1. Mingguan Master Schedule (default)
+
+| Hari | Threads | Instagram | TikTok | LinkedIn |
+|---|---|---|---|---|
+| **Senin** | 07:00 P1 mini-framework + 19:00 P2 workflow tip | 12:00 carousel cascade (parent dari Kamis lalu) + 3-5 stories | — | 08:00 short post (vocabulary-flip) |
+| **Selasa** | 07:00 P1 case + 12:00 reply farm 30-min + 19:00 P2 anti-pattern | 3-5 stories | 19:00 video cascade T-A | — |
+| **Rabu** | 07:00 P3 filosofi 1-baris + 19:00 P1 mini-framework | Reels 12:00 (kalau ada budget produksi) + 3-5 stories | — | **08:00 LONG-FORM ESSAY (cascade)** |
+| **Kamis** | 07:00 P2 workflow + **19:30 LONG-THREAD (parent)** | 3-5 stories ("Long-thread Kamis di Threads") | 12:00 video T-B anti-pattern (kalau ada) | — |
+| **Jumat** | 07:00 P1 vocabulary + 12:00 reply farm 30-min + 19:00 P2 case | Carousel 12:00 (kalau 2-carousel/mgg) + 3-5 stories | — | 08:00 short post (case mini atau quote) |
+| **Sabtu** | OFF (Anti-Burnout S-3) | OFF | OFF | OFF |
+| **Minggu** | 07:00 P3 refleksi 1-baris | 3-5 stories light (behind-scene + journal page) | 19:00 video T-C case mini (kalau ada material) | 08:00 quote post (opsional) |
+
+**Total per minggu:**
+- Threads: 11 unit (10 short + 1 long-thread)
+- Instagram: 4-6 unit (2-3 carousel + 1-2 Reels) + Stories daily
+- TikTok: 2-3 video
+- LinkedIn: 3-5 unit (1 essay + 2-4 short post)
+
+**Grand total:** ~21-25 unit publish per minggu, dengan ~70% cascade dari parent (long-thread Kamis) + 30% original short post per platform.
+
+### 8.2. Stagger Logic — Kenapa Tidak Simul-Bulk-Post
+
+**CP-2 SACRED:** Tidak bulk-simul-post.
+
+**Stagger pattern (24-48 jam offset):**
+- Long-thread Threads Kamis 19:30 → IG carousel Senin (D+4) → TikTok Selasa (D+5) → LinkedIn Rabu (D+6).
+- **Bukan:** semua 4 platform Kamis 19:30 simul-publish.
+
+**Alasan:**
+- Algoritma duplicate detection (Meta IG ↔ Threads).
+- Audience cross-follow (Threads + IG follower 30-50% overlap) — simul = duplicate fatigue.
+- Each platform peak time berbeda (LinkedIn 08:00, TikTok 19:00, IG 12:00, Threads 19:30) — simul ke 1 jam = 3 platform off-peak.
+- Distribusi cognitive load Anda — 4 platform 1 hari = burnout fast-track.
+
+### 8.3. Slot Time Optimization — Per Platform Peak
+
+| Platform | Peak slot WIB | Rasional |
+|---|---|---|
+| **Threads** | 07:00, 12:00, 19:00-21:00 | Discovery scrolling pre-work + lunch + post-work (Kamis 19:30 = sweet spot kompetitor data) |
+| **Instagram** | 12:00, 19:00-21:00 | Lunch IG-scroll + evening primary |
+| **TikTok** | 12:00, 19:00-22:00 | Mirror IG, but evening lebih kuat (60-90 menit scrolling) |
+| **LinkedIn** | 08:00, 12:00 | Pre-meeting consumption + lunch break professional |
+
+**SACRED:** TIDAK post LinkedIn 19:00+ (audience LinkedIn off-platform malam = wasted reach).
+
+### 8.4. Reply Farm Slot — Cross-Platform
+
+| Platform | Slot reply farm proaktif | Cap waktu |
+|---|---|---|
+| **Threads** | Sel 12:00-12:30 + Jum 12:00-12:30 | 60-min/hari MAX (Anti-Burnout S-6) |
+| **Instagram** | Setelah carousel publish (12:00-12:30) | 20-min/hari |
+| **TikTok** | Setelah video upload (1 jam window) | 15-min/video upload |
+| **LinkedIn** | Pagi sebelum essay publish (07:30-08:00) — komen post connection sebelumnya | 15-min/hari |
+
+**Total reply farm cross-platform/minggu:** ~5-7 jam. Dalam cap Anti-Burnout S-6.
+
+### 8.5. Mode Adjustment — Launch Week (Mgg 7 Buku, Mgg 11 Cohort)
+
+**Selama launch week, cadence di-override per LAUNCH-PACK-BUKU §6 dan equivalent untuk cohort:**
+
+| Platform | Launch week adjustment |
+|---|---|
+| **Threads** | Volume 2× (multi-touch D71 cohort launch run-of-show + D47 buku launch run-of-show) |
+| **Instagram** | Stories volume 8-12/hari (vs default 3-5) — lead magnet/buku/cohort push |
+| **TikTok** | Volume cap STAY 3/minggu (jangan dipush — fatigue audience non-ICP) |
+| **LinkedIn** | Long-form essay 2× (Senin tease + Kamis launch announcement) |
+
+**Setelah launch week (Mgg 8 untuk buku, Mgg 12 untuk cohort):**
+- 7-day cooldown — kembali ke default cadence Section 8.1.
+- **TIDAK push lebih.** Trauma audience post-launch = unfollow risk.
+
+---
+
+
+## Section 9 — Voice Adaptation Rules
+
+### 9.1. SACRED Voice — Yang TIDAK BOLEH Adapt
+
+**4 element voice yang KONSISTEN di 4 platform** (kalau slip = §14.3 kategori 1):
+
+1. **Sapaan "Anda" formal** — tidak pakai "lo/gw", tidak pakai "kalian", tidak pakai "kawan-kawan".
+2. **Signature phrases** muncul minimum 1× per platform/minggu:
+   - "Sistem, bukan tools."
+   - "Arsitek, bukan pengguna."
+   - "Tools berubah, framework abadi."
+3. **Anti-hype tone** — tidak pakai BURUAN/DISKON/TINGGAL X SLOT, tidak pakai emoji excessive (>3/post), tidak pakai ALL-CAPS dramatic.
+4. **First-person "saya"** (bukan "kami" atau "tim kami") — kecuali dalam konteks PROMIND-NEUROLINK (perusahaan).
+
+### 9.2. Yang BOLEH Adapt per Platform
+
+| Element | Threads | IG | TikTok | LinkedIn |
+|---|---|---|---|---|
+| **Tempo bicara/baca** | Normal-tenang | Slower (visual-paced) | 30% faster | Slower (B2B reading-paced) |
+| **Energi** | Calm-confident | Calm-confident | Energetic-confident | Calm-authoritative |
+| **Length kalimat avg** | 12-18 kata | 10-15 kata | 8-12 kata | 15-25 kata |
+| **Formality dial** | Formal-warm | Formal-warm | Formal-energetic | Formal-corporate |
+| **Humor** | Subtle dry | Subtle dry + visual | Self-deprecating ringan | Minim humor |
+| **Emoji** | 0-2/post | 1-3/slide caption | Text overlay only | 0-1/post |
+
+**Default: Formal-warm dengan modulasi platform.**
+
+### 9.3. Voice Test — 3-Question Audit (per post)
+
+Sebelum publish, audit 3 pertanyaan:
+
+1. **Kalau saya hapus nama saya dari post ini, audience masih bisa identify ini brand @arifb.id?** Kalau ya → voice consistent. Kalau tidak → generic, redraft.
+2. **Apakah ada 1 kalimat yang voice-mirror brand kompetitor (Tier 2/3)?** Kalau ya → tweak supaya beda.
+3. **Apakah signature phrase muncul minimum 1×?** Kalau tidak → tambah, atau ganti dengan signature phrase lain.
+
+### 9.4. Voice Slip Categories (anchor §14.3)
+
+| Kategori | Definisi | Action |
+|---|---|---|
+| **Slip 1 (mild)** | Pakai "lo/gw" 1×, atau pakai "BURUAN" 1×, atau pakai emoji excessive 1 post | Hapus post dalam 30 menit, draft ulang dengan voice fix |
+| **Slip 2 (moderate)** | 2-3 post berturut-turut hilang signature phrase, atau 2+ post pakai tone hype | Pause posting 24 jam, audit voice, rewrite hook bank |
+| **Slip 3 (severe)** | Reply emosional ke kritik, pivot tone permanent (mis: "biar relatable") | Strategy Refresh ad-hoc trigger (Section 8 Strategy-Refresh), 7-day pause platform yang slip |
+
+---
+
+
+## Section 10 — Platform-Funnel Connection Map (Anchor §7)
+
+Mapping eksplisit setiap platform ke stage funnel §7 + apa yang DIKERJAKAN platform tersebut di stage itu.
+
+### 10.1. TOFU Stage (Awareness)
+
+**§7 definisi:** Audience belum tahu tentang Anda. Tujuan = first-encounter, tidak menjual.
+
+| Platform | Role TOFU | Tactic |
+|---|---|---|
+| **Threads** | Primary discovery | Hook bank + reply farm proaktif (komen di post kompetitor T1/T2) |
+| **TikTok** | Reach amplifier | Video format dengan hook 0-3s ICP-filter |
+| **Instagram** | Secondary (Reels TOFU) | Reels native dengan hook visual |
+| **LinkedIn** | TOFU minim — hanya kalau essay viral di luar network | Tidak fokus TOFU di LinkedIn |
+
+**Output stage:** Awareness → follow → MOFU.
+
+### 10.2. MOFU Stage (Consideration)
+
+**§7 definisi:** Audience sudah follow, sedang menilai apakah brand worth attention.
+
+| Platform | Role MOFU | Tactic |
+|---|---|---|
+| **Threads** | Continued depth — long-thread Kamis | Framework dalam, case mini, vocabulary anchor |
+| **Instagram** | Primary nurture | Carousel (parent cascade) + Stories funnel |
+| **LinkedIn** | Long-form essay | Decision-maker depth essay |
+| **TikTok** | Minor MOFU | Series video (rare — biasanya 1-shot TOFU) |
+
+**Bridge ke BOFU:** Lead magnet 7-Day Challenge — IG link bio + Threads bio + LinkedIn featured.
+
+### 10.3. BOFU Stage (Conversion)
+
+**§7 definisi:** Audience siap beli (buku / cohort / corporate).
+
+| Platform | Role BOFU | Tactic |
+|---|---|---|
+| **Instagram** | Primary BOFU push | Stories link sticker + carousel sales (Mgg 7/11) |
+| **LinkedIn** | Corporate BOFU | DM dari decision-maker → corporate audit pipeline |
+| **Threads** | Launch event window | Mgg 7 buku launch + Mgg 11 cohort launch (sinkron) |
+| **TikTok** | TIDAK BOFU | Audience cold — funnel tidak end di TikTok |
+
+**Output stage:** Conversion → revenue.
+
+### 10.4. Cross-Platform Customer Journey Sample
+
+**Sample journey (audience persona = Pak D, founder 80-orang):**
+
+| Hari ke | Platform | Touchpoint | Stage |
+|---|---|---|---|
+| Hari 1 | TikTok | Liat video T-A "A.R.S.I. 4 langkah" | TOFU |
+| Hari 2 | TikTok | Profile visit → klik handle @arifb.id | TOFU |
+| Hari 2 | Threads | Follow (lihat pinned manifesto) | TOFU→MOFU |
+| Hari 3-14 | Threads | Konsumsi 5 post, like 2 long-thread Kamis | MOFU |
+| Hari 15 | Threads | Klik link bio → 7-Day Challenge opt-in | MOFU |
+| Hari 16-22 | Email | 9 email nurture sequence | MOFU |
+| Hari 30 | Instagram | Follow (cross-platform) | MOFU |
+| Hari 45 | LinkedIn | Add connection setelah baca essay | MOFU |
+| Hari 50 | LinkedIn | DM "tertarik corporate audit" | BOFU |
+| Hari 55 | Email | Sales call — discovery 30-min | BOFU |
+| Hari 60 | Lynk.id | Pembayaran Rp 50JT corporate audit | CONVERSION |
+
+**Total journey:** 60 hari, 4 platform touchpoint, 12-15 konten konsumsi. Funnel kerja = brand consistency × waktu, bukan single-post conversion.
+
+### 10.5. Floor Per Stage (Mgg 1-12 default)
+
+| Stage | KPI | Floor mingguan |
+|---|---|---|
+| TOFU | Follower gain Threads + IG + TikTok | 50 + 30 + 20 = 100/minggu |
+| MOFU | Lead magnet opt-in | 10/minggu |
+| BOFU | Corporate inbound DM (LinkedIn) | 1-2/bulan |
+
+Floor breach 3 minggu berturut-turut = trigger Strategy Refresh ad-hoc Section 8 (STRATEGY-REFRESH-PROTOCOL).
+
+---
+
+
+## Section 11 — Cross-Reference Index
+
+| Bab di Cross-Platform Playbook | Cross-ref STRATEGI | Cross-ref file lain |
+|---|---|---|
+| Section 0 — Filosofi & anchor §7 | §7 (TOFU/MOFU/BOFU) · §0.5 filter | `STRATEGI-PERSONAL-BRANDING.md` §7 |
+| Section 1 — SACRED CP-1 sd CP-7 | §5 (voice) · §13 (yang tidak boleh) · §14 (asosiasi) | `ANTI-BURNOUT-PROTOCOL.md` S-1, S-3, S-6 |
+| Section 2 — Platform Role Matrix | §7 funnel · §4 pillar split | `OPERATIONAL-SETUP.md` (tooling per platform) |
+| Section 3 — Threads Tactics | §6 hook bank · §10 pinned · §12 metrics | `REPLY-FARM-PLAYBOOK.md` · `THREADS-LONGFORM-ABC-TEST.md` |
+| Section 4 — Instagram Tactics | §9 bio · §10 manifesto carousel | `VISUAL-BRAND-IDENTITY.md` (carousel template) · `MANIFESTO-CAROUSEL-IG.md` |
+| Section 5 — TikTok Tactics | §6 hook bank · §13 yang tidak boleh | `VISUAL-BRAND-IDENTITY.md` (cover spec) |
+| Section 6 — LinkedIn Tactics | §9 bio LinkedIn · §17 trust-first | `LAUNCH-PACK-BUKU.md` §6.3 (LinkedIn essay launch) |
+| Section 7 — Repurpose Cascade | §11 roadmap · §4 pillar | `THREADS-LONGFORM-ABC-TEST.md` (parent library) |
+| Section 8 — Cadence | §11 roadmap operasional | `OPERATIONAL-SETUP.md` (scheduler) · `CONTENT-CALENDAR-BULAN-{1,2,3}.md` |
+| Section 9 — Voice Adaptation | §5 voice & tone · §14.3 slip kategori | `STRATEGI-PERSONAL-BRANDING.md` §5 |
+| Section 10 — Platform-Funnel Map | §7 (anchor) · §8 value ladder | `BRAND-JOURNEY-MAP.md` Q1-Q4 |
+| Section 12 — Tracking Dashboard | §12 metrics & decision rules | `TRACKING-DASHBOARD.md` |
+| Section 13 — Anti-Pattern | §13 yang tidak boleh | `ANTI-BURNOUT-PROTOCOL.md` (early warning) |
+
+---
+
+
+## Section 12 — Integrasi Tracking Dashboard
+
+(Anchor: `TRACKING-DASHBOARD.md`)
+
+### 12.1. KPI Per Platform — Tracked Mingguan
+
+Tambahkan ke spreadsheet TRACKING-DASHBOARD weekly tab:
+
+| Platform | KPI tab |
+|---|---|
+| **Threads** | followers gain, avg engagement rate, reply farm response, save rate long-thread Kamis, profile visit |
+| **Instagram** | followers gain, save rate carousel, share rate Reels, bio link click, DM count |
+| **TikTok** | followers gain, view completion 50%, profile visit rate, follow conversion |
+| **LinkedIn** | followers gain, view essay, like+comment combined, connection request masuk, DM corporate |
+
+### 12.2. Cross-Platform Dashboard Tab — 1 View Master
+
+Tab tambahan di TRACKING-DASHBOARD: **"Cross-Platform Master"**.
+
+Format:
+```
+| Mgg | Platform | Followers | Engage % | Top post | Notes |
+|-----|----------|-----------|----------|----------|-------|
+| 1   | Threads  | 850       | 4.2%     | "A.R.S.I. mini" | Reply farm strong |
+| 1   | IG       | 320       | 3.1%     | Carousel D60 | Save rate 5% |
+| 1   | TikTok   | 110       | -        | T-A 60s | View 8K |
+| 1   | LinkedIn | 95        | 2.8%     | Essay D60 | 3 connection req |
+```
+
+Update Senin pagi (parallel ke Energy Audit Anti-Burnout §2 + Voice Audit §14.2).
+
+### 12.3. Floor Breach Decision Rule
+
+Floor breach 3 minggu berturut-turut di salah satu platform = trigger:
+- **Tactical adjustment** (bulanan) — tweak hook/format/jadwal
+- **Strategic refresh ad-hoc** (kalau breach 6+ minggu di 2+ platform) — anchor STRATEGY-REFRESH §8
+
+### 12.4. Quarterly Review (Mgg 13, 26, 39, 52)
+
+Bagian dari Strategy Refresh Quarterly Sit-Down (STRATEGY-REFRESH §6):
+
+| Pertanyaan kuartalan | Decision |
+|---|---|
+| Platform mana yang ROI tertinggi (followers/lead/conversion per jam invest)? | Double down |
+| Platform mana yang ROI terendah? | Reduce volume atau drop |
+| Cascade workflow Section 7.5 masih sustainable? | Tweak slot atau cap volume |
+| Voice consistency cross-platform — apakah slip terdeteksi (§14.3)? | Audit + retraining draft template |
+
+---
+
+
+## Section 13 — Anti-Pattern: Kapan TIDAK Cross-Post
+
+8 skenario di mana cross-post **akan merugikan brand**, bukan menguntungkan.
+
+### 13.1. Konten Sensitif — Threads-Only
+
+- **Tools-bashing** — kritik tools/platform tertentu dengan nama. Risiko: kena counter-attack di IG/LinkedIn (audience formal sensitif).
+- **Kompetitor-bashing** — sebut nama kompetitor (T1/T2/T3 dari `analisa_kompetitor.md`). Risiko: brand looking petty, especially di LinkedIn.
+- **Internal anekdot tim PROMIND-NEUROLINK** — share story tim internal. Risiko: tim privacy slip.
+
+**Aturan:** Threads-only. Cascade SKIP semua platform.
+
+### 13.2. Konten Personal — IG Stories Only
+
+- **Family/personal life** — vacation, family, anak. Risiko: dilution brand kategori.
+- **Mood update / curhat** — energy down, frustrasi pribadi. Risiko: voice slip kategori 2.
+
+**Aturan:** IG Stories only (24-jam ephemeral), bukan post permanen. Tidak cascade.
+
+### 13.3. Konten Reactive — Tidak Cascade
+
+- **Reply ke viral content lain** — kontekstual, basi cepat. Cascade ke platform lain = audiens tidak punya konteks.
+- **Hot take politik / agama / SARA** — brand tidak engage area ini (anchor §13 STRATEGI yang tidak boleh).
+
+**Aturan:** Skip cascade. Threads-only kalau benar-benar perlu (rare).
+
+### 13.4. Konten Format-Locked
+
+- **Long-thread very technical (>2.500 kata)** — tidak fit IG carousel (compress lethal) atau TikTok (impossible <90 detik).
+- **Carousel pure visual (chart, infographic)** — tidak fit Threads text-format.
+- **TikTok yang pakai trending audio** — tidak bisa di-cascade ke platform lain (audio license).
+
+**Aturan:** Native platform only.
+
+### 13.5. Konten Time-Sensitive Lokal
+
+- **Event Indonesia hari raya / pemilu / lokal** — tidak cascade ke platform yang audience global (LinkedIn tier internasional).
+- **Holiday-specific Indonesia** — Threads + IG only.
+
+### 13.6. Konten Penal Dilihat Out-of-Context
+
+- **Quote tanpa konteks** — di IG Stories OK (ephemeral), di LinkedIn essay context wajib.
+- **Joke/sarkasme** — di Threads OK (audience kontekstual), di LinkedIn TIDAK (audience formal interpret literal).
+
+### 13.7. Konten Saat Crisis Mode
+
+- **Kalau Anda di tier ORANGE/RED Anti-Burnout (§3.2-3.3)** — cross-post = decision-making bias. Cascade SKIP minimum 7 hari.
+- **Kalau ada platform-specific crisis** (mis: kontroversi di Threads) — TIDAK cascade konten lain selama 48-72 jam (audience cross-platform sudah saturated dengan crisis).
+
+### 13.8. Konten Eksperimen Pra-Lock
+
+- **Hook baru yang belum tested di Threads** — TIDAK cascade dulu. Test di Threads minimum 2 minggu, kalau hook performing → cascade dengan adaptasi.
+- **Format eksperimen TikTok baru** — TIDAK cascade ke IG sebelum 4 video tested.
+
+**Rasional:** Eksperimen di home base (Threads). Cascade hanya untuk konten yang sudah validated.
+
+---
+
+
+## Section 14 — Checklist Update File Terkati (DEFER)
+
+Saat playbook ini stabilize (ETA Mgg 13 setelah Quarterly Sit-Down pertama), update file-file berikut untuk consistency:
+
+| File | Update yang dibutuhkan |
+|---|---|
+| `STRATEGI-PERSONAL-BRANDING.md` §7 | Tambah link reference ke CROSS-PLATFORM-PLAYBOOK Section 10 (Connection Map) |
+| `STRATEGI-PERSONAL-BRANDING.md` §11 (Roadmap) | Tambah cadence cross-platform di Mgg 1-12 (Section 8.1) |
+| `OPERATIONAL-SETUP.md` | Tambah bagian "Tooling per platform" (scheduler, design tools, edit tools) merefer Section 4-6 |
+| `REPLY-FARM-PLAYBOOK.md` | Cross-link ke Section 8.4 (reply farm slot per platform) |
+| `VISUAL-BRAND-IDENTITY.md` | Cross-link ke Section 4.3 (carousel spec) + Section 5.8 (TikTok cover spec) |
+| `TRACKING-DASHBOARD.md` | Tambah tab "Cross-Platform Master" per Section 12.2 |
+| `CONTENT-CALENDAR-BULAN-{1,2,3}.md` | Audit cadence per Section 8.1 — apakah konsisten? Kalau drift, tweak. |
+| `BRAND-JOURNEY-MAP.md` Q1-Q4 | Tambah platform mapping per quarter — Q1 Threads dominant, Q2 + IG, Q3 + TikTok+LinkedIn, Q4 = 4 platform stable. |
+
+**STATUS DEFER:** Semua update di atas DITUNDA sampai Quarterly Sit-Down Mgg 13. Tidak diupdate satu-per-satu di-flow karena risiko whiplash dokumen + decision yang belum lock.
+
+---
+
+
+## Section 15 — SACRED Reminder
+
+7 prinsip terakhir yang **tidak boleh dilanggar** walau Anda di tier RED, walau viral momentum, walau kompetitor over-perform.
+
+| # | Prinsip | Anchor |
+|---|---|---|
+| **1** | **Voice "Anda" formal di 4 platform.** Slip = §14.3 kategori 1. | CP-1 + Section 9.1 |
+| **2** | **Threads = home base original creation.** Cascade arah satu — Threads → 3 platform lain. | CP-3 + Section 7.1 |
+| **3** | **Tidak bulk-simul-post.** Stagger 24-48 jam. | CP-2 + Section 8.2 |
+| **4** | **Format harus native.** Carousel 1080×1350, vertical 9:16, paragraf pendek LinkedIn. | CP-5 + Section 4.3, 5.4, 6.3 |
+| **5** | **TikTok cap 3 video/minggu.** Production cost = circuit breaker. | CP-6 + Section 5.5 |
+| **6** | **Long-thread Kamis SACRED parent.** Tidak diganti walau ide bagus muncul untuk platform lain. | CP-7 + Section 3.7 |
+| **7** | **Sabtu OFF total semua platform.** No exception. | Anti-Burnout S-3 |
+
+**Kalau salah satu dilanggar:** asumsikan tier YELLOW Anti-Burnout aktif (§3.1) + voice slip risk (§14.3) + cascade quality risk Section 7.6.
+
+---
+
+
+## CLOSING
+
+Cross-Platform Playbook = operasionalisasi §7 (TOFU MOFU BOFU funnel) ke 4 platform real dengan voice consistency cross-platform + repurpose cascade + decision rules per-platform. Tanpa playbook ini, §7 tetap teori; dengan playbook ini, §7 = mesin yang each-platform-has-a-job.
+
+**Stack relasi item playbook 10-12 (sustainability + cross-platform + refresh):**
+- Item 10 (Anti-Burnout) = energi sustainability untuk eksekusi 12-bulan.
+- Item 11 (Cross-Platform — file ini) = eksekusi konten di 4 platform yang sustainable.
+- Item 12 (Strategy Refresh) = mekanisme adjust playbook ini setiap kuartal.
+
+3 item bekerja sama: Anti-Burnout menjaga energi → Cross-Platform menjadi kerangka eksekusi → Strategy Refresh me-recalibrate cross-platform setiap 90 hari berdasarkan data tracking.
+
+---
+
+*Last updated: Layer 19 (3/3), 27 Mei 2026 — Item 11 SELESAI. Section 0-15 lengkap. ~1.250 baris total.*
+*Berikutnya: Item 9 (Corporate Inbound 1-Pager) atau Item 8 (Cohort Launch Pack) — sesuai prioritas user.*
