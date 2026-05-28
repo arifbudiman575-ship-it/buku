@@ -54,14 +54,19 @@
 
 ### 2. Status Real-World Eksekusi (Pra-Day-1)
 
-Belum dikonfirmasi user (per sesi 27 Mei 2026):
-- [ ] Tools sign-up: MailerLite / Lynk.id / Canva Pro / Notion / Google Sheets
-- [ ] Profile 4 platform live + bio updated (Threads/IG/TikTok/LinkedIn)
-- [ ] Foto B&W premium ready
-- [ ] Manuskrip THE AI ARCHITECT — final layout siap launch Mgg 7?
-- [ ] Asset visual rendered: Manifesto carousel, Wordmark 3-variant, Threads pinned 8-post
+**Confirmed by user (sesi 27 Mei 2026):**
+- ✅ Tools aktif: MailerLite + Lynk.id + Canva Pro + Notion + Google Sheets
+- ✅ Profile 4 platform live (`@arifb.id` di Threads/IG/TikTok/LinkedIn)
+- ✅ Foto B&W premium ready
+- ✅ Manuskrip THE AI ARCHITECT FINAL (siap launch Mgg 7)
 
-**Estimasi ~10-15 jam kerja Pra-Day-1** (asset render + tooling setup + profile setup + dry-run end-to-end). Detail: `OPERATIONAL-SETUP.md §2 PRA-DAY-1 CHECKLIST`.
+**Sisa pre-launch: 8 asset deployment di tools yang sudah aktif** (~7-11 jam manual eksekusi). Pegangan eksekusi ada di file dedicated:
+
+➡️ **`DAY-1-LAUNCH-CHECKLIST.md`** — 5-wave sequencing guide (Foundation Visual → Lead Magnet Funnel → Pinned Content → Tracking → Dry-Run). Mulai dari **Wave 1 (Wordmark + Bio)** karena foundation untuk asset lain.
+
+3 timeline mode tersedia: Steady (7 hari), Sprint (3 hari weekend), Reverse-Compress (2 hari ASAP). Detail di file checklist + acceptance criteria + rollback plan per wave.
+
+**Progress saat ini:** ~32% target 12-bulan · ~78% siap Day 1.
 
 ---
 
