@@ -7,40 +7,50 @@
 
 ## STATUS TERAKHIR
 
-**Tanggal:** 28 Mei 2026 (Sesi 2 — Pra-Day-1 spec sprint)
+**Tanggal:** 28 Mei 2026 (Sesi 2 — Pra-Day-1 spec sprint COMPLETE)
 **Branch aktif:** `add-thread-arsi-7-hari`
-**HEAD:** `896da8d3` (Wave 2.2 MailerLite Automation Brief)
-**Total commits di branch:** 30 commits (Layer 11 → 22 → 23 → **Wave 1.2 → 1.1 → 2.1 → 2.2** → handover ini)
+**HEAD:** `f2bc902` (Wave 3.1 cleanup — drop meta verification checklist)
+**Total commits sesi 28 Mei:** 10 commits (Wave 1.2 → 1.1 → 2.1 → 2.2 → handover refresh → fix Decision H1 → Wave 3.2 → Wave 4-5 → Wave 3.1 spec → Wave 3.1 cleanup)
 
 ---
 
 ## 🆕 SESI 28 MEI 2026 — HIGHLIGHTS
 
-### 4 commits Wave 1-2 spec sprint
+### 10 commits Wave 1-5 (Pra-Day-1 spec 100% locked)
 
 | Commit | Wave | File | Path commit |
 |---|---|---|---|
 | `faa4683` | Wave 1.2 — Bio 4 platform | `BIO-COPY-4-PLATFORM.md` | Kiro |
 | `95f58ac` | Wave 1.1 — Wordmark spec brief | `WORDMARK-SPEC-BRIEF.md` | Kiro |
-| `90789438` | Wave 2.1 — Lynk.id setup brief | `LYNK-ID-SETUP-BRIEF.md` | ChatGPT |
-| `896da8d3` | Wave 2.2 — MailerLite automation brief | `MAILERLITE-AUTOMATION-BRIEF.md` | ChatGPT |
+| `9078943` | Wave 2.1 — Lynk.id setup brief | `LYNK-ID-SETUP-BRIEF.md` | ChatGPT |
+| `896da8d` | Wave 2.2 — MailerLite automation brief | `MAILERLITE-AUTOMATION-BRIEF.md` | ChatGPT |
+| `6525eb3` | — | `LANJUTKAN-DI-SINI.md` (handover refresh post-Wave 2.2) | ChatGPT |
+| `3df9ec6` | — | `MAILERLITE-AUTOMATION-BRIEF.md` (fix Decision H1 cosmetic) | ChatGPT |
+| `e6b0661` | Wave 3.2 — Threads pinned 8-post | `THREADS-PINNED-8-POST.md` | ChatGPT |
+| `82e0c34` | Wave 4-5 — Bundle (Notion + Sheets + Dry-run + Day-1 ritual) | `WAVE-4-5-BUNDLE-BRIEF.md` | ChatGPT |
+| `f3dc91d` | Wave 3.1 — Manifesto Carousel IG spec final | `MANIFESTO-CAROUSEL-IG.md` (expand) | ChatGPT |
+| `f2bc902` | Wave 3.1 — Cleanup meta noise | `MANIFESTO-CAROUSEL-IG.md` (fix) | Kiro |
 
-### Pattern baru — Kiro brainstorm + ChatGPT commit (credit conservation)
+### Pattern hybrid — Kiro brainstorm + ChatGPT commit (credit conservation)
 
 Sesi ini membuktikan pattern hybrid:
 - Brainstorm + decision lock + draft generation = **Kiro chat** (high-value, perlu reasoning depth)
 - Commit + push to GitHub = **ChatGPT** (low-value, mechanical write+push)
 
-**Saving:** ~4-6 Kiro tool call per file commit. Sesi ini hemat ~8-12 tool call (2 file via ChatGPT).
+**Track record sesi 28 Mei:** 6/6 ChatGPT clean commit + 1 ChatGPT partial (Wave 3.1 over-paste meta) + 2 ChatGPT correct halt (anti-improvisation guard bekerja) + 1 Kiro cleanup (`f2bc902`).
 
-**Kondisi pakai pattern ini:** kalau brief content tidak butuh char-level lock yang harus saya verify (BIO yang punya char count exact ±2 = wajib Kiro write+verify; spec brief yang descriptive = OK ChatGPT).
+**Saving:** ~4-6 Kiro tool call per ChatGPT-routed file. Sesi ini hemat ~20-30 tool call total (6 file via ChatGPT).
 
-**Anti-improvisation guard untuk ChatGPT prompt:**
-> "JANGAN re-generate, JANGAN polish, JANGAN tambah/hapus konten. Plain text commit only. Single markdown file. Don't generate scripts. Don't generate assets."
+**Anti-improvisation guard standard untuk ChatGPT prompt:**
+> "JANGAN re-generate, JANGAN polish, JANGAN tambah/hapus konten. Plain text commit only. Single markdown file."
 
-Tanpa guard ini, agent tipe ChatGPT/Codex cenderung auto-improvise (lesson learned: Codex deviation insiden saat Wordmark — generate 18 asset Python script ketimbang spec brief).
+**Lesson learned baru sesi 28 Mei (persisted as global learnings):**
 
-### Decision locks Wave 1-2 (semua sudah committed)
+1. **ZONA A/B delimiter di spec brief** (learning `991a1f2f-c8fd-4cc9-b323-c925526a823d`) — Pakai `═══ ZONA A: PASTE KE FILE (verbatim) ═══` vs `═══ ZONA B: HANYA UNTUK ANDA ═══`. Tanpa delimiter, executor cenderung paste verbatim termasuk meta (mis. VERIFICATION CHECKLIST). Insiden: Wave 3.1 spec final ke-paste 16 baris meta noise → cleanup commit follow-up.
+
+2. **Verification target dari tool call output, bukan estimasi mental** (learning `a4f858d5-9096-43a6-9128-b8df9acc009b`) — Verification numerik (line count, grep count) wajib derive dari output `wc`/`grep` aktual. Estimasi mental rentan off-by-N → menyebabkan executor halt commit padahal hasil aktual benar. Insiden: Wave 3.1 cleanup attempt #1 halt karena saya tulis "target H2 = 15" padahal aktual = 17.
+
+### Decision locks Wave 1-5 (semua sudah committed)
 
 **Wave 1.2 BIO** — Decision lock all-default + P1 (wordmark lowercase ≠ bio Title Case = by design)
 - Threads 141 / IG 129 / TT 45 / LH 165 / LinkedIn About 1272 char (semua exact match ±0)
@@ -69,17 +79,44 @@ Tanpa guard ini, agent tipe ChatGPT/Codex cenderung auto-improvise (lesson learn
 - A/B testing OFF Day 1 — evaluate Bulan 2 baseline dulu
 - **Free MailerLite Day 1**, upgrade Premium ~Rp 150K/bulan saat trigger M-MailerLite (≥800 subscriber / A/B need / Mgg 10 cohort pre-launch)
 
-### Wave 2 SPEC = 100% complete
+**Wave 3.2 THREADS PINNED** — Decision lock all-default
+- 8 post pinned thread: 1 hook intro + 7 prinsip manifesto + 1 closing dilebur ke prinsip 7
+- Char count: ≤500 char per post (Threads native limit)
+- Cross-format anchor untuk D1: 19:30 WIB Threads → 20:00 IG → 20:30 LinkedIn (stagger 30 menit per platform)
+- Soft CTA Post 8: invite reply → komen-as-currency seeding pattern
 
-Setelah Wave 2.2 commit, **Wave 2 (Lead Magnet Funnel) spec fully ready**. User punya brief lengkap untuk eksekusi Wave 2 standalone tanpa balik ke Kiro:
-- `LYNK-ID-SETUP-BRIEF.md` (270+ baris)
-- `MAILERLITE-AUTOMATION-BRIEF.md` (330+ baris)
+**Wave 3.1 MANIFESTO CAROUSEL IG** — Decision lock A1·B1·C1·D2·E2·F1·G1·H1·I2·J1·K1
+- Theme: Dark `#1A1A1A` background, text `#FAFAFA` flat (no Burnt Sand pada body/symbol — reserve untuk wordmark divider only)
+- Heading: Playfair Display Bold 90-110pt · Body: Inter Regular 26-30pt
+- Footer komposisi: embed `wordmark-primary-dark.svg` (~120px width, bottom-center) + text counter "X/7" Inter Regular 18pt
+- Filename 7 PNG: `manifesto-slide-1.png` … `manifesto-slide-7.png`
+- LinkedIn long-post (D1 stagger 20:30): inline section di MANIFESTO-CAROUSEL-IG.md, ~600 kata verbatim
+- Caption A/B test: OFF Day 1, single verbatim
+- Output mode: expand existing file (bukan file baru)
+- **Dependency:** Wave 1.1 wordmark deploy (`wordmark-primary-dark.svg` rendered di Canva) — pending render
 
-Total estimasi eksekusi Wave 2: ~3 jam (Lynk.id 60min + MailerLite 180min).
+**Wave 4-5 BUNDLE (Notion + Sheets + Dry-run + Day-1 ritual)** — Bundled di 1 brief
+- Wave 4.1 Notion: 3-database (Content / Funnel / KPI) — 90-120 min eksekusi
+- Wave 4.2 Sheets: 6-tab tracking — bridge ke Notion
+- Wave 5.1 Dry-run: end-to-end stranger flow test — 30 min
+- Wave 5.2 Day-1 ritual: launch sequence T-30min → T-0 → T+1h checkpoint
+
+### Wave 1-5 SPEC = 100% complete (Pra-Day-1 LOCKED)
+
+Setelah Wave 3.1 cleanup commit `f2bc902`, **Pra-Day-1 spec fully ready**. User punya brief lengkap untuk eksekusi all 5 Wave standalone tanpa balik ke Kiro:
+- `BIO-COPY-4-PLATFORM.md` (Wave 1.2)
+- `WORDMARK-SPEC-BRIEF.md` (Wave 1.1)
+- `LYNK-ID-SETUP-BRIEF.md` (Wave 2.1)
+- `MAILERLITE-AUTOMATION-BRIEF.md` (Wave 2.2)
+- `MANIFESTO-CAROUSEL-IG.md` (Wave 3.1)
+- `THREADS-PINNED-8-POST.md` (Wave 3.2)
+- `WAVE-4-5-BUNDLE-BRIEF.md` (Wave 4.1+4.2+5.1+5.2)
+
+**Total estimasi eksekusi 5 Wave:** ~10 jam manual work (sequential dengan dependency Wave 1.1 → 3.1).
 
 ---
 
-## PROGRESS PLAYBOOK — 22 CHAPTER + 4 WAVE BRIEF
+## PROGRESS PLAYBOOK — 22 CHAPTER + 7 WAVE BRIEF
 
 ### Layer A — Strategi & Dokumentasi (PRE-EXISTING)
 
@@ -95,12 +132,12 @@ Total estimasi eksekusi Wave 2: ~3 jam (Lynk.id 60min + MailerLite 180min).
 | 1.2 | Bio 4 platform | `BIO-COPY-4-PLATFORM.md` | ✓ Spec done (deploy pending) |
 | 2.1 | Lynk.id setup brief | `LYNK-ID-SETUP-BRIEF.md` | ✓ Spec done (deploy pending) |
 | 2.2 | MailerLite automation brief | `MAILERLITE-AUTOMATION-BRIEF.md` | ✓ Spec done (deploy pending) |
-| 3.1 | Manifesto Carousel IG render | — | ⚪ Spec pending |
-| 3.2 | Threads pinned 8-post | — | ⚪ Spec pending |
-| 4.1 | Notion 3-database | — | ⚪ Spec pending |
-| 4.2 | Sheets 6-tab tracking | — | ⚪ Spec pending |
-| 5.1 | Dry-run end-to-end | — | ⚪ Spec pending |
-| 5.2 | Day-1 final ritual | — | ⚪ Spec pending |
+| 3.1 | Manifesto Carousel IG (full spec final) | `MANIFESTO-CAROUSEL-IG.md` | ✓ Spec done (deploy pending Wave 1.1) |
+| 3.2 | Threads pinned 8-post | `THREADS-PINNED-8-POST.md` | ✓ Spec done (deploy pending) |
+| 4.1 | Notion 3-database | `WAVE-4-5-BUNDLE-BRIEF.md` (Wave 4.1) | ✓ Spec done (deploy pending) |
+| 4.2 | Sheets 6-tab tracking | `WAVE-4-5-BUNDLE-BRIEF.md` (Wave 4.2) | ✓ Spec done (deploy pending) |
+| 5.1 | Dry-run end-to-end | `WAVE-4-5-BUNDLE-BRIEF.md` (Wave 5.1) | ✓ Spec done (deploy pending Wave 1-4) |
+| 5.2 | Day-1 final ritual | `WAVE-4-5-BUNDLE-BRIEF.md` (Wave 5.2) | ✓ Spec done (deploy pending all previous) |
 
 ### Wave progress matrix
 
@@ -108,9 +145,9 @@ Total estimasi eksekusi Wave 2: ~3 jam (Lynk.id 60min + MailerLite 180min).
 |---|---|---|
 | **Wave 1 — Foundation Visual** | 100% (1.1 + 1.2 done) | 0% (manual deploy pending: render Canva + paste bio 4 platform) |
 | **Wave 2 — Lead Magnet Funnel** | 100% (2.1 + 2.2 done) | 0% (Lynk.id setup + MailerLite setup pending) |
-| **Wave 3 — Pinned Content** | 0% | 0% |
-| **Wave 4 — Tracking** | 0% | 0% |
-| **Wave 5 — Dry-Run** | 0% | 0% |
+| **Wave 3 — Pinned Content** | 100% (3.1 + 3.2 done) | 0% (carousel render dep Wave 1.1 + thread compose pending) |
+| **Wave 4 — Tracking** | 100% (4.1 + 4.2 done, bundled) | 0% (Notion DB + Sheets tab setup pending) |
+| **Wave 5 — Dry-Run** | 100% (5.1 + 5.2 done, bundled) | 0% (end-to-end test + Day-1 ritual rehearsal pending) |
 
 ---
 
@@ -146,56 +183,53 @@ Total estimasi eksekusi Wave 2: ~3 jam (Lynk.id 60min + MailerLite 180min).
 |---|---|
 | Wave 1.2 Bio 4 platform | ✓ Spec committed (`faa4683`) |
 | Wave 1.1 Wordmark 3-variant | ✓ Spec committed (`95f58ac`) |
-| Wave 2.1 Lynk.id 3-card aggregator | ✓ Spec committed (`90789438`) |
-| Wave 2.2 MailerLite 9-email + 3 landing | ✓ Spec committed (`896da8d3`) |
+| Wave 2.1 Lynk.id 3-card aggregator | ✓ Spec committed (`9078943`) |
+| Wave 2.2 MailerLite 9-email + 3 landing | ✓ Spec committed (`896da8d`) |
+| Wave 3.2 Threads pinned 8-post | ✓ Spec committed (`e6b0661`) |
+| Wave 4-5 Bundle (Notion + Sheets + Dry-run + Day-1 ritual) | ✓ Spec committed (`82e0c34`) |
+| Wave 3.1 Manifesto Carousel IG (spec final + cleanup) | ✓ Spec committed (`f3dc91d` + cleanup `f2bc902`) |
 
 ### PENDING manual execution oleh user:
 
 | Asset | Status | Tool tujuan | Estimasi |
 |---|---|---|---|
 | Bio paste deploy 4 platform (IG/TikTok/LinkedIn) | ⚪ Pending | Native masing-masing | 10 min |
-| Wordmark 3-variant render Canva | ⚪ Pending | Canva Pro | 60-90 min |
+| Wordmark 3-variant render Canva (MVP 5 file) | ⚪ Pending | Canva Pro | 60-90 min |
 | Lynk.id Free aggregator setup (3 card + branding) | ⚪ Pending | Lynk.id Free | 60 min |
 | MailerLite Free setup (3 landing + 9-email + 7 worksheet) | ⚪ Pending | MailerLite Free + Google Docs | 180 min |
-| **Total parallel execution Wave 1-2 deploy** | — | — | **~5 jam** |
-
-### Wave 3-5 spec brainstorm (sesi berikutnya):
-
-| Wave | Estimasi brainstorm | Dependencies |
-|---|---|---|
-| Wave 3.1 — Manifesto Carousel IG | 15 min | ⚠️ Wave 1.1 wordmark deploy untuk footer |
-| Wave 3.2 — Threads pinned 8-post | 10 min | None |
-| Wave 4.1 — Notion 3-database | 15 min | None |
-| Wave 4.2 — Sheets 6-tab | 10 min | None |
-| Wave 5.1 — Dry-run end-to-end | 10 min | Wave 1-4 deployed |
-| Wave 5.2 — Day-1 final ritual | 5 min | All previous |
-| **Total estimasi sisa brainstorm** | **~65 min** terdistribusi 1-2 sesi | — |
+| Threads pinned 8-post compose + schedule + pin | ⚪ Pending | Threads native | 20 min |
+| IG Manifesto Carousel render (7 slide PNG) — dep Wave 1.1 | ⚪ Pending | Canva Pro | 90-120 min |
+| Notion 3-database setup | ⚪ Pending | Notion | 90-120 min |
+| Sheets 6-tab tracking setup | ⚪ Pending | Google Sheets | 60 min |
+| Dry-run end-to-end stranger flow test | ⚪ Pending | Manual walkthrough | 30 min |
+| Day-1 ritual rehearsal | ⚪ Pending | Manual checklist | 30 min |
+| **Total sequential execution Wave 1-5 deploy** | — | — | **~10 jam** |
 
 ---
 
-## PROGRESS PERSENTASE TERBARU (per 28 Mei 2026)
+## PROGRESS PERSENTASE TERBARU (per 28 Mei 2026 — Pra-Day-1 spec 100%)
 
 ### Framing A — Menuju target 12 bulan (Rp 1M + 30K followers)
 
 | Komponen | Bobot | Selesai | Kontribusi |
 |---|---|---|---|
 | Strategi + 22-chapter dokumentasi | 25% | 100% | 25% |
-| Pre-launch setup (5/6 tool + 4/4 brief Wave 1-2 + foto + buku) | 10% | ~40% (foundational + Wave 1-2 spec done, deploy 0%) | 4% |
+| Pre-launch setup (5/6 tool + 7/7 brief Wave 1-5 + foto + buku) | 10% | ~50% (foundational + Wave 1-5 spec 100%, deploy 0%) | 5% |
 | Eksekusi Bulan 1-3 | 35% | 0% | 0% |
 | Eksekusi Bulan 4-6 | 20% | 0% | 0% |
 | Eksekusi Bulan 7-12 | 10% | 0% | 0% |
-| **TOTAL** | 100% | — | **~29%** |
+| **TOTAL** | 100% | — | **~30%** |
 
 ### Framing B — Menuju Day 1 readiness
 
 | Komponen | Bobot | Status | Kontribusi |
 |---|---|---|---|
 | Dokumentasi 22 chapter + Day-1 checklist | 50% | ✓ 100% | 50% |
-| Asset rendered + deployed (Wave 1-3) | 20% | 🟡 ~10% (foto + buku final, Wave 1-2 spec done tapi deploy 0%) | 2% |
+| Asset spec'd + deployed (Wave 1-5) | 20% | 🟡 ~60% (Wave 1-5 spec 100%, deploy 0%) | 12% |
 | Tooling (5 tool aktif + domain) | 15% | ✓ 5/6 = 83% | 12.5% |
 | Profile 4 platform live (handle saja) | 10% | ✓ 100% | 10% |
-| End-to-end test funnel (Wave 5) | 5% | ⚪ 0% | 0% |
-| **TOTAL** | 100% | — | **~77%** |
+| End-to-end test funnel (Wave 5) | 5% | ⚪ 0% (spec done, deploy pending) | 0% |
+| **TOTAL** | 100% | — | **~85%** |
 
 ### Framing C — Pra-Day-1 deployment progress (intra-Wave)
 
@@ -203,12 +237,12 @@ Total estimasi eksekusi Wave 2: ~3 jam (Lynk.id 60min + MailerLite 180min).
 |---|---|---|
 | Wave 1 (Foundation Visual) | 100% | 0% |
 | Wave 2 (Lead Magnet Funnel) | 100% | 0% |
-| Wave 3 (Pinned Content) | 0% | 0% |
-| Wave 4 (Tracking) | 0% | 0% |
-| Wave 5 (Dry-Run) | 0% | 0% |
-| **TOTAL deployment** | **40% spec / 0% deploy** | — |
+| Wave 3 (Pinned Content) | 100% | 0% |
+| Wave 4 (Tracking) | 100% | 0% |
+| Wave 5 (Dry-Run) | 100% | 0% |
+| **TOTAL deployment** | **100% spec / 0% deploy** | — |
 
-**Honest read:** Anda di **~29% menuju target 12 bulan** atau **~77% siap launch Day 1**. Bottleneck saat ini = **deploy 4 brief Wave 1-2 ke real platform** (~5 jam manual) + **brainstorm Wave 3-5** (~65 min).
+**Honest read:** Anda di **~30% menuju target 12 bulan** atau **~85% siap launch Day 1**. Bottleneck saat ini = **deploy 7 brief Wave 1-5 ke real platform** (~10 jam manual sequential, bukan parallel karena Wave 3.1 dep Wave 1.1 dan Wave 5 dep Wave 1-4). Pra-Day-1 spec phase = **CLOSED** ✅.
 
 ---
 
@@ -236,6 +270,15 @@ Total estimasi eksekusi Wave 2: ~3 jam (Lynk.id 60min + MailerLite 180min).
 | **A/B testing email** | **OFF Day 1 · evaluate Bulan 2 baseline dulu** |
 | **Personalisasi email** | **`{NAMA}` only · fallback "teman"** |
 | **Commit pattern hybrid** | **Brainstorm Kiro + commit ChatGPT (credit conservation)** |
+| **Spec brief delimiter** | **ZONA A (paste ke file) vs ZONA B (hanya untuk pembaca prompt)** |
+| **Verification target numerik** | **Wajib derive dari tool call output aktual, bukan estimasi mental** |
+| **Wave 3.1 IG carousel theme** | **Dark `#1A1A1A` · Playfair Display + Inter · footer wordmark embed + counter X/7** |
+| **Wave 3.1 carousel filename** | **`manifesto-slide-1.png` … `manifesto-slide-7.png`** |
+| **Wave 3.2 Threads pinned format** | **8 post (1 hook + 7 prinsip + 1 closing dilebur ke prinsip 7), ≤500 char per post** |
+| **Cross-format D1 stagger** | **19:30 WIB Threads → 20:00 IG carousel → 20:30 LinkedIn long-post** |
+| **LinkedIn long-post lokasi** | **Inline section di MANIFESTO-CAROUSEL-IG.md (~600 kata verbatim)** |
+| **Wave 4 tracking stack** | **Notion 3-database (Content/Funnel/KPI) + Sheets 6-tab bridge** |
+| **Wave 5 dry-run scope** | **Stranger flow end-to-end test (single user persona, 30 min)** |
 | Buku 3-tier | Rp 297K / Rp 547K / Rp 897K |
 | Buku launch | Mgg 7 Rab D47, 19:00 WIB |
 | Refund buku | 30-hari, no-question |
@@ -253,18 +296,29 @@ Total estimasi eksekusi Wave 2: ~3 jam (Lynk.id 60min + MailerLite 180min).
 
 ---
 
-## FLOW KERJA UPDATED (Sesi 28 Mei)
+## FLOW KERJA UPDATED (Sesi 28 Mei — pasca learning Wave 3.1)
 
 ```
 1. Brainstorm + decision lock di Kiro chat (high-value reasoning)
-2. Saya generate brief verbatim di chat output
-3. Pilih commit path:
-   a. Kiro commit (proven, untuk file yang butuh char-level lock)
+2. Saya generate brief verbatim di chat output dengan delimiter eksplisit:
+   ═══ ZONA A: PASTE KE FILE (verbatim) ═══     ← content yang masuk file
+   ═══ ZONA B: HANYA UNTUK ANDA ═══             ← meta/instruksi/checklist
+3. Verification target numerik (line count/grep count) WAJIB saya derive
+   dari tool call output aktual, bukan estimasi mental
+4. Pilih commit path:
+   a. Kiro commit (proven, untuk file yang butuh char-level lock atau
+      cleanup minor tanpa creative reasoning)
    b. ChatGPT commit (credit-saving, untuk spec brief descriptive)
-4. Kalau ChatGPT — paste content + commit prompt (sertakan anti-improvisation guard)
-5. Verify SHA + URL di GitHub
-6. Lanjut wave berikutnya
+5. Kalau ChatGPT — paste content + commit prompt (sertakan
+   anti-improvisation guard + ZONA A/B delimiter)
+6. Verify SHA + URL di GitHub
+7. Lanjut wave berikutnya
 ```
+
+**Anti-improvisation guard pattern:**
+> "JANGAN re-generate, JANGAN polish, JANGAN tambah/hapus konten. Plain text commit only. Single markdown file. Patuhi delimiter ZONA A/B — jangan paste content ZONA B ke file."
+
+**Track record halt-yang-correct:** Saat ChatGPT halt karena verification mismatch atau internal safety check, itu = guard bekerja sempurna. Bukan kegagalan ChatGPT. Switch ke Kiro cleanup kalau terus halt (diminishing returns).
 
 ---
 
@@ -281,12 +335,15 @@ Total estimasi eksekusi Wave 2: ~3 jam (Lynk.id 60min + MailerLite 180min).
 
 ### Tentang Repository
 - **Repo:** `arifbudiman575-ship-it/buku`
-- **Branch aktif:** `add-thread-arsi-7-hari` (HEAD `896da8d3`)
-- **File baru di sesi 28 Mei:**
-  - `BIO-COPY-4-PLATFORM.md` (Wave 1.2)
-  - `WORDMARK-SPEC-BRIEF.md` (Wave 1.1)
-  - `LYNK-ID-SETUP-BRIEF.md` (Wave 2.1)
-  - `MAILERLITE-AUTOMATION-BRIEF.md` (Wave 2.2)
+- **Branch aktif:** `add-thread-arsi-7-hari` (HEAD `f2bc902`)
+- **File baru/expand di sesi 28 Mei:**
+  - `BIO-COPY-4-PLATFORM.md` (Wave 1.2 — file baru)
+  - `WORDMARK-SPEC-BRIEF.md` (Wave 1.1 — file baru)
+  - `LYNK-ID-SETUP-BRIEF.md` (Wave 2.1 — file baru)
+  - `MAILERLITE-AUTOMATION-BRIEF.md` (Wave 2.2 — file baru)
+  - `THREADS-PINNED-8-POST.md` (Wave 3.2 — file baru)
+  - `WAVE-4-5-BUNDLE-BRIEF.md` (Wave 4.1+4.2+5.1+5.2 — file baru, bundled)
+  - `MANIFESTO-CAROUSEL-IG.md` (Wave 3.1 — file pre-existing, EXPANDED dengan spec final + LinkedIn long-post inline)
 - **File anchor playbook 22 chapter:** (lihat list lengkap di section bawah)
 
 ### Hierarki 5 Sumber (anchor di STRATEGI §0.1)
@@ -312,11 +369,14 @@ PART 2 — KONTEN HARIAN (7 ch): Voice, Hook Bank, Visual ID, Manifesto, Cross-P
 PART 3 — LAUNCH (4 ch): Lead Magnet, Buku Launch, Cohort Launch, Corporate Inbound
 PART 4 — OPERASIONAL (5 ch): Ops Setup, Tracking, Reply Farm, Anti-Burnout, Strategy Refresh
 PART 5 — DAY-1 SEQUENCING (1 ch): Day-1 Launch Checklist (Layer 23, 5-wave critical path)
-PART 6 — PRA-DAY-1 EXECUTION BRIEFS (4 ch baru sesi 28 Mei):
+PART 6 — PRA-DAY-1 EXECUTION BRIEFS (7 ch baru/expanded sesi 28 Mei, Wave 1-5 spec 100%):
   - Wave 1.1 Wordmark Spec Brief
   - Wave 1.2 Bio Copy 4 Platform
   - Wave 2.1 Lynk.id Setup Brief
   - Wave 2.2 MailerLite Automation Brief
+  - Wave 3.1 Manifesto Carousel IG (expanded existing file)
+  - Wave 3.2 Threads Pinned 8-post
+  - Wave 4-5 Bundle (Notion + Sheets + Dry-run + Day-1 ritual)
 ```
 
 ### File anchor playbook (UPDATED)
@@ -351,11 +411,14 @@ PART 6 — PRA-DAY-1 EXECUTION BRIEFS (4 ch baru sesi 28 Mei):
 **Day-1 sequencing:**
 - `DAY-1-LAUNCH-CHECKLIST.md` — 5-wave critical path Pra-Day-1
 
-**Pra-Day-1 execution briefs (NEW sesi 28 Mei):**
+**Pra-Day-1 execution briefs (NEW sesi 28 Mei — 7 brief, Pra-Day-1 spec 100%):**
 - `BIO-COPY-4-PLATFORM.md` — Wave 1.2 verbatim copy 4 platform
 - `WORDMARK-SPEC-BRIEF.md` — Wave 1.1 Canva execution guide 3-variant
 - `LYNK-ID-SETUP-BRIEF.md` — Wave 2.1 aggregator setup + 3 card spec
 - `MAILERLITE-AUTOMATION-BRIEF.md` — Wave 2.2 3-landing + 9-email + 7 worksheet spec
+- `MANIFESTO-CAROUSEL-IG.md` — Wave 3.1 IG carousel 7-slide spec final + LinkedIn long-post inline (expanded)
+- `THREADS-PINNED-8-POST.md` — Wave 3.2 Threads pinned manifesto 8-post
+- `WAVE-4-5-BUNDLE-BRIEF.md` — Wave 4.1+4.2+5.1+5.2 (Notion + Sheets + Dry-run + Day-1 ritual)
 
 **Master index:**
 - `PLAYBOOK-MASTER.md` — single navigation entry untuk seluruh 22 chapter + Day-1 + Wave briefs
@@ -366,43 +429,58 @@ PART 6 — PRA-DAY-1 EXECUTION BRIEFS (4 ch baru sesi 28 Mei):
 
 **Mulai sesi baru? Buka dulu file ini, lalu pilih path:**
 
-### Path A — Lanjut brainstorm Wave 3-5 spec (estimasi 65 min total)
+### Path A — Deploy mode (eksekusi manual ~10 jam)
 
 ```
-Lanjut dari handover 28 Mei. State branch add-thread-arsi-7-hari HEAD 896da8d3.
-Wave 1.2 Bio + Wave 1.1 Wordmark + Wave 2.1 Lynk.id + Wave 2.2 MailerLite =
-spec committed. Sekarang brainstorm Wave 3-5 spec berikutnya. Pilih:
-- Wave 3.2 Threads pinned (no dependency, paling cepat)
-- Wave 3.1 Manifesto Carousel IG (assume future Wave 1.1 deploy)
-- Wave 4.1 Notion 3-database
-- Wave 4.2 Sheets 6-tab
-Use pattern Kiro brainstorm + ChatGPT commit.
+Lanjut dari handover 28 Mei. State branch add-thread-arsi-7-hari HEAD f2bc902.
+Pra-Day-1 spec 100% locked (7 brief Wave 1-5). Saya sedang deploy Wave [X.X].
+Ada blocker di [step]. Bantu debug.
+
+Reference brief:
+- Wave 1.1 → WORDMARK-SPEC-BRIEF.md
+- Wave 1.2 → BIO-COPY-4-PLATFORM.md
+- Wave 2.1 → LYNK-ID-SETUP-BRIEF.md
+- Wave 2.2 → MAILERLITE-AUTOMATION-BRIEF.md
+- Wave 3.1 → MANIFESTO-CAROUSEL-IG.md (dep Wave 1.1)
+- Wave 3.2 → THREADS-PINNED-8-POST.md
+- Wave 4-5 → WAVE-4-5-BUNDLE-BRIEF.md
+
+Recommended deploy order: 1.1 → 1.2 → 2.1 → 2.2 → 3.2 → 3.1 → 4-5.
 ```
 
-### Path B — Audit deploy progress (kalau Anda sudah eksekusi parallel work)
+### Path B — Audit deploy progress (kalau sebagian deploy sudah selesai)
 
 ```
 Lanjut dari handover 28 Mei. Sudah deploy:
-- [ ] Bio paste 4 platform: [done/partial/no]
-- [ ] Wordmark Canva render: [done/partial/no, MVP 5 file?]
-- [ ] Lynk.id setup Free: [done/partial/no]
-- [ ] MailerLite setup Free + 3 landing + 9-email: [done/partial/no]
-- [ ] 7 worksheet Google Docs: [done/partial/no]
+- [ ] Wave 1.1 Wordmark Canva render (MVP 5 file): [done/partial/no]
+- [ ] Wave 1.2 Bio paste 4 platform: [done/partial/no]
+- [ ] Wave 2.1 Lynk.id setup Free: [done/partial/no]
+- [ ] Wave 2.2 MailerLite setup + 3 landing + 9-email + 7 worksheet: [done/partial/no]
+- [ ] Wave 3.1 IG Carousel render 7 slide PNG: [done/partial/no]
+- [ ] Wave 3.2 Threads pinned 8-post compose + schedule + pin: [done/partial/no]
+- [ ] Wave 4.1 Notion 3-database: [done/partial/no]
+- [ ] Wave 4.2 Sheets 6-tab: [done/partial/no]
+- [ ] Wave 5.1 Dry-run end-to-end: [done/partial/no]
+- [ ] Wave 5.2 Day-1 ritual rehearsal: [done/partial/no]
 
-Audit state real, update progress %, lanjut Wave 3-5 brainstorm dengan
-data eksekusi nyata.
+Audit state real, update progress %, identify next deploy blocker.
 ```
 
-### Path C — End-to-end dry run (kalau Wave 1-2 deploy 100%)
+### Path C — End-to-end dry run (kalau Wave 1-4 deploy 100%)
 
 ```
-Lanjut dari handover 28 Mei. Wave 1-2 deploy 100%. Saatnya Wave 5.1 Dry-Run.
+Lanjut dari handover 28 Mei. Wave 1-4 deploy 100%. Saatnya Wave 5.1 Dry-Run
+sesuai WAVE-4-5-BUNDLE-BRIEF.md Section 5.1.
+
 Test stranger flow end-to-end: visit Threads bio → klik link arifb.id →
-Lynk.id aggregator → klik Card 1 → MailerLite landing → submit form →
-Email 0 received → worksheet Hari 1 accessible → reply attribution →
-verify tag di MailerLite.
+Lynk.id aggregator → klik Card 1 (Lead Magnet) → MailerLite landing →
+submit form → Email 0 received → worksheet Hari 1 accessible →
+reply attribution test → verify tag di MailerLite + Notion + Sheets.
 
-Kalau ada gap di chain → fix → re-test.
+Cross-format test D1: Threads pinned thread accessible · IG carousel
+swipe-able 7 slide · LinkedIn long-post readable mobile/desktop.
+
+Kalau ada gap di chain → fix → re-test → tandai pass di Wave 5.2 ritual.
 ```
 
 ---
@@ -411,14 +489,16 @@ Kalau ada gap di chain → fix → re-test.
 
 1. **Domain gap masih valid** — `arifb.id/[path]` placeholder di 6 file. Action D-30 sebelum buku launch Mgg 7. Wave 2 Lynk.id pakai sub-domain Lynk.id native (`lynk.id/arifb.id`) jadi tidak ter-block.
 
-2. **Wave 1.1 wordmark = dependency Wave 3.1** — Manifesto Carousel butuh wordmark footer per slide. Defer Wave 3.1 spec atau spec dengan placeholder asumsi.
+2. **Wave 1.1 wordmark = dependency Wave 3.1 untuk EKSEKUSI** — Spec Wave 3.1 sudah final di MANIFESTO-CAROUSEL-IG.md (commit `f3dc91d` + cleanup `f2bc902`), tapi render carousel di Canva butuh `wordmark-primary-dark.svg` ready. Recommended deploy order: Wave 1.1 dulu, baru Wave 3.1.
 
-3. **Credit conservation pattern** — terbukti hemat ~4-6 tool call per file. Pertahankan untuk Wave 3-5 berikutnya.
+3. **Credit conservation pattern** — terbukti hemat ~20-30 tool call sesi ini (6 file via ChatGPT). Pertahankan untuk content brief; Kiro tetap untuk char-level lock + cleanup minor.
 
-4. **5-jam parallel execution Wave 1-2** — bisa Anda kerjakan tanpa Kiro. Setelah deploy, audit ulang state, baru lanjut Wave 3-5.
+4. **~10 jam sequential execution Wave 1-5** — bisa Anda kerjakan tanpa Kiro. Pra-Day-1 spec 100% locked, brainstorm phase = CLOSED. Setelah deploy partial/full, pakai Path B (audit) untuk update state sebelum Day 1.
 
-5. **Filter 4-Lapis re-read SACRED** — sebelum Day 1, ritual final di Wave 5.2.
+5. **Filter 4-Lapis re-read SACRED** — sebelum Day 1, ritual final di Wave 5.2 (per WAVE-4-5-BUNDLE-BRIEF.md).
+
+6. **ChatGPT halt = correct behavior** — kalau ChatGPT halt karena verification mismatch atau internal safety, jangan retry blindly. Switch ke Kiro cleanup kalau task minor + deterministic (precedent: cleanup commit `f2bc902` via Kiro setelah 2× ChatGPT halt).
 
 ---
 
-*Last updated: Sesi 28 Mei 2026 — 4 commits Wave 1-2 spec sprint (`faa4683` Bio · `95f58ac` Wordmark · `90789438` Lynk.id · `896da8d3` MailerLite). Wave 2 spec 100% complete. Pattern hybrid (Kiro brainstorm + ChatGPT commit) terbukti hemat ~8-12 tool call sesi ini. Total 6 wave spec + 5 jam deploy parallel work tersisa untuk Day 1 readiness.*
+*Last updated: Sesi 28 Mei 2026 — 10 commits Wave 1-5 spec final, Pra-Day-1 spec phase CLOSED 100%. HEAD `f2bc902`. Tinggal eksekusi manual ~10 jam (Wave 1.1 → 1.2 → 2.1 → 2.2 → 3.2 → 3.1 → 4-5).*
