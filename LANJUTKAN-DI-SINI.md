@@ -51,7 +51,7 @@
 
 **File terdampak:** `LAUNCH-PACK-BUKU.md` (`/buku`, `/refund`), `LAUNCH-PACK-COHORT.md` (`/cohort`), `CORPORATE-INBOUND-PLAYBOOK.md` (`/corporate`), `CROSS-PLATFORM-PLAYBOOK.md` (bio update), `LANDING-PAGE-7-DAY-CHALLENGE.md` (`/start`), `LANJUTKAN-DI-SINI.md` (1 ref).
 
-**User decision (sesi 27 Mei):** Opsi 2 — **defer fix sampai domain di-register**. Sekarang `arifb.id/[path]` di-treat sebagai placeholder dengan TODO note di Master Index.
+**User decision (sesi 27 Mei):** Opsi 2 — **defer fix sampai domain di-register** ("nanti aja belom tau"). Sekarang `arifb.id/[path]` di-treat sebagai placeholder dengan TODO note di Master Index.
 
 **Deadline fix:** D-30 sebelum Buku Launch Mgg 7. Tanpa domain real, sales page Cohort/Corporate susah credible.
 
@@ -62,6 +62,67 @@
 4. Re-test funnel end-to-end
 
 Detail lengkap di `PLAYBOOK-MASTER.md` section "KNOWN GAPS — TODO PRE-DAY-1".
+
+---
+
+## AUDIT STATUS REAL-WORLD — Pra-Day-1 (per 27 Mei 2026)
+
+**Confirmed by user (sesi 27 Mei 2026):**
+
+| Item | Status | Catatan |
+|---|---|---|
+| **Tools sign-up** | ✅ Aktif | MailerLite, Lynk.id, Canva Pro, Notion, Google Sheets — semua tool yang disebut di `OPERATIONAL-SETUP.md §1-2` sudah aktif |
+| **Akun sosmed `@arifb.id`** | ✅ Live | Threads + IG + TikTok + LinkedIn — handle username konsisten 4 platform |
+| **Foto profile B&W premium** | ✅ Ready | Foto session sudah dilakukan, asset siap pakai |
+| **Manuskrip THE AI ARCHITECT** | ✅ FINAL | Layout final, siap launch Mgg 7 — file di repo `THE AI ARCHITECT FINAL MANUSKRIP.pdf` (1.034 KB) = production-ready |
+| **Domain landing** | ⚪ Pending | Defer per Opsi 2 (Layer 23 future) |
+
+**Implikasi:** Pre-launch readiness lompat **dari ~50% ke ~78%** (Framing B). Bottleneck terbesar = **deployment asset di tool yang sudah aktif** (bukan setup tool itu sendiri lagi).
+
+### Status PERLU DIKONFIRMASI LANJUT — Asset Deployment di Tools Aktif
+
+Tools sudah aktif tidak otomatis berarti asset sudah loaded. Yang masih perlu konfirmasi:
+
+| Asset | Status | Tool tujuan |
+|---|---|---|
+| Manifesto Carousel 7-slide | ❓ Sudah render di Canva? | Canva Pro |
+| Wordmark "ARIF BUDIMAN / the ai architect" 3-variant | ❓ Sudah design? | Canva Pro |
+| Email 9-email sequence loaded + automation aktif | ❓ Sudah setup di MailerLite? | MailerLite |
+| Notion 3-database (Idea Bank + Komen-to-Content + Reference) | ❓ Sudah create dengan schema? | Notion |
+| Google Sheets 6-tab tracking | ❓ Sudah bikin? | Sheets |
+| Threads pinned 8-post manifesto | ❓ Sudah live di Threads? | Threads native |
+| Bio 4 platform updated ke versi final | ❓ Sudah? | Native masing-masing |
+| Lynk.id bio aggregator + sub-checkout buku | ❓ Sudah setup? | Lynk.id |
+
+**Estimasi sisa kerja Pra-Day-1: ~6-8 jam** (asset render + deploy ke tool aktif), TIDAK termasuk domain (deferred).
+
+---
+
+## PROGRESS PERSENTASE TERBARU
+
+### Framing A — Menuju target 12 bulan (30K + Rp 1M)
+
+| Komponen | Bobot | Selesai | Kontribusi |
+|---|---|---|---|
+| Strategi + 22 chapter dokumentasi | 25% | 100% | 25% |
+| Pre-launch setup | 10% | ~75% (tools+profile+foto+buku ✅, asset deploy partial, domain ⚪) | 7.5% |
+| Eksekusi Bulan 1-3 | 35% | 0% | 0% |
+| Eksekusi Bulan 4-6 | 20% | 0% | 0% |
+| Eksekusi Bulan 7-12 | 10% | 0% | 0% |
+| **TOTAL** | 100% | — | **~32%** |
+
+### Framing B — Menuju Day 1 readiness
+
+| Komponen | Bobot | Status | Kontribusi |
+|---|---|---|---|
+| Dokumentasi 22 chapter | 50% | ✅ 100% | 50% |
+| Asset rendered + deployed | 20% | 🟡 ~25% (foto + buku final, lainnya pending render/deploy) | 5% |
+| Tooling (6 item: 5 tool + domain) | 15% | ✅ 5/6 = 83% | 12.5% |
+| Profile 4 platform live | 10% | ✅ 100% | 10% |
+| End-to-end test funnel | 5% | ⚪ 0% | 0% |
+| **TOTAL** | 100% | — | **~78%** |
+
+**Honest read:** Anda di **~32% menuju target 12 bulan** atau **~78% siap launch Day 1**. Bottleneck terkecil sekarang. Tinggal asset deployment (~6-8 jam) + dry-run test funnel.
 
 ---
 
