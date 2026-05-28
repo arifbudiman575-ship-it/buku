@@ -18,7 +18,7 @@
 | E | Email branding | Light theme (#FAFAFA bg, #1A1A1A text, #1E3A5F link/CTA) · Inter font · text logo `@arifb.id` Day 1 → swap wordmark Light SVG saat Wave 1.1 deploy · footer simple |
 | F | Personalisasi | `{NAMA}` only (fallback "teman" kalau optional name kosong) |
 | G | A/B testing | OFF Day 1 — single-variant launch · evaluate Bulan 2 baseline open rate dulu |
-| H | Test plan | 7-step automated trigger test (~30min) — Section 9 |
+| H | Test plan | 6-test automated trigger plan (~30min) — Section 9 |
 | Tier | Free MailerLite Day 1, upgrade Premium ~Rp 150K/bulan saat trigger M-MailerLite (Section 11) |
 
 ---
