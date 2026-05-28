@@ -472,22 +472,6 @@ Quirk-quirk Wave 3.1 yang VBI §7 generic belum cover. Check sebelum publish.
 
 ---
 
-✓ VERIFICATION CHECKLIST POST-PASTE (untuk user check)
-
-- [ ] OP1 berhasil: Section "VISUAL DESIGN SPEC GLOBAL" tidak punya kata "REKOMENDASI" atau "alternatif" lagi (single locked value)
-- [ ] OP2 berhasil: 7 baris "**Footer:**" semua sudah pakai format E2 (wordmark + counter X/7)
-- [ ] OP3 berhasil: Section "DECISION LOCK SUMMARY" muncul setelah "VISUAL DESIGN SPEC GLOBAL"
-- [ ] OP4 berhasil: Section "ASSET MATRIX & FILENAME CONVENTION" muncul setelah "DETAIL LAYOUT per SLIDE"
-- [ ] OP5 berhasil: Section "CANVA EXECUTION GUIDE" muncul setelah ASSET MATRIX, ada Step 1-7
-- [ ] OP6 berhasil: Section "ANTI-PATTERN CHECK (CAROUSEL-SPECIFIC)" muncul, ada 8 baris tabel
-- [ ] OP7 berhasil: Sub-section "### LinkedIn Long-Post" muncul di akhir CROSS-FORMAT ADAPTASI, draft ~600 kata verbatim
-- [ ] OP8 berhasil: Section "STATUS & NEXT STEPS" muncul sebelum baris penutup; "Last updated:" ter-update
-- [ ] Word count check OP7 LinkedIn draft: 580-620 kata (target ~600)
-- [ ] No section duplikat (cek "Visual Design Spec" hanya 1 kali muncul)
-- [ ] File total estimate: ~10000-13000 bytes (existing 7235 + ~3000-5000 tambahan)
-
----
-
 *Dokumen ini disusun mengikuti Section 10 STRATEGI verbatim. Lulus filter 4-lapis. Visual design = derivative dari Voice Section 5 (formal, anti-hype, premium-feel).*
 
 *Last updated: Mei 2026 — Wave 3.1 Pinned Content (Sesi 28 Mei)*
