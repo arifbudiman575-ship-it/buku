@@ -7,281 +7,264 @@
 
 ## STATUS TERAKHIR
 
-**Tanggal:** 27 Mei 2026
+**Tanggal:** 28 Mei 2026 (Sesi 2 — Pra-Day-1 spec sprint)
 **Branch aktif:** `add-thread-arsi-7-hari`
-**PR aktif:** https://github.com/arifbudiman575-ship-it/buku/pull/12
-**Total commits di PR (terbaru):** 26 commits (Layer 11 → 12a/b → 13 → 14 → 15 → 16/16b/c/d/e → 16(1/3)(2/3)(3/3) → 17 → 18 → 19(1/3)(2/3)(3/3) → 20(1/4)(2/4)(3/4)(4/4) → 21(1/2)(2/2) → **22 Master Index closing**)
+**HEAD:** `896da8d3` (Wave 2.2 MailerLite Automation Brief)
+**Total commits di branch:** 30 commits (Layer 11 → 22 → 23 → **Wave 1.2 → 1.1 → 2.1 → 2.2** → handover ini)
 
 ---
 
-## PROGRESS PLAYBOOK — 12/12 + MASTER INDEX DONE (100%) ✓✓
+## 🆕 SESI 28 MEI 2026 — HIGHLIGHTS
+
+### 4 commits Wave 1-2 spec sprint
+
+| Commit | Wave | File | Path commit |
+|---|---|---|---|
+| `faa4683` | Wave 1.2 — Bio 4 platform | `BIO-COPY-4-PLATFORM.md` | Kiro |
+| `95f58ac` | Wave 1.1 — Wordmark spec brief | `WORDMARK-SPEC-BRIEF.md` | Kiro |
+| `90789438` | Wave 2.1 — Lynk.id setup brief | `LYNK-ID-SETUP-BRIEF.md` | ChatGPT |
+| `896da8d3` | Wave 2.2 — MailerLite automation brief | `MAILERLITE-AUTOMATION-BRIEF.md` | ChatGPT |
+
+### Pattern baru — Kiro brainstorm + ChatGPT commit (credit conservation)
+
+Sesi ini membuktikan pattern hybrid:
+- Brainstorm + decision lock + draft generation = **Kiro chat** (high-value, perlu reasoning depth)
+- Commit + push to GitHub = **ChatGPT** (low-value, mechanical write+push)
+
+**Saving:** ~4-6 Kiro tool call per file commit. Sesi ini hemat ~8-12 tool call (2 file via ChatGPT).
+
+**Kondisi pakai pattern ini:** kalau brief content tidak butuh char-level lock yang harus saya verify (BIO yang punya char count exact ±2 = wajib Kiro write+verify; spec brief yang descriptive = OK ChatGPT).
+
+**Anti-improvisation guard untuk ChatGPT prompt:**
+> "JANGAN re-generate, JANGAN polish, JANGAN tambah/hapus konten. Plain text commit only. Single markdown file. Don't generate scripts. Don't generate assets."
+
+Tanpa guard ini, agent tipe ChatGPT/Codex cenderung auto-improvise (lesson learned: Codex deviation insiden saat Wordmark — generate 18 asset Python script ketimbang spec brief).
+
+### Decision locks Wave 1-2 (semua sudah committed)
+
+**Wave 1.2 BIO** — Decision lock all-default + P1 (wordmark lowercase ≠ bio Title Case = by design)
+- Threads 141 / IG 129 / TT 45 / LH 165 / LinkedIn About 1272 char (semua exact match ±0)
+- Signature line: `building systems, not hype.` (ENG) + `framework bukan tutorial random.` (ID)
+- Audience istilah lock: "profesional & pemilik usaha"
+
+**Wave 1.1 WORDMARK** — Decision lock A1+B1+C1+D1+E1+F1+P1
+- Scope: Primary wordmark × 3 theme (Light/Dark/Mono) — defer Secondary `PROMIND/NEUROLINK` & Tertiary `@arifb.id`
+- Divider: 1px · 60% width · centered · accent color · 12-16px gap
+- Tracking: ARIF BUDIMAN +200 CSS · the ai architect +50 CSS
+- Mono variant: `#1A1A1A` flat · NO divider line
+- Delivery: 3 SVG master + 15 PNG = 18 file (atau MVP 5 file)
+
+**Wave 2.1 LYNK.ID** — Decision lock A1+B1+C1+D3b+E1+F1+G1+H1-with-trigger
+- 3 card visible Day 1: Lead Magnet → Buku waitlist → Cohort waitlist (Card 4 Corporate hidden, aktivasi Bulan 4+)
+- Tagline aggregator: `building systems, not hype.`
+- Lead magnet flow: redirect ke MailerLite native landing (Lynk.id no-code, no custom HTML)
+- Tipografi-driven thumbnail (no wordmark dependency)
+- **Free Day 1, upgrade Pro Yearly Rp 990K saat trigger M3** (Day 60 / Mgg 6 pre-buku-launch / 3+ conversion-week — whichever first)
+
+**Wave 2.2 MAILERLITE** — Decision lock A3+B1+C1+D1+E1+F1+G1+H1+Free
+- 7 worksheet: Google Docs share-only "Make a copy" template (MVP) — upgrade A1 PDF Canva saat trigger Bulan 2-3
+- 9-email automation: load verbatim dari `EMAIL-SEQUENCE-7-DAY-CHALLENGE.md` (Day 0 ~5min · Day 1-7 +24h · Day 8 +24h)
+- Manual attribution di Email 0 body 3-4 baris pre-signoff
+- Personalisasi `{NAMA}` only (fallback "teman")
+- A/B testing OFF Day 1 — evaluate Bulan 2 baseline dulu
+- **Free MailerLite Day 1**, upgrade Premium ~Rp 150K/bulan saat trigger M-MailerLite (≥800 subscriber / A/B need / Mgg 10 cohort pre-launch)
+
+### Wave 2 SPEC = 100% complete
+
+Setelah Wave 2.2 commit, **Wave 2 (Lead Magnet Funnel) spec fully ready**. User punya brief lengkap untuk eksekusi Wave 2 standalone tanpa balik ke Kiro:
+- `LYNK-ID-SETUP-BRIEF.md` (270+ baris)
+- `MAILERLITE-AUTOMATION-BRIEF.md` (330+ baris)
+
+Total estimasi eksekusi Wave 2: ~3 jam (Lynk.id 60min + MailerLite 180min).
+
+---
+
+## PROGRESS PLAYBOOK — 22 CHAPTER + 4 WAVE BRIEF
+
+### Layer A — Strategi & Dokumentasi (PRE-EXISTING)
 
 | # | Item | Layer | File | Status |
 |---|---|---|---|---|
-| 1 | Visual Brand Identity | 13 | `VISUAL-BRAND-IDENTITY.md` | ✓ Done |
-| 2 | Tracking Dashboard | 13 | `TRACKING-DASHBOARD.md` | ✓ Done |
-| 3 | Operational Setup Guide | 14 | `OPERATIONAL-SETUP.md` | ✓ Done |
-| 4 | Reply Farm Playbook | 15 | `REPLY-FARM-PLAYBOOK.md` | ✓ Done |
-| 5 | Calendar Bulan 2 + 4 long-thread | 16 | `CONTENT-CALENDAR-BULAN-2.md` + `THREADS-LONGFORM-ABC-TEST.md` | ✓ Done |
-| 6 | Buku Launch Pack | 16b/16c/16d/16e | `LAUNCH-PACK-BUKU.md` (4-part, ~2.160 lines) | ✓ Done |
-| 7 | Calendar Bulan 3 + 4 long-thread | 16(1/3)/16(2/3)/16(3/3) | `CONTENT-CALENDAR-BULAN-3.md` (3-part, ~1.420 lines) | ✓ Done |
-| 8 | Cohort Launch Pack | 20(1/4)/(2/4)/(3/4)/(4/4) | `LAUNCH-PACK-COHORT.md` (4-part, ~2.260 lines) | ✓ Done |
-| **9** | **Corporate Inbound Playbook** | **21(1/2)/(2/2)** | **`CORPORATE-INBOUND-PLAYBOOK.md` (2-part, ~1.330 lines)** | **✓ Done** |
-| 10 | Anti-Burnout Protocol | 17 | `ANTI-BURNOUT-PROTOCOL.md` (single, 831 lines) | ✓ Done |
-| 11 | Cross-Platform Playbook | 19(1/3)/(2/3)/(3/3) | `CROSS-PLATFORM-PLAYBOOK.md` (3-part, ~1.322 lines) | ✓ Done |
-| 12 | Strategy Refresh Protocol | 18 | `STRATEGY-REFRESH-PROTOCOL.md` (single, 937 lines) | ✓ Done |
-| + | Master Index | 22 | `PLAYBOOK-MASTER.md` (single, 412 lines) | ✓ Done |
+| 1-22 | 22-chapter playbook + Master Index + Day-1 Checklist | 11-23 | (full list di section bawah) | ✓ 100% |
+
+### Layer B — Pra-Day-1 Spec Briefs (BARU DI SESI 28 MEI)
+
+| Wave | Chapter | File | Status |
+|---|---|---|---|
+| 1.1 | Wordmark spec brief | `WORDMARK-SPEC-BRIEF.md` | ✓ Spec done (deploy pending) |
+| 1.2 | Bio 4 platform | `BIO-COPY-4-PLATFORM.md` | ✓ Spec done (deploy pending) |
+| 2.1 | Lynk.id setup brief | `LYNK-ID-SETUP-BRIEF.md` | ✓ Spec done (deploy pending) |
+| 2.2 | MailerLite automation brief | `MAILERLITE-AUTOMATION-BRIEF.md` | ✓ Spec done (deploy pending) |
+| 3.1 | Manifesto Carousel IG render | — | ⚪ Spec pending |
+| 3.2 | Threads pinned 8-post | — | ⚪ Spec pending |
+| 4.1 | Notion 3-database | — | ⚪ Spec pending |
+| 4.2 | Sheets 6-tab tracking | — | ⚪ Spec pending |
+| 5.1 | Dry-run end-to-end | — | ⚪ Spec pending |
+| 5.2 | Day-1 final ritual | — | ⚪ Spec pending |
+
+### Wave progress matrix
+
+| Wave | Spec status | Deploy status |
+|---|---|---|
+| **Wave 1 — Foundation Visual** | 100% (1.1 + 1.2 done) | 0% (manual deploy pending: render Canva + paste bio 4 platform) |
+| **Wave 2 — Lead Magnet Funnel** | 100% (2.1 + 2.2 done) | 0% (Lynk.id setup + MailerLite setup pending) |
+| **Wave 3 — Pinned Content** | 0% | 0% |
+| **Wave 4 — Tracking** | 0% | 0% |
+| **Wave 5 — Dry-Run** | 0% | 0% |
 
 ---
 
-## MILESTONE
+## ⚠️ KNOWN GAPS — DOMAIN INCONSISTENCY (Layer 23 NEXT, deferred — STILL VALID)
 
-- **Tier CRITICAL (Item 1-4):** ✓ SELESAI
-- **Tier HIGH — Buku Launch Mgg 7 (Item 5-6):** ✓ SELESAI
-- **Tier HIGH — Cohort Launch Mgg 11 (Item 7-8):** ✓ SELESAI
-- **Tier D — Compound (Item 9-12):** ✓ SELESAI (Item 9 ✓ · 10 ✓ · 11 ✓ · 12 ✓)
-- **Master Index (Layer 22):** ✓ SELESAI — `PLAYBOOK-MASTER.md` (412 lines)
-- **Sisa:** — TIDAK ADA item core. Playbook 22-chapter LENGKAP. Siap eksekusi Bulan 1.
-
----
-
-## ⚠️ KNOWN GAPS — DOMAIN INCONSISTENCY (Layer 23 NEXT, deferred)
-
-**Issue:** `arifb.id` = username sosmed, **bukan domain**. Tapi ~30 referensi `arifb.id/[path]` tersebar di 6 file sebagai placeholder landing page.
+**Issue:** `arifb.id` = username sosmed, **bukan domain**. Tapi ~30 referensi `arifb.id/[path]` tersebar di file sebagai placeholder landing page.
 
 **File terdampak:** `LAUNCH-PACK-BUKU.md` (`/buku`, `/refund`), `LAUNCH-PACK-COHORT.md` (`/cohort`), `CORPORATE-INBOUND-PLAYBOOK.md` (`/corporate`), `CROSS-PLATFORM-PLAYBOOK.md` (bio update), `LANDING-PAGE-7-DAY-CHALLENGE.md` (`/start`), `LANJUTKAN-DI-SINI.md` (1 ref).
 
-**User decision (sesi 27 Mei):** Opsi 2 — **defer fix sampai domain di-register** ("nanti aja belom tau"). Sekarang `arifb.id/[path]` di-treat sebagai placeholder dengan TODO note di Master Index.
+**User decision (sesi 27 Mei):** Opsi 2 — defer fix sampai domain di-register.
 
 **Deadline fix:** D-30 sebelum Buku Launch Mgg 7. Tanpa domain real, sales page Cohort/Corporate susah credible.
 
-**Action plan saat siap:**
-1. Pilih + register domain (rek: `arifbudiman.com` / `arifbudiman.id`)
-2. Bulk find-and-replace di 6 file → 1 commit "Layer 23: Fix domain placeholder"
-3. Update bio 4 platform link ke domain baru
-4. Re-test funnel end-to-end
-
-Detail lengkap di `PLAYBOOK-MASTER.md` section "KNOWN GAPS — TODO PRE-DAY-1".
+**Note Sesi 28 Mei:** Wave 2.1 Lynk.id pakai `lynk.id/arifb.id` (sub-domain Lynk.id native, bukan custom domain) jadi Wave 2 tidak ter-block oleh gap domain.
 
 ---
 
-## AUDIT STATUS REAL-WORLD — Pra-Day-1 (per 27 Mei 2026)
+## AUDIT STATUS REAL-WORLD — Pra-Day-1 (per 28 Mei 2026)
 
-**Confirmed by user (sesi 27 Mei 2026):**
+### Confirmed pre-existing (sesi 27 Mei):
 
-| Item | Status | Catatan |
+| Item | Status |
+|---|---|
+| Tools sign-up (MailerLite/Lynk.id/Canva Pro/Notion/Sheets) | ✓ 5/5 aktif |
+| Akun sosmed `@arifb.id` 4 platform | ✓ Live |
+| Foto profile B&W premium | ✓ Ready |
+| Manuskrip THE AI ARCHITECT | ✓ FINAL production-ready |
+| Domain landing | ⚪ Deferred (Layer 23 future) |
+
+### Spec briefs locked sesi 28 Mei:
+
+| Item | Status |
+|---|---|
+| Wave 1.2 Bio 4 platform | ✓ Spec committed (`faa4683`) |
+| Wave 1.1 Wordmark 3-variant | ✓ Spec committed (`95f58ac`) |
+| Wave 2.1 Lynk.id 3-card aggregator | ✓ Spec committed (`90789438`) |
+| Wave 2.2 MailerLite 9-email + 3 landing | ✓ Spec committed (`896da8d3`) |
+
+### PENDING manual execution oleh user:
+
+| Asset | Status | Tool tujuan | Estimasi |
+|---|---|---|---|
+| Bio paste deploy 4 platform (IG/TikTok/LinkedIn) | ⚪ Pending | Native masing-masing | 10 min |
+| Wordmark 3-variant render Canva | ⚪ Pending | Canva Pro | 60-90 min |
+| Lynk.id Free aggregator setup (3 card + branding) | ⚪ Pending | Lynk.id Free | 60 min |
+| MailerLite Free setup (3 landing + 9-email + 7 worksheet) | ⚪ Pending | MailerLite Free + Google Docs | 180 min |
+| **Total parallel execution Wave 1-2 deploy** | — | — | **~5 jam** |
+
+### Wave 3-5 spec brainstorm (sesi berikutnya):
+
+| Wave | Estimasi brainstorm | Dependencies |
 |---|---|---|
-| **Tools sign-up** | ✅ Aktif | MailerLite, Lynk.id, Canva Pro, Notion, Google Sheets — semua tool yang disebut di `OPERATIONAL-SETUP.md §1-2` sudah aktif |
-| **Akun sosmed `@arifb.id`** | ✅ Live | Threads + IG + TikTok + LinkedIn — handle username konsisten 4 platform |
-| **Foto profile B&W premium** | ✅ Ready | Foto session sudah dilakukan, asset siap pakai |
-| **Manuskrip THE AI ARCHITECT** | ✅ FINAL | Layout final, siap launch Mgg 7 — file di repo `THE AI ARCHITECT FINAL MANUSKRIP.pdf` (1.034 KB) = production-ready |
-| **Domain landing** | ⚪ Pending | Defer per Opsi 2 (Layer 23 future) |
-
-**Implikasi:** Pre-launch readiness lompat **dari ~50% ke ~78%** (Framing B). Bottleneck terbesar = **deployment asset di tool yang sudah aktif** (bukan setup tool itu sendiri lagi).
-
-### Status PERLU DIKONFIRMASI LANJUT — Asset Deployment di Tools Aktif
-
-Tools sudah aktif tidak otomatis berarti asset sudah loaded. Yang masih perlu konfirmasi:
-
-| Asset | Status | Tool tujuan |
-|---|---|---|
-| Manifesto Carousel 7-slide | ❓ Sudah render di Canva? | Canva Pro |
-| Wordmark "ARIF BUDIMAN / the ai architect" 3-variant | ❓ Sudah design? | Canva Pro |
-| Email 9-email sequence loaded + automation aktif | ❓ Sudah setup di MailerLite? | MailerLite |
-| Notion 3-database (Idea Bank + Komen-to-Content + Reference) | ❓ Sudah create dengan schema? | Notion |
-| Google Sheets 6-tab tracking | ❓ Sudah bikin? | Sheets |
-| Threads pinned 8-post manifesto | ❓ Sudah live di Threads? | Threads native |
-| Bio 4 platform updated ke versi final | ❓ Sudah? | Native masing-masing |
-| Lynk.id bio aggregator + sub-checkout buku | ❓ Sudah setup? | Lynk.id |
-
-**Estimasi sisa kerja Pra-Day-1: ~6-8 jam** (asset render + deploy ke tool aktif), TIDAK termasuk domain (deferred).
+| Wave 3.1 — Manifesto Carousel IG | 15 min | ⚠️ Wave 1.1 wordmark deploy untuk footer |
+| Wave 3.2 — Threads pinned 8-post | 10 min | None |
+| Wave 4.1 — Notion 3-database | 15 min | None |
+| Wave 4.2 — Sheets 6-tab | 10 min | None |
+| Wave 5.1 — Dry-run end-to-end | 10 min | Wave 1-4 deployed |
+| Wave 5.2 — Day-1 final ritual | 5 min | All previous |
+| **Total estimasi sisa brainstorm** | **~65 min** terdistribusi 1-2 sesi | — |
 
 ---
 
-## PROGRESS PERSENTASE TERBARU
+## PROGRESS PERSENTASE TERBARU (per 28 Mei 2026)
 
-### Framing A — Menuju target 12 bulan (30K + Rp 1M)
+### Framing A — Menuju target 12 bulan (Rp 1M + 30K followers)
 
 | Komponen | Bobot | Selesai | Kontribusi |
 |---|---|---|---|
-| Strategi + 22 chapter dokumentasi | 25% | 100% | 25% |
-| Pre-launch setup | 10% | ~75% (tools+profile+foto+buku ✅, asset deploy partial, domain ⚪) | 7.5% |
+| Strategi + 22-chapter dokumentasi | 25% | 100% | 25% |
+| Pre-launch setup (5/6 tool + 4/4 brief Wave 1-2 + foto + buku) | 10% | ~40% (foundational + Wave 1-2 spec done, deploy 0%) | 4% |
 | Eksekusi Bulan 1-3 | 35% | 0% | 0% |
 | Eksekusi Bulan 4-6 | 20% | 0% | 0% |
 | Eksekusi Bulan 7-12 | 10% | 0% | 0% |
-| **TOTAL** | 100% | — | **~32%** |
+| **TOTAL** | 100% | — | **~29%** |
 
 ### Framing B — Menuju Day 1 readiness
 
 | Komponen | Bobot | Status | Kontribusi |
 |---|---|---|---|
-| Dokumentasi 22 chapter | 50% | ✅ 100% | 50% |
-| Asset rendered + deployed | 20% | 🟡 ~25% (foto + buku final, lainnya pending render/deploy) | 5% |
-| Tooling (6 item: 5 tool + domain) | 15% | ✅ 5/6 = 83% | 12.5% |
-| Profile 4 platform live | 10% | ✅ 100% | 10% |
-| End-to-end test funnel | 5% | ⚪ 0% | 0% |
-| **TOTAL** | 100% | — | **~78%** |
+| Dokumentasi 22 chapter + Day-1 checklist | 50% | ✓ 100% | 50% |
+| Asset rendered + deployed (Wave 1-3) | 20% | 🟡 ~10% (foto + buku final, Wave 1-2 spec done tapi deploy 0%) | 2% |
+| Tooling (5 tool aktif + domain) | 15% | ✓ 5/6 = 83% | 12.5% |
+| Profile 4 platform live (handle saja) | 10% | ✓ 100% | 10% |
+| End-to-end test funnel (Wave 5) | 5% | ⚪ 0% | 0% |
+| **TOTAL** | 100% | — | **~77%** |
 
-**Honest read:** Anda di **~32% menuju target 12 bulan** atau **~78% siap launch Day 1**. Bottleneck terkecil sekarang. Tinggal asset deployment (~6-8 jam) + dry-run test funnel.
+### Framing C — Pra-Day-1 deployment progress (intra-Wave)
 
----
+| Wave | Spec progress | Deploy progress |
+|---|---|---|
+| Wave 1 (Foundation Visual) | 100% | 0% |
+| Wave 2 (Lead Magnet Funnel) | 100% | 0% |
+| Wave 3 (Pinned Content) | 0% | 0% |
+| Wave 4 (Tracking) | 0% | 0% |
+| Wave 5 (Dry-Run) | 0% | 0% |
+| **TOTAL deployment** | **40% spec / 0% deploy** | — |
 
-## RINGKASAN LAYER 21(1/2)–21(2/2) — ITEM 9 SELESAI (2 PART)
-
-**Layer 21 — Corporate Inbound Playbook (Bulan 4+ activation, Rp 25-100JT)**
-
-**Anchor:** STRATEGI §8 (value ladder top tier) + §17 (trust-first untuk B2B high-ticket) + LAUNCH-PACK-COHORT §11.10 (handoff cohort → corporate).
-
-File: `CORPORATE-INBOUND-PLAYBOOK.md` — 10 section, ~1.330 baris, 2-part commit.
-
-### Layer 21(1/2) — Foundation + SACRED + 1-Pager + Qualification + Diagnostic (563 baris)
-- **Sec 0** Ringkasan: 4-fase activation (Bulan 1-3 inactive → Bulan 4 SOFT → Bulan 5-6 FULL → Bulan 7+ STEADY) + 3-scope FINAL (Small Rp 25JT 5-15 / Medium Rp 50JT 15-30 / Large Rp 100JT 30-50) + cap simultaneous 3 + 4 path masuk + filosofi vs cohort + 11 dependency Mgg 13
-- **Sec 1** 7 SACRED CO-1 sd CO-7: no exact public price, discovery 30-min wajib, anti-scope-creep 3 revision rounds, NDA by request, decline beyond expertise, payment 50/50 SACRED, klien data privacy SACRED selamanya
-- **Sec 2** 1-Pager PDF asset: 5 distribution channel + 11-block A4 structure + visual design Light theme + arifb.id/corporate landing page + update protocol quarterly
-- **Sec 3** Qualification flow: end-to-end chart + 6-dimensi criteria + discovery 30-min agenda + scoping 60-min agenda gated + 8 edge cases + pipeline tracking 8-kolom + 5 conversion floor metrics
-- **Sec 4** Diagnostic format: 4-sesi standard (audit / 2× audit alur priority / synthesis) + deliverable PDF 30-50 halaman + handover sesi 60-min + Large variant 6-sesi + recording rules
-
-### Layer 21(2/2) — Pricing + Email + Contract + Delivery + Upsell (~770 baris)
-- **Sec 5** Pricing matrix detail: Small Rp 25JT (effort 20 jam + risk premium 25%) · Medium Rp 50JT (30 jam + complexity 30% + risk 25%) · Large Rp 100JT (55 jam + complexity 50% + risk 30%) + 5 premium add-ons (rush 20% / additional sesi / 30-day check-in / co-write policy / tools setup hands-on) + 6 item TIDAK termasuk
-- **Sec 6** 5 Email saved replies: CO-IN-1 inbound qualified initial / CO-IN-2 graceful decline borderline / CO-IN-3 redirect not-qualified / CO-IN-4 post-discovery scoping invitation / CO-IN-5 proposal sent with summary
-- **Sec 7** Contract template skeleton: 5 SACRED clauses (anti-scope-creep / payment 50/50 / IP ownership / NDA optional / termination) + 2 standard clauses (scope boundary / recording) + 3 edge case (force majeure / indemnification limited / jurisdiction Indonesia) + 9-step signing process 14-21 hari kerja
-- **Sec 8** Delivery operational: pre-kickoff SLA 7-hari + sesi 1-4 cadence 1/mgg default + inter-sesi support (Notion async + email + WA emergency only) + quality control SOP 7-step + handover ritual 60-min + post-engagement protocol D+30/D+12 mo + energy management cap 1 sesi/hari + max 3 simultaneous
-- **Sec 9** Post-engagement upsell path: annual retainer Rp 75-150JT/tahun + quarterly check-in Rp 15-25JT + cohort referral (priority slot, no fee) + speaker engagement Rp 25-50JT + phase 2 audit Rp 25-50JT + trigger upsell rules + anti-churn rule (defer ke 30-day check-in, NOT push di handover)
-
-### Stack relasi Item 6/7/8/9 (full launch ops triad)
-- Item 6 (Buku Launch) = Mgg 7 low-mid ticket Rp 297-897K, 30-hari refund, transformasi-focused
-- Item 7 (Calendar Bulan 3) = run-of-show D71-D77 cohort launch week
-- Item 8 (Cohort Launch) = Mgg 11 high ticket Rp 4,9-7,5JT, 7-hari post-sesi-1 refund
-- **Item 9 (Corporate Inbound) = Bulan 4+ premium ticket Rp 25-100JT, no refund post-kickoff, scope-bounded contract**
-
-4 item bekerja sebagai **full-funnel launch ops** dari low-ticket buku → mid-ticket cohort → high-ticket corporate, dengan SACRED rules berbeda yang mencerminkan stake + audience expectation per tier.
+**Honest read:** Anda di **~29% menuju target 12 bulan** atau **~77% siap launch Day 1**. Bottleneck saat ini = **deploy 4 brief Wave 1-2 ke real platform** (~5 jam manual) + **brainstorm Wave 3-5** (~65 min).
 
 ---
 
-## ITEM TERAKHIR — MASTER INDEX
-
-**Master Index — `PLAYBOOK-MASTER.md`** (single-commit, ~400 baris target)
-
-Final closing dokumen — single navigation entry untuk seluruh playbook 22 chapter.
-
-Outline:
-- TOC 22 chapter dengan anchor link ke setiap file
-- Reading order rekomendasi 4 path:
-  - **Start Here** path (3 file): Master Index, Lanjutkan Di Sini, Ringkasan Sesi
-  - **Strategi** path (4 file): Master 18 section + BJM + Kompetitor + Filter
-  - **Launch** path (4 file): Lead Magnet + Buku + Cohort + Corporate
-  - **Operasional** path (5 file): Ops + Tracking + Reply Farm + Anti-Burnout + Strategy Refresh
-  - **Konten harian** path (7 file): Voice + Hook Bank + Visual ID + Manifesto + Cross-Platform + Calendar 1-3 + Long-thread Library + Pillar 3
-- Cross-reference matrix (file ↔ STRATEGI section anchor)
-- Stats final: 12/12 done, ~14.000 baris total, 22 chapter
-- Recommended reading time per file
-- Quick decision lookup (ke file mana untuk pertanyaan apa)
-
-**Layer 20 — Cohort Launch Pack (master operasional Cohort A.R.S.I. Mgg 11)**
-
-**Anchor:** STRATEGI §8 (value ladder Rp 4,9-7,5JT) + §11 (roadmap Mgg 11) + §17 (trust-first untuk high-ticket).
-
-File: `LAUNCH-PACK-COHORT.md` — 11 section, ~2.300 baris, 4-part commit (mirror Buku Launch Pack 4-part pattern).
-
-### Layer 20(1/4) — Foundation + SACRED + Sales Page (543 baris)
-- **Section 0** Ringkasan: 9 tanggal kunci D64 sd Mgg 23 + 2-tier final ARSITEK Rp 4,9JT/PLUS Rp 7,5JT cap 20 + 4 platform sinkron D71 + target Mgg 11 (3% conversion + 17-23 peserta + refund <=10%) + 9 dependency D70 freeze + filosofi cohort vs buku launch + bridge pembaca buku 60% asumsi
-- **Section 1** 7 aturan SACRED CL-1 sd CL-7: tier curriculum frozen, slot transparent no inflation, anti-discount selamanya, refund 7-hari post-sesi-1, WA advisor mode untuk DM ragu, peserta self-select tier, alumni privacy SACRED
-- **Section 2** Sales Page 8-section copy (~1.700-2.300 kata): HERO + PROBLEM + SOLUTION + UNTUK SIAPA BUKAN + UNTUK SIAPA + decision tree pembaca buku + 2-TIER side-by-side + REFUND+FAQ inline + FINAL CTA + author signature personal
-
-### Layer 20(2/4) — Onboarding + Refund + Email 8-Email (759 baris)
-- **Section 3** Onboarding Flow: end-to-end T+0 Lynk.id sd sesi 1 dengan SLA 4-jam Notion access + 5 email template + 3 WA template + 7 edge cases + customer service capacity D71-D77/D78-D84/Mgg 13+
-- **Section 4** Refund System: policy statement 7-hari post-sesi-1 + form fields (alasan OPTIONAL SACRED) + auto-reply + SOP processor 24-jam + email konfirmasi + 7 edge cases + tracking + 4 tier decision rule (GREEN <=5% / YELLOW 5-10% / ORANGE >10% / RED >20%)
-- **Section 5** Email Launch Sequence 8-email full draft: pre-launch tease D64 + waitlist open D67 + launch day D71 + filter BUKAN D72 + bridge buku D73 + tier comparison D74 + slot real-time D75 + final 24-jam D77 + send logistics + suppression rule + test plan D70
-
-### Layer 20(3/4) — Cross-Platform + FAQ + Testimonial (493 baris)
-- **Section 6** Cross-Platform Sync D71-D77: Threads run-of-show D71 (7-8 post launch week mode CP-2 override) + IG stories 50-60 + carousel D71 + TikTok 3 video di cap CP-6 + LinkedIn essay D71 750 kata + short post D74 + quote post D77 + cross-platform timing matrix lengkap + quality check 5-pertanyaan
-- **Section 7** Cohort FAQ Master 10 Q&A: jam komitmen 4-6/mgg + schedule conflict cap absen 3/16 + tools no wajib subscription + prerequisite no coding + refund detail + buku vs cohort decision tree + alumni access + industry regulated case-by-case + cohort 1 vs 2 + path ke corporate audit. Distribusi ke 4 kanal (sales/email/WA/advisor) + FAQ 8/9/10 SACRED advisor-only
-- **Section 8** Testimonial Collection Cohort: filosofi vs buku (verified outcome wajib) + harvest window Mgg 23/27/32 + 5-pertanyaan email survey + 30-min interview optional + composite anonymization rule + display cap 3 sales page + tracking + compensation policy SACRED no-discount/no-affiliate + 5 edge cases
-
-### Layer 20(4/4) — Anti-FOMO + Pre-Launch + Post-Launch + closing
-- **Section 9** Anti-FOMO Toolkit: filosofi (lebih ketat dari buku) + 5 saved replies CO-AF-1 sd CO-AF-5 (tier ragu / slot khawatir / push diskon / solo bisnis kecil / approval direksi) + WA advisor mode escalation 20 slot D71-D75 + slot transparent rules CL-2 + public/private communication rules + anti-FOMO decision tree
-- **Section 10** Pre-Launch Checklist D-7: D64 H-7 first mention + D65 H-6 + D66 H-5 asset audit + D67 H-4 waitlist open + D68 H-3 operational + D69 H-2 asset lock 18:00 SACRED freeze + D70 H-1 pre-launch Q&A + rollback plan 6 blocker scenario
-- **Section 11** Post-Launch Operations: D77 close night 21:00-23:59 + D78-D84 onboarding window + Mgg 13 sesi 1 + Mgg 14-15 1-on-1 PLUS audit + Mgg 14-22 cohort delivery 8 minggu + Mgg 23 cohort selesai + Mgg 27 testimonial harvest + Mgg 28+ cohort 2 prep + energy management plan launch sd Mgg 23 + Bulan 4+ handoff
-
-### Stack relasi Item 6/7/8 (Buku + Calendar Bulan 3 + Cohort)
-- Item 6 (Buku Launch) = master ops Mgg 7 lower-stakes Rp 297-897K, 30-hari refund, transformasi-focused
-- Item 7 (Calendar Bulan 3) = run-of-show D71-D77 cohort launch week
-- Item 8 (Cohort Launch Pack) = master ops Mgg 11 high-ticket Rp 4,9-7,5JT, 7-hari post-sesi-1 refund, concrete-format-focused
-
----
-
-## KEPUTUSAN KUNCI YANG SUDAH FIX
+## KEPUTUSAN KUNCI YANG SUDAH FIX (UPDATED — 28 MEI)
 
 | Keputusan | Pilihan |
 |---|---|
 | Target revenue 12 bulan | Rp 1 miliar |
-| Mode launch | Staged Launch (buku Mgg 7, cohort Mgg 11, corporate Bulan 4+) |
+| Mode launch | Staged (buku Mgg 7, cohort Mgg 11, corporate Bulan 4+) |
 | Payment | Lynk.id + WA |
-| Email tool | MailerLite (free <1K subs) |
-| Visual theme | Light (landing/email/sales) + Dark (IG/Reels/TikTok) |
-| Accent color | Deep Navy #1E3A5F (light) + Burnt Sand #D4A574 (dark) |
+| Email tool | MailerLite (Free Day 1 → Premium saat trigger) |
+| Visual theme | Light + Dark per use case |
+| Accent color | Deep Navy `#1E3A5F` (light) + Burnt Sand `#D4A574` (dark) |
 | Font | Playfair Display (heading) + Inter (body) |
-| Wordmark primary | "ARIF BUDIMAN / the ai architect" |
-| Scheduler | Native Bulan 1-2, Metricool Bulan 3+ |
-| Idea bank | Notion (3 database) |
-| Platform focus | Threads PRIMARY + IG + TikTok + LinkedIn — detail di CROSS-PLATFORM-PLAYBOOK.md |
-| Reply commitment | 10 komen pertama, 30-min target, 60-min red line · Mgg 11 cohort = 15-min target |
-| Commit flow | Brainstorm di chat → fix → Kiro commit langsung |
+| Wordmark primary | "ARIF BUDIMAN / the ai architect" lowercase |
+| Bio signature line | `building systems, not hype.` (ENG) + `framework bukan tutorial random.` (ID) |
+| Audience istilah | "profesional & pemilik usaha" |
+| Brand consistency P1 | Wordmark lowercase ≠ Bio Title Case = feature, not bug |
+| **Lynk.id tier** | **Free Day 1 · upgrade Pro Yearly Rp 990K saat trigger M3** |
+| **MailerLite tier** | **Free Day 1 · upgrade Premium ~Rp 150K/bulan saat trigger M-MailerLite** |
+| **Worksheet delivery** | **A3 Google Docs share-only Day 1 · upgrade A1 PDF Canva Bulan 2-3** |
+| **Manual attribution (M1)** | **Inject Email 0 body 3-4 baris pre-signoff** |
+| **Lynk.id Card 4 Corporate** | **Hidden Day 1 · aktivasi Bulan 4+** |
+| **Lynk.id card order** | **Funnel logic: Lead Magnet → Buku → Cohort (TOFU → MOFU → BOFU)** |
+| **A/B testing email** | **OFF Day 1 · evaluate Bulan 2 baseline dulu** |
+| **Personalisasi email** | **`{NAMA}` only · fallback "teman"** |
+| **Commit pattern hybrid** | **Brainstorm Kiro + commit ChatGPT (credit conservation)** |
 | Buku 3-tier | Rp 297K / Rp 547K / Rp 897K |
 | Buku launch | Mgg 7 Rab D47, 19:00 WIB |
 | Refund buku | 30-hari, no-question |
-| Cohort 2-tier | ARSITEK Rp 4,9JT (group only) · ARSITEK PLUS Rp 7,5JT (+ 1-on-1 + tools setup) |
+| Cohort 2-tier | ARSITEK Rp 4,9JT · ARSITEK PLUS Rp 7,5JT |
 | Cohort format | 8 minggu, 16 sesi, cap 20 peserta |
 | Cohort 1 schedule | Mgg 16-23 (Bulan 4-5) |
 | Cohort waitlist | D64 → launch D71 → close D77 23:59 |
 | Cohort refund | 7-hari post-sesi-1, no-question |
-| Anti-FOMO | Buku TETAP 90 hari · Cohort ANTI-DISCOUNT selamanya (bonus stacking max 2 layer 72-jam) |
-| Domain landing | `arifb.id/buku` · `arifb.id/cohort` |
-| Bulk discount buku | T1 10+ unit = 15%, T2/T3 5+ unit = 10% |
-| Testimonial compensation | TIDAK ADA (volunteer murni — buku + cohort) |
-| Cascade arah cross-platform | Threads = home base. One-way: Threads → IG/TikTok/LinkedIn |
-| TikTok cap | 3 video/minggu MAX |
-| Long-thread Kamis | SACRED parent untuk cascade |
-| **Cohort 1-on-1 PLUS slot (Layer 20)** | **Mgg 14-15 = 8 slot 90-min audit + tools setup follow-up 60-min terpisah** |
-| **Cohort 1 → Cohort 2 cycle (Layer 20)** | **Cohort 2 launch target Mgg 28-30 (Bulan 7) — 12-14 minggu per cohort batch** |
-| **WA advisor mode cap (Layer 20)** | **20 slot 30-min D71-D75 (4 slot/hari × 5 hari) — defer ke email kalau full** |
-| **Cohort partial refund (Layer 20)** | **PLUS → ARSITEK conversion OK Hari 1-3 post-sesi-1 (refund selisih Rp 2,6JT). Hari 4+ TIDAK** |
-| **Corporate audit 3-scope (Layer 21)** | **Small Rp 25JT (5-15 orang) / Medium Rp 50JT (15-30) / Large Rp 100JT (30-50, 6-sesi variant)** |
-| **Corporate pricing publik vs private (CO-1)** | **Range publik Rp 25-100JT · Exact quote post-discovery call 30-min only** |
-| **Corporate diagnostic format** | **4 sesi 90-min standard (Small/Medium) · 6 sesi (Large) + 1 deliverable PDF + 1 handover** |
-| **Corporate IP ownership** | **Framework methodology = milik Anda (SACRED) · Implementation document custom = milik klien** |
-| **Corporate payment 50/50 SACRED (CO-6)** | **50% upfront kickoff + 50% post-handover. Tidak negosiasi 30/70 atau pure post-pay** |
-| **Corporate NDA (CO-4)** | **By request only, bukan auto-offer. Standard mutual NDA 24 bulan post-engagement** |
-| **Corporate cap simultaneous (CO-3 §8.7)** | **Max 3 engagement aktif (Bulan 4-5 = 2 max build capacity, Bulan 6+ = 3 max steady)** |
-| **Corporate refund (CO-6 + Sec 7.1)** | **NO refund post-kickoff (scope-bounded contract). Pre-kickoff = full refund minus Rp 5JT processing fee** |
-| **Corporate activation timeline (Layer 21 §0.1)** | **Bulan 1-3 inactive · Bulan 4 SOFT · Bulan 5-6 FULL · Bulan 7+ STEADY (target 2-3 engagement/bulan)** |
+| Anti-FOMO buku | TETAP 90 hari · Cohort ANTI-DISCOUNT selamanya |
+| Domain landing | `arifb.id/buku` · `arifb.id/cohort` (deferred) |
+| Corporate audit 3-scope | Small Rp 25JT / Medium Rp 50JT / Large Rp 100JT |
+| Corporate payment | 50/50 SACRED |
+| Corporate cap simultaneous | Max 3 engagement |
+| Corporate activation | Bulan 1-3 inactive · Bulan 4 SOFT · Bulan 5-6 FULL · Bulan 7+ STEADY |
 
 ---
 
-## FLOW KERJA YANG DISEPAKATI
+## FLOW KERJA UPDATED (Sesi 28 Mei)
 
 ```
-1. Brainstorm item di chat
-2. Anda feedback "fix" atau "tweak X"
-3. Kiro commit langsung ke branch add-thread-arsi-7-hari
-4. PR #12 auto-update
-5. Lanjut item berikutnya
+1. Brainstorm + decision lock di Kiro chat (high-value reasoning)
+2. Saya generate brief verbatim di chat output
+3. Pilih commit path:
+   a. Kiro commit (proven, untuk file yang butuh char-level lock)
+   b. ChatGPT commit (credit-saving, untuk spec brief descriptive)
+4. Kalau ChatGPT — paste content + commit prompt (sertakan anti-improvisation guard)
+5. Verify SHA + URL di GitHub
+6. Lanjut wave berikutnya
 ```
-
-**Multi-part commit pattern:**
-- Item 6 = 4-part (Layer 16b/c/d/e)
-- Item 7 = 3-part (Layer 16(1-3))
-- Item 10 = single-commit (Layer 17)
-- Item 12 = single-commit (Layer 18)
-- Item 11 = 3-part (Layer 19(1-3))
-- Item 8 = 4-part (Layer 20(1-4))
-- **Item 9 = 2-part (Layer 21(1-2))** — analog dengan dokumen ~1.300 baris
-
-**Pattern decision per item:**
-- Single-commit: dokumen ~800-1000 baris, scope tight (Item 10/12)
-- 2-part: dokumen ~1.300 baris (Item 9)
-- 3-part: dokumen ~1.300-1.500 baris, multi-section per platform (Item 7/11)
-- 4-part: dokumen ~2.000-2.300 baris, multi-platform launch operasional (Item 6/8)
 
 ---
 
@@ -289,83 +272,153 @@ File: `LAUNCH-PACK-COHORT.md` — 11 section, ~2.300 baris, 4-part commit (mirro
 
 ### Tentang Pak Arif / @arifb.id
 - Founder PROMIND-NEUROLINK
-- Penulis buku THE AI ARCHITECT
+- Penulis buku THE AI ARCHITECT (manuskrip final, siap launch Mgg 7)
 - Target: kategori "AI Architect" Indonesia = Arif Budiman
 - Voice: formal "Anda", anti-hype, tenang, premium decision-maker
-- ICP: founder, C-level, manajer senior, decision-maker
+- ICP: profesional & pemilik usaha (founder, C-level, manajer senior, decision-maker)
 - Produk: Buku 3-tier + Cohort A.R.S.I. 2-tier + Corporate audit Rp 25-100JT (Bulan 4+)
+- Lynk.id: `https://lynk.id/arifb.id` (handle reserved, KYC ✓)
 
 ### Tentang Repository
 - **Repo:** `arifbudiman575-ship-it/buku`
-- **File penting (UPDATED Layer 21):**
-  - `STRATEGI-PERSONAL-BRANDING.md` — 18 section master strategi
-  - `BRAND-JOURNEY-MAP.md` — roadmap 4 quarter
-  - `CONTENT-CALENDAR-BULAN-{1,2,3}.md` — 86 post + long-thread
-  - `THREADS-LONGFORM-ABC-TEST.md` — 8 long-thread Bulan 1-2
-  - `EMAIL-SEQUENCE-7-DAY-CHALLENGE.md` — 9 email lead magnet
-  - `LANDING-PAGE-7-DAY-CHALLENGE.md` — landing page copy
-  - `MANIFESTO-CAROUSEL-IG.md` — carousel Day 1
-  - `PILLAR-3-STUDI-CASE-PAK-BI.md` — 8 post filosofi
-  - `LAUNCH-PACK-BUKU.md` — Master ops buku launch (~2.160 lines)
-  - `LAUNCH-PACK-COHORT.md` — Master ops cohort launch (Layer 20, ~2.260 lines)
-  - **`CORPORATE-INBOUND-PLAYBOOK.md`** — Master ops corporate audit Bulan 4+ (NEW Layer 21, ~1.330 lines)
-  - `VISUAL-BRAND-IDENTITY.md` — visual standard
-  - `TRACKING-DASHBOARD.md` — KPI tracking
-  - `OPERATIONAL-SETUP.md` — tooling stack
-  - `REPLY-FARM-PLAYBOOK.md` — komen-as-currency
-  - `ANTI-BURNOUT-PROTOCOL.md` — sustainability layer (Layer 17, 831 lines)
-  - `CROSS-PLATFORM-PLAYBOOK.md` — per-platform tactics 4 platform (Layer 19, 1.322 lines)
-  - `STRATEGY-REFRESH-PROTOCOL.md` — quarterly recalibration (Layer 18, 937 lines)
-  - `analisa_kompetitor.md` — 31 kompetitor T1/T2/T3
-  - `RINGKASAN-SESI.md` — kronologi sesi sebelumnya
+- **Branch aktif:** `add-thread-arsi-7-hari` (HEAD `896da8d3`)
+- **File baru di sesi 28 Mei:**
+  - `BIO-COPY-4-PLATFORM.md` (Wave 1.2)
+  - `WORDMARK-SPEC-BRIEF.md` (Wave 1.1)
+  - `LYNK-ID-SETUP-BRIEF.md` (Wave 2.1)
+  - `MAILERLITE-AUTOMATION-BRIEF.md` (Wave 2.2)
+- **File anchor playbook 22 chapter:** (lihat list lengkap di section bawah)
 
-### Tentang Playbook Structure (22 Chapter)
+### Hierarki 5 Sumber (anchor di STRATEGI §0.1)
+1. 🔒 Buku THE AI ARCHITECT (Arif) — Core IP sacred
+2. Rama / @productivityboi — Methodology pondasi (V/K/P + TOFU/MOFU/BOFU + Value Ladder)
+3. Theoderic — Purpose × strength × authenticity, dynamic persona
+4. Pak Subyakto Priyojudanto (Pak Bi) — 50-tahun filosofi (network effect, storyting paradoks, brand intersubjektif)
+5. Caleb Ralston — Brand journey 4Q + association map
+
+### Filter 4-Lapis (anchor di STRATEGI §0.5) — Quality gate setiap konten
+1. **Buku** — trace ke konsep di THE AI ARCHITECT (NEURO-ARC / A.R.S.I.)
+2. **Asosiasi** — perkuat asosiasi "AI Architect = building systems, not hype"
+3. **Voice** — formal "Anda", anti-hype, no emoji berlebihan, no CAPS clickbait
+4. **Purpose** — reader habis baca → action ke salah satu funnel stage
+
+4/4 lolos = publish. Salah satu fail = revisi atau buang.
+
+### Tentang Playbook Structure (22 Chapter + 4 Pra-Day-1 Brief)
 ```
-PART 0 — START HERE (3 ch): Master Index (NEXT), Lanjutkan Di Sini, Ringkasan Sesi
+PART 0 — START HERE (3 ch): Master Index, Lanjutkan Di Sini, Ringkasan Sesi
 PART 1 — STRATEGI (4 ch): Master 18 Section, BJM, Kompetitor, Filter 4-Lapis
-PART 2 — KONTEN HARIAN (7 ch): Voice, Hook Bank, Visual ID ✓, Manifesto ✓, Cross-Platform ✓, Calendar 12 Bulan, Long-thread Library, Pillar 3
-PART 3 — LAUNCH (4 ch): Lead Magnet ✓, Buku Launch ✓, Cohort Launch ✓, Corporate Inbound ✓ (NEW)
-PART 4 — OPERASIONAL (5 ch): Ops Setup ✓, Tracking ✓, Reply Farm ✓, Anti-Burnout ✓, Strategy Refresh ✓
+PART 2 — KONTEN HARIAN (7 ch): Voice, Hook Bank, Visual ID, Manifesto, Cross-Platform, Calendar 12 Bulan, Long-thread Library, Pillar 3
+PART 3 — LAUNCH (4 ch): Lead Magnet, Buku Launch, Cohort Launch, Corporate Inbound
+PART 4 — OPERASIONAL (5 ch): Ops Setup, Tracking, Reply Farm, Anti-Burnout, Strategy Refresh
+PART 5 — DAY-1 SEQUENCING (1 ch): Day-1 Launch Checklist (Layer 23, 5-wave critical path)
+PART 6 — PRA-DAY-1 EXECUTION BRIEFS (4 ch baru sesi 28 Mei):
+  - Wave 1.1 Wordmark Spec Brief
+  - Wave 1.2 Bio Copy 4 Platform
+  - Wave 2.1 Lynk.id Setup Brief
+  - Wave 2.2 MailerLite Automation Brief
 ```
 
----
+### File anchor playbook (UPDATED)
 
-## REVIEW STATUS SEMUA ITEM (UPDATE — END OF LAYER 21(2/2))
+**Strategi:**
+- `STRATEGI-PERSONAL-BRANDING.md` — 18 section master strategi
+- `BRAND-JOURNEY-MAP.md` — roadmap 4 quarter (Caleb framework)
+- `analisa_kompetitor.md` — 31 kompetitor T1/T2/T3
 
-| Status | Item | Detail |
-|---|---|---|
-| ✓ DONE | Item 1-4 (Tier CRITICAL) | Visual ID, Tracking, Ops Setup, Reply Farm |
-| ✓ DONE | Item 5 (Calendar Bulan 2) | 28 post + 4 long-thread |
-| ✓ DONE | Item 6 (Buku Launch Pack) | 11 section, 4-part, ~2.160 lines |
-| ✓ DONE | Item 7 (Calendar Bulan 3) | 28 post + 4 long-thread + retro |
-| ✓ DONE | Item 8 (Cohort Launch Pack) | Layer 20, 11 section, 4-part, ~2.260 lines, anchor §8/§11/§17 |
-| ✓ DONE | **Item 9 (Corporate Inbound Playbook)** | **Layer 21, 10 section, 2-part, ~1.330 lines, anchor §8/§17** |
-| ✓ DONE | Item 10 (Anti-Burnout Protocol) | Layer 17, 831 lines, anchor §14 |
-| ✓ DONE | Item 11 (Cross-Platform Playbook) | Layer 19, 3-part, 1.322 lines, anchor §7 |
-| ✓ DONE | Item 12 (Strategy Refresh Protocol) | Layer 18, 937 lines, anchor §11 |
-| ✓ DONE | **Master Index PLAYBOOK-MASTER.md** | **Layer 22, 412 lines, navigation entry untuk seluruh 22-chapter playbook** |
+**Konten harian:**
+- `CONTENT-CALENDAR-BULAN-{1,2,3}.md` — 86 post + long-thread
+- `THREADS-LONGFORM-ABC-TEST.md` — 8 long-thread Bulan 1-2
+- `MANIFESTO-CAROUSEL-IG.md` — carousel Day 1
+- `PILLAR-3-STUDI-CASE-PAK-BI.md` — 8 post filosofi Pak Bi
+- `CROSS-PLATFORM-PLAYBOOK.md` — per-platform tactics 4 platform
+- `VISUAL-BRAND-IDENTITY.md` — visual standard
 
-**Progress: 12/12 + Master Index (100%) — playbook 22-chapter SELESAI LENGKAP. Total ~20.450 baris di 22 chapter content + 1 master + 1 chat-log.**
+**Launch:**
+- `EMAIL-SEQUENCE-7-DAY-CHALLENGE.md` — 9 email lead magnet
+- `LANDING-PAGE-7-DAY-CHALLENGE.md` — landing page copy
+- `LAUNCH-PACK-BUKU.md` — Master ops buku launch (~2.160 lines)
+- `LAUNCH-PACK-COHORT.md` — Master ops cohort launch (~2.260 lines)
+- `CORPORATE-INBOUND-PLAYBOOK.md` — Master ops corporate audit Bulan 4+ (~1.330 lines)
 
-**Total dokumen yang ditulis:** ~20.450 baris di 22 chapter content + Master Index (412 lines) + chat-log. **22-chapter playbook structure 100% complete.**
+**Operasional:**
+- `OPERATIONAL-SETUP.md` — tooling stack
+- `TRACKING-DASHBOARD.md` — KPI tracking
+- `REPLY-FARM-PLAYBOOK.md` — komen-as-currency
+- `ANTI-BURNOUT-PROTOCOL.md` — sustainability layer (831 lines)
+- `STRATEGY-REFRESH-PROTOCOL.md` — quarterly recalibration (937 lines)
+
+**Day-1 sequencing:**
+- `DAY-1-LAUNCH-CHECKLIST.md` — 5-wave critical path Pra-Day-1
+
+**Pra-Day-1 execution briefs (NEW sesi 28 Mei):**
+- `BIO-COPY-4-PLATFORM.md` — Wave 1.2 verbatim copy 4 platform
+- `WORDMARK-SPEC-BRIEF.md` — Wave 1.1 Canva execution guide 3-variant
+- `LYNK-ID-SETUP-BRIEF.md` — Wave 2.1 aggregator setup + 3 card spec
+- `MAILERLITE-AUTOMATION-BRIEF.md` — Wave 2.2 3-landing + 9-email + 7 worksheet spec
+
+**Master index:**
+- `PLAYBOOK-MASTER.md` — single navigation entry untuk seluruh 22 chapter + Day-1 + Wave briefs
 
 ---
 
 ## CARA LANJUT DI PERCAKAPAN BARU
 
-**Mulai sesi baru? Buka dulu `PLAYBOOK-MASTER.md` (Master Index)** — single navigation entry yang memetakan seluruh 22 chapter, 5 reading path, cross-reference matrix, dan quick decision lookup.
+**Mulai sesi baru? Buka dulu file ini, lalu pilih path:**
 
-**⚠️ Catatan: Ada KNOWN GAP** — domain `arifb.id/[path]` masih placeholder (di-defer per user decision sesi 27 Mei). Detail di section "KNOWN GAPS" Master Index. Action saat siap: register domain → bulk replace di 6 file → Layer 23 commit.
-
-Copy-paste ini ke percakapan Kiro baru:
+### Path A — Lanjut brainstorm Wave 3-5 spec (estimasi 65 min total)
 
 ```
-Lanjutkan dari file LANJUTKAN-DI-SINI.md di repo arifbudiman575-ship-it/buku
-branch add-thread-arsi-7-hari. Playbook 22-chapter SUDAH LENGKAP (12/12 item +
-Master Index). Buka PLAYBOOK-MASTER.md dulu sebagai entry point navigasi.
-Sekarang fokus ke: [eksekusi Bulan 1 / refresh quarter / item ad-hoc baru].
+Lanjut dari handover 28 Mei. State branch add-thread-arsi-7-hari HEAD 896da8d3.
+Wave 1.2 Bio + Wave 1.1 Wordmark + Wave 2.1 Lynk.id + Wave 2.2 MailerLite =
+spec committed. Sekarang brainstorm Wave 3-5 spec berikutnya. Pilih:
+- Wave 3.2 Threads pinned (no dependency, paling cepat)
+- Wave 3.1 Manifesto Carousel IG (assume future Wave 1.1 deploy)
+- Wave 4.1 Notion 3-database
+- Wave 4.2 Sheets 6-tab
+Use pattern Kiro brainstorm + ChatGPT commit.
+```
+
+### Path B — Audit deploy progress (kalau Anda sudah eksekusi parallel work)
+
+```
+Lanjut dari handover 28 Mei. Sudah deploy:
+- [ ] Bio paste 4 platform: [done/partial/no]
+- [ ] Wordmark Canva render: [done/partial/no, MVP 5 file?]
+- [ ] Lynk.id setup Free: [done/partial/no]
+- [ ] MailerLite setup Free + 3 landing + 9-email: [done/partial/no]
+- [ ] 7 worksheet Google Docs: [done/partial/no]
+
+Audit state real, update progress %, lanjut Wave 3-5 brainstorm dengan
+data eksekusi nyata.
+```
+
+### Path C — End-to-end dry run (kalau Wave 1-2 deploy 100%)
+
+```
+Lanjut dari handover 28 Mei. Wave 1-2 deploy 100%. Saatnya Wave 5.1 Dry-Run.
+Test stranger flow end-to-end: visit Threads bio → klik link arifb.id →
+Lynk.id aggregator → klik Card 1 → MailerLite landing → submit form →
+Email 0 received → worksheet Hari 1 accessible → reply attribution →
+verify tag di MailerLite.
+
+Kalau ada gap di chain → fix → re-test.
 ```
 
 ---
 
-*Last updated: Layer 22, 27 Mei 2026 — Master Index `PLAYBOOK-MASTER.md` (412 lines) SELESAI. Playbook 22-chapter 100% LENGKAP. Total ~20.450 baris produktif. Siap eksekusi Bulan 1 + onwards.*
+## ⚠️ Catatan strategis
+
+1. **Domain gap masih valid** — `arifb.id/[path]` placeholder di 6 file. Action D-30 sebelum buku launch Mgg 7. Wave 2 Lynk.id pakai sub-domain Lynk.id native (`lynk.id/arifb.id`) jadi tidak ter-block.
+
+2. **Wave 1.1 wordmark = dependency Wave 3.1** — Manifesto Carousel butuh wordmark footer per slide. Defer Wave 3.1 spec atau spec dengan placeholder asumsi.
+
+3. **Credit conservation pattern** — terbukti hemat ~4-6 tool call per file. Pertahankan untuk Wave 3-5 berikutnya.
+
+4. **5-jam parallel execution Wave 1-2** — bisa Anda kerjakan tanpa Kiro. Setelah deploy, audit ulang state, baru lanjut Wave 3-5.
+
+5. **Filter 4-Lapis re-read SACRED** — sebelum Day 1, ritual final di Wave 5.2.
+
+---
+
+*Last updated: Sesi 28 Mei 2026 — 4 commits Wave 1-2 spec sprint (`faa4683` Bio · `95f58ac` Wordmark · `90789438` Lynk.id · `896da8d3` MailerLite). Wave 2 spec 100% complete. Pattern hybrid (Kiro brainstorm + ChatGPT commit) terbukti hemat ~8-12 tool call sesi ini. Total 6 wave spec + 5 jam deploy parallel work tersisa untuk Day 1 readiness.*
