@@ -41,7 +41,27 @@
 - **Tier HIGH — Cohort Launch Mgg 11 (Item 7-8):** ✓ SELESAI
 - **Tier D — Compound (Item 9-12):** ✓ SELESAI (Item 9 ✓ · 10 ✓ · 11 ✓ · 12 ✓)
 - **Master Index (Layer 22):** ✓ SELESAI — `PLAYBOOK-MASTER.md` (412 lines)
-- **Sisa:** — TIDAK ADA. Playbook 22-chapter LENGKAP. Siap eksekusi Bulan 1.
+- **Sisa:** — TIDAK ADA item core. Playbook 22-chapter LENGKAP. Siap eksekusi Bulan 1.
+
+---
+
+## ⚠️ KNOWN GAPS — DOMAIN INCONSISTENCY (Layer 23 NEXT, deferred)
+
+**Issue:** `arifb.id` = username sosmed, **bukan domain**. Tapi ~30 referensi `arifb.id/[path]` tersebar di 6 file sebagai placeholder landing page.
+
+**File terdampak:** `LAUNCH-PACK-BUKU.md` (`/buku`, `/refund`), `LAUNCH-PACK-COHORT.md` (`/cohort`), `CORPORATE-INBOUND-PLAYBOOK.md` (`/corporate`), `CROSS-PLATFORM-PLAYBOOK.md` (bio update), `LANDING-PAGE-7-DAY-CHALLENGE.md` (`/start`), `LANJUTKAN-DI-SINI.md` (1 ref).
+
+**User decision (sesi 27 Mei):** Opsi 2 — **defer fix sampai domain di-register**. Sekarang `arifb.id/[path]` di-treat sebagai placeholder dengan TODO note di Master Index.
+
+**Deadline fix:** D-30 sebelum Buku Launch Mgg 7. Tanpa domain real, sales page Cohort/Corporate susah credible.
+
+**Action plan saat siap:**
+1. Pilih + register domain (rek: `arifbudiman.com` / `arifbudiman.id`)
+2. Bulk find-and-replace di 6 file → 1 commit "Layer 23: Fix domain placeholder"
+3. Update bio 4 platform link ke domain baru
+4. Re-test funnel end-to-end
+
+Detail lengkap di `PLAYBOOK-MASTER.md` section "KNOWN GAPS — TODO PRE-DAY-1".
 
 ---
 
@@ -273,6 +293,8 @@ PART 4 — OPERASIONAL (5 ch): Ops Setup ✓, Tracking ✓, Reply Farm ✓, Anti
 ## CARA LANJUT DI PERCAKAPAN BARU
 
 **Mulai sesi baru? Buka dulu `PLAYBOOK-MASTER.md` (Master Index)** — single navigation entry yang memetakan seluruh 22 chapter, 5 reading path, cross-reference matrix, dan quick decision lookup.
+
+**⚠️ Catatan: Ada KNOWN GAP** — domain `arifb.id/[path]` masih placeholder (di-defer per user decision sesi 27 Mei). Detail di section "KNOWN GAPS" Master Index. Action saat siap: register domain → bulk replace di 6 file → Layer 23 commit.
 
 Copy-paste ini ke percakapan Kiro baru:
 

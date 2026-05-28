@@ -24,6 +24,47 @@
 
 ---
 
+## ⚠️ KNOWN GAPS — TODO PRE-DAY-1
+
+### 1. Domain Inconsistency — `arifb.id/[path]` = PLACEHOLDER
+
+**Status:** Belum resolved. **Penting:** `arifb.id` = **username sosmed** (Threads/IG/TikTok/LinkedIn), **bukan domain**.
+
+**Impact:** ~30 referensi `arifb.id/[path]` (e.g., `arifb.id/buku`, `arifb.id/cohort`, `arifb.id/corporate`, `arifb.id/start`, `arifb.id/refund`) tersebar di 6 file sebagai **placeholder** menunggu domain real di-register.
+
+**File terdampak:**
+| File | Path placeholder | Jumlah ref |
+|---|---|---|
+| `LAUNCH-PACK-BUKU.md` | `/buku`, `/refund` | 10+ |
+| `LAUNCH-PACK-COHORT.md` | `/cohort` | 8+ |
+| `CORPORATE-INBOUND-PLAYBOOK.md` | `/corporate` | 5+ |
+| `CROSS-PLATFORM-PLAYBOOK.md` | bio Threads/LinkedIn | 5+ |
+| `LANDING-PAGE-7-DAY-CHALLENGE.md` | `/start`, `challenge.arifb.id` | 3 |
+| `LANJUTKAN-DI-SINI.md` | handover note | 1 |
+
+**Deadline:** **D-30 sebelum Buku Launch Mgg 7** — domain harus aktif + landing utama (`/buku`) live + tested. Tanpa domain real, sales page Cohort Rp 4,9-7,5JT dan Corporate Rp 25-100JT susah credible untuk premium audience.
+
+**Action plan saat siap fix:**
+1. Pilih + register domain. Rekomendasi default: `arifbudiman.com` (kalau available) atau `arifbudiman.id`. Alternatif: `theaiarchitect.com` / `theaiarchitect.id` untuk brand-first positioning.
+2. Bulk find-and-replace `arifb.id/` → `[domain-pilihan].com/` di 6 file (1 commit "Layer 23: Fix domain placeholder")
+3. Update bio 4 platform: link bio (Lynk.id atau langsung) point ke domain baru.
+4. Re-test funnel end-to-end (landing → email automation → sales page).
+
+**Catatan:** Username sosmed `@arifb.id` tetap dipakai di semua platform. Yang berubah hanya **domain landing page**.
+
+### 2. Status Real-World Eksekusi (Pra-Day-1)
+
+Belum dikonfirmasi user (per sesi 27 Mei 2026):
+- [ ] Tools sign-up: MailerLite / Lynk.id / Canva Pro / Notion / Google Sheets
+- [ ] Profile 4 platform live + bio updated (Threads/IG/TikTok/LinkedIn)
+- [ ] Foto B&W premium ready
+- [ ] Manuskrip THE AI ARCHITECT — final layout siap launch Mgg 7?
+- [ ] Asset visual rendered: Manifesto carousel, Wordmark 3-variant, Threads pinned 8-post
+
+**Estimasi ~10-15 jam kerja Pra-Day-1** (asset render + tooling setup + profile setup + dry-run end-to-end). Detail: `OPERATIONAL-SETUP.md §2 PRA-DAY-1 CHECKLIST`.
+
+---
+
 ## QUICK START — 3 SKENARIO
 
 ### Skenario A — Baru Di Sini (5 menit)
