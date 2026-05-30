@@ -58,12 +58,15 @@
 
 ## D1 — Senin 15 Juni 2026 · 19:30 WIB · MANIFESTO LAUNCH
 
-> **Body lengkap di file `MANIFESTO-PINNED-V1.md`** — 3 deliverable lintas-platform:
-> - Threads 9-post pinned
-> - IG carousel 7-slide
-> - LinkedIn long-post ~580 kata
+> **Body lengkap ada di file `MANIFESTO-PINNED-V1.md`** (klik link di bawah, langsung ke section yang relevan):
 >
-> Triple publish: 19:30 Threads (pin) -> 19:32 IG -> 19:35 LinkedIn.
+> - 📱 [**Threads 9-post pinned**](MANIFESTO-PINNED-V1.md#1-pinned-threads--9-post-voice-polished) — copy 9 post Anda untuk thread Threads, lalu pin post 1
+> - 🖼️ [**IG carousel 7-slide spec**](MANIFESTO-PINNED-V1.md#2-carousel-ig--7-slide-spec) — produksi di Canva, export PNG per slide
+> - 💼 [**LinkedIn long-post ~580 kata**](MANIFESTO-PINNED-V1.md#3-linkedin-long-post-600-kata) — copy paste ke LinkedIn editor
+>
+> **Triple publish urutan:** 19:30 Threads (publish + pin) → 19:32 IG → 19:35 LinkedIn.
+>
+> Lihat hour-by-hour timeline di [`DAY-1-LAUNCH-RUNBOOK.md`](DAY-1-LAUNCH-RUNBOOK.md#9-t-day-1--execution-hour-by-hour).
 
 ---
 
@@ -212,7 +215,9 @@
 
 ## D4 — Kamis 18 Juni 2026 · 20:00 WIB · LONG-THREAD OPSI A V3
 
-> **Body lengkap di file `THREADS-LONGFORM-ABC-TEST.md` — section "Opsi A V3 (final)".**
+> 📖 [**Klik di sini → buka body lengkap di file THREADS-LONGFORM-ABC-TEST.md**](THREADS-LONGFORM-ABC-TEST.md#opsi-a--pattern-observer-rekomendasi-umpan-pertama--book-safe)
+>
+> Section: **OPSI A — PATTERN OBSERVER**
 >
 > 9-post thread, Pattern Observer angle, book-safe.
 >
@@ -548,7 +553,9 @@
 
 ## D11 — Kamis 25 Juni 2026 · 20:00 WIB · LONG-THREAD OPSI C V2
 
-> **Body lengkap di file `THREADS-LONGFORM-ABC-TEST.md` — section "Opsi C V2 (final)".**
+> 📖 [**Klik di sini → buka body lengkap di file THREADS-LONGFORM-ABC-TEST.md**](THREADS-LONGFORM-ABC-TEST.md#opsi-c-v2--riko-composite-story-final)
+>
+> Section: **OPSI C V2 — RIKO COMPOSITE STORY (FINAL)**
 >
 > Riko Composite Story angle, book-safe. Paradoks Mahal/Murah.
 >
@@ -856,7 +863,9 @@
 
 ## D18 — Kamis 2 Juli 2026 · 20:00 WIB · LONG-THREAD OPSI B V2
 
-> **Body lengkap di file `THREADS-LONGFORM-ABC-TEST.md` — section "Opsi B V2 (final)".**
+> 📖 [**Klik di sini → buka body lengkap di file THREADS-LONGFORM-ABC-TEST.md**](THREADS-LONGFORM-ABC-TEST.md#opsi-b-v2--critique-of-hype-industry-final)
+>
+> Section: **OPSI B V2 — CRITIQUE OF HYPE INDUSTRY (FINAL)**
 >
 > Confession Direct angle, book-safe.
 >
@@ -1125,7 +1134,9 @@
 
 ## D25 — Kamis 9 Juli 2026 · 20:00 WIB · LONG-THREAD OPSI D V1 (A.R.S.I. 7-HARI)
 
-> **Body lengkap di file `THREADS-LONGFORM-ABC-TEST.md` — section "Opsi D — A.R.S.I. 7-HARI (V1)".**
+> 📖 [**Klik di sini → buka body lengkap di file THREADS-LONGFORM-ABC-TEST.md**](THREADS-LONGFORM-ABC-TEST.md#opsi-d--arsi-7-hari-v1--polish-untuk-day-25-publish)
+>
+> Section: **OPSI D — A.R.S.I. 7-HARI (V1 — POLISH untuk Day 25 publish)**
 >
 > 9-post thread, A.R.S.I. progression, voice tenang.
 >
@@ -1448,14 +1459,14 @@
 
 ## Cross-reference
 
-| Day | Body lokasi |
-|---|---|
-| D1 | `MANIFESTO-PINNED-V1.md` (3 platform) |
-| D4 | `THREADS-LONGFORM-ABC-TEST.md` Opsi A V3 |
-| D11 | `THREADS-LONGFORM-ABC-TEST.md` Opsi C V2 |
-| D18 | `THREADS-LONGFORM-ABC-TEST.md` Opsi B V2 |
-| D25 | `THREADS-LONGFORM-ABC-TEST.md` Opsi D V1 |
-| D2-D3, D5-D10, D12-D17, D19-D24, D26-D30 | File ini |
+| Day | Body lokasi | Direct link |
+|---|---|---|
+| D1 | `MANIFESTO-PINNED-V1.md` (3 platform) | [Threads](MANIFESTO-PINNED-V1.md#1-pinned-threads--9-post-voice-polished) · [IG](MANIFESTO-PINNED-V1.md#2-carousel-ig--7-slide-spec) · [LinkedIn](MANIFESTO-PINNED-V1.md#3-linkedin-long-post-600-kata) |
+| D4 | `THREADS-LONGFORM-ABC-TEST.md` Opsi A | [Buka Opsi A V3](THREADS-LONGFORM-ABC-TEST.md#opsi-a--pattern-observer-rekomendasi-umpan-pertama--book-safe) |
+| D11 | `THREADS-LONGFORM-ABC-TEST.md` Opsi C V2 | [Buka Opsi C V2](THREADS-LONGFORM-ABC-TEST.md#opsi-c-v2--riko-composite-story-final) |
+| D18 | `THREADS-LONGFORM-ABC-TEST.md` Opsi B V2 | [Buka Opsi B V2](THREADS-LONGFORM-ABC-TEST.md#opsi-b-v2--critique-of-hype-industry-final) |
+| D25 | `THREADS-LONGFORM-ABC-TEST.md` Opsi D V1 | [Buka Opsi D V1](THREADS-LONGFORM-ABC-TEST.md#opsi-d--arsi-7-hari-v1--polish-untuk-day-25-publish) |
+| D2-D3, D5-D10, D12-D17, D19-D24, D26-D30 | File ini | (langsung di atas) |
 
 ## Update workflow
 

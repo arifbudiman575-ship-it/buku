@@ -286,7 +286,7 @@ Closing: *"Kalau Anda kena 3 dari 5 — Anda Riko. Itu bukan masalah. Itu starti
 >
 > *(thread, ~9 post)*
 
-**📝 BODY**: **PAKAI Opsi A V3 yang sudah final di `THREADS-LONGFORM-ABC-TEST.md`.** Tidak perlu draft ulang. Pattern Observer angle, book-safe.
+**📝 BODY**: 📖 [**Klik di sini → buka body lengkap di THREADS-LONGFORM file**](THREADS-LONGFORM-ABC-TEST.md#opsi-a--pattern-observer-rekomendasi-umpan-pertama--book-safe). Pattern Observer angle, book-safe. Tidak perlu draft ulang.
 
 **🎯 ALGO**: Sudah implicit menerapkan was-was→surprise→kasmaran (lihat anotasi STRATEGI §15.2). Post 1-3 was-was, 4-7 surprise, 8-9 kasmaran.
 
@@ -495,7 +495,7 @@ Closing: *"Sistem bukan dibangun saat ChatGPT up. Sistem terbukti saat ChatGPT d
 >
 > *(thread, ~10 post)*
 
-**📝 BODY**: **PAKAI Opsi C V2 yang sudah final di `THREADS-LONGFORM-ABC-TEST.md`.** Tidak perlu draft ulang. Riko Composite Story angle, book-safe.
+**📝 BODY**: 📖 [**Klik di sini → buka body lengkap di THREADS-LONGFORM file**](THREADS-LONGFORM-ABC-TEST.md#opsi-c-v2--riko-composite-story-final). Riko Composite Story angle, book-safe. Tidak perlu draft ulang.
 
 **🎯 ALGO**: was-was (jam 02.34, urgency tone) → surprise (pengukur progres salah) → paradoks Mahal/Murah → kasmaran (reply trigger). Sudah di-built.
 
@@ -704,7 +704,7 @@ Closing: *"AI tidak salah jawab. Anda yang belum jelas tanya."*
 >
 > *(thread, ~10 post)*
 
-**📝 BODY**: **PAKAI Opsi B V2 yang sudah final di `THREADS-LONGFORM-ABC-TEST.md`.** Tidak perlu draft ulang. Critique of Hype Industry angle, book-safe (no fabricated 1.247 prompt / kursus 1,5JT).
+**📝 BODY**: 📖 [**Klik di sini → buka body lengkap di THREADS-LONGFORM file**](THREADS-LONGFORM-ABC-TEST.md#opsi-b-v2--critique-of-hype-industry-final). Critique of Hype Industry angle, book-safe (no fabricated 1.247 prompt / kursus 1,5JT). Tidak perlu draft ulang.
 
 **🎯 ALGO**: was-was kuat (industri-critique) → surprise (Anda confess hampir ikut hype) → paradoks Tahu/Gak Tahu → kasmaran. Sudah implicit di V2.
 
