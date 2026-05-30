@@ -7,100 +7,117 @@
 
 ## STATUS TERAKHIR
 
-**Tanggal:** 29 Mei 2026 (Sesi 28-29 Mei — Path F + Path Final closure + Path G2 COMPLETE)
+**Tanggal:** 30 Mei 2026 (Sesi 28-30 Mei — async Kiro work CLOSED, manual deploy giliran user)
 **Branch aktif:** `add-thread-arsi-7-hari`
-**HEAD:** `4c38f28a` (Path G2 file 7/7 — BULAN-4-12-OKR-FRAMEWORK FINAL CLOSURE)
-**Total commits sesi 28-29 Mei:** 20 commits (10 Wave 1-5 sprint + 1 handover refresh + 1 Path F risk register + 1 Path Final closure 4 asset + 7 Path G2)
+**HEAD:** `4885e80` (Path K — Refund saving + Onboarding post-buku) → akan bergeser ke commit Path I + handover refresh ini
+**Total commits sesi 28-30 Mei:** 24+ (Path A-K closure)
 
 ---
 
-## 🆕 SESI 29 MEI 2026 — HIGHLIGHTS (Path F + Path Final + Path G2)
+## SESI 30 MEI 2026 — HIGHLIGHTS (Path E + Path J + Path K + Path I)
 
-### 9 commits baru pasca-handover refresh `0a7d3df` (28 Mei 17:22)
+### 4 commits sesi 30 Mei (post-Path-G2)
 
 | Commit | Path | File | Path commit |
 |---|---|---|---|
-| `5dc7677` | Path F — Pre-deploy risk register | `PRE-DEPLOY-RISK-REGISTER.md` | Kiro |
-| `5cf2957` | Path Final — 4 operational asset closure | `WORKSHEET-7-DAY-CHALLENGE.md` + `REPLY-TEMPLATES-D1-D7.md` + `LANDING-COPY-3-PAGE.md` + `BULAN-1-TACTICAL-PLAN.md` | Kiro |
-| `01338ba` | Path G2 1/7 — Bulan 2 tactical | `buku/BULAN-2-TACTICAL-PLAN.md` | ChatGPT |
-| `52d8415` | Path G2 2/7 — Bulan 3 tactical | `buku/BULAN-3-TACTICAL-PLAN.md` | ChatGPT |
-| `aea8a81` | Path G2 3/7 — Email nurture Day 8+ | `buku/EMAIL-NURTURE-DAY8-PLUS.md` | ChatGPT |
-| `4ced6d1` | Path G2 4/7 — Crisis comm SOP | `buku/CRISIS-COMM-SOP.md` | ChatGPT |
-| `2bba4a6` | Path G2 5/7 — VA delegation playbook | `buku/VA-DELEGATION-PLAYBOOK.md` | ChatGPT |
-| `ba36d0a` | Path G2 6/7 — Affiliate & JV structure | `buku/AFFILIATE-JV-STRUCTURE.md` | ChatGPT |
-| `4c38f28` | Path G2 7/7 — Bulan 4-12 OKR framework | `buku/BULAN-4-12-OKR-FRAMEWORK.md` | ChatGPT |
+| `6201f2a` | Path E — Struktur cleanup | Move 7 file `buku/*` → root (atomic git mv) | Kiro account user (lain) |
+| `9474c14` | Path J — Legal foundation | `PRIVACY-POLICY-TEMPLATE.md` + `TERMS-OF-SERVICE-TEMPLATE.md` | Kiro local fallback (post ChatGPT halt + Kiro account lain halt) |
+| `4885e80` | Path K — Operational pasca-pembelian | `REFUND-SAVING-SCRIPT.md` + `ONBOARDING-POST-BUKU.md` | Kiro local |
+| `(this)` | Path I — Master Index + handover refresh | `PLAYBOOK-MASTER.md` (refresh ke 11 PART) + `LANJUTKAN-DI-SINI.md` (state sync ke HEAD `4885e80`) | Kiro local |
 
-### Path F — Pre-Deploy Risk Register (commit `5dc7677`)
+### Path E — Struktur cleanup (commit `6201f2a`)
 
-`PRE-DEPLOY-RISK-REGISTER.md` — 38 risk total (35 per-Wave + 4 cross-cutting + pre-flight + recovery).
+7 file Path G2 dipindah dari sub-folder `buku/` ke root via atomic `git mv`. Stats: 0 addition, 0 deletion (pure rename).
 
-- Top 5 critical: MailerLite sender auth, 7 worksheet content gap, Wave 3.1 dep Wave 1.1, TikTok link <1K follower, decision drift mid-deploy
-- Risk grading: 4-tier severity (Low/Med/High/Critical) + 3-tier likelihood (L/M/H)
-- Mitigation hybrid: full untuk High/Critical, 1-line untuk Med/Low
-- Pre-flight checklist H-1 (15 items) + recovery plan (4 scenario)
-- Anchor ke `LANJUTKAN-DI-SINI.md` + `DAY-1-LAUNCH-CHECKLIST.md` + 7 Wave brief
+File yang di-move:
+- `buku/BULAN-2-TACTICAL-PLAN.md` → root
+- `buku/BULAN-3-TACTICAL-PLAN.md` → root
+- `buku/BULAN-4-12-OKR-FRAMEWORK.md` → root
+- `buku/CRISIS-COMM-SOP.md` → root
+- `buku/EMAIL-NURTURE-DAY8-PLUS.md` → root
+- `buku/VA-DELEGATION-PLAYBOOK.md` → root
+- `buku/AFFILIATE-JV-STRUCTURE.md` → root
 
-**Kapan dibaca:** H-1 sebelum mulai Wave 1.1 deploy. Re-baca tiap transisi Wave (Wave 1→2→3→4→5).
+**Hasil:** Sub-folder `buku/` dihapus dari git tree (empty directory tidak disimpan). Gap 3 RESOLVED — semua 48 file di root level untuk navigasi konsisten.
 
-### Path Final — 4 Operational Asset Closure (commit `5cf2957`)
+### Path J — Legal foundation (commit `9474c14`)
 
-4 file baru, total 1.347 baris content:
+2 file template legal di root:
 
-1. **`WORKSHEET-7-DAY-CHALLENGE.md`** (527 baris) — Full content 7 hari, latihan + worked example + reflection per hari, map ke 7 prinsip manifesto + A.R.S.I. **Solve 7-worksheet content gap** (risk #2 di register).
-2. **`REPLY-TEMPLATES-D1-D7.md`** (216 baris) — 5 kategori, 17 template komen-as-currency + checklist daily reply farm + filosofi + anti-pattern.
-3. **`LANDING-COPY-3-PAGE.md`** (337 baris) — Page 1 Lead Magnet + Page 2 Buku Waitlist + Page 3 Cohort Waitlist verbatim + implementasi notes MailerLite native landing.
-4. **`BULAN-1-TACTICAL-PLAN.md`** (267 baris) — Daily ritual template + Week 1-4 detail + weekly checkpoint + decision fatigue guards + metric targets Bulan 1.
+1. **`PRIVACY-POLICY-TEMPLATE.md`** (254 lines, 13435 byte) — UU PDP Indonesia compliance:
+   - 9 hak Subjek Data (Pasal 5-13)
+   - Dasar pemrosesan (Pasal 20: persetujuan, kontrak, kepentingan sah)
+   - Transfer lintas batas (Pasal 56)
+   - Notifikasi pelanggaran 3x24 jam (Pasal 46)
+   - 8 Pemroses Data disclosed: MailerLite, Lynk.id, Canva, Notion, Google Workspace, Meta, TikTok, LinkedIn
+   - 5-tier retensi data + cookie disclosure (no Meta Pixel/TikTok Pixel)
 
-**Closure:** Playbook DOKUMEN 100% jadi pegangan operasional 12 bulan untuk ngonten + monetize.
+2. **`TERMS-OF-SERVICE-TEMPLATE.md`** (336 lines, 16549 byte) — refund T&C aligned:
+   - Buku 30-hari no-question
+   - Cohort 7-hari post-sesi-1
+   - Corporate NO post-kickoff (50/50 SACRED payment)
+   - Cohort anti-discount selamanya
+   - Disclaimer 4-tier (NO financial/legal/medical advice, NO hasil dijamin)
+   - Batasan liability 12-bulan total payment cap
+   - IP protection (no AI training, no scraping, no redistribution)
+   - Hukum Republik Indonesia (KUH Perdata, UU Konsumen, UU ITE, UU PDP, UU Hak Cipta)
 
-### Path G2 — FULL Playbook Closure (7 file, commit `01338ba` → `4c38f28`)
+**Status:** TEMPLATE — wajib review penasihat hukum + isi placeholder `[DOMAIN-LANDING]`, `[EMAIL-PIC]`, `[EMAIL-KONTAK]`, `[ALAMAT-USAHA]`, `[NAMA-PENGADILAN]`, `[NPWP-NO]`, `[TANGGAL-EFEKTIF]` sebelum publish.
 
-⚠️ **PENTING — Struktur split:** 7 file Path G2 di-commit ke **sub-folder `buku/`** (bukan root). Ini inkonsistensi dengan 22 chapter + Path F + Path Final yang semua di root. Worth flag untuk cleanup di sesi berikutnya (move ke root atau reorganize struktur).
+**Halt history Path J:** ChatGPT halt #1 (verification target ambiguity grep -c vs grep -o) → Kiro account user lain halt (fs_write line ending normalization). Eventually committed via Kiro local fallback (pattern proven 2x setelah Path H).
 
-| # | File | Lokasi | Coverage |
-|---|---|---|---|
-| 1/7 | `BULAN-2-TACTICAL-PLAN.md` | `buku/` | Day 31-60 daily script: pre-buku-launch warm-up (Mgg 5) + buku launch prep (Mgg 6) + LAUNCH WEEK D47 (Mgg 7) + post-launch follow-up (Mgg 8) |
-| 2/7 | `BULAN-3-TACTICAL-PLAN.md` | `buku/` | Day 61-90 daily script: cohort waitlist push (Mgg 9) + cohort launch week D71 (Mgg 10) + cohort enrollment close D77 (Mgg 11) + Q1 quarterly refresh (Mgg 12) |
-| 3/7 | `EMAIL-NURTURE-DAY8-PLUS.md` | `buku/` | 4 nurture email completer (Day 14, 21, 30, 45) + 2 re-engagement email (Day 14 partial/ghost, Day 30 final) + segment tag MailerLite |
-| 4/7 | `CRISIS-COMM-SOP.md` | `buku/` | 4 crisis scenario (factual error / tone-deaf / viral negative / brand attack-troll) + universal 3-step PAUSE→ASSESS→RESPOND framework |
-| 5/7 | `VA-DELEGATION-PLAYBOOK.md` | `buku/` | Hire VA tier 1 saat trigger Bulan 3+: 3 trigger metric + 7 task tier 1 + 3 SOP template + onboarding 1 minggu + cost framework Indonesia |
-| 6/7 | `AFFILIATE-JV-STRUCTURE.md` | `buku/` | Affiliate buku Bulan 4+ (10% komisi, 30-hari cookie) + JV cohort Bulan 9-12 (revenue split, 5-factor decision matrix) |
-| 7/7 | `BULAN-4-12-OKR-FRAMEWORK.md` | `buku/` | Q2-Q4 long-term plan: per-quarter 3 Objective × 3 Key Result + annual review ritual Day 358-365 + decision rules DOUBLE-DOWN/PIVOT/CUT |
+### Path K — Operational pasca-pembelian (commit `4885e80`)
 
-**Total Path G2:** ~75 KB content, ~2.000 baris baru (estimated dari size masing-masing file).
+2 file di root:
 
-**Setelah commit ini, playbook 100% operational:** 22 chapter + 7 wave brief + 1 risk register + 4 root operational asset + 7 Path G2 file.
+1. **`REFUND-SAVING-SCRIPT.md`** (351 lines, 13504 byte) — Response SOP 3-tier:
+   - SACRED rule: refund window = APPROVE tanpa pertanyaan
+   - Dialog 1-round = LEARNING ASK, BUKAN SAVE ATTEMPT
+   - 5 anti-pattern: begging, defensive, delay, guilt-trip, conditional
+   - Email + WhatsApp template per scenario (buku/cohort/corporate × pre/post-kickoff)
+   - Internal action items + post-refund retro template
+   - Quarterly review trigger (refund rate target <5% buku, <10% cohort)
+   - Processing checklist printable per tier
 
-### Pattern hybrid LANJUT — Kiro brainstorm + ChatGPT commit (proven sesi 28-29 Mei)
+2. **`ONBOARDING-POST-BUKU.md`** (416 lines, 14801 byte) — 6-email sequence:
+   - Filosofi: trust deepening, BUKAN upsell agresif
+   - Email B0 (instan): Welcome + akses link
+   - Email B+2: Cara membaca buku (3 mode: SCAN, DEEP, APPLY)
+   - Email B+7: Check-in + 1 question
+   - Email B+14: Win-share + testimony invite
+   - Email B+21: Soft cross-sell cohort waitlist (BOFU)
+   - Email B+30: Milestone + refund window closing reminder
+   - MailerLite tag logic (3-tier buyer + transition matrix)
+   - Branch logic (subscriber overlap, refund mid-window, cohort beli mid-onboarding)
+   - 8 anti-pattern + 90-day metric targets
 
-Sesi 29 Mei melanjutkan pattern hybrid:
-- **Path F + Path Final closure (5 file root):** Kiro generate + Kiro commit (file butuh char-level lock + full content draft di Kiro context).
-- **Path G2 (7 file sub-folder `buku/`):** Kiro brainstorm + draft + spec brief → ChatGPT atomic create+commit+push.
+### Path I — Master Index + handover refresh (commit ini)
 
-**Track record sesi 29 Mei:** 7/7 ChatGPT clean commit Path G2 (zero halt). Pattern matang.
+Master Index `PLAYBOOK-MASTER.md` di-refresh dari "22 chapter" jadi **11 PART struktur (48 file total)**:
+- PART 0-4 (22 chapter core, unchanged)
+- PART 5: Day-1 Sequencing (1 file)
+- PART 6: Pra-Day-1 Execution Briefs (7 file Wave 1-5)
+- PART 7: Risk Management (1 file Path F)
+- PART 8: Operational Asset (4 file Path Final)
+- PART 9: Operational Long-term (7 file Path G2)
+- PART 10: Legal Foundation (2 file Path J — NEW)
+- PART 11: Operational Pasca-Pembelian (2 file Path K — NEW)
 
-**Saving:** ~30-40 Kiro tool call hemat (7 file Path G2 via ChatGPT).
+Reading paths bertambah: 5 → 6 (tambah Path 6 — Deploy Mode Path).
 
-**Anti-improvisation guard standard untuk ChatGPT prompt:**
-> "JANGAN re-generate, JANGAN polish, JANGAN tambah/hapus konten. Plain text commit only. Single markdown file. Patuhi delimiter ZONA A/B — jangan paste content ZONA B ke file."
-
-**Lesson learned baru sesi 29 Mei (persisted as global learnings):**
-
-1. **2-prompt split untuk file create via GitHub Contents API** (refinement learning) — ChatGPT akses GitHub via Contents API TIDAK punya local workspace/staging. File create = atomic dengan commit (tidak bisa "create tanpa commit"). Maka pattern 2-prompt YANG BENAR: PROMPT 1 = "Receive content, store in context, JANGAN execute tool, konfirmasi line count" (no file ops). PROMPT 2 = "Sekarang execute atomic create+commit+push pakai content dari PROMPT 1, dengan commit message + verification + post-commit report". JANGAN tulis "create file dulu, jangan commit" di PROMPT 1 — ini secara teknis impossible via GitHub API.
-
-2. **Workflow refinement verification target numerik** (level workflow, bukan principle) — Untuk SETIAP spec brief yang berisi file content baru >50 baris, WAJIB sebelum kirim spec brief: (1) tulis full content draft ke temp file via execute_bash heredoc, (2) jalankan `wc -l` + `grep -c` untuk semua verification target numerik, (3) gunakan output aktual sebagai target di spec brief. JANGAN tulis line range estimasi. Pattern ini hard-block estimasi mental yang berkali-kali gagal walau learning principle-level sudah ada.
+Sacred rules ringkas: 5 → 7 (tambah refund SACRED + onboarding SACRED).
 
 ---
 
-## PROGRESS PLAYBOOK — 22 CHAPTER + 7 WAVE BRIEF + RISK + 4 ROOT ASSET + 7 PATH G2
+## PROGRESS PLAYBOOK — 48 FILE TOTAL
 
-### Layer A — Strategi & Dokumentasi (PRE-EXISTING, sebelum sesi 28-29 Mei)
+### Layer A — Strategi & Dokumentasi (PRE-EXISTING, sebelum sesi 28-30 Mei)
 
-| # | Item | Layer | Status |
-|---|---|---|---|
-| 1-22 | 22-chapter playbook + Master Index + Day-1 Checklist | 11-23 | ✓ 100% |
+| # | Item | Status |
+|---|---|---|
+| 1-22 | 22-chapter playbook + Master Index + Day-1 Checklist | ✓ 100% |
 
-### Layer B — Pra-Day-1 Spec Briefs (sesi 28 Mei, 7 wave brief)
+### Layer B — Pra-Day-1 Spec Briefs (sesi 28 Mei, 7 wave brief, PART 6)
 
 | Wave | File | Status |
 |---|---|---|
@@ -110,82 +127,84 @@ Sesi 29 Mei melanjutkan pattern hybrid:
 | 2.2 | `MAILERLITE-AUTOMATION-BRIEF.md` | ✓ Spec done (deploy pending) |
 | 3.1 | `MANIFESTO-CAROUSEL-IG.md` (expanded) | ✓ Spec done (deploy pending Wave 1.1) |
 | 3.2 | `THREADS-PINNED-8-POST.md` | ✓ Spec done (deploy pending) |
-| 4-5 | `WAVE-4-5-BUNDLE-BRIEF.md` (Notion + Sheets + Dry-run + Day-1 ritual) | ✓ Spec done (deploy pending) |
+| 4-5 | `WAVE-4-5-BUNDLE-BRIEF.md` | ✓ Spec done (deploy pending) |
 
-### Layer C — Risk Register (sesi 29 Mei, Path F)
+### Layer C — Risk Register (sesi 29 Mei, Path F, PART 7)
 
 | File | Status |
 |---|---|
 | `PRE-DEPLOY-RISK-REGISTER.md` | ✓ 38 risk + pre-flight + recovery, ready use H-1 |
 
-### Layer D — Operational Asset Closure (sesi 29 Mei, Path Final, 4 file root)
+### Layer D — Operational Asset (sesi 29 Mei, Path Final, PART 8)
 
-| File | Status | Lokasi |
-|---|---|---|
-| `WORKSHEET-7-DAY-CHALLENGE.md` | ✓ 527 baris, full 7-day content | root |
-| `REPLY-TEMPLATES-D1-D7.md` | ✓ 17 template komen-as-currency | root |
-| `LANDING-COPY-3-PAGE.md` | ✓ 3-page MailerLite landing copy | root |
-| `BULAN-1-TACTICAL-PLAN.md` | ✓ Day 1-30 daily script | root |
+| File | Status |
+|---|---|
+| `WORKSHEET-7-DAY-CHALLENGE.md` | ✓ 527 lines |
+| `REPLY-TEMPLATES-D1-D7.md` | ✓ 216 lines |
+| `LANDING-COPY-3-PAGE.md` | ✓ 337 lines |
+| `BULAN-1-TACTICAL-PLAN.md` | ✓ 267 lines |
 
-### Layer E — FULL Playbook Closure (sesi 29 Mei, Path G2, 7 file sub-folder `buku/`)
+### Layer E — Operational Long-term (sesi 29 Mei, Path G2, PART 9)
 
-| File | Status | Lokasi |
-|---|---|---|
-| `BULAN-2-TACTICAL-PLAN.md` | ✓ Day 31-60 daily script | `buku/` |
-| `BULAN-3-TACTICAL-PLAN.md` | ✓ Day 61-90 daily script + Q1 refresh | `buku/` |
-| `EMAIL-NURTURE-DAY8-PLUS.md` | ✓ Email 9-12 + 2 re-engage + segment tag | `buku/` |
-| `CRISIS-COMM-SOP.md` | ✓ 4 scenario + 3-step PAUSE→ASSESS→RESPOND | `buku/` |
-| `VA-DELEGATION-PLAYBOOK.md` | ✓ Hire framework Bulan 3+ | `buku/` |
-| `AFFILIATE-JV-STRUCTURE.md` | ✓ Affiliate Bulan 4+ + JV Bulan 9-12 | `buku/` |
-| `BULAN-4-12-OKR-FRAMEWORK.md` | ✓ Q2-Q4 OKR + annual review | `buku/` |
+| File | Status |
+|---|---|
+| `BULAN-2-TACTICAL-PLAN.md` | ✓ Day 31-60 daily script |
+| `BULAN-3-TACTICAL-PLAN.md` | ✓ Day 61-90 + Q1 refresh |
+| `EMAIL-NURTURE-DAY8-PLUS.md` | ✓ Email 9-12 + 2 re-engage |
+| `CRISIS-COMM-SOP.md` | ✓ 4 scenario + 3-step framework |
+| `VA-DELEGATION-PLAYBOOK.md` | ✓ Hire framework Bulan 3+ |
+| `AFFILIATE-JV-STRUCTURE.md` | ✓ Affiliate Bulan 4+ + JV Bulan 9-12 |
+| `BULAN-4-12-OKR-FRAMEWORK.md` | ✓ Q2-Q4 OKR + annual review |
 
-⚠️ **Struktur inkonsistensi:** Path G2 di sub-folder `buku/` (bukan root). Cleanup move-to-root atau reorganize bisa jadi item Path I sesi berikutnya.
+### Layer F — Legal Foundation (sesi 30 Mei, Path J, PART 10)
 
-### Wave deploy progress matrix (UPDATED)
+| File | Status |
+|---|---|
+| `PRIVACY-POLICY-TEMPLATE.md` | ✓ 254 lines, UU PDP compliance |
+| `TERMS-OF-SERVICE-TEMPLATE.md` | ✓ 336 lines, refund T&C aligned |
+
+### Layer G — Operational Pasca-Pembelian (sesi 30 Mei, Path K, PART 11)
+
+| File | Status |
+|---|---|
+| `REFUND-SAVING-SCRIPT.md` | ✓ 351 lines, 3-tier response SOP |
+| `ONBOARDING-POST-BUKU.md` | ✓ 416 lines, 6-email sequence |
+
+### Wave deploy progress matrix (UNCHANGED — manual giliran user)
 
 | Wave | Spec status | Deploy status |
 |---|---|---|
-| **Wave 1 — Foundation Visual** | 100% (1.1 + 1.2 done) | 0% (manual deploy pending) |
-| **Wave 2 — Lead Magnet Funnel** | 100% (2.1 + 2.2 done) | 0% (Lynk.id + MailerLite setup pending) |
-| **Wave 3 — Pinned Content** | 100% (3.1 + 3.2 done) | 0% (carousel render dep Wave 1.1 + thread pending) |
-| **Wave 4 — Tracking** | 100% (4.1 + 4.2 done, bundled) | 0% (Notion DB + Sheets tab pending) |
-| **Wave 5 — Dry-Run** | 100% (5.1 + 5.2 done, bundled) | 0% (test + Day-1 ritual rehearsal pending) |
+| Wave 1 — Foundation Visual | 100% | 0% |
+| Wave 2 — Lead Magnet Funnel | 100% | 0% |
+| Wave 3 — Pinned Content | 100% | 0% |
+| Wave 4 — Tracking | 100% | 0% |
+| Wave 5 — Dry-Run | 100% | 0% |
 
 ---
 
-## ⚠️ KNOWN GAPS — STILL VALID
+## ⚠️ KNOWN GAPS — 1 GAP TERSISA
 
 ### Gap 1: Domain `arifb.id/[path]` placeholder — DEFERRED
 
-`arifb.id` = username sosmed, **bukan domain**. ~30 referensi `arifb.id/[path]` placeholder di 6 file (`LAUNCH-PACK-BUKU.md`, `LAUNCH-PACK-COHORT.md`, `CORPORATE-INBOUND-PLAYBOOK.md`, `CROSS-PLATFORM-PLAYBOOK.md`, `LANDING-PAGE-7-DAY-CHALLENGE.md`, `LANJUTKAN-DI-SINI.md`).
+`arifb.id` = username sosmed, **bukan domain**. ~30 referensi `arifb.id/[path]` placeholder di 6 file (`LAUNCH-PACK-BUKU.md`, `LAUNCH-PACK-COHORT.md`, `CORPORATE-INBOUND-PLAYBOOK.md`, `CROSS-PLATFORM-PLAYBOOK.md`, `LANDING-PAGE-7-DAY-CHALLENGE.md`, file ini).
+
+Plus placeholder di `PRIVACY-POLICY-TEMPLATE.md` + `TERMS-OF-SERVICE-TEMPLATE.md` (Path J): `[DOMAIN-LANDING]`, `[EMAIL-PIC]`, `[EMAIL-KONTAK]`, `[ALAMAT-USAHA]`, `[NAMA-PENGADILAN]`, `[NPWP-NO]`, `[TANGGAL-EFEKTIF]` — wajib diisi sebelum publish.
 
 - **User decision sesi 27 Mei:** Opsi 2 — defer fix sampai domain di-register.
 - **Deadline fix:** D-30 sebelum Buku Launch Mgg 7.
 - **Bypass sementara:** Wave 2.1 Lynk.id pakai `lynk.id/arifb.id` sub-domain native, jadi tidak ter-block.
 
-### Gap 2: Master Index `PLAYBOOK-MASTER.md` outdated post Path G2
+### Gap 2: Master Index outdated — RESOLVED ✅ (Path I, commit ini)
 
-Master Index masih bilang "22 chapter, 12/12 done, Sesi terakhir Layer 21(2/2) — 27 Mei 2026". Tidak include:
-- Path F (1 file risk register)
-- Path Final (4 root operational asset)
-- Path G2 (7 file sub-folder `buku/`)
+Path I refresh `PLAYBOOK-MASTER.md` ke 11 PART struktur (48 file). Sebelumnya masih state "22 chapter, 12/12 done" yang outdated post Path G2/E/J/K.
 
-**Action:** Sesi mendatang refresh `PLAYBOOK-MASTER.md` TOC ke 22 chapter + 7 wave brief + 1 risk + 4 root asset + 7 Path G2 file = ~41 dokumen total.
+### Gap 3: Struktur split root vs `buku/` — RESOLVED ✅ (Path E, commit `6201f2a`)
 
-### Gap 3: Struktur split root vs `buku/` sub-folder
-
-7 Path G2 file di sub-folder `buku/`, 33+ file lain di root. Inkonsistensi navigasi.
-
-**Action options:**
-- (A) Move `buku/*.md` → root (1 commit "refactor: move Path G2 to root for navigation consistency")
-- (B) Keep nested + update Master Index untuk reference path lengkap
-- (C) Reorganize semua file ke nested struktur per kategori (PART 0/1/2/3/4/5/6 folder)
-
-Default rekomendasi: **Opsi A** (move ke root) — simpler, tidak break existing references, alignment dengan 33 file lain.
+7 Path G2 file sudah di root, sub-folder `buku/` di-remove dari git tree.
 
 ---
 
-## AUDIT STATUS REAL-WORLD — Pra-Day-1 (per 29 Mei 2026)
+## AUDIT STATUS REAL-WORLD — Pra-Day-1 (per 30 Mei 2026)
 
 ### Confirmed pre-existing (sesi 27 Mei):
 
@@ -195,39 +214,27 @@ Default rekomendasi: **Opsi A** (move ke root) — simpler, tidak break existing
 | Akun sosmed `@arifb.id` 4 platform | ✓ Live |
 | Foto profile B&W premium | ✓ Ready |
 | Manuskrip THE AI ARCHITECT | ✓ FINAL production-ready |
-| Domain landing | ⚪ Deferred (Layer 23 future) |
+| Domain landing | ⚪ Deferred |
 
-### Spec briefs locked sesi 28 Mei (7 wave brief):
+### Sesi 28-30 Mei achievements (24+ commits):
 
-| Item | Commit |
+| Path | Achievement |
 |---|---|
-| Wave 1.2 Bio 4 platform | `faa4683` |
-| Wave 1.1 Wordmark 3-variant | `95f58ac` |
-| Wave 2.1 Lynk.id 3-card aggregator | `9078943` |
-| Wave 2.2 MailerLite 9-email + 3 landing | `896da8d` |
-| Wave 3.2 Threads pinned 8-post | `e6b0661` |
-| Wave 4-5 Bundle | `82e0c34` |
-| Wave 3.1 Manifesto Carousel IG (final + cleanup) | `f3dc91d` + `f2bc902` |
+| Sesi 28 Mei (10 commits) | 7 wave brief Pra-Day-1 100% locked |
+| Path F (`5dc7677`) | Risk register 38 risk + pre-flight |
+| Path Final (`5cf2957`) | 4 root operational asset |
+| Path G2 (7 commits) | Tactical plan Bulan 2-3 + OKR Q2-Q4 + email nurture + crisis SOP + VA + affiliate JV |
+| Path H (`938c766`) | Handover refresh post Path G2 |
+| Path E (`6201f2a`) | Struktur cleanup (move 7 file ke root) |
+| Path J (`9474c14`) | Privacy Policy + ToS templates |
+| Path K (`4885e80`) | Refund saving + Onboarding post-buku |
+| Path I (commit ini) | Master Index refresh + handover sync (FINAL state) |
 
-### Path F + Path Final + Path G2 closure sesi 29 Mei:
-
-| Item | Commit |
-|---|---|
-| Pre-deploy risk register (38 risk) | `5dc7677` |
-| 4 root operational asset (worksheet/reply/landing/Bulan 1) | `5cf2957` |
-| Path G2 1/7 — Bulan 2 tactical | `01338ba` |
-| Path G2 2/7 — Bulan 3 tactical | `52d8415` |
-| Path G2 3/7 — Email nurture Day 8+ | `aea8a81` |
-| Path G2 4/7 — Crisis comm SOP | `4ced6d1` |
-| Path G2 5/7 — VA delegation playbook | `2bba4a6` |
-| Path G2 6/7 — Affiliate JV structure | `ba36d0a` |
-| Path G2 7/7 — Bulan 4-12 OKR framework | `4c38f28` |
-
-### PENDING manual execution oleh user (UNCHANGED dari handover sebelumnya):
+### PENDING manual execution oleh user (UNCHANGED):
 
 | Asset | Status | Tool tujuan | Estimasi |
 |---|---|---|---|
-| Bio paste deploy 4 platform | ⚪ Pending | Native masing-masing | 10 min |
+| Bio paste deploy 4 platform | ⚪ Pending | Native | 10 min |
 | Wordmark 3-variant render Canva | ⚪ Pending | Canva Pro | 60-90 min |
 | Lynk.id Free aggregator setup | ⚪ Pending | Lynk.id Free | 60 min |
 | MailerLite Free setup (3 landing + 9-email + 7 worksheet) | ⚪ Pending | MailerLite Free + Google Docs | 180 min |
@@ -239,16 +246,25 @@ Default rekomendasi: **Opsi A** (move ke root) — simpler, tidak break existing
 | Day-1 ritual rehearsal | ⚪ Pending | Manual checklist | 30 min |
 | **Total sequential execution Wave 1-5 deploy** | — | — | **~10 jam** |
 
+### TAMBAHAN manual yang muncul dari Path J + K:
+
+| Asset | Trigger | Estimasi |
+|---|---|---|
+| Privacy Policy + ToS legal review (template → final) | Sebelum landing publish | Pengacara — variable |
+| Domain register + bulk find-replace 30 placeholder | D-30 Mgg 7 | 1-2 jam |
+| MailerLite onboarding sequence 6 email setup (post-buku) | Saat buku launch Mgg 7 prep | 90 min |
+| Refund SOP internalisasi (read + bookmark) | Sebelum buku launch | 30 min |
+
 ---
 
-## PROGRESS PERSENTASE TERBARU (per 29 Mei 2026 — playbook closure 100%)
+## PROGRESS PERSENTASE TERBARU (per 30 Mei 2026)
 
 ### Framing A — Menuju target 12 bulan (Rp 1M + 30K followers)
 
 | Komponen | Bobot | Selesai | Kontribusi |
 |---|---|---|---|
-| Strategi + dokumentasi (22 chapter + 7 wave + risk + 11 Path G2/Final/F file) | 25% | 100% | 25% |
-| Pre-launch setup (5/6 tool + 7/7 brief + foto + buku) | 10% | ~50% | 5% |
+| Strategi + dokumentasi (48 file ~28.900 baris) | 25% | 100% | 25% |
+| Pre-launch setup (5/6 tool + Wave 1-5 brief + foto + buku + legal + onboarding) | 10% | ~50% | 5% |
 | Eksekusi Bulan 1-3 | 35% | 0% | 0% |
 | Eksekusi Bulan 4-6 | 20% | 0% | 0% |
 | Eksekusi Bulan 7-12 | 10% | 0% | 0% |
@@ -258,21 +274,14 @@ Default rekomendasi: **Opsi A** (move ke root) — simpler, tidak break existing
 
 | Komponen | Bobot | Status | Kontribusi |
 |---|---|---|---|
-| Dokumentasi 22 chapter + Day-1 + risk + Path G2 | 50% | ✓ 100% | 50% |
+| Dokumentasi (48 file) | 50% | ✓ 100% | 50% |
 | Asset spec'd + deployed (Wave 1-5) | 20% | 🟡 ~60% (spec 100%, deploy 0%) | 12% |
 | Tooling (5 tool aktif + domain) | 15% | ✓ 5/6 = 83% | 12.5% |
-| Profile 4 platform live (handle saja) | 10% | ✓ 100% | 10% |
+| Profile 4 platform live | 10% | ✓ 100% | 10% |
 | End-to-end test funnel (Wave 5) | 5% | ⚪ 0% | 0% |
 | **TOTAL** | 100% | — | **~85%** |
 
-### Framing C — Pra-Day-1 spec progress
-
-| Wave | Spec progress | Deploy progress |
-|---|---|---|
-| Wave 1-5 | 100% | 0% |
-| **TOTAL** | **100% spec / 0% deploy** | — |
-
-### Framing D — Operational pegangan 12 bulan (NEW post Path G2)
+### Framing D — Operational pegangan 12 bulan (post Path J + K)
 
 | Komponen | Status |
 |---|---|
@@ -283,13 +292,15 @@ Default rekomendasi: **Opsi A** (move ke root) — simpler, tidak break existing
 | Pra-Day-1 spec 7 wave brief + risk register | ✓ 100% |
 | Daily script Bulan 1-3 + OKR Q2-Q4 + annual review | ✓ 100% |
 | Email nurture Day 8+ + crisis SOP + VA + affiliate JV | ✓ 100% |
-| **TOTAL** | **100% pegangan operasional 12 bulan** |
+| **Legal foundation (Privacy + ToS UU PDP compliance)** | ✓ 100% |
+| **Operational pasca-pembelian (refund SOP + onboarding 6-email)** | ✓ 100% |
+| **TOTAL** | **100% pegangan operasional 12 bulan + legal + operational pasca-pembelian** |
 
-**Honest read:** Anda di **~30% menuju target 12 bulan** atau **~85% siap launch Day 1**. Pegangan operasional 12 bulan = **100% complete**. Bottleneck = **deploy 7 brief Wave 1-5 ke real platform** (~10 jam manual sequential). Brainstorm phase = **CLOSED** di sini, eksekusi = giliran user.
+**Honest read:** Anda di **~30% menuju target 12 bulan** atau **~85% siap launch Day 1**. **Brainstorm + dokumentasi phase = CLOSED 100%.** Bottleneck = **deploy 7 brief Wave 1-5 ke real platform** (~10 jam manual sequential) + **legal review Privacy/ToS template** (variable, dengan pengacara).
 
 ---
 
-## KEPUTUSAN KUNCI YANG SUDAH FIX (UPDATED — 29 MEI)
+## KEPUTUSAN KUNCI YANG SUDAH FIX (UPDATED — 30 MEI)
 
 | Keputusan | Pilihan |
 |---|---|
@@ -303,33 +314,32 @@ Default rekomendasi: **Opsi A** (move ke root) — simpler, tidak break existing
 | Wordmark primary | "ARIF BUDIMAN / the ai architect" lowercase |
 | Bio signature line | `building systems, not hype.` (ENG) + `framework bukan tutorial random.` (ID) |
 | Audience istilah | "profesional & pemilik usaha" |
-| **Lynk.id tier** | Free Day 1 · upgrade Pro Yearly Rp 990K saat trigger M3 |
-| **MailerLite tier** | Free Day 1 · upgrade Premium ~Rp 150K/bulan saat trigger M-MailerLite |
-| **Worksheet delivery** | A3 Google Docs share-only Day 1 · upgrade A1 PDF Canva Bulan 2-3 |
-| **Manual attribution (M1)** | Inject Email 0 body 3-4 baris pre-signoff |
-| **Lynk.id Card 4 Corporate** | Hidden Day 1 · aktivasi Bulan 4+ |
-| **Lynk.id card order** | Lead Magnet → Buku → Cohort (TOFU → MOFU → BOFU) |
-| **A/B testing email** | OFF Day 1 · evaluate Bulan 2 baseline dulu |
-| **Personalisasi email** | `{NAMA}` only · fallback "teman" |
-| **Commit pattern hybrid** | Brainstorm Kiro + commit ChatGPT (proven 13/13 clean Path G2 + sebelumnya) |
-| **Spec brief delimiter** | ZONA A (paste ke file) vs ZONA B (hanya untuk pembaca prompt) |
-| **Verification target numerik** | Wajib derive dari tool call output aktual + temp file `wc -l`/`grep -c` workflow |
-| **2-prompt split for ChatGPT** | PROMPT 1 = receive content + line count konfirmasi (no file ops); PROMPT 2 = atomic create+commit+push |
-| **Wave 3.1 IG carousel theme** | Dark `#1A1A1A` · Playfair Display + Inter · footer wordmark embed + counter X/7 |
-| **Wave 3.2 Threads pinned format** | 8 post (1 hook + 7 prinsip + 1 closing dilebur), ≤500 char per post |
-| **Cross-format D1 stagger** | 19:30 WIB Threads → 20:00 IG carousel → 20:30 LinkedIn long-post |
-| **Wave 4 tracking stack** | Notion 3-database (Content/Funnel/KPI) + Sheets 6-tab bridge |
-| **Wave 5 dry-run scope** | Stranger flow end-to-end test (single user persona, 30 min) |
-| **Path F risk register grading** | 4-tier severity (Low/Med/High/Critical) + 3-tier likelihood (L/M/H), mitigation hybrid full/1-line |
-| **Path G2 Bulan 2-3 tactical** | Daily ritual + weekly checkpoint + decision fatigue guards + metric targets per bulan |
-| **Path G2 Email nurture Day 8+** | Email 9-12 (Day 14/21/30/45 completer) + 2 re-engage (Day 14 partial/ghost, Day 30 final) + segment tag MailerLite |
-| **Path G2 Crisis 3-step framework** | PAUSE (1-3 jam) → ASSESS (15-30 min) → RESPOND, voice consistency = signature trust saat tertekan |
-| **Path G2 VA hire trigger** | 3 metric: time saturation + energy ceiling + opportunity cost; tier 1 = research/image/comment moderation |
-| **Path G2 VA cost framework Indonesia** | Entry Rp 3-4JT, experienced Rp 5-7JT, ROI 2-5x cost target |
-| **Path G2 Affiliate buku** | 10% komisi · 30-hari cookie · partner kriteria curated (no auto-accept) |
-| **Path G2 JV cohort** | Revenue split decision matrix 5-factor · Bulan 9-12 only |
-| **Path G2 OKR decision rules** | DOUBLE-DOWN (>120% target 2Q) / PIVOT (60-80% mixed signal) / CUT (<50% 2Q consistent) |
-| **Path G2 Annual review ritual** | Day 358-365 (5 langkah: data compile, reflection, Year 2 planning, public reflection) |
+| Lynk.id tier | Free Day 1 · upgrade Pro Yearly Rp 990K saat trigger M3 |
+| MailerLite tier | Free Day 1 · upgrade Premium ~Rp 150K/bulan saat trigger M-MailerLite |
+| Worksheet delivery | A3 Google Docs share-only Day 1 · upgrade A1 PDF Canva Bulan 2-3 |
+| Lynk.id Card 4 Corporate | Hidden Day 1 · aktivasi Bulan 4+ |
+| Lynk.id card order | Lead Magnet → Buku → Cohort (TOFU → MOFU → BOFU) |
+| A/B testing email | OFF Day 1 · evaluate Bulan 2 baseline dulu |
+| Personalisasi email | `{NAMA}` only · fallback "teman" |
+| Commit pattern hybrid | Brainstorm Kiro + commit Kiro local fallback (proven 3x: Path H + J + K) |
+| Spec brief delimiter | ZONA A (paste ke file) vs ZONA B (hanya untuk pembaca prompt) |
+| Verification target numerik | Wajib derive dari `wc -l` + `grep -o` aktual (BUKAN `grep -c` line count yang ambiguous) |
+| 2-prompt split for ChatGPT | PROMPT 1 = receive content + line count konfirmasi (no file ops); PROMPT 2 = atomic create+commit+push |
+| Byte-exact content route | DEFAULT Kiro local commit (untuk legal/contract/handover) — bukan ChatGPT/account-lain (line ending normalization risk) |
+| Path G2 Email nurture Day 8+ | Email 9-12 (Day 14/21/30/45 completer) + 2 re-engage (Day 14 partial/ghost, Day 30 final) |
+| Path G2 Crisis 3-step framework | PAUSE (1-3 jam) → ASSESS (15-30 min) → RESPOND |
+| Path G2 VA hire trigger | 3 metric: time saturation + energy ceiling + opportunity cost |
+| Path G2 VA cost framework Indonesia | Entry Rp 3-4JT, experienced Rp 5-7JT, ROI 2-5x cost target |
+| Path G2 Affiliate buku | 10% komisi · 30-hari cookie · partner kriteria curated |
+| Path G2 JV cohort | Revenue split decision matrix 5-factor · Bulan 9-12 only |
+| Path G2 OKR decision rules | DOUBLE-DOWN (>120% target 2Q) / PIVOT (60-80% mixed signal) / CUT (<50% 2Q consistent) |
+| **Path J Privacy Policy** | UU PDP Pasal 5-13 hak Subjek Data, 8 Pemroses Data disclosed, retensi 5-tier, no Meta/TikTok pixel |
+| **Path J ToS** | Refund T&C aligned (30/7/NO), liability cap 12-bulan, IP no AI training, hukum RI |
+| **Path J template status** | Wajib review pengacara + isi 7 placeholder sebelum publish |
+| **Path K Refund SACRED** | No-question approve in window. Dialog 1-round = LEARNING ASK, BUKAN SAVE ATTEMPT |
+| **Path K Refund anti-pattern** | NO begging/defensive/delay/guilt-trip/conditional refund |
+| **Path K Onboarding filosofi** | Trust deepening, BUKAN upsell agresif. Max 2 email/minggu |
+| **Path K Onboarding cross-sell** | Cohort soft pitch hanya di B+21 (post 3-week trust) |
 | Buku 3-tier | Rp 297K / Rp 547K / Rp 897K |
 | Buku launch | Mgg 7 Rab D47, 19:00 WIB |
 | Refund buku | 30-hari, no-question |
@@ -347,31 +357,41 @@ Default rekomendasi: **Opsi A** (move ke root) — simpler, tidak break existing
 
 ---
 
-## FLOW KERJA (Sesi 29 Mei — pattern proven Path G2 7/7 clean)
+## FLOW KERJA (Sesi 30 Mei — pattern proven Path H + J + K all via Kiro local fallback)
 
 ```
 1. Brainstorm + decision lock di Kiro chat (high-value reasoning)
 2. Kiro draft full content ke temp file workspace lokal
-3. Kiro jalankan wc -l + grep -c untuk semua verification target numerik
-   (HARD-BLOCK estimasi: kalau belum ada output, JANGAN tulis line count target)
-4. Kiro generate spec brief 2-prompt:
-   PROMPT 1: receive content + line count konfirmasi (no file ops)
-   PROMPT 2: atomic create+commit+push dengan verification target dari output aktual
-5. Pakai delimiter eksplisit:
-   ═══ ZONA A: PASTE KE FILE (verbatim) ═══     ← content yang masuk file
-   ═══ ZONA B: HANYA UNTUK ANDA ═══             ← meta/instruksi/checklist
-6. User paste PROMPT 1 ke ChatGPT → ChatGPT konfirmasi line count
-7. User paste PROMPT 2 ke ChatGPT → ChatGPT atomic create+commit+push
-8. User verify SHA + URL di GitHub
-9. Lanjut task berikutnya
+   (atau langsung ke repo file kalau tidak ada plan ChatGPT route)
+3. Kiro jalankan wc -l + grep -o untuk semua verification target numerik
+   PENTING: pakai grep -o (occurrence count), BUKAN grep -c (line count)
+4. Routing decision:
+   a. File <15KB pure ASCII tanpa byte-exact requirement → ChatGPT route OK
+   b. File >25KB ATAU Unicode-heavy ATAU byte-exact critical → Kiro local fallback
+   c. File rename/move → MANDATORY Kiro local (atomic git mv)
+   d. Multi-file atomic commit → Kiro local
+5. Eksekusi:
+   - Kiro local: cp temp → repo + git add + git commit + push via mcp tool
+   - ChatGPT: 2-prompt spec brief (PROMPT 1 receive content + line count konfirmasi,
+     PROMPT 2 atomic create+commit+push dengan verification target dari wc/grep aktual)
+6. Verify SHA + URL via GitHub API
+7. Cleanup temp file workspace
+8. Lanjut task berikutnya
 ```
 
-**Anti-improvisation guard pattern:**
-> "JANGAN re-generate, JANGAN polish, JANGAN tambah/hapus konten. Plain text commit only. Single markdown file. Patuhi delimiter ZONA A/B — jangan paste content ZONA B ke file."
+**Anti-improvisation guard pattern (untuk ChatGPT route):**
+> "JANGAN re-generate, JANGAN polish, JANGAN tambah/hapus konten. Plain text commit only. Single markdown file."
 
-**Track record halt-yang-correct:** Saat ChatGPT halt karena verification mismatch atau internal safety check, itu = guard bekerja sempurna. Bukan kegagalan ChatGPT. Switch ke Kiro cleanup kalau task minor + deterministic.
+**Track record halt-yang-correct:** Saat ChatGPT halt karena verification mismatch atau internal safety check, itu = guard bekerja sempurna. Bukan kegagalan ChatGPT. Switch ke Kiro local fallback.
 
-**Track record sesi 28-29 Mei:** Path G2 7/7 zero-halt. Pattern matang.
+**Track record sesi 28-30 Mei (15+ commits via various routes):**
+- ChatGPT clean: 7/7 Path G2 zero-halt
+- ChatGPT halt + Kiro fallback: Path H, Path J (correct halt → Kiro local commit)
+- Kiro account user lain success: Path E (atomic git mv)
+- Kiro account user lain halt + Kiro fallback: Path J file 1/2 (fs_write line ending)
+- Kiro local direct: Path F, Path Final, Path K, Path I
+
+**Pattern matang:** Untuk byte-exact content (legal, contract, handover, master index), DEFAULT Kiro local. Untuk ASCII content <15KB tanpa critical byte requirement, ChatGPT route OK dengan fallback ready.
 
 ---
 
@@ -390,39 +410,13 @@ Default rekomendasi: **Opsi A** (move ke root) — simpler, tidak break existing
 ### Tentang Repository
 
 - **Repo:** `arifbudiman575-ship-it/buku`
-- **Branch aktif:** `add-thread-arsi-7-hari` (HEAD `4c38f28a`)
+- **Branch aktif:** `add-thread-arsi-7-hari` (HEAD `4885e80` → akan bergeser ke commit Path I ini)
 - **PR aktif:** [#12](https://github.com/arifbudiman575-ship-it/buku/pull/12)
-- **Total file aktif (estimasi):** ~41 dokumen `.md` (33+ root + 7 sub-folder `buku/` + 2 PDF + 3 source notes)
-- **File baru/expand di sesi 28-29 Mei (12 file content):**
-
-  Sesi 28 Mei (root, 7 wave brief + 1 expand):
-  - `BIO-COPY-4-PLATFORM.md` (Wave 1.2)
-  - `WORDMARK-SPEC-BRIEF.md` (Wave 1.1)
-  - `LYNK-ID-SETUP-BRIEF.md` (Wave 2.1)
-  - `MAILERLITE-AUTOMATION-BRIEF.md` (Wave 2.2)
-  - `THREADS-PINNED-8-POST.md` (Wave 3.2)
-  - `WAVE-4-5-BUNDLE-BRIEF.md` (Wave 4-5 bundled)
-  - `MANIFESTO-CAROUSEL-IG.md` (Wave 3.1, expanded)
-
-  Sesi 29 Mei root (Path F + Path Final, 5 file):
-  - `PRE-DEPLOY-RISK-REGISTER.md` (Path F)
-  - `WORKSHEET-7-DAY-CHALLENGE.md` (Path Final)
-  - `REPLY-TEMPLATES-D1-D7.md` (Path Final)
-  - `LANDING-COPY-3-PAGE.md` (Path Final)
-  - `BULAN-1-TACTICAL-PLAN.md` (Path Final)
-
-  Sesi 29 Mei sub-folder `buku/` (Path G2, 7 file):
-  - `buku/BULAN-2-TACTICAL-PLAN.md`
-  - `buku/BULAN-3-TACTICAL-PLAN.md`
-  - `buku/EMAIL-NURTURE-DAY8-PLUS.md`
-  - `buku/CRISIS-COMM-SOP.md`
-  - `buku/VA-DELEGATION-PLAYBOOK.md`
-  - `buku/AFFILIATE-JV-STRUCTURE.md`
-  - `buku/BULAN-4-12-OKR-FRAMEWORK.md`
+- **Total file aktif:** **48 dokumen `.md`** di root (semua flat, no sub-folder post Path E) + 2 PDF + 3 source notes
 
 ### Hierarki 5 Sumber (anchor di STRATEGI §0.1)
 
-1. 🔒 Buku THE AI ARCHITECT (Arif) — Core IP sacred
+1. Buku THE AI ARCHITECT (Arif) — Core IP sacred
 2. Rama / @productivityboi — Methodology pondasi
 3. Theoderic — Purpose × strength × authenticity
 4. Pak Subyakto Priyojudanto — 50-tahun filosofi
@@ -437,65 +431,26 @@ Default rekomendasi: **Opsi A** (move ke root) — simpler, tidak break existing
 
 4/4 lolos = publish. Salah satu fail = revisi atau buang.
 
-### File anchor playbook (UPDATED 29 MEI)
+### File anchor playbook (UPDATED 30 MEI — 48 file di 11 PART)
 
-**Strategi (3 file):**
-- `STRATEGI-PERSONAL-BRANDING.md` — 18 section master strategi
-- `BRAND-JOURNEY-MAP.md` — roadmap 4 quarter
-- `analisa_kompetitor.md` — 31 kompetitor T1/T2/T3
+Untuk daftar lengkap + reading time per dokumen, lihat `PLAYBOOK-MASTER.md` Section "TABLE OF CONTENTS" + "CHAPTER CARDS".
 
-**Konten harian (8+ file):**
-- `CONTENT-CALENDAR-BULAN-{1,2,3}.md` — 86 post + long-thread
-- `THREADS-LONGFORM-ABC-TEST.md` — 8 long-thread Bulan 1-2
-- `MANIFESTO-CAROUSEL-IG.md` — carousel Day 1
-- `PILLAR-3-STUDI-CASE-PAK-BI.md` — 8 post filosofi Pak Bi
-- `CROSS-PLATFORM-PLAYBOOK.md` — per-platform tactics 4 platform
-- `VISUAL-BRAND-IDENTITY.md` — visual standard
+**Highlights 22 file core (PART 0-4) + 22 file pendukung (PART 5-11):**
 
-**Launch (5 file):**
-- `EMAIL-SEQUENCE-7-DAY-CHALLENGE.md` — 9 email lead magnet
-- `LANDING-PAGE-7-DAY-CHALLENGE.md` — landing page copy
-- `LAUNCH-PACK-BUKU.md` — Master ops buku launch
-- `LAUNCH-PACK-COHORT.md` — Master ops cohort launch
-- `CORPORATE-INBOUND-PLAYBOOK.md` — Master ops corporate audit Bulan 4+
+**Core (Strategi + Konten + Launch + Operasional):**
+- Strategi: STRATEGI 18 section, BJM, kompetitor
+- Konten harian: VISUAL-BRAND-IDENTITY, MANIFESTO-CAROUSEL-IG, CROSS-PLATFORM, CONTENT-CALENDAR-BULAN-1/2/3, THREADS-LONGFORM-ABC-TEST, PILLAR-3
+- Launch: LANDING-PAGE-7-DAY, EMAIL-SEQUENCE-7-DAY, LAUNCH-PACK-BUKU/COHORT, CORPORATE-INBOUND
+- Operasional harian: OPERATIONAL-SETUP, TRACKING-DASHBOARD, REPLY-FARM, ANTI-BURNOUT, STRATEGY-REFRESH
 
-**Operasional (5 file):**
-- `OPERATIONAL-SETUP.md` — tooling stack
-- `TRACKING-DASHBOARD.md` — KPI tracking
-- `REPLY-FARM-PLAYBOOK.md` — komen-as-currency
-- `ANTI-BURNOUT-PROTOCOL.md` — sustainability layer
-- `STRATEGY-REFRESH-PROTOCOL.md` — quarterly recalibration
-
-**Day-1 sequencing + Risk (2 file):**
-- `DAY-1-LAUNCH-CHECKLIST.md` — 5-wave critical path
-- `PRE-DEPLOY-RISK-REGISTER.md` — 38 risk + pre-flight + recovery
-
-**Pra-Day-1 execution briefs (7 file):**
-- `BIO-COPY-4-PLATFORM.md` (Wave 1.2)
-- `WORDMARK-SPEC-BRIEF.md` (Wave 1.1)
-- `LYNK-ID-SETUP-BRIEF.md` (Wave 2.1)
-- `MAILERLITE-AUTOMATION-BRIEF.md` (Wave 2.2)
-- `MANIFESTO-CAROUSEL-IG.md` (Wave 3.1, expanded)
-- `THREADS-PINNED-8-POST.md` (Wave 3.2)
-- `WAVE-4-5-BUNDLE-BRIEF.md` (Wave 4-5 bundled)
-
-**Operational asset closure (4 file root, Path Final):**
-- `WORKSHEET-7-DAY-CHALLENGE.md`
-- `REPLY-TEMPLATES-D1-D7.md`
-- `LANDING-COPY-3-PAGE.md`
-- `BULAN-1-TACTICAL-PLAN.md`
-
-**Operational long-term (7 file sub-folder `buku/`, Path G2):**
-- `buku/BULAN-2-TACTICAL-PLAN.md`
-- `buku/BULAN-3-TACTICAL-PLAN.md`
-- `buku/EMAIL-NURTURE-DAY8-PLUS.md`
-- `buku/CRISIS-COMM-SOP.md`
-- `buku/VA-DELEGATION-PLAYBOOK.md`
-- `buku/AFFILIATE-JV-STRUCTURE.md`
-- `buku/BULAN-4-12-OKR-FRAMEWORK.md`
-
-**Master index (1 file, OUTDATED post Path G2 — perlu refresh):**
-- `PLAYBOOK-MASTER.md`
+**Pendukung (Day-1, Risk, Asset, Long-term, Legal, Pasca-pembelian):**
+- Day-1: DAY-1-LAUNCH-CHECKLIST
+- Risk: PRE-DEPLOY-RISK-REGISTER (38 risk + pre-flight)
+- Asset: WORKSHEET-7-DAY, REPLY-TEMPLATES-D1-D7, LANDING-COPY-3-PAGE, BULAN-1-TACTICAL
+- Long-term: BULAN-2-TACTICAL, BULAN-3-TACTICAL, BULAN-4-12-OKR, EMAIL-NURTURE-DAY8-PLUS, CRISIS-COMM-SOP, VA-DELEGATION-PLAYBOOK, AFFILIATE-JV-STRUCTURE
+- Legal: PRIVACY-POLICY-TEMPLATE, TERMS-OF-SERVICE-TEMPLATE
+- Pasca-pembelian: REFUND-SAVING-SCRIPT, ONBOARDING-POST-BUKU
+- Master + handover: PLAYBOOK-MASTER (file ini sebagai navigasi pasangan)
 
 ---
 
@@ -506,9 +461,10 @@ Default rekomendasi: **Opsi A** (move ke root) — simpler, tidak break existing
 ### Path A — Deploy mode (eksekusi manual ~10 jam)
 
 ```
-Lanjut dari handover 29 Mei. State branch add-thread-arsi-7-hari HEAD 4c38f28a.
-Pra-Day-1 spec 100% locked + risk register + 4 root asset + 7 Path G2 file
-operasional. Saya sedang deploy Wave [X.X]. Ada blocker di [step]. Bantu debug.
+Lanjut dari handover 30 Mei. State branch add-thread-arsi-7-hari HEAD 4885e80
++ commit Path I (refresh Master Index + handover sync). Pra-Day-1 spec
+100% locked + 11 PART playbook complete (48 file). Saya sedang deploy
+Wave [X.X]. Ada blocker di [step]. Bantu debug.
 
 Reference brief:
 - Wave 1.1 → WORDMARK-SPEC-BRIEF.md
@@ -524,10 +480,10 @@ Risk reference: PRE-DEPLOY-RISK-REGISTER.md (baca H-1 sebelum deploy).
 Recommended deploy order: 1.1 → 1.2 → 2.1 → 2.2 → 3.2 → 3.1 → 4-5.
 ```
 
-### Path B — Audit deploy progress (sebagian deploy sudah selesai)
+### Path B — Audit deploy progress
 
 ```
-Lanjut dari handover 29 Mei. Sudah deploy:
+Lanjut dari handover 30 Mei. Sudah deploy:
 - [ ] Wave 1.1 Wordmark Canva render: [done/partial/no]
 - [ ] Wave 1.2 Bio paste 4 platform: [done/partial/no]
 - [ ] Wave 2.1 Lynk.id setup Free: [done/partial/no]
@@ -545,7 +501,7 @@ Audit state real, update progress %, identify next deploy blocker.
 ### Path C — End-to-end dry run (Wave 1-4 deploy 100%)
 
 ```
-Lanjut dari handover 29 Mei. Wave 1-4 deploy 100%. Saatnya Wave 5.1 Dry-Run
+Lanjut dari handover 30 Mei. Wave 1-4 deploy 100%. Saatnya Wave 5.1 Dry-Run
 sesuai WAVE-4-5-BUNDLE-BRIEF.md Section 5.1.
 
 Test stranger flow end-to-end: visit Threads bio → klik link arifb.id →
@@ -562,63 +518,79 @@ Kalau ada gap di chain → fix → re-test → tandai pass di Wave 5.2 ritual.
 ### Path D — Strategy refresh (Bulan 1+ data masuk)
 
 ```
-Lanjut dari handover 29 Mei. Bulan [N] selesai, data masuk:
+Lanjut dari handover 30 Mei. Bulan [N] selesai, data masuk:
 - Followers Threads: [n]
 - Email subscriber: [n]
 - Buku/cohort sold: [n]
 - Engagement rate: [%]
 - Top 3 post: [list]
 - Bottom 3 post: [list]
+- Refund rate: [%]
+- Onboarding email open/click rate: [%]
 
-Refresh strategi sesuai STRATEGY-REFRESH-PROTOCOL.md + BULAN-[N]-TACTICAL-PLAN.md
-(Bulan 2-3 di sub-folder buku/).
-
+Refresh strategi sesuai STRATEGY-REFRESH-PROTOCOL.md + BULAN-[N]-TACTICAL-PLAN.md.
 Apakah double-down (>120% target), pivot (60-80% mixed), atau cut (<50%)?
 Reference BULAN-4-12-OKR-FRAMEWORK.md decision rules.
 ```
 
-### Path E — Cleanup struktur (kalau mau resolve Gap 3)
+### Path E — Domain register + bulk find-replace (D-30 Mgg 7)
 
 ```
-Lanjut dari handover 29 Mei. Mau cleanup struktur split root vs sub-folder buku/.
+Lanjut dari handover 30 Mei. Mau register domain real + bulk find-replace
+arifb.id/[path] ke domain real di 6 file (LAUNCH-PACK-BUKU/COHORT,
+CORPORATE-INBOUND, CROSS-PLATFORM, LANDING-PAGE-7-DAY, file ini).
 
-Action: pilih Opsi A (move buku/* → root) atau B (keep nested + update Master Index)
-atau C (reorganize semua per kategori folder).
+Plus update Privacy + ToS template placeholder ([DOMAIN-LANDING], etc).
 
-Apply pilihan + commit + update PLAYBOOK-MASTER.md TOC sekaligus refresh post Path G2.
+Kandidat domain: [arifbudiman.com / arifbudiman.id / theaiarchitect.com / ...]
+```
+
+### Path F — Legal review Privacy + ToS template
+
+```
+Lanjut dari handover 30 Mei. Sudah konsultasi pengacara untuk review
+PRIVACY-POLICY-TEMPLATE.md + TERMS-OF-SERVICE-TEMPLATE.md.
+
+Feedback pengacara: [list perubahan].
+
+Update template + commit final version sebelum landing publish.
 ```
 
 ### Path H — Refresh handover doc (state sync, untuk sesi mendatang)
 
 ```
 Lanjut dari [state lama]. LANJUTKAN-DI-SINI.md outdated, refresh ke state
-[HEAD baru] (X commit baru sesi [tanggal] + Y file baru).
+[HEAD baru] ([X commit baru sesi [tanggal] + Y file baru]).
 ```
 
 ---
 
-## ⚠️ Catatan strategis (UPDATED 29 MEI)
+## ⚠️ Catatan strategis (UPDATED 30 MEI)
 
-1. **Domain gap masih valid** — `arifb.id/[path]` placeholder di 6 file. Action D-30 sebelum buku launch Mgg 7. Wave 2 Lynk.id pakai sub-domain native (`lynk.id/arifb.id`) jadi tidak ter-block.
+1. **Domain gap masih valid** — `arifb.id/[path]` placeholder di 6 file + 7 placeholder di Privacy/ToS template. Action D-30 Mgg 7. Wave 2 Lynk.id pakai sub-domain native, tidak ter-block.
 
-2. **Wave 1.1 wordmark = dependency Wave 3.1 untuk EKSEKUSI** — Spec final di MANIFESTO-CAROUSEL-IG.md, tapi render carousel di Canva butuh `wordmark-primary-dark.svg` ready. Recommended deploy order: Wave 1.1 dulu, baru Wave 3.1.
+2. **Wave 1.1 wordmark = dependency Wave 3.1** — Spec final di MANIFESTO-CAROUSEL-IG.md, render carousel Canva butuh `wordmark-primary-dark.svg` ready. Order: Wave 1.1 dulu, baru Wave 3.1.
 
-3. **PLAYBOOK-MASTER.md outdated** — masih bilang "22 chapter, 12/12 done". Perlu refresh ke 22 chapter + 7 wave + 1 risk + 4 root asset + 7 Path G2 = ~41 dokumen TOC. Bisa jadi item Path I sesi berikutnya.
+3. **PLAYBOOK-MASTER.md REFRESHED** ✅ — Path I commit ini sync ke 11 PART struktur (48 file). Sebelumnya state outdated post Path G2/E/J/K.
 
-4. **Struktur split root vs `buku/`** — 7 Path G2 di sub-folder `buku/`, semua file lain di root. Inkonsistensi navigasi. Default rekomendasi: Opsi A (move ke root). Bisa di-bundle dengan refresh Master Index.
+4. **Struktur split RESOLVED** ✅ — Path E commit `6201f2a` move 7 file `buku/*` ke root. Sub-folder `buku/` gone dari git tree.
 
-5. **Credit conservation pattern matang** — terbukti hemat ~30-40 tool call sesi ini (Path G2 7/7 ChatGPT clean commit, zero halt). Pertahankan untuk content brief; Kiro tetap untuk char-level lock + cleanup minor.
+5. **Legal foundation foundation NEW** ✅ — Path J commit `9474c14` add Privacy Policy + ToS template UU PDP compliance. Status template — wajib review pengacara + isi 7 placeholder sebelum publish.
 
-6. **~10 jam sequential execution Wave 1-5** — bisa Anda kerjakan tanpa Kiro. Pra-Day-1 spec 100% locked, brainstorm phase = CLOSED. Setelah deploy partial/full, pakai Path B (audit) untuk update state sebelum Day 1.
+6. **Operational pasca-pembelian NEW** ✅ — Path K commit `4885e80` add Refund Saving SOP + Onboarding 6-email sequence. Critical untuk buku launch Mgg 7.
 
-7. **Filter 4-Lapis re-read SACRED** — sebelum Day 1, ritual final di Wave 5.2 (per WAVE-4-5-BUNDLE-BRIEF.md).
+7. **~10 jam sequential execution Wave 1-5** — bisa Anda kerjakan tanpa Kiro. Brainstorm phase = CLOSED. Setelah deploy partial/full, pakai Path B (audit) untuk update state sebelum Day 1.
 
-8. **ChatGPT halt = correct behavior** — kalau ChatGPT halt karena verification mismatch atau internal safety, jangan retry blindly. Switch ke Kiro cleanup kalau task minor + deterministic.
+8. **Filter 4-Lapis re-read SACRED** — sebelum Day 1, ritual final di Wave 5.2.
 
-9. **Risk register Path F SACRED untuk H-1** — `PRE-DEPLOY-RISK-REGISTER.md` 38 risk + pre-flight 15 items. Baca H-1 sebelum mulai Wave 1.1 deploy. Re-baca tiap transisi Wave (1→2→3→4→5).
+9. **ChatGPT halt = correct behavior** — kalau ChatGPT halt karena verification mismatch atau internal safety, jangan retry blindly. Switch ke Kiro local fallback (proven 3x: Path H, J, K).
 
-10. **Operational pegangan 12 bulan = COMPLETE** — Path G2 closure tutup gap operational. Tactical Bulan 1-3 + OKR Q2-Q4 + email nurture + crisis SOP + VA + affiliate JV — semua siap sebagai pegangan eksekusi 12 bulan pasca Day 1.
+10. **Risk register Path F SACRED untuk H-1** — `PRE-DEPLOY-RISK-REGISTER.md` 38 risk + pre-flight 15 items. Baca H-1 sebelum mulai Wave 1.1 deploy. Re-baca tiap transisi Wave.
+
+11. **Sacred rules sekarang 7** (sebelumnya 5) — tambah refund window approve + onboarding trust deepening. Lihat `PLAYBOOK-MASTER.md` "SACRED RULES" untuk daily reference.
+
+12. **Operational pegangan 12 bulan = COMPLETE** — Path G2 + Path J + Path K closure. Tactical Bulan 1-3 + OKR Q2-Q4 + email nurture + crisis SOP + VA + affiliate JV + legal foundation + refund SOP + onboarding sequence — semua siap.
 
 ---
 
-*Last updated: Sesi 29 Mei 2026 — Path G2 closure FINAL (file 7/7). HEAD `4c38f28a`. Total 20 commits sesi 28-29 Mei. Playbook dokumen 100% complete (22 chapter + 7 wave + 1 risk + 4 root asset + 7 Path G2). Tinggal eksekusi manual ~10 jam Wave 1-5 deploy.*
+*Last updated: Sesi 30 Mei 2026 — Path I closure (Master Index refresh + handover sync FINAL). HEAD `4885e80` → akan bergeser ke commit Path I ini. Total 24+ commits sesi 28-30 Mei. Playbook dokumen 100% complete (48 file, 11 PART, ~28.900 baris). Async Kiro work CLOSED, manual deployment Wave 1-5 (~10 jam) + legal review Privacy/ToS (variable) = giliran user.*
