@@ -176,6 +176,33 @@ Untuk menghemat waktu, **copy data dari kalender** ke Tab 1 Daily Posts saat set
 
 Kolom B (Tanggal) diisi setelah Day 1 dikonfirmasi. Tambah +1 hari sequential.
 
+### Pre-fill kolom B — LOCKED (Day 1 = Senin 15 Juni 2026)
+
+| Day | Tanggal | Hari | | Day | Tanggal | Hari |
+|---|---|---|---|---|---|---|
+| D1 | 15 Jun 2026 | Sen | | D16 | 30 Jun 2026 | Sel |
+| D2 | 16 Jun 2026 | Sel | | D17 | 1 Jul 2026 | Rab |
+| D3 | 17 Jun 2026 | Rab | | D18 | 2 Jul 2026 | Kam |
+| D4 | 18 Jun 2026 | Kam | | D19 | 3 Jul 2026 | Jum |
+| D5 | 19 Jun 2026 | Jum | | D20 | 4 Jul 2026 | Sab |
+| D6 | 20 Jun 2026 | Sab | | D21 | 5 Jul 2026 | Min |
+| D7 | 21 Jun 2026 | Min | | D22 | 6 Jul 2026 | Sen |
+| D8 | 22 Jun 2026 | Sen | | D23 | 7 Jul 2026 | Sel |
+| D9 | 23 Jun 2026 | Sel | | D24 | 8 Jul 2026 | Rab |
+| D10 | 24 Jun 2026 | Rab | | D25 | 9 Jul 2026 | Kam |
+| D11 | 25 Jun 2026 | Kam | | D26 | 10 Jul 2026 | Jum |
+| D12 | 26 Jun 2026 | Jum | | D27 | 11 Jul 2026 | Sab |
+| D13 | 27 Jun 2026 | Sab | | D28 | 12 Jul 2026 | Min |
+| D14 | 28 Jun 2026 | Min | | D29 | 13 Jul 2026 | Sen |
+| D15 | 29 Jun 2026 | Sen | | D30 | 14 Jul 2026 | Sel |
+
+Audit Senin pagi (Weekly Snapshot Tab 2) jatuh di:
+- Minggu 1 audit: **22 Juni 2026**
+- Minggu 2 audit: **29 Juni 2026**
+- Minggu 3 audit: **6 Juli 2026**
+- Minggu 4 audit: **13 Juli 2026**
+- Post-Month review (Day 31): **15 Juli 2026** — sebelum Bulan 2 launch.
+
 ---
 
 ## 7. OPSIONAL — DASHBOARD VIEW (Tab 5, kalau mau)

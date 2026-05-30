@@ -162,7 +162,7 @@
 - **Warna:**
   - Primer 1 (background dominan): off-white `#F5F1EA` (warm neutral, voice tenang)
   - Primer 2 (text): hitam pekat `#1A1A1A`
-  - Aksen (frase signature): biru tua `#1F3A5F` ATAU hijau zaitun `#5C6B3F` — pilih satu di V1, lock
+  - **Aksen (LOCKED V1):** biru tua `#1F3A5F` — authority, classic premium. Vibe profesional senior + decision-maker. Jangan ganti Bulan 1.
 - **Font:**
   - Heading: serif klasik — `Cormorant Garamond` atau `Playfair Display` (Google Fonts gratis)
   - Body: sans-serif clean — `Inter` atau `IBM Plex Sans` (Google Fonts gratis)
@@ -430,7 +430,7 @@ Penulis The AI Architect (AI Universe Series, Book 0)
 
 ## 7. STYLE ANCHOR SUMMARY (untuk Visual Asset Library)
 
-- Warna primer: `#F5F1EA` (bg) + `#1A1A1A` (text) + 1 aksen lock
+- Warna primer: `#F5F1EA` (bg) + `#1A1A1A` (text) + **aksen `#1F3A5F` biru tua (LOCKED)**
 - Font heading: Cormorant Garamond / Playfair Display
 - Font body: Inter / IBM Plex Sans
 - Margin 80/60 (atas-bawah / kiri-kanan) di canvas 1080x1080

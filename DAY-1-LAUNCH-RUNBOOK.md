@@ -14,21 +14,35 @@
 - Day 1 post = **Manifesto launch lintas-platform** (bukan 2 deliverable terpisah). 1 launch, 3 platform: Threads + IG + LinkedIn.
 - Kalender post Day 1 sudah final.
 
+### LOCKED DATES (Day 1 = Senin 15 Juni 2026)
+
+| Mark | Tanggal real | Hari | Phase |
+|---|---|---|---|
+| **T-7** | 8 Juni 2026 | Sen | Tracker setup |
+| **T-6** | 9 Juni 2026 | Sel | Profile audit |
+| **T-5** | 10 Juni 2026 | Rab | Manifesto spec |
+| **T-4** | 11 Juni 2026 | Kam | Manifesto produksi Canva |
+| **T-3** | 12 Juni 2026 | Jum | Lead Magnet spec |
+| **T-2** | 13 Juni 2026 | Sab | A.R.S.I. 7-Hari V0 draft |
+| **T-1** | 14 Juni 2026 | Min | Dry-run + Go/No-Go |
+| **T (Day 1)** | **15 Juni 2026** | **Sen** | **TRIPLE PUBLISH 19:30 WIB** |
+| **T+1 (Day 2)** | 16 Juni 2026 | Sel | Reflection + ritme normal |
+
 ---
 
 ## 1. TIMELINE GLOBAL
 
 | Hari | Fokus | Output | Estimasi |
 |---|---|---|---|
-| **T-7 (Sen)** | Tracker setup | Sheet 4-tab pre-filled | 4 jam |
-| **T-6 (Sel)** | Profile audit + runbook ini | Bio, profile pic, link bio final | 3 jam |
-| **T-5 (Rab)** | Manifesto spec | Pinned Threads copy + carousel IG slide-spec + LinkedIn long-post draft | 4 jam |
-| **T-4 (Kam)** | Manifesto produksi | Carousel IG di Canva, LinkedIn polish | 4 jam |
-| **T-3 (Jum)** | Lead Magnet spec start | LP outline + email outline draft | 3 jam |
-| **T-2 (Sab)** | A.R.S.I. 7-Hari draft + buffer | Long-thread Day 25 V0 | 3 jam |
-| **T-1 (Min)** | Final dry-run + Go/No-Go | Schedule Day 1 post, sleep early | 2 jam |
-| **T (Sen)** | EKSEKUSI | Triple publish 19:30 (Threads + pin), 19:32 (IG), 19:35 (LinkedIn) | — |
-| **T+1 (Sel)** | Day 2 + reflection | Day 2 post + journal Day 1 | — |
+| **T-7 (Sen 8 Jun)** | Tracker setup | Sheet 4-tab pre-filled | 4 jam |
+| **T-6 (Sel 9 Jun)** | Profile audit + runbook ini | Bio, profile pic, link bio final | 3 jam |
+| **T-5 (Rab 10 Jun)** | Manifesto spec | Pinned Threads copy + carousel IG slide-spec + LinkedIn long-post draft | 4 jam |
+| **T-4 (Kam 11 Jun)** | Manifesto produksi | Carousel IG di Canva, LinkedIn polish | 4 jam |
+| **T-3 (Jum 12 Jun)** | Lead Magnet spec start | LP outline + email outline draft | 3 jam |
+| **T-2 (Sab 13 Jun)** | A.R.S.I. 7-Hari draft + buffer | Long-thread Day 25 V0 | 3 jam |
+| **T-1 (Min 14 Jun)** | Final dry-run + Go/No-Go | Schedule Day 1 post, sleep early | 2 jam |
+| **T (Sen 15 Jun)** | EKSEKUSI | Triple publish 19:30 (Threads + pin), 19:32 (IG), 19:35 (LinkedIn) | — |
+| **T+1 (Sel 16 Jun)** | Day 2 + reflection | Day 2 post + journal Day 1 | — |
 
 ---
 

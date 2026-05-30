@@ -8,17 +8,17 @@
 
 ---
 
-## 0. KEPUTUSAN YANG HARUS DIAMBIL DULU
+## 0. KEPUTUSAN — LOCKED 30 MEI 2026
 
-Sebelum eksekusi, lock 3 keputusan:
+3 keputusan yang sudah dikunci untuk eksekusi Bulan 1:
 
-| # | Keputusan | Opsi | Rekomendasi default |
+| # | Keputusan | LOCKED | Alasan |
 |---|---|---|---|
-| 1 | Email tool | MailerLite / Substack / ConvertKit free | **MailerLite** (automation lebih baik daripada Substack untuk drip 7-hari; ConvertKit free terlalu terbatas) |
-| 2 | Domain LP | `arifb.id/start` (subdomain folder) / `challenge.arifb.id` (subdomain) / link bio aggregator landing | `arifb.id/start` (kalau punya hosting) atau **link bio aggregator card** sebagai MVP minggu 1 |
-| 3 | Format email | HTML clean / plain text | **Plain text** dengan formatting minimal — voice tenang, less designy |
+| 1 | Email tool | **MailerLite free** | Drip automation 7-hari built-in; free sampai 1.000 sub; plain text mode mendukung voice tenang. |
+| 2 | Domain LP | **Link bio aggregator card (lynk.id / Beacons)** sebagai MVP Day 7-10 | Zero tech setup, fastest to live. Migrate ke `arifb.id/start` atau `challenge.arifb.id` Day 14-21 kalau bandwidth. |
+| 3 | Format email | **Plain text** dengan formatting minimal (bold, italic, paragraf pendek) | Voice tenang, less designy, deliverability lebih bagus. |
 
-> Lock ketiga keputusan di T-3. Ganti tool/format di tengah Bulan 1 = tax tinggi.
+> **Aturan:** Ganti tool/format di tengah Bulan 1 = tax tinggi (subscriber re-import, link broken). Lock dulu sampai Bulan 2 review.
 
 ---
 
@@ -538,16 +538,16 @@ Selamat bangun sistem yang tetap berdiri 5 tahun lagi.
 
 ## 5. JADWAL EKSEKUSI
 
-| Hari | Aksi |
-|---|---|
-| T-3 | Spec ini final, tool pick lock |
-| T-2 / T-1 | (kalau ada bandwidth) draft 4 email pertama |
-| Day 3-5 | Build LP di tool yang dipilih, deploy ke domain |
-| Day 4-6 | Tulis 8 email, schedule di automation |
-| **Day 7** | LP **live**. Test opt-in dari incognito. Email Day 0 sampai di inbox. |
-| Day 8-10 | Soft mention LP di komen Threads (bukan post terpisah) |
-| Day 26 | Post D26 = soft funnel intro (kalender) — push utama |
-| Day 29 | Post D29 = 7-Day Challenge push (kalender) — final push |
+| Hari | Tanggal | Aksi |
+|---|---|---|
+| T-3 | Jum 12 Jun 2026 | Spec ini final, decisions sudah locked di Section 0 |
+| T-2 / T-1 | 13-14 Jun 2026 | (kalau ada bandwidth) draft 4 email pertama |
+| Day 3-5 | 17-19 Jun 2026 | Build LP card di link bio aggregator (MailerLite native form embed) |
+| Day 4-6 | 18-20 Jun 2026 | Tulis 8 email dari Section 2, schedule di MailerLite automation |
+| **Day 7** | **Min 21 Jun 2026** | LP **live**. Test opt-in dari incognito. Email Day 0 sampai di inbox. |
+| Day 8-10 | 22-24 Jun 2026 | Soft mention LP di komen Threads (bukan post terpisah) |
+| Day 26 | Jum 10 Jul 2026 | Post D26 = soft funnel intro (kalender) — push utama |
+| Day 29 | Sen 13 Jul 2026 | Post D29 = 7-Day Challenge push (kalender) — final push |
 
 ---
 
@@ -562,10 +562,10 @@ Selamat bangun sistem yang tetap berdiri 5 tahun lagi.
 
 ## 7. CHECKLIST PRE-DEPLOY (Day 5-7)
 
-- [ ] Tool email pick: ___ (lock)
-- [ ] Domain LP: ___ (lock)
-- [ ] LP 6 section live
-- [ ] 8 email dijadwalkan di automation (full body copy dari Section 2)
+- [x] Tool email pick: **MailerLite free** (locked Section 0)
+- [x] Domain LP: **Link bio aggregator card** (locked Section 0)
+- [ ] LP 6 section live di MailerLite native LP atau embed di link bio
+- [ ] 8 email dijadwalkan di MailerLite automation (full body copy dari Section 2)
 - [ ] Test opt-in dari incognito -> Email 0 sampai dalam 5 menit
 - [ ] Test Email 1 datang besok pagi
 - [ ] Bookmark LP di link bio
