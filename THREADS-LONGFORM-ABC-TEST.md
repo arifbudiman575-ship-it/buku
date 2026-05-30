@@ -891,3 +891,155 @@ Itu bukan investasi. Itu langganan kebingungan.
 ---
 
 *Last updated: Mei 2026 — Sesi 4 (Layer 7 Final)*
+
+
+
+---
+
+## OPSI D — A.R.S.I. 7-HARI (V0 — DRAFT, untuk Day 25)
+
+> Status: V0 draft. Polish ke V1 final di Day 18-20.
+>
+> Slot: D25 Kamis 20:00 WIB · P1 · MOFU long-thread · CTA Soft Lead Magnet.
+>
+> Source: kalender §D25 brief + STRATEGI §1 A.R.S.I. + §8.2 (7-Day Challenge) + §15.3 (paradoks Mahal/Murah).
+
+---
+
+### HOOK + SETUP (POST 1-2)
+
+**[POST 1 — HOOK]**
+
+> 7 hari yang mengubah cara saya bekerja dengan AI.
+>
+> Bukan tentang prompt yang lebih bagus. Bukan tentang tools yang lebih banyak.
+>
+> Tentang 4 disiplin yang saya tidak tahu saya butuhkan, sampai saya coba.
+>
+> ↓
+
+**[POST 2 — SETUP / CONFESSION]**
+
+> Saya pernah jadi Riko.
+>
+> 47 tab Chrome. 12 tools AI subscription. Folder "prompts collection" yang isinya 280 file.
+>
+> Output saya tetap tidak konsisten. Klien tetap tidak puas.
+>
+> Yang berubah dalam 7 hari bukan jumlah tools. Justru sebaliknya.
+
+---
+
+### HARI 1-2 = AUDIT (POST 3-4)
+
+**[POST 3 — HARI 1: AUDIT]**
+
+> Hari 1. Saya audit jujur.
+>
+> Saya tulis di kertas: "Sistem AI saya saat ini, kalau ChatGPT mati besok, apa yang masih jalan?"
+>
+> Jawaban jujur: hampir tidak ada.
+>
+> Itu surprise pertama.
+
+**[POST 4 — HARI 2: AUDIT LANJUTAN]**
+
+> Hari 2. Saya audit per workflow — bukan per tools.
+>
+> Daripada tanya "tools mana yang saya pakai untuk X," saya tanya:
+>
+> "Workflow apa yang saya jalankan setiap minggu?"
+>
+> Ternyata 80% workflow saya bisa hidup tanpa tools yang saya beli.
+>
+> Bukan tools yang kurang. Representasi yang kurang.
+
+---
+
+### HARI 3-4 = RANCANG (POST 5-6)
+
+**[POST 5 — HARI 3: RANCANG]**
+
+> Hari 3. Saya rancang ulang — bukan tools, tapi representasi.
+>
+> 1 dokumen. 1 halaman.
+>
+> Pertanyaan: "Apa hasil yang saya ingin produksi konsisten setiap minggu?"
+>
+> Saya tulis 3 hasil. Bukan 30. Tiga.
+
+**[POST 6 — HARI 4: RANCANG LANJUTAN]**
+
+> Hari 4. Saya pilih 1 dari 3 hasil itu untuk di-sistemasi dulu.
+>
+> Bukan paling penting. Bukan paling sulit.
+>
+> Yang **paling sering saya kerjakan**.
+>
+> Karena di situ leverage-nya paling tinggi. Frequency x kualitas = compound.
+
+---
+
+### HARI 5-6 = SISTEMASI (POST 7-8)
+
+**[POST 7 — HARI 5: SISTEMASI]**
+
+> Hari 5. Saya bangun sistem 1 halaman untuk hasil yang saya pilih.
+>
+> Input — Proses — Output. Itu saja.
+>
+> Tools? Belakangan. Sistem dulu.
+>
+> Ini paradoks Mahal/Murah.
+>
+> Sistem yang dirancang dulu, tools belakangan = mahal di waktu, murah di hasil jangka panjang. Tools dulu, sistem belakangan = murah di waktu, mahal di stuck.
+
+**[POST 8 — HARI 6: SISTEMASI + AWAL ITERASI]**
+
+> Hari 6. Saya jalankan sistem. Output pertama jelek.
+>
+> Saya tidak ganti tools. Saya iterasi sistem.
+>
+> Pattern yang muncul: kalau output jelek, biasanya bukan tools — biasanya representasi inputnya tidak jelas.
+>
+> Tools tidak menggantikan sistem. Sistem yang menentukan.
+
+---
+
+### HARI 7 + CLOSING (POST 9)
+
+**[POST 9 — HARI 7 + CTA]**
+
+> Hari 7. Sistem pertama jadi muscle memory.
+>
+> Saya tidak lebih pintar dari Hari 1. Saya tidak punya tools baru.
+>
+> Saya punya 1 sistem yang jalan.
+>
+> Bulan ini ada banyak kursus prompt 1,5 juta.
+>
+> Ini bukan kursus 1,5 juta. Ini 7 hari yang Anda jalan sendiri.
+>
+> Saya kasih kerangka, Anda yang isi konteks Anda.
+>
+> Link di bio. 7-Day Challenge. Gratis.
+
+---
+
+### CATATAN PRODUKSI
+
+- **Voice cek:** "Anda" konsisten, kalimat pendek, tidak ada caps lock, tidak ada emoji. Pakai italic untuk emphasis kalau perlu di Threads (`*kata*`).
+- **Frase signature muncul:** "Sistem, bukan tools" — implicit POST 8. "Tools berubah. Framework abadi" — boleh tambah di closing kalau muat.
+- **Filter 4-lapis:** book-safe (tidak bocor IP buku detail), voice tenang, signature ada, anti-hype.
+- **CTA:** Soft Lead Magnet. *"Daftar atau tidak — bukan ke saya pengaruhnya."* Voice tenang.
+- **Lead magnet wajib live >= Day 20.** Kalau LP belum live, drop CTA jadi None — ganti closing dengan: *"Saya akan share kerangkanya dalam beberapa hari ke depan. Stay tuned."*
+
+---
+
+### POLISH PLAN — DAY 18-20 (jadi V1)
+
+- [ ] Re-baca 9 post, cek voice slip
+- [ ] Tambah 1 detail spesifik di Hari 3 atau Hari 5 (klien composite, tanpa nama)
+- [ ] Cek karakter Threads (tiap post < 500)
+- [ ] Final 4-lapis filter
+- [ ] Jadwalkan publish Day 25 20:00 WIB
