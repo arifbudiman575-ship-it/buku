@@ -1043,3 +1043,236 @@ Itu bukan investasi. Itu langganan kebingungan.
 - [ ] Cek karakter Threads (tiap post < 500)
 - [ ] Final 4-lapis filter
 - [ ] Jadwalkan publish Day 25 20:00 WIB
+
+
+
+---
+
+## OPSI D — A.R.S.I. 7-HARI (V1 — POLISH untuk Day 25 publish)
+
+> **Status:** V1 final. Polish dari V0 di section sebelumnya. Ini versi yang di-publish.
+>
+> **Slot:** D25 Kamis 9 Juli 2026 · 20:00 WIB · P1 · MOFU long-thread · CTA Soft Lead Magnet.
+>
+> **Diff V0 -> V1:** (1) Tighter voice rhythm — split kalimat panjang jadi napas pendek. (2) Tambah 1 detail spesifik klien composite (tanpa nama) di Hari 3. (3) Frase signature 2x explicit. (4) CTA closing tighter, voice tenang.
+
+---
+
+### HOOK + SETUP V1 (POST 1-2)
+
+**[POST 1 — HOOK]**
+
+> 7 hari yang mengubah cara saya bekerja dengan AI.
+>
+> Bukan tentang prompt yang lebih bagus.
+>
+> Bukan tentang tools yang lebih banyak.
+>
+> Tentang 4 disiplin yang saya tidak tahu saya butuhkan, sampai saya coba.
+>
+> ↓
+
+**[POST 2 — SETUP / CONFESSION]**
+
+> Saya pernah jadi Riko.
+>
+> 47 tab Chrome. 12 tools AI subscription. Folder "prompts collection" yang isinya 280 file.
+>
+> Output saya tetap tidak konsisten.
+>
+> Klien tetap tidak puas.
+>
+> Yang berubah dalam 7 hari bukan jumlah tools.
+>
+> Justru sebaliknya.
+
+---
+
+### HARI 1-2 = AUDIT V1 (POST 3-4)
+
+**[POST 3 — HARI 1: AUDIT]**
+
+> Hari 1.
+>
+> Saya audit jujur.
+>
+> Saya tulis di kertas: "Sistem AI saya saat ini, kalau ChatGPT mati besok, apa yang masih jalan?"
+>
+> Jawaban jujur: hampir tidak ada.
+>
+> Itu surprise pertama.
+
+**[POST 4 — HARI 2: AUDIT LANJUTAN]**
+
+> Hari 2.
+>
+> Saya audit per workflow — bukan per tools.
+>
+> Daripada tanya "tools mana yang saya pakai untuk X," saya tanya:
+>
+> "Workflow apa yang saya jalankan setiap minggu?"
+>
+> Ternyata 80% workflow saya bisa hidup tanpa tools yang saya beli.
+>
+> Bukan tools yang kurang. Representasi yang kurang.
+
+---
+
+### HARI 3-4 = RANCANG V1 (POST 5-6)
+
+**[POST 5 — HARI 3: RANCANG]**
+
+> Hari 3.
+>
+> Saya rancang ulang — bukan tools, tapi representasi.
+>
+> Ada satu klien — pemimpin tim 12 orang. Dia subscribe 6 tools AI.
+>
+> Yang dia butuhkan ternyata bukan tools ke-7.
+>
+> Yang dia butuhkan: 1 dokumen 1 halaman tentang "apa hasil yang ingin saya produksi konsisten setiap minggu."
+>
+> Saya tulis 3 hasil. Bukan 30. Tiga.
+
+**[POST 6 — HARI 4: RANCANG LANJUTAN]**
+
+> Hari 4.
+>
+> Saya pilih 1 dari 3 hasil itu untuk di-sistemasi dulu.
+>
+> Bukan paling penting. Bukan paling sulit.
+>
+> Yang paling sering saya kerjakan.
+>
+> Karena di situ leverage-nya paling tinggi.
+>
+> Frequency × kualitas = compound.
+
+---
+
+### HARI 5-6 = SISTEMASI + ITERASI V1 (POST 7-8)
+
+**[POST 7 — HARI 5: SISTEMASI]**
+
+> Hari 5.
+>
+> Saya bangun sistem 1 halaman untuk hasil yang saya pilih.
+>
+> Input — Proses — Output. Itu saja.
+>
+> Tools? Belakangan.
+>
+> Sistem dulu.
+>
+> Ini paradoks Mahal/Murah:
+>
+> Sistem dulu, tools belakangan = mahal di waktu, murah di hasil jangka panjang.
+>
+> Tools dulu, sistem belakangan = murah di waktu, mahal di stuck.
+
+**[POST 8 — HARI 6: ITERASI]**
+
+> Hari 6.
+>
+> Saya jalankan sistem. Output pertama jelek.
+>
+> Saya tidak ganti tools. Saya iterasi sistem.
+>
+> Pattern yang muncul: kalau output jelek, biasanya bukan tools — biasanya representasi inputnya yang tidak jelas.
+>
+> Sistem, bukan tools.
+>
+> Itu bedanya.
+
+---
+
+### HARI 7 + CLOSING V1 (POST 9)
+
+**[POST 9 — HARI 7 + CTA]**
+
+> Hari 7.
+>
+> Sistem pertama jadi muscle memory.
+>
+> Saya tidak lebih pintar dari Hari 1.
+>
+> Saya tidak punya tools baru.
+>
+> Saya punya 1 sistem yang jalan.
+>
+> Bulan ini ada banyak kursus prompt 1,5 juta.
+>
+> Ini bukan kursus 1,5 juta.
+>
+> Ini 7 hari yang Anda jalan sendiri. Saya kasih kerangkanya, Anda yang isi konteks Anda.
+>
+> Tools berubah. Framework abadi.
+>
+> Link di bio. 7-Day Challenge. Gratis.
+
+---
+
+### V1 CHANGELOG vs V0
+
+| Post | Perubahan |
+|---|---|
+| POST 1 | Split 2 kalimat hook jadi 2 paragraf terpisah — napas pendek lebih kuat |
+| POST 2 | Tambah split "Output saya tetap tidak konsisten." / "Klien tetap tidak puas." (parallel structure) |
+| POST 3 | Tambah split di "Hari 1." standalone untuk rhythm |
+| POST 5 | **Tambah detail klien composite** (pemimpin tim 12 orang, subscribe 6 tools) — concretize lesson tanpa nama |
+| POST 7 | Split "Tools? Belakangan." / "Sistem dulu." jadi 2 paragraf — emphasis |
+| POST 8 | **Tambah explicit "Sistem, bukan tools."** sebagai ending POST 8 — frase signature ke-1 explicit |
+| POST 9 | **Tambah "Tools berubah. Framework abadi."** sebelum CTA — frase signature ke-2 explicit + closing rhythm |
+
+### Frase Signature Count V1
+
+- "Sistem, bukan tools" — POST 8 explicit (1x), POST 7 implicit "Sistem dulu" (1x). **Total: 2 explicit/implicit.**
+- "Tools berubah. Framework abadi" — POST 9 explicit (1x). **Total: 1.**
+
+Kombinasi: minimal 3 kemunculan signature di thread. **Compliance dengan filter 4-lapis.**
+
+### Voice Cek V1 (manual sweep)
+
+- "Anda" konsisten
+- Kalimat pendek (max ~15 kata, kebanyakan 8-12)
+- Tidak ada lo/gue/caps lock
+- Tidak ada emoji (selain `↓` di POST 1 = pointer functional)
+- Tidak ada hype: "WAJIB"/"BURUAN"/"TINGGAL"
+- Italic minimal — hanya pakai untuk Q dari klien (tidak ada italic di V1)
+
+### Karakter Check (Threads limit 500/post)
+
+- POST 1: ~190 char
+- POST 2: ~250 char
+- POST 3: ~200 char
+- POST 4: ~250 char
+- POST 5: ~310 char
+- POST 6: ~210 char
+- POST 7: ~300 char
+- POST 8: ~290 char
+- POST 9: ~390 char
+
+Semua well under 500.
+
+### CTA Gating Reminder
+
+**Lead Magnet wajib live >= Day 20 (4 Juli 2026).** Kalau LP belum live di Day 25 (9 Juli):
+
+- Drop CTA Soft -> ganti closing POST 9 dengan:
+  > *"Saya akan share kerangkanya dalam beberapa hari ke depan. Stay tuned."*
+- Hapus baris "Link di bio. 7-Day Challenge. Gratis."
+- Update tracker kolom T (Notes): "D25 LP not ready, CTA dropped."
+
+---
+
+### POST-PUBLISH CHECKLIST (Day 25 Kamis 9 Juli 2026)
+
+- [ ] Schedule publish 20:00 WIB (atau set HP alarm 19:55)
+- [ ] LP Lead Magnet verified live (test opt-in dari incognito 19:30 cek)
+- [ ] Reply window 30 menit setelah publish
+- [ ] Update tracker baris D25: views, likes, komen, save, opt-in delta dari LP
+- [ ] Cek apakah ada lonjakan opt-in mengalir dari thread ini ke LP (Tab 4 Lead Magnet Funnel)
+
+---
+
+> **V1 = ready to publish.** Tidak perlu V2 sebelum Day 25 — kecuali ada signal voice slip dari D11/D18 thread sebelumnya yang harus di-correct.
