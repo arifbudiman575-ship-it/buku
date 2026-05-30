@@ -155,3 +155,80 @@ atau sebut topik lain]
 
 *File ini dibuat: Sesi 4 Mei 2026. Update terakhir: integrasi 5 sumber framework selesai.*
 *Update file ini juga setiap kali ada sesi baru yang significant.*
+
+
+
+---
+
+## SESI 30 MEI 2026 — STRATEGY LAYER (8 Commits)
+
+> Sesi via Kiro Web (Vibe mode). Topic: arsitektur sistem eksekusi pasca content-repurposing playbook.
+
+### Output Sesi
+
+7 dokumen baru + 1 update + 1 patch lock decisions = **8 branch outstanding** (belum merged):
+
+| # | Branch | File | Status |
+|---|---|---|---|
+| 1 | `add-manifesto-pinned-v1` | MANIFESTO-PINNED-V1.md (442 lines) | CREATE |
+| 2 | `add-performance-tracker-setup` | PERFORMANCE-TRACKER-SETUP.md (227 lines) | CREATE |
+| 3 | `add-day1-launch-runbook` | DAY-1-LAUNCH-RUNBOOK.md (254 lines) | CREATE |
+| 4 | `add-lead-magnet-spec` | LEAD-MAGNET-7-DAY-CHALLENGE-SPEC.md (576 lines) | CREATE |
+| 5 | `add-arsi-7-hari-draft` | THREADS-LONGFORM-ABC-TEST.md +152 | UPDATE (append Opsi D V0) |
+| 6 | `add-notion-command-center` | NOTION-COMMAND-CENTER-SPEC.md (189 lines) | CREATE |
+| 7 | `add-visual-asset-library` | VISUAL-ASSET-TEMPLATE-LIB.md (169 lines) | CREATE |
+| 8 | `lock-day1-decisions` | 4 file modified (Manifesto + Tracker + Runbook + LeadMag) | PATCH (superset) |
+
+### Decisions Locked
+
+| Item | Value |
+|---|---|
+| Day 1 launch | **Senin 15 Juni 2026** |
+| Aksen warna Manifesto | `#1F3A5F` (biru tua) |
+| Email tool | **MailerLite free** |
+| Domain LP | **Link bio aggregator** (MVP Day 7-10) |
+
+### 3 File Paling Penting Pre-Day 1 (P0)
+
+1. PERFORMANCE-TRACKER-SETUP.md (foundation measurement)
+2. DAY-1-LAUNCH-RUNBOOK.md (operational gate)
+3. MANIFESTO-PINNED-V1.md (etalase Day 1)
+
+Kalau salah satu belum siap di T-1 (Min 14 Jun 2026) — **TUNDA Day 1 +1 hari**, bukan paksa.
+
+### Insiden Yang Terjadi
+
+**Phantom Delete Dialog** — saat draft commit MANIFESTO via ChatGPT, muncul dialog "Delete file" dengan commit message palsu "remove accidental test file" + sharing-data dialog flag false-positive "BankAccount: Rp 847.000" (PII classifier extract literal angka Rupiah dari content file). User DENY. Diagnosis: bukan connector banking bocor, hanya UI false-positive + pattern hijack tidak normal. Mitigation tercatat di `.kiro/steering/buku-context.md` Section 9. Selanjutnya commit dilakukan oleh Claude langsung di sandbox (bukan via ChatGPT) — clean, no risk dialog confirmation.
+
+### Pending Work — Untuk Kiro Desktop Session Berikutnya
+
+| # | Task | Estimasi | Deadline |
+|---|---|---|---|
+| 1 | Hari 1 Worksheet PDF design (lampiran Email 1 Lead Magnet) | 1-2 jam | Sebelum Day 7 (21 Jun) |
+| 2 | Polish A.R.S.I. 7-Hari Opsi D V0 → V1 | 1 jam | Sebelum Day 18 (2 Jul) |
+| 3 | Bulan 2 outline (high-level only) | 1-2 jam | Bulan 1 minggu 4 |
+
+### Pending Decisions (belum locked)
+
+- Profile picture final (foto, bukan AI generated)
+- Bio wording final di 3 platform
+- Migrate ke `arifb.id/start` after Day 14 — Y/N
+
+### Steering File Tambahan
+
+`.kiro/steering/buku-context.md` (commit di branch `add-kiro-steering-handover`) — berisi state lengkap untuk continuity antar-session/akun. Auto-load di setiap Kiro session yang buka repo ini.
+
+### Recommended Merge Order
+
+**Opsi simpel (4 PR):**
+1. `lock-day1-decisions` — superset, otomatis include 4 branch awal
+2. `add-arsi-7-hari-draft`
+3. `add-notion-command-center`
+4. `add-visual-asset-library`
+5. `add-kiro-steering-handover` — opsional, kalau Anda mau steering jadi part of repo
+
+**Opsi granular (8-9 PR):** merge 7 branch awal individual, lalu `lock-day1-decisions`, lalu steering. History lebih rapi.
+
+---
+
+*Sesi 30 Mei 2026 selesai. Continuity bridge ada di `.kiro/steering/buku-context.md`.*
