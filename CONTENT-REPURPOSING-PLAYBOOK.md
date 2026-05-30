@@ -28,7 +28,7 @@ Cap weekly output total = 12-18 aset per minggu dari 2-3 master idea. Sisanya = 
 
 ### 1.4 Sacred Rules
 
-1. **TIDAK bocorkan detail sacred buku** THE AI ARCHITECT ke amplifier publik. Frase signature, karakter Prolog, framework asli buku, detail Prolog (Februari 2024, harga, jumlah prompt) — STAY di buku sampai launch.
+1. **Detail sacred buku THE AI ARCHITECT** — tanggal personal Prolog, angka personal/detail Prolog, jumlah prompt spesifik, karakter narasi Prolog, storyline asli buku — STAY di buku sampai launch publik Mgg 7. **Yang BOLEH dan SHOULD dipakai public:** frase signature + nama framework (NEURO-ARC, A.R.S.I., dll) — itu authority block pondasi yang HARUS muncul lintas platform untuk membangun positioning AI Architect.
 2. **TIDAK ubah positioning** "AI Architect" di amplifier. Voice formal "Anda" konsisten lintas platform.
 3. **TIDAK cross-post mentah** (copy-paste dari Threads ke X tanpa native polish). Algoritma tiap platform deteksi, reach drop.
 4. **TIDAK repurpose semua Threads.** Cap weekly 3 idea max.
@@ -43,7 +43,7 @@ Tanyakan ini ke setiap Threads post yang sudah running 24-48 jam:
 
 ### LULUS minimal 4 dari 5 yes-criteria → REPURPOSE
 
-- [ ] **Engagement signal:** post di top 30% minggu ini (reply rate, share, save di Notion DB Content)
+- [ ] **Engagement signal:** post di top 30% minggu ini (reply rate, share, save di Performance Tracker / Google Sheets)
 - [ ] **Stand-alone:** ide bisa dipahami tanpa context thread sebelumnya atau reply ke orang spesifik
 - [ ] **Pillar fit:** masuk salah satu pillar (framework / studi case / pillar 3 filosofi) — bukan hot-take harian
 - [ ] **Visual-able:** bisa jadi quote card atau hook visual yang clean (untuk IG carousel atau Reels)
@@ -54,7 +54,7 @@ Tanyakan ini ke setiap Threads post yang sudah running 24-48 jam:
 - [ ] Reply ke specific person atau context-specific
 - [ ] Hot-take harian dengan timing relevance kurang dari 1 minggu
 - [ ] Insider Threads joke yang tidak translate
-- [ ] Mengandung detail sacred buku (Februari 2024, harga, jumlah prompt, frase signature, karakter Prolog)
+- [ ] Mengandung detail sacred buku (tanggal personal Prolog, angka personal/detail Prolog, jumlah prompt spesifik, karakter narasi Prolog, storyline asli) — note: frase signature dan nama framework JUSTRU SHOULD amplify, itu authority block
 - [ ] Engagement di bawah median (signal ide belum resonate, jangan amplify yang lemah)
 
 ### Cap Weekly
@@ -137,7 +137,7 @@ Personal (cerita / refleksi)
 
 ### Step 1: Identify Threads Master (Selasa malam, 10 menit)
 
-- Buka Notion DB Content, sort by engagement minggu ini
+- Buka Performance Tracker (Google Sheets atau tool yang Anda setup), sort by engagement minggu ini
 - Apply decision tree (Section 2) ke top 5 candidate
 - Lock 2-3 Threads master untuk repurpose Rabu
 
@@ -169,7 +169,7 @@ JANGAN copy-paste atom mentah. Native polish:
 ### Step 5: Schedule + Tag Tracking (Rabu, 5 menit)
 
 - Schedule via native scheduler (Threads/IG/X) atau Buffer kalau pakai
-- Update Notion DB Content: link ke Threads master + format derivative
+- Update Performance Tracker (Google Sheets): link ke Threads master + format derivative
 - Tag MailerLite kalau ada CTA email (cohort waitlist, lead magnet)
 
 **Total batch budget: 90 menit untuk 2-3 master × 3-4 format = 6-12 aset.**
@@ -435,7 +435,7 @@ Format sama dengan Reels, tapi cut ke 20 sec — drop Detik 10-20 elaborasi, fok
 
 ```
 SENIN — 60 menit — Weekly Review + Topic Lock
-  - Review performa minggu lalu (Notion DB Content)
+  - Review performa minggu lalu (Performance Tracker / Google Sheets)
   - Lock 7 topik Threads minggu ini dari CONTENT-CALENDAR-BULAN-1.md
   - Pilih long-thread Kamis dari THREADS-LONGFORM-ABC-TEST.md
   - Identify 2-3 Threads master candidate untuk Rabu repurpose
@@ -504,7 +504,7 @@ Test 1 variabel per minggu, JANGAN test multiple sekaligus. Variabel yang bisa d
 - **Visual style** — quote card vs photo vs minimal text
 - **CTA** — "balas thread" vs "DM saya" vs no CTA
 
-Logging ringan di Notion DB Content: kolom "test variant" + "result vs control".
+Logging ringan di Performance Tracker (Google Sheets): kolom "test variant" + "result vs control".
 
 ### 8.2 Metric Per Platform (Light Tracking)
 
@@ -520,7 +520,7 @@ Per platform, track 3-5 metric MAX. JANGAN obsessed dengan metric overload.
 | LinkedIn | Dwell time | Comment depth | <100 view 2 minggu = check timing |
 | Email (Bulan 2+) | Open rate | Click + reply | <30% open = subjek revisit |
 
-Decision rule lengkap: lihat TRACKING-DASHBOARD.md.
+Decision rule lengkap: lihat TRACKING-DASHBOARD.md (saat tracking dashboard sudah aktif post Wave 4 deploy — sebelum itu, tracking manual via Google Sheets cukup).
 
 ### 8.3 30-Day Review Trigger (Akhir Bulan 1)
 
@@ -544,7 +544,7 @@ Reference framework quarterly review: STRATEGY-REFRESH-PROTOCOL.md (untuk akhir 
 2. **Repurpose semua post** — 75-80% Threads STAY di Threads. Cap weekly 3 idea max.
 3. **Reels/TikTok daily Bulan 1** — cap 1-2x per minggu (HARD CAP 2). Solo creator burnout risk.
 4. **Newsletter mingguan Bulan 1** — fokus 7-Day Challenge sequence dulu. Newsletter dimulai Bulan 2 setelah ada data top content.
-5. **Detail sacred buku ke amplifier** — Februari 2024, harga, jumlah prompt, frase signature, karakter Prolog STAY di buku sampai launch.
+5. **Detail sacred buku ke amplifier** — tanggal personal Prolog, angka personal/detail Prolog, jumlah prompt spesifik, karakter narasi Prolog, storyline asli STAY di buku sampai launch. (Frase signature dan nama framework BOLEH dan SHOULD amplify — itu authority pondasi public.)
 6. **Repurpose < 1 jam pasca-Threads** — biar Threads dapat momentum dulu (24-48 jam). Repurpose terlalu cepat = duplicate signal yang dilemahkan algoritma.
 7. **Voice TikTok-bro** — "halo guys", "lo/gw", caps berlebihan = pelanggaran positioning AI Architect.
 8. **Test multiple variabel sekaligus** — A/B/C test 1 variabel per minggu, baru bisa attribute hasil.
@@ -574,9 +574,11 @@ Reference framework quarterly review: STRATEGY-REFRESH-PROTOCOL.md (untuk akhir 
 - `ANTI-BURNOUT-PROTOCOL.md` — kalau workflow ini terlalu berat, baca anti-burnout dulu
 - `VISUAL-BRAND-IDENTITY.md` — visual standard untuk IG carousel + Reels
 
-### 10.3 Sacred Reference (NO bocorkan)
+### 10.3 Sacred Reference (yang protected)
 
-- Buku THE AI ARCHITECT (manuskrip final di repo) — detail Prolog (Februari 2024, harga, jumlah prompt), karakter, framework asli buku, frase signature SACRED. JANGAN amplify ke 5 platform amplifier sebelum buku rilis publik Mgg 7.
+- Buku THE AI ARCHITECT (manuskrip final di repo).
+  - **YANG SACRED (jangan amplify ke 5 platform amplifier sebelum buku rilis Mgg 7):** detail Prolog (tanggal personal, angka personal/detail Prolog, jumlah prompt spesifik), karakter narasi Prolog, storyline asli buku.
+  - **YANG BOLEH PUBLIC (justru SHOULD amplify):** frase signature + nama framework (NEURO-ARC, A.R.S.I., dll) — itu authority pondasi yang HARUS muncul lintas platform untuk membangun positioning AI Architect.
 
 ---
 
