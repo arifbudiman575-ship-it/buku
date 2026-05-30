@@ -27,6 +27,7 @@
 
 | Saya mau... | File |
 |---|---|
+| **Body publish-ready 30 post (paling sering buka)** | [`BODY-CONTENT-BULAN-1.md`](BODY-CONTENT-BULAN-1.md) |
 | Cheat sheet harian (1 halaman, sering buka) | [`DAILY-CHEAT-SHEET.md`](DAILY-CHEAT-SHEET.md) |
 | Hour-by-hour Day 1 timeline | [`DAY-1-LAUNCH-RUNBOOK.md`](DAY-1-LAUNCH-RUNBOOK.md) §9 |
 | Rollback plan kalau crash | [`DAY-1-LAUNCH-RUNBOOK.md`](DAY-1-LAUNCH-RUNBOOK.md) §11 |
@@ -128,9 +129,10 @@ Day 31 Rab 15 Juli 2026 -- Bulan 2 launch (post-data)
 
 ## QUICK STATS
 
-- **Total file playbook:** 14 file utama + source PDF/DOCX
+- **Total file playbook:** 17 file utama + source PDF/DOCX
 - **Coverage:** Pre-launch (T-7 to T-1) + Day 1 + 30-day cadence + Weekly review + Bulan 2 transition
-- **Lines content:** ~10.000+ lines markdown
+- **Body publish-ready:** 30 post di [`BODY-CONTENT-BULAN-1.md`](BODY-CONTENT-BULAN-1.md)
+- **Lines content:** ~12.000+ lines markdown
 - **Tools (free-only):** Google Sheets · Notion · Canva · MailerLite · Threads · IG · LinkedIn
 
 ---
@@ -144,10 +146,10 @@ Day 31 Rab 15 Juli 2026 -- Bulan 2 launch (post-data)
 
 ### Saat mau posting (Day N)
 
-1. Buka [`CONTENT-CALENDAR-BULAN-1.md`](CONTENT-CALENDAR-BULAN-1.md) -> cari `D{N}` di section DETAIL PER POST
-2. Salin hook, body, CTA -> kustomisasi voice
-3. Filter 4-lapis sebelum publish
-4. Publish 19:30 WIB (atau slot sesuai kalender)
+1. Buka [`BODY-CONTENT-BULAN-1.md`](BODY-CONTENT-BULAN-1.md) -> Cmd/Ctrl+F cari `D{N}` -> copy body publish-ready
+2. (Kalau perlu cek slot/CTA) buka [`CONTENT-CALENDAR-BULAN-1.md`](CONTENT-CALENDAR-BULAN-1.md) -> cari `D{N}` di DETAIL PER POST
+3. Filter 4-lapis sebelum publish (lihat [`DAILY-CHEAT-SHEET.md`](DAILY-CHEAT-SHEET.md))
+4. Publish slot WIB sesuai kalender
 5. Update Tracker baris D{N} jam 22:00 WIB
 
 ### Setiap Senin pagi (15 menit)
