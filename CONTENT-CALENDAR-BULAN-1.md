@@ -56,18 +56,18 @@ Kalau salah satu fail → **JANGAN POST.** Kalender ini sudah lulus filter di ra
 - [ ] Username konsisten di Threads + IG + LinkedIn = `@arifb.id`
 
 ### Aset Konten
-- [ ] **Manifesto** sudah dirancang sebagai pinned post Threads (8-10 bagian) DAN carousel IG (7 slide)
+- [x] **Manifesto** — draft final tersedia (lihat `MANIFESTO-CAROUSEL-IG.md`). Eksekusi yang masih perlu: render visual carousel (Canva/Figma) + upload ke IG, tulis Threads pinned 8-post sesuai script.
 - [ ] **30 post Bulan 1** sudah di-draft (file ini)
 - [ ] **Long-thread Opsi A V3** sudah final di `THREADS-LONGFORM-ABC-TEST.md` (siap publish Day 4)
 - [ ] **Long-thread Opsi C V2** sudah final di file yang sama (siap publish Day 11)
 - [ ] **Long-thread Opsi B V2** sudah final di file yang sama (siap publish Day 18)
-- [ ] **Long-thread A.R.S.I. 7-Hari** — DRAFT BARU, perlu disusun sebelum Day 25 (lihat catatan D25)
+- [x] **Long-thread A.R.S.I. 7-Hari (Opsi D)** — final di `THREADS-LONGFORM-ABC-TEST.md` (siap publish Day 25)
 
 ### Funnel Setup
-- [ ] **Landing page** "7-Day AI Architect Challenge" live di domain Anda (bisa di subdomain seperti `arifb.id/start` atau `challenge.arifb.id`)
+- [x] **Landing page** — draft final tersedia (lihat `LANDING-PAGE-7-DAY-CHALLENGE.md`). Eksekusi yang masih perlu: deploy ke `arifb.id/start` atau `challenge.arifb.id` (Framer/Webflow/Carrd/Notion+Super.so).
 - [ ] **Email tool** sudah aktif (rekomendasi: ConvertKit / MailerLite / Substack — sebut-jelas mau yang mana di issue terpisah kalau perlu rekomendasi)
-- [ ] **Email sequence 7 hari** sudah ditulis dan di-schedule di tool
-- [ ] **Welcome email** (Hari 0) ada — kasih tahu apa yang akan datang dalam 7 hari
+- [x] **Email sequence 7 hari** — draft final tersedia (lihat `EMAIL-SEQUENCE-7-DAY-CHALLENGE.md`). Eksekusi yang masih perlu: setup tool email (ConvertKit/MailerLite/Substack) + schedule 9 email automation.
+- [x] **Welcome email** (Hari 0) — draft final di `EMAIL-SEQUENCE-7-DAY-CHALLENGE.md` (Email 0). Trigger: 5 menit setelah subscribe.
 - [ ] **Bio link** redirect ke landing page (atau langsung ke link bio aggregator yang highlight)
 
 ### Operasional
@@ -177,7 +177,7 @@ Kalau salah satu fail → **JANGAN POST.** Kalender ini sudah lulus filter di ra
 - **D4 Kamis** = Opsi A V3 (sudah final di THREADS file)
 - **D11 Kamis** = Opsi C V2 (sudah final)
 - **D18 Kamis** = Opsi B V2 (sudah final)
-- **D25 Kamis** = NEW thread A.R.S.I. 7-Hari (perlu draft sebelum Day 25 — *brief ada di detail D25 di bawah*)
+- **D25 Kamis** = Opsi D — A.R.S.I. 7-Hari (final di THREADS file — lead magnet driver)
 
 
 ---
@@ -899,37 +899,32 @@ Closing: *"30 menit. Tanpa AI. Pulpen, kertas. Anda akan kaget berapa banyak pat
 
 ---
 
-#### **D25 — Kamis · 20:00 WIB · P1 · MOFU long-thread (NEW — perlu draft)**
+#### **D25 — Kamis · 20:00 WIB · P1 · MOFU long-thread (Opsi D — FINAL)**
 
-**🪝 HOOK** (proposed — finalize sebelum publish)
+**🪝 HOOK** (final — sudah lulus filter 4-lapis)
 > *7 hari yang mengubah cara saya bekerja dengan AI.*
 >
 > *Bukan tentang prompt yang lebih bagus. Bukan tentang tools yang lebih banyak.*
 >
-> *Tentang 4 disiplin yang saya tidak tahu saya butuhkan, sampai saya coba.*
+> *Tentang 4 disiplin yang saya tidak tahu saya butuhkan — sampai saya coba.*
 >
-> *(thread, ~9-10 post)*
+> *(thread, 9 post)*
 
-**📝 BODY** — **DRAFT BARU yang harus disusun sebelum Day 25.** Brief:
-- Post 1-2: Hook + setup (was-was) — "saya juga pernah Riko, ngumpulkan tools". Voice 1st person, akui kelemahan.
-- Post 3-4: Hari 1-2 = Audit (langkah A). Apa yang Anda lihat saat audit jujur sistem AI Anda? Surprise.
-- Post 5-6: Hari 3-4 = Rancang (langkah R). Bedakan "lebih banyak prompt" vs "1 sistem yang jelas". Surprise + paradoks Mahal/Murah.
-- Post 7-8: Hari 5-6 = Sistemasi + Iterasi (langkah S+I). Pattern yang muncul.
-- Post 9: Closing — *"Ini bukan kursus 1,5 juta. Ini 7 hari yang Anda jalan sendiri. Saya kasih kerangka, Anda yang isi konteks Anda. Link di bio."* — soft CTA ke 7-Day Challenge.
+**📝 BODY**: **PAKAI Opsi D yang sudah final di `THREADS-LONGFORM-ABC-TEST.md`.** Tidak perlu draft ulang. 9 post mapped ke A.R.S.I. 4 langkah (Audit hari 1-2, Rancang hari 3-4, Sistemasi hari 5-6, Iterasi hari 7) + paradoks Pak Bi Mahal/Murah di post 6 + closing CTA tenang ke 7-Day Challenge di post 9. Book-safe — tidak ada detail Prolog buku.
 
-**🎯 ALGO**: was-was → surprise (audit reveal) → paradoks Mahal/Murah → kasmaran (CTA gratis = barrier rendah).
+**🎯 ALGO**: Sudah implicit. Post 1-3 was-was (mirror universal + audit reveal), post 4-7 surprise + paradoks Mahal/Murah, post 8-9 kasmaran ringan + CTA tenang.
 
-**🛡️ GATE**: Trust 2 + soft Trust 3 (relevansi — 7-day = applicable ke konteks individu reader).
+**🛡️ GATE**: Trust 2 (Karakter — vulnerability "saya pernah ratusan prompt") + soft Trust 3 (Relevansi — "Anda yang isi konteks Anda").
 
-**🎨 BJM**: A.R.S.I. = ownable IP, lead magnet 7-Day Challenge (Section 8.2), Voice tenang.
+**🎨 BJM**: A.R.S.I. = ownable IP (nama disebut, isi protected), 7-Day Challenge lead magnet, Voice tenang anti-pushy.
 
-**📤 CTA**: **Soft lead magnet** — *"Detail panduannya gratis di 7-Day Challenge. Link di bio."* (Bukan "BURUAN DAFTAR!" — voice tetap tenang.)
+**📤 CTA**: **Soft lead magnet** — *"Bukan kursus. Bukan webinar. 1 email per hari, 1 worksheet, 4 langkah A.R.S.I. yang Anda jalani di konteks Anda. Gratis. Link di bio. Daftar atau tidak — bukan ke saya pengaruhnya. Ke 6 bulan Anda."*
 
-**🔗 X-POST**: Threads native + LinkedIn (long-form essay version) + IG carousel teaser (ke Threads thread).
+**🔗 X-POST**: Threads native (9 post) + LinkedIn long-form essay (~600 kata gabung) + IG carousel 10 slide (1 cover + 9 slide).
 
-**📚 SRC**: STRATEGI §1 A.R.S.I., §8.2 (7-Day Challenge), §15.3 (paradoks Mahal/Murah). + Aturan "share knowledge sell execution" §8.7.
+**📚 SRC**: STRATEGI §1 A.R.S.I., §8.2 (7-Day Challenge), §15.3 (paradoks Mahal/Murah), §8.7 (share knowledge sell execution). Thread final: `THREADS-LONGFORM-ABC-TEST.md` Opsi D.
 
-> ⚠️ **TO-DO sebelum Day 25:** Draft thread A.R.S.I. 7-Hari versi lengkap, tambahkan ke `THREADS-LONGFORM-ABC-TEST.md` sebagai "Opsi D — A.R.S.I. 7-Hari". Kalau perlu bantuan draft, sebutkan dan saya kerjakan di iterasi terpisah.
+> ✅ **Status:** Final. Sudah lulus 4 filter (Buku ✓ Asosiasi ✓ Voice ✓ Purpose ✓). Lihat tabel "Catatan per post Opsi D" di THREADS file untuk audit per-post sebelum publish.
 
 
 ---
@@ -1296,8 +1291,8 @@ Luangkan **60-90 menit** di Day 31 (atau Day 30 malam) untuk review komprehensif
   - **Kalau Anda butuh saya draft → minta di chat berikutnya, saya kerjakan terpisah.**
 
 ### Nice-to-have (selama Bulan 1)
-- [ ] Hook Bank refresh — 5 hook baru dari komen reader (untuk Bulan 2)
-- [ ] Studi case Pak Bi (Kopiko, Mizone, Rolex) — untuk konten Pillar 3 Bulan 2
+- [x] Hook Bank refresh — 15 hook baru ditambahkan ke STRATEGI Section 6.B (kategori F Paradoks Pak Bi #26-30, kategori G Vulnerability #31-35, kategori H Question B2B #36-40). Total Hook Bank sekarang 40 hook.
+- [x] Studi case Pak Bi (Kopiko, Coca-Cola/Pepsi, Suharti) + 5 insight — final di `PILLAR-3-STUDI-CASE-PAK-BI.md`. 8 post Pillar 3 untuk Mgg 5-12. Eksekusi yang masih perlu: schedule posting di tool kalender.
 - [ ] IG carousel template visual (kalau Anda mau brand-konsisten visual)
 - [ ] LinkedIn long-form essay rhythm — adapt 5-7 post Threads jadi 1 LinkedIn essay/minggu
 
