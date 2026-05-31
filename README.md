@@ -68,6 +68,17 @@
 | Roadmap 90 hari | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §11 |
 | Value Ladder + Value Equation + monetization math | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §8 |
 
+### 💰 Jalur Cashflow (cepat — target Rp 10JT, TERPISAH dari brand)
+
+> Lane untuk cashflow mendesak via jasa 1:1 / B2B ke jaringan hangat. **Bukan** dari follower @arifb.id. Feed publik tetap trust-first — sprint ini jalan di DM/japri/call.
+
+| Saya mau... | File |
+|---|---|
+| **Offer jasa siap jual** (3 tier + skrip diagnostic selling S.A.L.E.S) | [`AI-AUDIT-OFFER-SPEC.md`](AI-AUDIT-OFFER-SPEC.md) |
+| **Rencana 30 hari → Rp 10JT** (peta warm network + funnel + skrip DM + tracking) | [`CASHFLOW-SPRINT-30HARI.md`](CASHFLOW-SPRINT-30HARI.md) |
+
+> ⚠️ **Mulai dari:** (1) hitung warm network jujur — `CASHFLOW-SPRINT-30HARI.md` §1; (2) kunci tier yang benar-benar bisa Anda deliver — `AI-AUDIT-OFFER-SPEC.md` §0. Ekspektasi jujur: 10JT/30 hari mungkin tapi tidak otomatis — kalau warm list tipis, realistis 45–60 hari.
+
 ### Source Material (read-only)
 
 | File | Apa isinya |
@@ -152,7 +163,7 @@ Day 31 Rab 15 Juli 2026 -- Bulan 2 launch (post-data)
 
 ## QUICK STATS
 
-- **Total file playbook:** 20 file utama + 13 transkrip mentor (primer) + source PDF/DOCX
+- **Total file playbook:** 22 file utama (incl. 2 file Jalur Cashflow) + 13 transkrip mentor (primer) + source PDF/DOCX
 - **Strategi:** 23 section (terakhir di-upgrade Mei 2026 dari 13 sumber baru — lihat §18.9, §19.5, §21–23)
 - **Coverage:** Pre-launch (T-7 to T-1) + Day 1 + 30-day cadence + Weekly review + Bulan 2 transition
 - **Body publish-ready:** 30 post di [`BODY-CONTENT-BULAN-1.md`](BODY-CONTENT-BULAN-1.md)
