@@ -614,12 +614,13 @@ Mulai dari sini → arifb.id/start
 ### Link bio structure (pakai lynk.id atau Beacons)
 
 ```
-1. 🆓 7-Day AI Architect Challenge (lead magnet)
-2. 📕 Buku THE AI ARCHITECT
-3. 📅 Cohort A.R.S.I. — Daftar tunggu
-4. 🏢 Corporate Consulting — Inquiry form
-5. 📧 Newsletter (weekly)
-6. 📱 Instagram | LinkedIn | YouTube
+1. 🟢 WhatsApp Channel — owned-audience utama (CAPTURE Day 1, §20.3)
+2. 🆓 7-Day AI Architect Challenge (lead magnet)
+3. 📕 Buku THE AI ARCHITECT
+4. 📅 Cohort A.R.S.I. — Daftar tunggu
+5. 🏢 Corporate Consulting — Inquiry form
+6. 📧 Newsletter (weekly — rutin Bulan 2)
+7. 📱 Instagram | LinkedIn | YouTube
 ```
 
 ---

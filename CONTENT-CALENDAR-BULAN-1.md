@@ -63,12 +63,26 @@ Kalau salah satu fail → **JANGAN POST.** Kalender ini sudah lulus filter di ra
 - [ ] **Long-thread Opsi B V2** sudah final di file yang sama (siap publish Day 18)
 - [ ] **Long-thread A.R.S.I. 7-Hari** — DRAFT BARU, perlu disusun sebelum Day 25 (lihat catatan D25)
 
-### Funnel Setup
-- [ ] **Landing page** "7-Day AI Architect Challenge" live di domain Anda (bisa di subdomain seperti `arifb.id/start` atau `challenge.arifb.id`)
-- [ ] **Email tool** sudah aktif (rekomendasi: ConvertKit / MailerLite / Substack — sebut-jelas mau yang mana di issue terpisah kalau perlu rekomendasi)
-- [ ] **Email sequence 7 hari** sudah ditulis dan di-schedule di tool
-- [ ] **Welcome email** (Hari 0) ada — kasih tahu apa yang akan datang dalam 7 hari
-- [ ] **Bio link** redirect ke landing page (atau langsung ke link bio aggregator yang highlight)
+### Funnel Setup — IKUT README (owned-audience CAPTURE = Hari 1)
+
+> **Selaras `README.md` LOCKED + STRATEGI §20.3 (WhatsApp-first + email B2B).** Capture **tersedia dari Day 1 lewat link bio (pasif)** — bukan hard-sell. Push konten ke owned-audience tetap bertahap sesuai trust-first (§17). Lihat box "OWNED-AUDIENCE CAPTURE" di bawah.
+
+- [ ] **WhatsApp Channel** live & link aktif di bio **sejak Day 1** (owned-audience utama untuk Indonesia — §20.3). Ini capture utama Day 1–6 sebelum LP penuh siap.
+- [ ] **Email opt-in** aktif sejak Day 1 — form sederhana **MailerLite free** (tool LOCKED) yang bisa di-link dari bio. Tidak perlu LP penuh dulu.
+- [ ] **Landing page** "7-Day AI Architect Challenge" = **MVP Day 7–10** via link bio aggregator (LOCKED README) — **tidak wajib live Day 1**.
+- [ ] **Email sequence 7+1 hari** (Hari 0 welcome + Hari 1–7) sudah ditulis & di-schedule di MailerLite sebelum LP live (target T-3, lihat `DAY-1-LAUNCH-RUNBOOK.md`).
+- [ ] **Welcome message** (Hari 0) di email **dan** WhatsApp Channel — kasih tahu apa yang datang.
+- [ ] **Bio link** (lynk.id/Beacons) struktur §9 + **WhatsApp Channel** sebagai item teratas sejak Day 1.
+
+> **OWNED-AUDIENCE CAPTURE — LIVE HARI 1 (rekonsiliasi README × trust-first §17)**
+>
+> | Fase | Capture aktif | Sifat CTA di konten |
+> |---|---|---|
+> | **Day 1–6** | WhatsApp Channel + email opt-in **di bio (pasif)** | Konten CTA tetap None/Soft (Manifesto Day 1 = None). Yang eager mengikuti lewat bio. |
+> | **Day 7–10** | + LP 7-Day Challenge MVP live | Boleh mulai **soft mention** owned-channel 1–2×/minggu ("versi lengkap saya tulis di WhatsApp Channel — link bio"). |
+> | **Day 22–30** | 7-Day Challenge jadi vehicle utama | Lead-magnet push terstruktur (D25 soft → D26/D29 lead-magnet), sesuai MASTER OVERVIEW. |
+>
+> **Prinsip:** "Capture Hari 1" = **infrastruktur tersedia**, bukan jualan agresif. Trust-first (§17) tetap dijaga — tidak ada BOFU Bulan 1, lead magnet = TOFU/MOFU (gratis), bukan jualan. Newsletter PUBLISH rutin tetap **Bulan 2** (kalau opt-in ≥ 100, per README).
 
 ### Operasional
 - [ ] **Notifikasi DM Threads** aktif di HP — bisa respon 30 menit setelah comment masuk
