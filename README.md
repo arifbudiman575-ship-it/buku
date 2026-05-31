@@ -32,7 +32,8 @@
 |---|---|
 | **Body publish-ready 30 post (paling sering buka)** | [`BODY-CONTENT-BULAN-1.md`](BODY-CONTENT-BULAN-1.md) |
 | Cheat sheet harian (1 halaman, sering buka) | [`DAILY-CHEAT-SHEET.md`](DAILY-CHEAT-SHEET.md) |
-| **Micro-Take Bank** (post pendek siap copy-paste — isi Threads Daily Layer 3–8/hari) | [`MICRO-TAKE-BANK.md`](MICRO-TAKE-BANK.md) |
+| **30 hari tinggal copas** (anchor + micro-take sudah dijadwalkan per hari — paling mudah) | [`THREADS-30-HARI-COPAS.md`](THREADS-30-HARI-COPAS.md) |
+| **Micro-Take Bank** (48 post pendek per kategori — sumber variasi) | [`MICRO-TAKE-BANK.md`](MICRO-TAKE-BANK.md) |
 | Hour-by-hour Day 1 timeline | [`DAY-1-LAUNCH-RUNBOOK.md`](DAY-1-LAUNCH-RUNBOOK.md) §9 |
 | Rollback plan kalau crash | [`DAY-1-LAUNCH-RUNBOOK.md`](DAY-1-LAUNCH-RUNBOOK.md) §11 |
 | Brief detail post hari ini (Day N) | [`CONTENT-CALENDAR-BULAN-1.md`](CONTENT-CALENDAR-BULAN-1.md) section DETAIL PER POST |

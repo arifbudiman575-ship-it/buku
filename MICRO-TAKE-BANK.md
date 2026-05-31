@@ -6,6 +6,8 @@
 >
 > **Sudah lolos:** voice "Anda" tenang · anti-bait (tidak terdengar seperti hook) · book-safe (tanpa detail sacred Prolog) · on-avatar AI Architect.
 >
+> 💡 **Mau yang tinggal copas tanpa milih?** Pakai [`THREADS-30-HARI-COPAS.md`](THREADS-30-HARI-COPAS.md) — micro-take sudah dijadwalkan per hari. File ini (bank) untuk sumber variasi & saat Anda mau pilih sendiri.
+>
 > ⚠️ **Sebelum tempel, stranger-test (§18.9):** *"apakah ini bekerja untuk orang yang belum kenal saya?"* Kalau sebuah baris mulai terasa basi karena sering dipakai, ganti — jangan diulang identik di minggu yang sama.
 
 ---
