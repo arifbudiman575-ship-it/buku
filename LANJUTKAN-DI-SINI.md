@@ -7,7 +7,7 @@
 
 ## ⏱️ STATUS TERKINI (per 31 Mei 2026) — BACA INI DULU
 
-- **`main` @ `120179d` = source of truth.** Semua PR sudah **merged** (#32 integrasi 13 sumber, #33 Jalur Cashflow). **Tidak ada PR/branch outstanding.**
+- **`main` = source of truth** (cek HEAD terkini via `git log` — JANGAN hardcode SHA di sini, itu sumber drift). Semua PR sesi 30–31 Mei sudah **merged** (#32 integrasi sumber, #33 Jalur Cashflow, #34 fix-drift). **Tidak ada PR/branch outstanding.**
 - **STRATEGI = 24 section bernomor (0–23), ≈1.680 baris.**
 - **Next action nyata** ada di section **"SESI 31 MEI 2026"** (paling bawah) → "PENDING menunggu INPUT USER".
 - ⚠️ **Section historis di bawah** (Sesi 4, Sesi 30 Mei) menyebut hal seperti *"PR #11 belum merged"*, *"branch outstanding"*, *"merge PR #X"* — itu **LOG point-in-time, BUKAN status sekarang.** Jangan bertindak atas kalimat status di section historis. Status hanya dari banner ini + `git log`.
