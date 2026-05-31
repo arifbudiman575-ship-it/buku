@@ -13,6 +13,7 @@
 | Saya mau... | File |
 |---|---|
 | Lihat strategi besar 12 bulan | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) |
+| Lihat peta belajar 5 mentor + sumber valid | [`MENTOR-LEARNING-MAP.md`](MENTOR-LEARNING-MAP.md) |
 | Lihat Brand Journey Map (5 Q) | [`BRAND-JOURNEY-MAP.md`](BRAND-JOURNEY-MAP.md) |
 | Lihat 30 hari content plan | [`CONTENT-CALENDAR-BULAN-1.md`](CONTENT-CALENDAR-BULAN-1.md) |
 | Lihat 4 long-thread bank (A/B/C/D) | [`THREADS-LONGFORM-ABC-TEST.md`](THREADS-LONGFORM-ABC-TEST.md) |
@@ -34,6 +35,8 @@
 | Brief detail post hari ini (Day N) | [`CONTENT-CALENDAR-BULAN-1.md`](CONTENT-CALENDAR-BULAN-1.md) section DETAIL PER POST |
 | 3 frase signature (top of mind) | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §3.2 |
 | Voice rules + 4-lapis filter | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §5.3, §0.5 |
+| 7 Pakem pertumbuhan + Reply Engine harian | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §19 |
+| Algoritma Mesin (distribusi video multi-platform) | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §18 |
 
 ### Weekly + Monthly Review
 
@@ -44,6 +47,8 @@
 | Refleksi Theoderic mingguan (4 Q) | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §16.2 |
 | Decision Rules + trigger pattern | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §12 |
 | Build visual aset (carousel/Reels/quote) | [`VISUAL-ASSET-TEMPLATE-LIB.md`](VISUAL-ASSET-TEMPLATE-LIB.md) |
+| Content OS: 1 ide besar -> banyak turunan | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §20 |
+| Owned-Audience Engine (WhatsApp-first + email B2B) | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §20.3 |
 
 ### Future — Bulan 2+
 
@@ -51,7 +56,7 @@
 |---|---|
 | Decision tree Bulan 2 (BUKAN plan) | [`BULAN-2-OUTLINE.md`](BULAN-2-OUTLINE.md) |
 | Roadmap 90 hari | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §11 |
-| Value Ladder + monetization math | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §8 |
+| Value Ladder + Value Equation + monetization math | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §8 |
 
 ### Source Material (read-only)
 
@@ -78,9 +83,9 @@
 ## TIMELINE EKSEKUSI
 
 ```
-Sabtu 30 Mei 2026 (HARI INI)
+Minggu 31 Mei 2026 (HARI INI)
   |
-  | <-- 9 hari free: merge PR, baca playbook, reserve handles
+  | <-- 8 hari free: merge PR, baca playbook, reserve handles
   |
 T-7 Sen 8 Jun 2026 -- Setup Performance Tracker
 T-6 Sel 9 Jun 2026 -- Profile audit + bio finalize 3 platform
@@ -110,8 +115,9 @@ Day 31 Rab 15 Juli 2026 -- Bulan 2 launch (post-data)
 | Background warna | `#F5F1EA` off-white |
 | Email tool | **MailerLite free** |
 | Domain LP | Link bio aggregator (MVP Day 7-10) |
-| Repurpose hard cap | 3 ide/minggu, Reels max 2/minggu |
-| Newsletter activate | **Bulan 2** (kalau opt-in >= 100) |
+| Repurpose cap | **1 anchor besar/minggu**, hard cap 3 ide, Reels max 2/minggu |
+| Owned-audience CAPTURE | **Hari 1** — WhatsApp Channel + email opt-in (via 7-Day Challenge) |
+| Newsletter PUBLISH rutin | **Bulan 2** (kalau opt-in >= 100) |
 
 ---
 
@@ -129,11 +135,11 @@ Day 31 Rab 15 Juli 2026 -- Bulan 2 launch (post-data)
 
 ## QUICK STATS
 
-- **Total file playbook:** 17 file utama + source PDF/DOCX
+- **Total file playbook:** 18 file utama + source PDF/DOCX
 - **Coverage:** Pre-launch (T-7 to T-1) + Day 1 + 30-day cadence + Weekly review + Bulan 2 transition
 - **Body publish-ready:** 30 post di [`BODY-CONTENT-BULAN-1.md`](BODY-CONTENT-BULAN-1.md)
 - **Lines content:** ~12.000+ lines markdown
-- **Tools (free-only):** Google Sheets · Notion · Canva · MailerLite · Threads · IG · LinkedIn
+- **Tools (free-only):** Google Sheets · Notion · Canva · MailerLite · WhatsApp Channel · Threads · IG · LinkedIn
 
 ---
 
@@ -143,6 +149,11 @@ Day 31 Rab 15 Juli 2026 -- Bulan 2 launch (post-data)
 
 1. Buka [`DAILY-CHEAT-SHEET.md`](DAILY-CHEAT-SHEET.md) di HP
 2. Ingat 3 frase signature + 4-lapis filter
+
+### Reply Engine harian (30-45 menit) — tuas pertumbuhan tercepat (P1)
+
+1. Balas 10-15 akun lebih besar di niche dengan **mini-framework** (bukan basa-basi "setuju kak")
+2. Voice tetap "Anda"/tenang. Lihat [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §19.3
 
 ### Saat mau posting (Day N)
 
