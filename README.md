@@ -37,6 +37,7 @@
 | Voice rules + 4-lapis filter | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §5.3, §0.5 |
 | 7 Pakem pertumbuhan + Reply Engine harian | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §19 |
 | Algoritma Mesin (distribusi video multi-platform) | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §18 |
+| **Threads Daily Layer** (1 anchor + micro-take + reply -> 3-5 sentuhan/hari) | [`CONTENT-CALENDAR-BULAN-1.md`](CONTENT-CALENDAR-BULAN-1.md) §Threads Daily Layer |
 
 ### Weekly + Monthly Review
 
@@ -46,6 +47,7 @@
 | Audit asosiasi mingguan (5 Q) | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §14.2 |
 | Refleksi Theoderic mingguan (4 Q) | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §16.2 |
 | Decision Rules + trigger pattern | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §12 |
+| **Pantau kompetitor mingguan** (watch list + study SOP) | [`COMPETITOR-WATCH-SOP.md`](COMPETITOR-WATCH-SOP.md) |
 | Build visual aset (carousel/Reels/quote) | [`VISUAL-ASSET-TEMPLATE-LIB.md`](VISUAL-ASSET-TEMPLATE-LIB.md) |
 | Content OS: 1 ide besar -> banyak turunan | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §20 |
 | Owned-Audience Engine (WhatsApp-first + email B2B) | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §20.3 |
@@ -55,6 +57,7 @@
 | Saya mau... | File |
 |---|---|
 | Decision tree Bulan 2 (BUKAN plan) | [`BULAN-2-OUTLINE.md`](BULAN-2-OUTLINE.md) |
+| **Battle-plan lawan head-to-head** (aktivasi pasca-launch) | [`HEAD-TO-HEAD-BATTLEPLAN.md`](HEAD-TO-HEAD-BATTLEPLAN.md) |
 | Roadmap 90 hari | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §11 |
 | Value Ladder + Value Equation + monetization math | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §8 |
 
@@ -135,7 +138,7 @@ Day 31 Rab 15 Juli 2026 -- Bulan 2 launch (post-data)
 
 ## QUICK STATS
 
-- **Total file playbook:** 18 file utama + source PDF/DOCX
+- **Total file playbook:** 20 file utama + source PDF/DOCX
 - **Coverage:** Pre-launch (T-7 to T-1) + Day 1 + 30-day cadence + Weekly review + Bulan 2 transition
 - **Body publish-ready:** 30 post di [`BODY-CONTENT-BULAN-1.md`](BODY-CONTENT-BULAN-1.md)
 - **Lines content:** ~12.000+ lines markdown
