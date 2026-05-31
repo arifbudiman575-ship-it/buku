@@ -65,10 +65,10 @@ inclusion: always
 
 | File | Fungsi |
 |---|---|
-| `STRATEGI-PERSONAL-BRANDING.md` | Source of truth strategi (1.152 baris, 17 sections) |
+| `STRATEGI-PERSONAL-BRANDING.md` | Source of truth strategi (≈1.680 baris, section 0–23; per 31 Mei 2026 — cek DAFTAR ISI untuk angka live) |
 | `BRAND-JOURNEY-MAP.md` | BJM 5 Q + audit asosiasi |
-| `CONTENT-CALENDAR-BULAN-1.md` | Kalender 30 hari final (1.310 baris) |
-| `THREADS-LONGFORM-ABC-TEST.md` | 4 long-thread (Opsi A V3, B V2, C V2, D V0) |
+| `CONTENT-CALENDAR-BULAN-1.md` | Kalender 30 hari final (≈1.370 baris) |
+| `THREADS-LONGFORM-ABC-TEST.md` | 4 long-thread (Opsi A V3, B V2, C V2, D V1) |
 | `MANIFESTO-PINNED-V1.md` | Day 1 launch package 3-platform |
 | `PERFORMANCE-TRACKER-SETUP.md` | Sheets 4-tab schema |
 | `DAY-1-LAUNCH-RUNBOOK.md` | T-7 to T+1 timeline |
@@ -116,6 +116,13 @@ inclusion: always
 | Triple publish slot | **19:30 WIB** Threads, **19:32** IG, **19:35** LinkedIn | Runbook §9 |
 | Repurpose hard cap | 3 ide/minggu, Reels 2/minggu max | CONTENT-REPURPOSING-PLAYBOOK |
 
+**Tambahan 31 Mei 2026:**
+
+| Keputusan | Lock value | File reference |
+|---|---|---|
+| Disciplined Sprint | Volume play Rino DITOLAK; adopsi hanya frekuensi cold-start + test→duplikat angle | STRATEGI §19.5 |
+| 2-lane monetisasi | Brand (trust-first) ≠ Cashflow (jasa 1:1/B2B untuk Rp 10JT) — tidak dicampur | AI-AUDIT-OFFER-SPEC + CASHFLOW-SPRINT-30HARI |
+
 ---
 
 ## 6. CONSTRAINTS YANG TIDAK BOLEH DILANGGAR
@@ -144,40 +151,24 @@ inclusion: always
 
 ---
 
-## 7. SESSION HANDOVER — STATE per 30 Mei 2026
+## 7. SESSION HANDOVER — SNAPSHOT per 31 Mei 2026
 
-### Branches Outstanding (siap PR, BELUM merged)
+> ⚠️ **ANTI-DRIFT (wajib):** JANGAN simpan status branch/PR/line-count detail di file ini — itu yang dulu bikin steering basi & menyesatkan sesi berikutnya. Status LIVE = `git log` + daftar PR GitHub. Narasi "apa yang sudah selesai + next action" = **`LANJUTKAN-DI-SINI.md` (satu-satunya sumber).** Section ini hanya snapshot + tanggal.
 
-| Branch | File | Status |
-|---|---|---|
-| `add-manifesto-pinned-v1` | MANIFESTO-PINNED-V1.md | Standalone (442 lines) |
-| `add-performance-tracker-setup` | PERFORMANCE-TRACKER-SETUP.md | Standalone (227 lines) |
-| `add-day1-launch-runbook` | DAY-1-LAUNCH-RUNBOOK.md | Standalone (254 lines) |
-| `add-lead-magnet-spec` | LEAD-MAGNET-7-DAY-CHALLENGE-SPEC.md | Standalone (576 lines) |
-| `add-arsi-7-hari-draft` | THREADS-LONGFORM-ABC-TEST.md +152 | Append Opsi D V0 |
-| `add-notion-command-center` | NOTION-COMMAND-CENTER-SPEC.md | Standalone (189 lines) |
-| `add-visual-asset-library` | VISUAL-ASSET-TEMPLATE-LIB.md | Standalone (169 lines) |
-| **`lock-day1-decisions`** | 4 file modified | **Superset** — sudah include 4 branch awal + decisions lock |
+### Snapshot
+- **`main` = source of truth.** Semua kerja sesi 30–31 Mei **SUDAH merged** (PR #32 = integrasi 13 sumber; PR #33 = Jalur Cashflow). **Tidak ada branch outstanding.**
+- **STRATEGI = 24 section bernomor (0–23), ≈1.680 baris.** Tambahan 31 Mei: §18.9, §19.5, §21, §22, §23 + Hook Bank kategori F.
+- **2 lane aktif:** Brand (@arifb.id, trust-first) + Cashflow (`AI-AUDIT-OFFER-SPEC.md` + `CASHFLOW-SPRINT-30HARI.md`).
+- Task lama (Worksheet PDF, polish A.R.S.I. D→V1, Bulan 2 outline) = **SELESAI** (file-nya sudah ada di repo).
 
-### Recommended Merge Strategy
-
-**Opsi simpel:** Merge **`lock-day1-decisions`** ke main = 1 PR. Otomatis include Manifesto + Tracker + Runbook + Lead Magnet + decisions. Lalu merge 3 branch sisa: `add-arsi-7-hari-draft`, `add-notion-command-center`, `add-visual-asset-library`. Total 4 PR.
-
-**Opsi granular:** Merge 7 branch awal individual untuk history rapi (1 file per PR), lalu merge `lock-day1-decisions` sebagai patch — total 8 PR.
-
-### Pending Work (Opsi B sisa, untuk Kiro Desktop session)
-
-| # | Task | Estimasi | Prioritas |
-|---|---|---|---|
-| 3 | Hari 1 Worksheet PDF design (Lead Magnet attachment) | 1-2 jam | Sebelum Day 7 |
-| 4 | Polish A.R.S.I. 7-Hari Opsi D V0 → V1 | 1 jam | Sebelum Day 18 |
-| 5 | Bulan 2 outline (high-level only) | 1-2 jam | Bulan 1 minggu 4 |
+### Pending — menunggu INPUT USER (bukan Kiro)
+1. Hitung warm network jujur (15–30 nama) → `CASHFLOW-SPRINT-30HARI.md` §1.
+2. Kunci skill konkret yang bisa di-deliver → `AI-AUDIT-OFFER-SPEC.md` §0.
 
 ### Pending Decisions (belum locked)
-
-- Profile picture final (foto Anda, bukan AI generated)
-- Bio Threads/IG/LinkedIn final wording (template ada di STRATEGI §9)
-- Apakah bikin domain `arifb.id/start` atau stay di link bio aggregator setelah Day 14
+- Profile picture final (foto, bukan AI generated)
+- Bio Threads/IG/LinkedIn final wording (template di STRATEGI §9)
+- Domain `arifb.id/start` vs link bio aggregator setelah Day 14
 
 ---
 
@@ -189,18 +180,18 @@ Copy-paste prompt ini ke Kiro Desktop session baru:
 Saya lanjut kerja playbook personal branding @arifb.id di repo
 arifbudiman575-ship-it/buku.
 
-Steering file .kiro/steering/buku-context.md berisi state lengkap.
-Tolong baca dulu, lalu konfirmasi 3 hal:
-1. Decisions locked yang Anda baca dari Section 5
-2. Branches outstanding yang belum di-merge
-3. Pending work yang perlu saya prioritas
+Baca dua-duanya:
+- .kiro/steering/buku-context.md (STABLE facts: identitas, voice, sacred IP, workflow)
+- LANJUTKAN-DI-SINI.md (status LIVE + next action — source of truth status)
 
-Setelah itu, tugas saya: [pilih salah satu]
-- Hari 1 Worksheet PDF design untuk Lead Magnet
-- Polish A.R.S.I. 7-Hari V0 ke V1
-- Bulan 2 outline high-level
+`main` = source of truth; semua PR sesi 30-31 Mei sudah merged (cek git log).
 
-Mulai dari yang mana?
+Konteks terbaru: saya butuh cashflow Rp 10JT → kita pakai Jalur Cashflow
+(jasa 1:1/B2B), terpisah dari brand. 2 input dari saya:
+  (1) warm network = [ISI / "belum dihitung"]
+  (2) skill konkret = [saya paling bisa bantu klien dengan ___]
+
+Tugas saya sekarang: [tajamkan offer+skrip DM / prep Day 1 brand / lainnya]
 ```
 
 ---
@@ -219,4 +210,6 @@ Di insiden 30 Mei, dialog "Delete file" muncul setelah PROMPT 2 (CREATE) dengan 
 
 ---
 
-> Steering ini = handover bridge antar-session. Update Section 5, 7, 8 setiap kali ada keputusan baru atau session selesai.
+> Steering ini = **STABLE facts** (identitas, voice, sacred IP, workflow, decisions). Update Section 5 saat ada keputusan baru.
+>
+> ⚠️ **Aturan anti-drift:** JANGAN simpan status transient (PR open/merged, line count detail, branch outstanding) di file ini — itu sumber kontradiksi. Status LIVE = `git log` + PR list. Narasi status & next action = **`LANJUTKAN-DI-SINI.md` saja** (jangan duplikasi di banyak file).
