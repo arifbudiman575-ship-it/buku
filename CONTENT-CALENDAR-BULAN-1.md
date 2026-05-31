@@ -46,11 +46,11 @@ Ini bukan suggestion — ini **operasional plan**. 30 post sudah dipilih dengan 
 
 > 📂 **Ambil isi kontennya dari sini (link):**
 > - **Anchor (post utama harian):** [`BODY-CONTENT-BULAN-1.md`](BODY-CONTENT-BULAN-1.md) — 30 post publish-ready. Detail per hari (hook + body sketch) ada di file ini, scroll ke bagian **D1–D30**.
-> - **Micro-take:** **siap copy-paste di [`MICRO-TAKE-BANK.md`](MICRO-TAKE-BANK.md)** (48 baris, dikelompokkan per kategori) — atau padatkan 1 hook dari [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) **§6**.
+> - **Micro-take:** **paling mudah → jadwal harian [`THREADS-30-HARI-COPAS.md`](THREADS-30-HARI-COPAS.md)** (sudah dipilihkan per hari, tinggal copas). Sumber variasi → [`MICRO-TAKE-BANK.md`](MICRO-TAKE-BANK.md) (48 baris per kategori). Atau padatkan 1 hook dari [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) **§6**.
 > - **Reply Engine:** panduan → [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) **§19.3**.
 > - **Referensi cepat tiap pagi:** [`DAILY-CHEAT-SHEET.md`](DAILY-CHEAT-SHEET.md) — frase signature + filter 4-lapis (bukan sumber konten, tapi checklist sebelum publish).
 
-**Bank pola micro-take (REUSABLE — bikin spontan dari isu/komen hari itu, JANGAN di-script 30 hari):**
+**Bank pola micro-take (2 cara — pilih salah satu):** (a) **tinggal copas** dari [`THREADS-30-HARI-COPAS.md`](THREADS-30-HARI-COPAS.md) yang sudah dijadwalkan per hari; atau (b) **bikin spontan** dari pola di bawah / [`MICRO-TAKE-BANK.md`](MICRO-TAKE-BANK.md) sesuai isu hari itu. Dua-duanya valid — yang penting on-topic & lolos filter.
 - 1 kalimat **contrarian** turunan anchor ("Tools berubah tiap 6 bulan. Yang Anda bangun harusnya bertahan 6 tahun.")
 - 1 **pertanyaan** reply-farming ("Dari semua tool AI yang Anda bayar, mana yang masih dipakai 6 bulan lagi?")
 - 1 **reframe** komen/DM menarik jadi post pendek (tanpa sebut nama)
