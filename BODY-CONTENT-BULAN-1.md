@@ -15,9 +15,13 @@
 
 ---
 
-## 🆕 INTEGRASI MEI 2026 (berlaku untuk revisi & post baru)
+## 🆕 REFRESH MEI 2026 — ANTI-BAIT HOOK PASS (sudah diterapkan)
 
-30 post di bawah tetap valid. Untuk revisi/post baru, terapkan (detail di `STRATEGI-PERSONAL-BRANDING.md`):
+Mayoritas hook di file ini **sudah anti-bait** sejak awal (voice tenang & deklaratif = bukan bait). Hook yang masih *terdengar seperti hook* sudah di-refresh:
+- **D3, D17, D24** — opener listicle telanjang ("5 tanda…/5 langkah…") → dibuka dengan observasi/aktivitas (anti-bait).
+- **D19** — referensi seri internal ("diagnostik kedua") → opener yang lolos *stranger-test*.
+
+Prinsip yang berlaku untuk semua tweak ke depan (detail di `STRATEGI-PERSONAL-BRANDING.md`):
 - **Stranger-test (§18.9):** *"apakah hook ini bekerja untuk orang yang belum kenal saya?"*
 - **Anti-bait (Hook Bank kategori F, §6):** hook jangan terdengar seperti hook.
 - **Storytelling 5 pilar (§21.3)** untuk post confession / long-thread.
@@ -166,7 +170,9 @@
 
 **[POST 1 — HOOK + LIST]**
 
-> 5 tanda Anda masih operator AI, bukan arsitek AI:
+> Ada satu pola yang sering saya lihat pada orang yang merasa sudah "jago AI".
+>
+> Lima tanda kecilnya:
 >
 > 1. Anda menyimpan prompt di Notion lebih banyak dari output yang Anda hasilkan.
 >
@@ -832,7 +838,9 @@
 
 **[POST 1 — HOOK + LIST]**
 
-> 5 langkah sebelum Anda buka ChatGPT untuk task apapun:
+> Sebelum mengetik apa pun ke ChatGPT, saya selalu berhenti sebentar.
+>
+> Bukan untuk menulis prompt panjang — untuk melewati lima hal ini:
 >
 > 1. Tulis problem statement dalam 1 kalimat. Kalau lebih dari 1 — Anda belum jelas.
 >
@@ -890,11 +898,9 @@
 
 **[POST 1 — HOOK]**
 
-> Hari Jumat lagi.
+> Hari Jumat — waktu yang jujur untuk satu pertanyaan:
 >
-> Pertanyaan diagnostik kedua dalam bulan ini:
->
-> Workflow apa yang Anda kerjakan minggu ini yang TIDAK butuh AI sama sekali?
+> Workflow apa yang Anda kerjakan minggu ini yang sebetulnya TIDAK butuh AI sama sekali?
 
 **[POST 2 — REFRAME]**
 
@@ -1115,7 +1121,9 @@
 
 **[POST 1 — HOOK + LIST]**
 
-> 5 pertanyaan audit untuk weekend ini. Tanpa AI. Pulpen, kertas:
+> Akhir pekan ini, coba duduk 30 menit dengan pulpen dan kertas — tanpa AI.
+>
+> Lima pertanyaan untuk Anda audit sendiri:
 >
 > 1. AI tools mana yang Anda subscribe tapi pakai < 2x per minggu? (kandidat unsubscribe)
 >
@@ -1462,6 +1470,7 @@
 
 - **Boleh:** tweak kata, ganti emphasis, adjust panjang per post
 - **Boleh:** tambah 1 sentence kalau konteks hari itu mendukung
+- **Boleh (Mei 2026):** ganti opener jadi **anti-bait** — uji *stranger-test*: "apakah hook ini bekerja untuk orang yang belum kenal saya?" Hindari opener yang terdengar seperti hook (listicle telanjang, referensi seri internal). Lihat STRATEGI §18.9 + Hook Bank §6 kategori F.
 - **JANGAN:** tambah CTA yang tidak ada di kalender
 - **JANGAN:** ubah voice (drop "Anda" jadi "lo/gue", tambah emoji, caps lock)
 - **JANGAN:** tambah angka spesifik dari sacred IP buku (Rp 847.000, 347 prompt, recovery 340%)
