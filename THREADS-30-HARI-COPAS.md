@@ -30,7 +30,7 @@ Jadi: buka daftar hari ini → **copas 1 baris saat jamnya tiba** → poles deng
 |---|---|---|
 | **1** | **file ini** — `THREADS-30-HARI-COPAS.md` | Apa yang di-post hari ini + jam berapa (checklist) |
 | **2** *(opsional)* | [`CONTENT-CALENDAR-BULAN-1.md`](CONTENT-CALENDAR-BULAN-1.md) | Konteks: kenapa post ini, pilar, trust gate |
-| **3** | [[BODY-CONTENT-BULAN-1.md](BODY-CONTENT-BULAN-1.md)](BODY-CONTENT-BULAN-1.md) | Ambil teks ANCHOR lengkap (Ctrl+F `D{N}`) |
+| **3** | [BODY-CONTENT-BULAN-1.md](BODY-CONTENT-BULAN-1.md) | Ambil teks ANCHOR lengkap (Ctrl+F `D{N}`) |
 
 > File ini = **turunan dari kalender**, memakai anchor D1–D30 yang sama. Kalender = peta "kenapa"; file ini = checklist "apa + kapan". **Tidak ada konten yang bentrok** — kalau ragu, kalender yang jadi acuan struktur.
 
