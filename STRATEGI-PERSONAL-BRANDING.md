@@ -1,15 +1,18 @@
 # STRATEGI PERSONAL BRANDING — @arifb.id
 
-> **Tujuan:** Membangun @arifb.id sebagai **kategori-creator "AI Architect"** di Indonesia, dengan target 0 → 100K followers dan 0 → Rp 1 miliar pertama dalam 12 bulan.
+> **Tujuan:** Membangun @arifb.id sebagai **kategori-creator "AI Architect"** di Indonesia, dengan target 0 → **~30K followers ICP** (authority play, bukan volume — lihat Section 8.6) dan 0 → **Rp 1 miliar pertama** dalam 12 bulan.
 >
-> **Dasar dokumen — 5 sumber pengetahuan + input riset:**
+> **Kanal:** Threads + Instagram + LinkedIn (teks) **dan video** di Instagram Reels, YouTube (Shorts + long-form), serta TikTok. Distribusi video diatur oleh Section 18.
 >
-> Hierarki 5 sumber (lihat section "0. HIERARKI 5 SUMBER" untuk aturan resolusi konflik):
+> **Dasar dokumen — 6 sumber pengetahuan + input riset:**
+>
+> Hierarki 6 sumber (lihat section "0. HIERARKI 6 SUMBER" untuk aturan resolusi konflik):
 > 1. 🔒 Buku **THE AI ARCHITECT** karya Arif Budiman — NEURO-ARC + A.R.S.I. (core IP, sacred)
 > 2. Course **Rama / ProductivityBoi** — "Personal Branding & Digital Product 0 ke 1 Miliar Pertama" (methodology pondasi)
 > 3. **Theoderic** — `ilmu Theoderic.txt` (purpose × strength × authenticity, praktik Indonesia)
 > 4. **Pak Subyakto Priyojudanto** — `pak bi.txt` (filosofi 50-tahun: algoritma manusia, network effect, storyting paradoks, brand intersubjektif)
 > 5. **Caleb Ralston / Rston Consulting** — `personal branding caleb ralston.docx` (brand journey 4Q + association/non-association map)
+> 6. **Callaway / Short-Form System** — `How Social Media Algorithms Actually Work (And How to Beat Them).txt` (algoritma mesin: fit score, sample group, audience matching — **lapisan distribusi video saja**, tunduk pada Buku & Voice)
 >
 > Input riset pendukung: analisa 31 kompetitor Threads ID — `analisa_kompetitor.md`
 
@@ -17,7 +20,7 @@
 
 ## DAFTAR ISI
 
-0. [Hierarki 5 Sumber & Aturan Ketidakbocoran](#0-hierarki-5-sumber--aturan-ketidakbocoran)
+0. [Hierarki 6 Sumber & Aturan Ketidakbocoran](#0-hierarki-6-sumber--aturan-ketidakbocoran)
 1. [Diagnosa: Posisi Anda Sekarang](#1-diagnosa-posisi-anda-sekarang)
 2. [Pondasi: Value, Karisma, Positioning](#2-pondasi-value-karisma-positioning)
 3. [Kategori: "AI Architect" sebagai Identity Anda](#3-kategori-ai-architect-sebagai-identity-anda)
@@ -35,12 +38,15 @@
 15. [Algoritma Manusia & Storyting Paradoks](#15-algoritma-manusia--storyting-paradoks)
 16. [Purpose Compass — Refleksi & Kompas Identitas](#16-purpose-compass--refleksi--kompas-identitas)
 17. [Trust-First Sequencing & Share-Sell Rule](#17-trust-first-sequencing--share-sell-rule)
+18. [Algoritma Mesin — Distribusi Video (Multi-Platform)](#18-algoritma-mesin--distribusi-video-multi-platform)
+19. [Pakem Distribusi & Pertumbuhan (P1–P7)](#19-pakem-distribusi--pertumbuhan-p1p7)
+20. [Content OS & Owned-Audience Engine (WhatsApp-First)](#20-content-os--owned-audience-engine-whatsapp-first)
 
 ---
 
-## 0. HIERARKI 5 SUMBER & ATURAN KETIDAKBOCORAN
+## 0. HIERARKI 6 SUMBER & ATURAN KETIDAKBOCORAN
 
-> Strategi ini disusun dengan **5 sumber pengetahuan yang diberi bobot berbeda**. Section ini menjelaskan hierarki, aturan resolusi konflik, atribusi internal, dan aturan apa yang **sacred** (book-only) versus apa yang **free** (boleh ke sosmed).
+> Strategi ini disusun dengan **6 sumber pengetahuan yang diberi bobot berbeda**. Section ini menjelaskan hierarki, aturan resolusi konflik, atribusi internal, dan aturan apa yang **sacred** (book-only) versus apa yang **free** (boleh ke sosmed).
 
 ### 0.1. Hierarki Sumber
 
@@ -51,6 +57,7 @@
 | 3 | **Theoderic** | Enrichment praktis Indonesia | Purpose-first thinking, dynamic persona (purpose × strength × authenticity), evaluate weekly |
 | 4 | **Pak Subyakto Priyojudanto** | Enrichment teori 50-tahun branding (Indonesia) | Network effect (lawan viral), algoritma manusia (was-was → surprise → kasmaran), storyting paradoks, brand intersubjektif (objektif penjual + subjektif pembeli), reverse engineering dari outcome |
 | 5 | **Caleb Ralston / Rston Consulting** | Enrichment 16-tahun praktik US | Brand journey 4Q, association map (yang dipair + yang TIDAK), share knowledge sell execution, build trust before transact, long-term retention > viral |
+| 6 | **Callaway / Short-Form System** | Lapisan distribusi video (taktis) | Algoritma mesin: digital fingerprint → topic mapping → fit score → sample group 200 → boost/retry/stop. Audience matching (topik & avatar konsisten). 3 metrik (watch time, engagement, session share) + 4 horsemen. **Hanya mengatur distribusi/jangkauan video — TIDAK boleh mengubah voice, positioning, atau goal.** |
 
 ### 0.2. Aturan Resolusi Konflik
 
@@ -58,6 +65,7 @@
 2. **Rama tetap fondasi.** Section yang sudah pakai framework Rama (Value Ladder, TOFU/MOFU/BOFU, Content Pillar) tidak diganti — di-enrich dengan 3 sumber baru.
 3. **3 sumber baru di-harmonisasikan, bukan disusun bertingkat.** Theoderic = praktis lapangan. Pak Bi = prinsip dalam. Caleb = framework operasional. Saling melengkapi, tidak saling override.
 4. **Indonesia menang untuk hal kultural.** Saat konflik antara Caleb (US-context) dan Pak Bi/Theoderic (Indonesia-context), pilih versi Indonesia untuk: formality "Anda", anti-hype tone, no-drama, kalimat hemat, hormat ke audience.
+5. **Callaway = lapisan distribusi, paling rendah dalam hierarki nilai.** Callaway hanya menjawab *"bagaimana agar video sampai ke orang yang tepat"* (mekanika jangkauan). Ia **tidak pernah** menentukan *"apa yang dikatakan"* (voice), *"siapa kita"* (positioning), atau *"apa tujuannya"* (network effect > viral). Saat saran Callaway menggoda ke arah reach murah, **Voice (Section 5), Anti-Pattern (Section 13), dan Goal Pak Bi/Caleb menang.** Secara spesifik: comment-tactics Callaway "ciptakan musuh + naikkan ke versi ekstrem + picu emosi sebesar mungkin" **DROP** — hanya pertahankan "ambil stance contrarian yang tetap kalem". Lihat Section 18.7.
 
 ### 0.3. Aturan Atribusi (Internal Saja)
 
@@ -90,6 +98,8 @@ Sebelum posting / merilis materi publik, lewati 4 filter berikut secara beruruta
 4. **Filter Purpose** — Apakah konten ini support outcome di Q1 `BRAND-JOURNEY-MAP.md`, atau hanya "konten supaya posting"?
 
 Konten yang gagal di salah satu filter → revisi atau drop.
+
+> **Catatan untuk konten video (Sumber #6 — Callaway):** Semua taktik distribusi dari Section 18 wajib lewat filter 4-lapis yang sama — terutama **Filter Voice (lapis 3)**. Callaway adalah sumber *publik & taktis* (transkrip video terbuka), jadi tidak ada risiko kebocoran IP. Risikonya bukan kebocoran, melainkan **erosi voice**: taktik reach short-form bisa menyeret tone ke arah hype/rage-bait. Filter Voice adalah penjaganya.
 
 ---
 
@@ -490,6 +500,17 @@ Pola yang sering muncul di buku Anda — pakai sebagai DNA konten:
 
 **Acquisition:** LinkedIn + word-of-mouth dari cohort alumni + speaking engagement.
 
+**Diagnostic Selling via AI Audit** *(diturunkan dari Chris Do — "jual dengan mendiagnosis, bukan pitching"; filter tone via Voice Section 0.5)*
+
+> Konvergensi indah: **langkah "Audit" di A.R.S.I. ADALAH mekanisme jualannya.** Anda tidak perlu pitch agresif — Anda mendiagnosis seperti dokter, lalu transformasi yang menjual dirinya sendiri.
+
+- **Front-door:** tawarkan **"Mini AI Audit"** (gratis/murah, 30-45 menit) sebagai pintu masuk corporate. Ini diagnosis, bukan presentasi jualan.
+- **Aturan diagnostic selling:**
+  1. **Tanya & dengarkan dulu** — petakan masalah nyata klien sebelum menyebut solusi/harga.
+  2. **Jual transformasi, bukan deliverable** — bukan "saya bikin sistem AI", tapi "saya bantu organisasi Anda berhenti jadi Riko kolektif jadi Citra".
+  3. **Detach dari outcome** — kalau belum cocok, katakan jujur. Integritas = trust = deal berikutnya (selaras Section 17 Trust-First).
+- **Tangga:** Mini Audit (diagnosis) → AI Audit berbayar (Rp 25JT) → Architecture Design (Rp 50–80JT) → Retainer (Rp 100JT/quarter).
+
 ### 8.6. Math 1 Miliar Pertama
 
 | Produk | Harga | Volume / Tahun | Revenue |
@@ -528,6 +549,30 @@ Pola yang sering muncul di buku Anda — pakai sebagai DNA konten:
 3. Apakah konten ini bisa ditemukan dengan Google 5 menit? **Itu masalah** — tambahkan POV unik / framework asli, atau drop.
 
 **Pak Bi mendukung:** *"Berbayar = komitmen. Gratis = tidak ada komitmen, tidak ada dampak."* Tapi ini berlaku untuk **transformasi reader**, bukan untuk **pengetahuan dasar**. Pengetahuan dasar tetap gratis untuk membangun trust. Yang berbayar = eksekusi yang membutuhkan komitmen reader.
+
+### 8.8. Value Equation per Tier — Uji Tiap Offer (Hormozi)
+
+> *(diturunkan dari Alex Hormozi — "$100M Offers". **Filter tone:** ambil rumus & disiplinnya, buang gaya agresif/volume. Wajib lolos Voice Filter Section 0.5.)*
+
+**Rumus nilai:**
+
+```
+                 Dream Outcome  ×  Perceived Likelihood (Bukti)
+   Nilai  =  ─────────────────────────────────────────────────
+                    Time Delay  ×  Effort & Sacrifice
+```
+
+Naikkan **pembilang** (hasil impian + keyakinan berhasil), turunkan **penyebut** (waktu + usaha). Setiap tier value ladder wajib lewat tabel ini, dan **wajib punya minimal 1 elemen Bukti + 1 Garansi/risk-reversal** sebelum dijual.
+
+| Tier | Dream Outcome | Bukti (Perceived Likelihood) | Garansi / Risk-Reversal | Tuas menurunkan Waktu & Usaha |
+|---|---|---|---|---|
+| **7-Day Challenge** (gratis) | "Dari Riko jadi Citra dalam 7 hari" | Testimonial alumni + before/after | Gratis = risiko nol | Template harian siap pakai, 15 mnt/hari |
+| **Buku (Rp 297K)** | "Punya framework lengkap, bukan kumpulan prompt" | Cuplikan bab + endorsement | Garansi uang kembali 7 hari | Bahasa jelas, struktur per-bab |
+| **Workbook bundle (Rp 547K)** | "Sistem AI pertama selesai dibangun" | Contoh hasil worksheet klien | Garansi + 1 sesi Q&A | 30+ template isi-tinggal-pakai |
+| **A.R.S.I. Cohort (Rp 7,5JT)** | "Transformasi tuntas + komunitas" | Studi kasus alumni cohort | Garansi minggu-1 / refund | Hands-on, accountability, feedback |
+| **Corporate (Rp 25–100JT)** | "Organisasi punya arsitektur AI, bukan tools acak" | Hasil audit + case study | Pilot/scoped engagement | Diagnostic-led (Section 8.5) |
+
+> **Aturan kunci:** Tidak ada tier berbayar yang boleh launch tanpa **(a) bukti** dan **(b) garansi**. Kalau dua-duanya belum ada → tunda (selaras Section 17.4 & 17.5 proof-manufacturing).
 
 ---
 
@@ -734,6 +779,9 @@ Lanjutan dengan pola yang sama, tambahan:
 6. **Jika thread punya views tinggi tapi save rate + komentar substantif rendah** → JANGAN ulangi format itu *(Pak Bi: viral-trap)*. Analisa thread medium-views dengan metrik kualitas tinggi sebagai template. Lihat Section 15.4.
 7. **Jika >30% follower baru per minggu profile-nya mismatch ICP** → audit hook 2 minggu terakhir, kemungkinan terlalu generic. Tarik balik ke konten kategori "AI Architect" yang lebih spesifik. Lihat Section 14.5.
 8. **Jika weekly refleksi (BRAND-JOURNEY-MAP.md Q4) menemukan 3+ konten "supaya posting saja" tanpa purpose** → STOP cadence 3 hari. Re-baca Section 0 + BJM Q1. Restart dengan 1 konten yang lulus filter 4-lapis dulu. *(Theoderic: purpose-drift check)*
+9. **Jika sebuah video stuck di reach sangat rendah (mis. ~200 views) atau flat di beberapa video beruntun** → JANGAN utak-atik hashtag, jam posting, atau caption (Callaway: semua itu hampir tidak berpengaruh). Periksa **kue**-nya: hook 3 detik pertama, kecocokan topik–avatar, dan 4 horsemen (Section 18.4). *(Callaway: sample data lemah = masalah fit/kualitas, bukan setting)*
+10. **Jika muncul ide video yang kelihatan "pasti viral" tapi menarik audiens di luar ICP** → tolak atau reframe agar tetap dalam avatar AI Architect. Satu viral ke audiens salah merusak fit score beberapa video berikutnya. *(Callaway: audience matching — perkuat rule #7. Lihat Section 18.2 & 18.8)*
+11. **Jika dalam 1 bulan topik video melebar ke 3+ tema berbeda untuk avatar berbeda** → konsolidasi balik ke 1 avatar + rentang topik sempit minimal 5-6 video beruntun, supaya mesin bisa mengunci fit score. *(Callaway: konsistensi topik = fit score akurat. Lihat Section 18.2)*
 
 ---
 
@@ -840,6 +888,8 @@ Tidak semua follower adalah aset. Audience yang salah = follower count tinggi ta
 | ~~"Cari prompt gratis untuk side hustle"~~ | 0% | **Bukan ICP.** Tolak engagement. |
 
 > **Implikasi:** Konten Anda harus **filter sendiri** — tidak semua orang akan suka, dan itu fitur bukan bug. Voice formal "Anda" + topik strategic = otomatis menolak audience yang tidak match.
+>
+> **Tautan ke Algoritma Mesin (Section 18):** Audience Tunnel ini punya konsekuensi teknis di platform video. "Audience matching" Callaway = topik + avatar konsisten → mesin membangun **fit score** akurat. Follower di luar ICP bukan cuma menurunkan konversi; mereka **mencemari fit score** sehingga sample group video berikutnya jadi salah sasaran. Jadi menjaga 0% untuk dua baris terakhir tabel di atas = menjaga akurasi distribusi, bukan sekadar estetika brand.
 
 ---
 
@@ -912,6 +962,8 @@ Pak Bi: *"Viral tujuan instan. Network effect tujuan berkelanjutan. 1000 views y
 | Repost ke thread berikutnya | High (audience datang kembali) | Low (spike sekali) |
 
 **Aturan baru:** Kalau ada thread viral tapi metrik kualitas (komentar substantif, save, follower ICP) rendah → **JANGAN ulangi format itu.** Pelajari dari thread medium-views tapi metrik kualitas tinggi.
+
+> **Mekanisme mesin di balik prinsip ini (Section 18.8):** Callaway menjelaskan *kenapa* viral murah berbahaya secara teknis — satu viral ke audiens salah membuat data sample beberapa konten berikutnya jelek karena algoritma jadi bingung soal siapa target Anda. Jadi "network effect > viral" Pak Bi bukan cuma filosofi; itu juga keputusan yang melindungi fit score Anda. Dua sumber, dua benua, kesimpulan identik.
 
 ### 15.5. Brand Intersubjektif — Implikasi untuk Voice & Konten
 
@@ -1034,19 +1086,257 @@ Tunda BOFU / hard pitch ketika ada salah satu sinyal berikut:
 
 > **Aturan emas:** *Awareness murah, reputasi mahal* (Caleb). Lebih baik tunda 3 bulan dengan brand utuh daripada launch sekarang dengan brand rusak.
 
+### 17.5. Proof-Manufacturing — Membangun Bukti dari Titik Nol
+
+> *(diturunkan dari Jay Clouse — "high-trust creator business" + Hormozi — "perceived likelihood" + Caleb. Menjawab paradoks awal: butuh testimonial untuk jual, tapi belum punya testimonial.)*
+
+Di Bulan 0-1 Anda belum punya social proof. Jangan diam menunggu — **produksi bukti secara sengaja:**
+
+| Taktik | Cara | Menghasilkan |
+|---|---|---|
+| **Build-in-public A.R.S.I.** | Dokumentasikan proses Audit→Rancang→Sistemasi→Iterasi yang sedang Anda kerjakan (milik sendiri / klien yang diizinkan) | Bukti kompetensi real-time (Trust Lapis 1) |
+| **Pilot Cohort harga rendah** | Cohort perdana harga early-bird khusus untuk **memproduksi 5-10 testimonial transformasi Riko→Citra** | Social proof untuk cohort reguler |
+| **Studi kasus klien** | Ubah tiap engagement jadi case study (sebelum→sesudah), anonim bila perlu | Konten MOFU + perceived likelihood |
+| **Screenshot hasil & angka** | Simpan setiap hasil terukur (waktu hemat, output naik) | Bukti konkret untuk Value Equation (8.8) |
+| **Endorsement bertahap** | Minta 1 kalimat dari peserta/klien tiap selesai | Bank testimonial yang tumbuh |
+
+**Urutan:** kumpulkan bukti **sebelum** membuka BOFU besar. Pilot → testimonial → baru hard-pitch. Ini yang membuat tiap tier di Section 8.8 punya kolom "Bukti" yang terisi, bukan kosong.
+
+---
+
+## 18. ALGORITMA MESIN — DISTRIBUSI VIDEO (MULTI-PLATFORM)
+
+> *(diturunkan dari Callaway / Short-Form System — Sumber #6, lapisan distribusi)*
+>
+> Section 15 menjelaskan **Algoritma Manusia** (kenapa manusia *engage*). Section ini menjelaskan **Algoritma Mesin** (bagaimana platform memutuskan *siapa* yang melihat konten). Keduanya pasangan, bukan saingan:
+>
+> | Lapisan | Sumber | Menentukan |
+> |---|---|---|
+> | **Algoritma Mesin** | Callaway (Section 18) | **Distribusi** — siapa yang dapat lihat video Anda |
+> | **Algoritma Manusia** | Pak Bi (Section 15) | **Resonansi** — apakah mereka berhenti, engage, kembali |
+>
+> Mesin memilih audiens; manusia memutuskan lanjut atau tidak. **Dua-duanya harus menang.** Mesin yang akurat tapi konten tanpa resonansi = di-sample lalu di-stop. Konten resonan tapi fit score kacau = tidak pernah sampai ke orang yang tepat.
+>
+> ⚠️ **Batas wewenang Section ini:** Callaway hanya mengatur *mekanika jangkauan video*. Ia tidak boleh mengubah voice (Section 5), positioning (Section 2-3), atau goal (network effect > viral, Section 15.4). Semua taktik di sini wajib lulus Filter Voice (Section 0.5).
+
+### 18.1. Cara Kerja Mesin (di Balik Layar)
+
+Saat Anda upload video, urutannya:
+
+1. **Digital fingerprint** — platform menganalisa video secara *multimodal*: visual (computer vision), audio/transkrip (apa yang diucapkan), dan metadata (caption, hashtag, lokasi, akun).
+2. **Topic mapping** — semua sinyal digabung jadi satu pemahaman: *video ini tentang apa, untuk siapa.*
+3. **Fit score** — prediksi siapa yang paling mungkin suka video ini.
+4. **Sample group ~200 orang** — video ditayangkan dulu ke ±200 orang yang fit score-nya paling tinggi. **Mayoritas adalah non-follower** (mesin ingin menguji reaksi orang asing, bukan follower yang sudah pasti suka).
+5. **Boost / retry / stop** berdasarkan data sample:
+   - Data **positif** → naik bertahap: 200 → 2.000 → 20.000 → 200.000 → dst sampai melemah.
+   - Data **netral** → fit score dihitung ulang, di-resample ke ±200 lagi (tidak langsung naik besar).
+   - Data **negatif** → mesin mengerem hampir seketika ("200 view jail").
+
+> **Implikasi:** "200-view jail" bukan hukuman acak — itu artinya sample group awal memberi data lemah. Perbaikannya bukan di setting, tapi di *kualitas konten untuk avatar yang tepat*.
+
+### 18.2. Dua Tugas Anda (Satu-satunya yang Penting)
+
+Callaway memampatkan semua jadi 2 tugas:
+
+**Tugas 1 — Bantu mesin membangun fit score yang akurat → AUDIENCE MATCHING.**
+Caranya satu: **bikin video tentang topik yang sama untuk avatar yang sama, berulang-ulang, konsisten.** Setelah beberapa video serupa, mesin paham "akun ini bicara topik X untuk avatar Y" dan makin percaya diri mengirim ke sample group yang tepat.
+
+> ⚠️ **Jebakan terbesar:** topik lompat-lompat (hari ini AI, besok motivasi, lusa gosip) membuat fit score *blended* dan kabur. Mesin bingung → mengirim lebih sedikit → flop. Ini **alasan teknis** kenapa disiplin kategori "AI Architect" (Section 3) dan Audience Tunnel (Section 14.5) itu wajib — bukan cuma soal branding, tapi soal mekanika distribusi.
+
+**Tugas 2 — Pastikan sample group itu benar-benar engage.**
+Watch, like, save, share, comment, repost — sebanyak mungkin sinyal positif dari ±200 orang pertama.
+
+### 18.3. Tiga Metrik Inti yang Dibaca Mesin
+
+| Metrik | Definisi | Cara menaikkan (versi @arifb.id) |
+|---|---|---|
+| **Average watch time / % completion** | Berapa detik / berapa persen video ditonton rata-rata | Hook 3 detik pertama tajam (pakai Hook Bank Section 6, gaya contrarian-kalem). Buang basa-basi intro. |
+| **Engagement rate** | (like + komentar + share) ÷ views | 4 horsemen (Section 18.4) + 1 paradoks Pak Bi (Section 15.3) untuk memancing komentar substantif |
+| **Watch-time session share** | Dari total waktu seseorang di app, berapa persen dihabiskan menonton video Anda (tidak bisa diakses publik, tapi sangat menentukan) | Bikin beberapa video dalam satu avatar/topik agar penonton menonton beruntun (binge) → repurposing Section 18.6 membantu |
+
+### 18.4. "4 Horsemen" — Filter Kualitas Video
+
+Empat atribut yang menaikkan engagement (dan kebetulan juga mengubah penonton jadi pembeli):
+
+1. **Topik relevan untuk avatar ideal** — menyelesaikan masalah nyata ICP Anda (decision-maker / profesional senior, Section 14.5).
+2. **Info non-obvious + bisa langsung dipraktikkan** — sesuatu yang belum mereka dengar, dan bisa dipakai.
+3. **Mudah diserap** — disampaikan dengan cara yang benar-benar bisa dipahami (kalau tidak paham, tidak bisa apply).
+4. **Jarak implementasi pendek** — aksi kecil → hasil besar sesuai janji Anda.
+
+> **Konvergensi:** Keempatnya hampir 1:1 dengan filter "Free Quality > Competitor Paid" (Section 17.3) dan Share-Sell Rule Caleb (Section 8.7). Artinya: video yang lolos 4 horsemen otomatis lolos standar kualitas free-content Anda. Satu filter, dua sumber.
+
+### 18.5. Empat Platform BUKAN Satu Algoritma
+
+Callaway menjelaskan model short-form generik. Karena Anda main di 4 kanal video, sadari perbedaan peran masing-masing dalam funnel (Section 7):
+
+| Platform | Karakter algoritma | Peran funnel | Catatan disiplin |
+|---|---|---|---|
+| **TikTok** | Interest-graph paling murni. Rewatch + completion dominan. Reach ke stranger paling besar. | **TOFU murni** (sampling agresif) | Risiko salah-audiens TERTINGGI. Jaga topik paling ketat di sini. |
+| **Instagram Reels** | Mirip TikTok, tapi bobot **share (DM) + save** tinggi; follower lama di-seed dulu. | **TOFU → MOFU** | Dorong save & share, bukan sekadar like. |
+| **YouTube Shorts** | Pintu masuk ekosistem YT; swipe-away rate kritikal. | **TOFU → jembatan** ke long-form | Sisipkan alasan untuk pindah ke long-form. |
+| **YouTube long-form** | **Beda total**: CTR (thumbnail/judul) + average view duration + session time. Menghargai kedalaman. | **MOFU/BOFU** — otoritas & konversi B2B | **Senjata terkuat depth-play Anda.** Di sinilah authority & trust (Section 17) benar-benar dibangun. |
+
+> **Insight strategis:** Short-form = mesin *awareness/sampling*. Long-form YouTube = mesin *otoritas/konversi*. Jangan menilai long-form dengan logika views short-form. Untuk @arifb.id, long-form justru lebih selaras dengan brand daripada short-form.
+
+### 18.6. Model Repurposing — 1 Ide → 4 Kanal
+
+Supaya authority play tidak tergerus tapi mesin distribusi tetap disuapi:
+
+```
+1 IDE INTI (dari 3 Pilar — Section 4)
+        │
+        ▼
+[ANCHOR] YouTube long-form 8–15 menit   ← otoritas, kedalaman, konversi (MOFU/BOFU)
+        │
+        ├─► Potong jadi 3–5 Shorts / Reels / TikTok   ← sampling, TOFU, hook contrarian-kalem
+        └─► Turunkan jadi thread teks (Threads / LinkedIn)   ← kanal yang sudah jalan
+```
+
+- Voice "Anda", frase signature (Section 3.2), dan dichotomy Riko/Citra tetap konsisten lintas format.
+- Hook Bank (Section 6) jadi 3 detik pembuka video.
+- Beberapa potongan dalam satu topik → menaikkan watch-time session share (Section 18.3).
+
+### 18.7. Comment Tactics — DIFILTER Voice (Wajib Baca)
+
+Callaway memberi 5 taktik menaikkan komentar. **Kita ambil sebagian, buang sebagian** — lewat Filter Voice (Section 0.5) dan Anti-Pattern (Section 13):
+
+| Taktik Callaway | Status untuk @arifb.id | Alasan |
+|---|---|---|
+| Ambil stance tegas (jangan main aman) | ✅ **PAKAI** | Sudah jadi DNA Anda (Hook contrarian, Section 6) |
+| Ambil sisi contrarian | ✅ **PAKAI — versi kalem** | Contrarian yang tenang & berargumen, bukan provokasi |
+| Bahas brand/ide/tokoh yang sudah punya pendukung fanatik | 🟡 **HATI-HATI** | Hanya jika relevan AI Architecture & lulus Filter Asosiasi (Section 0.5 lapis 2). Jangan demi rame. |
+| "Ciptakan musuh" + naikkan ke versi paling ekstrem | ❌ **DROP** | Melanggar voice anti-hype & no-drama (Section 5, 13) |
+| Posisikan untuk memicu emosi sebesar mungkin | ❌ **DROP** | Rage-bait merusak asosiasi premium |
+
+> **Pengganti rage-bait — versi Arif:** picu komentar lewat **paradoks Pak Bi** (Section 15.3: beli/enggak, sekarang/nanti, mahal/murah, tahu/gak tahu) dan **pertanyaan retoris** yang membuat reader memposisikan diri. Itu memancing komentar substantif tanpa mengorbankan ketenangan voice.
+
+### 18.8. Konvergensi: Mesin Membuktikan Pak Bi & Caleb
+
+Bagian terkuat dari Sumber #6 bukan taktiknya, tapi **pembenaran level-mesin** untuk hal yang sudah Anda yakini:
+
+- **Callaway:** *"Bahkan satu viral ke audiens di luar core demo akan membuat data sample beberapa video berikutnya jelek, karena membingungkan algoritma."*
+- Itu adalah **mekanisme teknis** di balik prinsip Pak Bi (Section 15.4: *network effect > viral*) dan larangan Anda di Section 13 (*jangan tergoda viral murah*). Sebelumnya alasannya filosofis; sekarang ada alasan algoritmik.
+- Maka Decision Rule #7 (tarik balik kalau follower mismatch ICP) dan #10 (Section 12) bukan kemewahan — itu menjaga fit score Anda tetap bersih.
+
+> **Satu kalimat yang merangkum Section ini (langsung dari Callaway, diparafrase):** yang menentukan hanyalah membuat video bagus untuk satu avatar spesifik di rentang topik yang sempit, berulang-ulang. Posting time, hashtag, dan tweak caption hampir tidak berpengaruh. *Itu kuenya; sisanya cuma topping.*
+>
+> *Content was rephrased for compliance with licensing restrictions.*
+
+---
+
+## 19. PAKEM DISTRIBUSI & PERTUMBUHAN (P1–P7)
+
+> *(Sintesis dari studi 5 mentor utama — detail di `MENTOR-LEARNING-MAP.md`. Posisi sama seperti Callaway/Sumber #6: **lapisan distribusi & pertumbuhan, tunduk pada Buku & Voice.** Mentor = tools; The AI Architect = arsiteknya.)*
+>
+> Tujuh pakem ini adalah **pengambil-keputusan**. Saat ragu memilih konten, channel, atau offer — kembali ke tujuh ini.
+
+### 19.1. Tujuh Pakem
+
+**P1 — Dua Algoritma harus dua-duanya menang.**
+Mesin (distribusi: fit score, Section 18) + Manusia (resonansi: was-was→surprise→kasmaran, Section 15). Viral tanpa resonansi = di-stop; dalam tanpa fit score = tak sampai. *(Callaway + Pak Bi)*
+
+**P2 — Owned-Audience First (WhatsApp-first untuk Indonesia).**
+Follower = sewaan algoritma; owned audience = aset. Wadah di Indonesia: **WhatsApp Channel/Community dulu, email untuk B2B/kedalaman.** Tiap kampanye wajib punya 1 ajakan "pindah ke channel yang kita miliki". *(Welsh/Koe/Barry, di-Indonesia-kan — lihat Section 20)*
+
+**P3 — Audience Matching > Reach. Selalu kejar "10K yang tepat".**
+Topik sempit, 1 avatar, konsisten. Tolak ide viral yang menarik non-ICP walau menggoda. *(Callaway, Decision Rule #10)*
+
+**P4 — 1 Ide Besar → banyak turunan (Content OS). Build once, distribute forever.**
+Tidak pernah bikin konten dari nol tiap hari. 1 anchor mingguan → Threads + IG + video + owned channel. *(Welsh + Koe — lihat Section 20)*
+
+**P5 — Value-First; jual saat diminta, bukan saat kita butuh.**
+Tiap offer lewat Value Equation: `(Dream Outcome × Bukti) ÷ (Waktu × Usaha)` (Section 8.8). Trust dulu, transaksi belakangan. *(Hormozi + Caleb + Pak Bi, Section 17)*
+
+**P6 — Eksperimen → Iterasi. Putuskan dari data, bukan perasaan.**
+Uji hook/format, gandakan pemenang, matikan yang gagal. Ini **A.R.S.I. yang diterapkan ke konten** — jadi pakem ini ON-BRAND. *(Jay Clouse = A.R.S.I.-mu sendiri)*
+
+**P7 — Voice tidak pernah berubah meski volume naik.**
+Anti-hype, "Anda", tenang. Tiap taktik mentor wajib lolos Filter Voice (Section 0.5). Volume boleh naik 10×, tone tetap. *(Penjaga — Buku & IP menang)*
+
+### 19.2. Keputusan Fokus yang Dikunci
+
+- **2 platform tumbuh:** Threads (utama) + IG (sekunder). Jangan sebar tenaga ke 5 platform sekaligus di awal.
+- **Owned channel jalan dari Hari 1:** WhatsApp Channel + form email B2B. Lead magnet **7-Day Challenge** sebagai pintu.
+
+### 19.3. Ritme Mingguan — Fast-Growth Sprint (Threads + IG)
+
+| Hari | Threads | IG | Pakem |
+|---|---|---|---|
+| Senin | Anchor: hook contrarian dari ide besar minggu ini | — | P4, P6 |
+| Selasa | Breakdown framework (potongan anchor) | Carousel (save-able) | P4 |
+| Rabu | Format signature ("Riko vs Citra") | Reel potongan | P3 |
+| Kamis | Studi kasus mini / confession | — | P4 |
+| Jumat | "Audit Jumat" + pertanyaan (reply farming) | Reel | P3 |
+| Sabtu–Minggu | Ringan + reply harian | Story/repost | P1 |
+| **Setiap hari** | **Reply Engine 30–45 menit** (balas 10–15 akun lebih besar di niche dengan mini-framework, bukan basa-basi) | balas DM/komentar | **P1 — tuas tercepat** |
+
+> **Metrik yang dipantau (bukan vanity):** save, share, reply ICP, opt-in owned channel. Bukan sekadar like/views.
+
+### 19.4. Guardrail Pertumbuhan
+
+- ❌ Jangan engagement-bait, follow-for-follow, giveaway receh, atau tren off-ICP — merusak fit score (Decision Rule #10).
+- ✅ Volume naik, tone tetap (P7).
+- ⏱️ Ekspektasi jujur: Threads fase organic-reach tinggi → 10K ICP realistis dalam **beberapa bulan** dengan Reply Engine + konsistensi; IG biasanya menyusul lebih lambat untuk brand depth.
+
+---
+
+## 20. CONTENT OS & OWNED-AUDIENCE ENGINE (WHATSAPP-FIRST)
+
+> *(diturunkan dari Justin Welsh "Content Operating System" + Dan Koe "1 newsletter → seminggu konten" + Nathan Barry "owned audience / ladders of wealth creation", **di-Indonesia-kan**. Menggabungkan & memperluas Section 18.6 ke teks, bukan hanya video.)*
+
+### 20.1. Prinsip: Build Once, Distribute Forever
+
+Jangan produksi konten dari nol tiap hari (Koe: *time-leverage* — 1 artikel kuat menjangkau lebih jauh daripada puluhan jam posting harian). Buat **1 anchor berkualitas**, lalu pecah jadi banyak format. Welsh: 1 anchor → 6–12 potongan/minggu.
+
+### 20.2. Alur Produksi Mingguan — 1 Ide Besar → Banyak Turunan
+
+```
+1 IDE BESAR / MINGGU (dari 3 Pilar — Section 4)
+        │
+        ▼
+[ANCHOR] Tulisan dalam (esai / breakdown framework)
+        │
+        ├─► 5–7 post Threads (micro-takes, contrarian-kalem)
+        ├─► 1 carousel IG (save-able) + 2–3 Reels
+        ├─► (saat video aktif) 1 YouTube long-form → potongan Shorts/TikTok (Section 18.6)
+        └─► 1 kiriman ke OWNED CHANNEL (WhatsApp/email) — versi paling lengkap
+```
+
+- Voice "Anda", frase signature (Section 3.2), dichotomy Riko/Citra konsisten lintas format.
+- Hook Bank (Section 6) = pembuka tiap turunan.
+- Jalankan `THREADS-LONGFORM-ABC-TEST.md` sebagai sistem uji hook mingguan (P6).
+
+### 20.3. Owned-Audience Stack untuk Indonesia
+
+> **Reframe penting:** yang dimaksud mentor bukan "email" secara harfiah, tapi **owned audience** (audiens yang Anda miliki, bukan sewa algoritma). Di Indonesia yang chat-first (WhatsApp dipakai ~9 dari 10 orang, ~1j52m/hari — We Are Social/DataReportal Digital 2026), wadahnya digeser. Ini menerapkan Aturan 0.2 #4: *"Indonesia menang untuk hal kultural."*
+
+| Prioritas | Channel | Peran | Kenapa |
+|---|---|---|---|
+| **1** | **WhatsApp Channel / Community** | Owned audience utama, habit harian | Di sinilah orang Indonesia benar-benar membuka pesan |
+| **2** | **Email / Newsletter** | Kedalaman + B2B + monetisasi + waitlist cohort | ICP profesional/corporate Anda email-friendly; aset tak bisa dicabut algoritma |
+| **3** | **Telegram** (opsional) | Komunitas/diskusi segmen tech-savvy | Pelengkap, bukan wajib |
+
+### 20.4. Pembagian Tugas Channel
+
+- **WhatsApp** = jangkauan & ritual: broadcast ringan, reminder, hook, link konten.
+- **Email** = "rumah" konten dalam: breakdown NEURO-ARC, studi kasus Riko→Citra, pitch buku/cohort/corporate (setelah trust — Section 17).
+- **Lead magnet 7-Day Challenge** = di-deliver via email **atau** WhatsApp, lalu nurture di keduanya.
+
+> **Kenapa bukan "newsletter-first" mentah:** email-only ala US lemah untuk audiens massal Indonesia, tapi **prinsip owned-audience-nya universal**. Untuk ICP B2B Anda, email tetap kuat — jadi: **WhatsApp-first untuk jangkauan, email untuk B2B & monetisasi.**
+
 ---
 
 ## RINGKASAN SATU HALAMAN
 
 > **Strategi @arifb.id dalam 1 paragraf:**
 >
-> Membangun kategori baru "AI Architect" di Threads/IG/LinkedIn Indonesia, dengan voice formal-tenang yang berbeda dari 31 kompetitor (mayoritas main di tone casual). Konten 60% NEURO-ARC/A.R.S.I. (Pilar 1), 30% workflow profesional (Pilar 2), 10% filosofi (Pilar 3). Funnel: konten gratis → 7-Day Challenge (lead magnet) → buku Rp 297–897K → A.R.S.I. Cohort Rp 7,5JT → Corporate Consulting Rp 25–100JT. Target 1 miliar pertama dalam 12 bulan dengan 30K followers (authority play, bukan volume play). Frase signature yang di-repeat: "Sistem, bukan tools" / "Arsitek, bukan pengguna" / "Tools berubah, framework abadi".
+> Membangun kategori baru "AI Architect" di Threads/IG/LinkedIn Indonesia, dengan voice formal-tenang yang berbeda dari 31 kompetitor (mayoritas main di tone casual). Konten 60% NEURO-ARC/A.R.S.I. (Pilar 1), 30% workflow profesional (Pilar 2), 10% filosofi (Pilar 3). Ekspansi ke **video** (IG Reels, YouTube Shorts + long-form, TikTok) dengan model repurposing 1 ide → anchor long-form → potongan short-form (Section 18); distribusi diatur oleh **Algoritma Mesin** (fit score, audience matching) dan resonansi oleh **Algoritma Manusia** (was-was → surprise → kasmaran). Pertumbuhan dikunci oleh **7 Pakem (Section 19)** — terutama owned-audience-first (WhatsApp-first + email B2B, Section 20), Content OS "1 ide → banyak turunan", Reply Engine harian, dan kejar "10K follower yang TEPAT" bukan volume. Setiap offer diuji **Value Equation Hormozi + bukti/garansi** (Section 8.8), dijual lewat **diagnostic selling** (Section 8.5) setelah **proof-manufacturing** (Section 17.5). Funnel: konten gratis → 7-Day Challenge (lead magnet) → buku Rp 297–897K → A.R.S.I. Cohort Rp 7,5JT → Corporate Consulting Rp 25–100JT. Target 1 miliar pertama dalam 12 bulan dengan ~30K followers ICP (authority play, bukan volume play). Frase signature yang di-repeat: "Sistem, bukan tools" / "Arsitek, bukan pengguna" / "Tools berubah, framework abadi".
 
 ---
 
-*Dokumen ini disusun berdasarkan analisa data 31 kompetitor Threads ID, framework dari course "Personal Branding & Digital Product 0 ke 1 Miliar Pertama" oleh Rama (productivityboi), dan IP buku "The AI Architect" oleh Arif Budiman. Strategi ini bisa direvisi setiap kuartal berdasarkan data aktual yang masuk.*
+*Dokumen ini disusun berdasarkan analisa data 31 kompetitor Threads ID, framework dari course "Personal Branding & Digital Product 0 ke 1 Miliar Pertama" oleh Rama (productivityboi), IP buku "The AI Architect" oleh Arif Budiman, ilmu algoritma distribusi video dari Callaway / Short-Form System (Section 18), serta sintesis 5 mentor utama (Justin Welsh, Dan Koe, David Perell, Alex Hormozi, Jay Clouse + pendukung) yang dipetakan di `MENTOR-LEARNING-MAP.md` dan dikunci sebagai Pakem Section 19-20. Strategi ini bisa direvisi setiap kuartal berdasarkan data aktual yang masuk.*
 
-*Last updated: Mei 2026*
+*Last updated: Mei 2026 — revisi: (1) Sumber #6 (Callaway) & Section 18 "Algoritma Mesin"; (2) Section 19 "Pakem Distribusi & Pertumbuhan (P1–P7)"; (3) Section 20 "Content OS & Owned-Audience Engine"; (4) Section 8.5 Diagnostic Selling, 8.8 Value Equation, 17.5 Proof-Manufacturing.*
 
 
 
@@ -1118,6 +1408,45 @@ Tunda BOFU / hard pitch ketika ada salah satu sinyal berikut:
 | 17.3 | Filter "Free Quality > Competitor Paid Quality" |
 | 17.4 | 6 sinyal premature monetization |
 | `BRAND-JOURNEY-MAP.md` (full) | Brand Journey 4Q framework |
+
+#### CALLAWAY / SHORT-FORM SYSTEM (Sumber #6 — lapisan distribusi video)
+
+| Section | Apa yang dipakai |
+|---|---|
+| 0.1, 0.2 | Posisi Sumber #6 (lapisan distribusi, tunduk Voice & Goal) + aturan konflik #5 (drop rage-bait) |
+| 0.5 | Catatan video lulus filter 4-lapis (Filter Voice sebagai penjaga) |
+| 12 rule #9 | Reach rendah = perbaiki kue (hook/topik/4 horsemen), bukan setting |
+| 12 rule #10 | Anti off-avatar viral (audience matching memperkuat rule #7) |
+| 12 rule #11 | Konsolidasi topik untuk mengunci fit score |
+| 14.5 | Audience matching = fit score akurat (machine-level ICP discipline) |
+| 15.4 | Mekanisme mesin di balik "network effect > viral" |
+| 18.1 | Cara kerja mesin: fingerprint → topic mapping → fit score → sample 200 → boost/retry/stop |
+| 18.2 | Dua tugas: bangun fit score (audience matching) + pastikan sample engage |
+| 18.3 | 3 metrik inti (watch time, engagement rate, session share) |
+| 18.4 | 4 horsemen kualitas video |
+| 18.5 | Tabel 4 platform (TikTok / IG Reels / YT Shorts / YT long-form) + peran funnel |
+| 18.6 | Model repurposing 1 ide → 4 kanal |
+| 18.7 | Comment tactics yang difilter voice (drop rage-bait, ganti dengan paradoks Pak Bi) |
+| 18.8 | Konvergensi mesin ↔ Pak Bi & Caleb |
+
+#### MENTOR LEARNING MAP (Section 19-20 — lapisan distribusi & pertumbuhan, tunduk Buku & Voice)
+
+> Detail lengkap + verifikasi sumber: `MENTOR-LEARNING-MAP.md`. Mentor = tools operasional; tidak mengubah positioning/voice/goal.
+
+| Section | Mentor | Apa yang dipakai |
+|---|---|---|
+| 19 P1 | Callaway + Pak Bi | Dua algoritma (mesin + manusia) dua-duanya menang |
+| 19 P2, 20.3-20.4 | Justin Welsh, Dan Koe, Nathan Barry | Owned-audience first (di-Indonesia-kan → WhatsApp-first + email B2B) |
+| 19 P3 | Callaway | Audience matching > reach — kejar 10K yang tepat |
+| 19 P4, 20.1-20.2 | Justin Welsh (Content OS), Dan Koe (time-leverage) | 1 ide besar → banyak turunan; build once, distribute forever |
+| 19 P5, 8.8 | Alex Hormozi, Caleb, Pak Bi | Value Equation + value-first; jual saat diminta |
+| 19 P6 | Jay Clouse | Eksperimen → iterasi (= A.R.S.I. untuk konten) |
+| 19 P7 | Penjaga (Buku & Voice) | Voice tetap meski volume naik |
+| 19.3 | Justin Welsh | Reply Engine harian (borrowed audience) |
+| 8.5 | Chris Do | Diagnostic selling via AI Audit (jual transformasi, bukan pitch) |
+| 17.5 | Jay Clouse + Hormozi + Caleb | Proof-manufacturing dari titik nol |
+| (umum) | David Perell | Personal Monopoly = validasi kategori "AI Architect"; cohort = A.R.S.I. |
+| (umum) | Ali Abdaal | Craft YouTube dari nol (saat video aktif, Section 18.5) |
 
 #### ANALISA KOMPETITOR (input riset, bukan sumber framework)
 
