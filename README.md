@@ -3,6 +3,8 @@
 > Repo personal untuk eksekusi 12 bulan pertama **The AI Architect** — Arif Budiman, `@arifb.id`.
 >
 > **Status:** Bulan 1 ready to launch. Day 1 = **Senin 15 Juni 2026, 19:30 WIB**.
+>
+> **🆕 Update Mei 2026:** strategi di-upgrade dari 13 transkrip mentor baru — tambah **§18.9** (hook anti-bait + Creator DNA), **§19.5** (Disciplined Sprint cold-start), **§21** (premium storytelling 5 pilar + AI-enabled creativity), **§22** (Idea Capture Engine), **§23** (Trust Matrix + Different>Better). Hook Bank dapat **kategori F (anti-bait)**; 4 hook di `BODY-CONTENT` (D3/D17/D19/D24) di-refresh anti-bait. Branch: `integrasi-sumber-strategi-mei2026`.
 
 ---
 
@@ -150,7 +152,8 @@ Day 31 Rab 15 Juli 2026 -- Bulan 2 launch (post-data)
 
 ## QUICK STATS
 
-- **Total file playbook:** 20 file utama + source PDF/DOCX
+- **Total file playbook:** 20 file utama + 13 transkrip mentor (primer) + source PDF/DOCX
+- **Strategi:** 23 section (terakhir di-upgrade Mei 2026 dari 13 sumber baru — lihat §18.9, §19.5, §21–23)
 - **Coverage:** Pre-launch (T-7 to T-1) + Day 1 + 30-day cadence + Weekly review + Bulan 2 transition
 - **Body publish-ready:** 30 post di [`BODY-CONTENT-BULAN-1.md`](BODY-CONTENT-BULAN-1.md)
 - **Lines content:** ~12.000+ lines markdown
@@ -163,7 +166,7 @@ Day 31 Rab 15 Juli 2026 -- Bulan 2 launch (post-data)
 ### Setiap pagi (5 menit)
 
 1. Buka [`DAILY-CHEAT-SHEET.md`](DAILY-CHEAT-SHEET.md) di HP
-2. Ingat 3 frase signature + 4-lapis filter
+2. Ingat 3 frase signature + 4-lapis filter + **stranger-test** (§18.9)
 
 ### Reply Engine harian (30-45 menit) — tuas pertumbuhan tercepat (P1)
 
@@ -175,8 +178,9 @@ Day 31 Rab 15 Juli 2026 -- Bulan 2 launch (post-data)
 1. Buka [`BODY-CONTENT-BULAN-1.md`](BODY-CONTENT-BULAN-1.md) -> Cmd/Ctrl+F cari `D{N}` -> copy body publish-ready
 2. (Kalau perlu cek slot/CTA) buka [`CONTENT-CALENDAR-BULAN-1.md`](CONTENT-CALENDAR-BULAN-1.md) -> cari `D{N}` di DETAIL PER POST
 3. Filter 4-lapis sebelum publish (lihat [`DAILY-CHEAT-SHEET.md`](DAILY-CHEAT-SHEET.md))
-4. Publish slot WIB sesuai kalender
-5. Update Tracker baris D{N} jam 22:00 WIB
+4. **Stranger-test (§18.9):** baca hook sekali — *"bekerja untuk orang yang belum kenal saya?"* Kalau terdengar seperti hook/umpan, ganti jadi anti-bait (Hook Bank §6 kategori F)
+5. Publish slot WIB sesuai kalender
+6. Update Tracker baris D{N} jam 22:00 WIB
 
 ### Setiap Senin pagi (15 menit)
 
