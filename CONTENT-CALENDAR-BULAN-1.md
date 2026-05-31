@@ -46,7 +46,7 @@ Ini bukan suggestion — ini **operasional plan**. 30 post sudah dipilih dengan 
 
 > 📂 **Ambil isi kontennya dari sini (link):**
 > - **Anchor (post utama harian):** [`BODY-CONTENT-BULAN-1.md`](BODY-CONTENT-BULAN-1.md) — 30 post publish-ready. Detail per hari (hook + body sketch) ada di file ini, scroll ke bagian **D1–D30**.
-> - **Micro-take:** Hook Bank 25 hook → [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) **§6** (ambil 1 hook, padatkan jadi 1–3 kalimat).
+> - **Micro-take:** **siap copy-paste di [`MICRO-TAKE-BANK.md`](MICRO-TAKE-BANK.md)** (48 baris, dikelompokkan per kategori) — atau padatkan 1 hook dari [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) **§6**.
 > - **Reply Engine:** panduan → [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) **§19.3**.
 > - **Referensi cepat tiap pagi:** [`DAILY-CHEAT-SHEET.md`](DAILY-CHEAT-SHEET.md) — frase signature + filter 4-lapis (bukan sumber konten, tapi checklist sebelum publish).
 
