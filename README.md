@@ -3,6 +3,8 @@
 > Repo personal untuk eksekusi 12 bulan pertama **The AI Architect** — Arif Budiman, `@arifb.id`.
 >
 > **Status:** Bulan 1 ready to launch. Day 1 = **Senin 15 Juni 2026, 19:30 WIB**.
+>
+> **🆕 Update Mei 2026:** strategi di-upgrade dari 13 transkrip mentor baru — tambah **§18.9** (hook anti-bait + Creator DNA), **§19.5** (Disciplined Sprint cold-start), **§21** (premium storytelling 5 pilar + AI-enabled creativity), **§22** (Idea Capture Engine), **§23** (Trust Matrix + Different>Better). Hook Bank dapat **kategori F (anti-bait)**; 4 hook di `BODY-CONTENT` (D3/D17/D19/D24) di-refresh anti-bait. Branch: `integrasi-sumber-strategi-mei2026`.
 
 ---
 
@@ -13,7 +15,7 @@
 | Saya mau... | File |
 |---|---|
 | Lihat strategi besar 12 bulan | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) |
-| Lihat peta belajar 5 mentor + sumber valid | [`MENTOR-LEARNING-MAP.md`](MENTOR-LEARNING-MAP.md) |
+| Lihat peta belajar 5 mentor + sumber valid | [`MENTOR-LEARNING-MAP.md`](MENTOR-LEARNING-MAP.md) (transkrip primer + update Mei 2026) |
 | Lihat Brand Journey Map (5 Q) | [`BRAND-JOURNEY-MAP.md`](BRAND-JOURNEY-MAP.md) |
 | Lihat 30 hari content plan | [`CONTENT-CALENDAR-BULAN-1.md`](CONTENT-CALENDAR-BULAN-1.md) |
 | Lihat 4 long-thread bank (A/B/C/D) | [`THREADS-LONGFORM-ABC-TEST.md`](THREADS-LONGFORM-ABC-TEST.md) |
@@ -37,6 +39,11 @@
 | Voice rules + 4-lapis filter | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §5.3, §0.5 |
 | 7 Pakem pertumbuhan + Reply Engine harian | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §19 |
 | Algoritma Mesin (distribusi video multi-platform) | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §18 |
+| **Hook anti-bait + Creator DNA ("stranger test")** | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §18.9 + §6 (Hook F) |
+| Premium storytelling 5 pilar + AI-enabled creativity | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §21 |
+| Idea Capture Engine (Write from Abundance + Content Triangle) | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §22 |
+| Trust Matrix + Different > Better (berani tidak disukai) | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §23 |
+| Disciplined Sprint cold-start (difilter dari Rino) | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §19.5 |
 | **Threads Daily Layer** (1 anchor + micro-take + reply -> 3-5 sentuhan/hari) | [`CONTENT-CALENDAR-BULAN-1.md`](CONTENT-CALENDAR-BULAN-1.md) §Threads Daily Layer |
 
 ### Weekly + Monthly Review
@@ -70,6 +77,13 @@
 | `personal branding caleb ralston.docx` | Caleb Ralston transcript |
 | `ilmu Theoderic.txt` | Theoderic Purpose Compass |
 | `pak bi.txt` | Pak Bi notes raw |
+| `Justin Welsh - YouTube.txt` | Welsh — content system (primer §19-20) |
+| `Dan Koe 1/2/3.txt` | Dan Koe — Trust Matrix + one-person business (primer §20, §23.1) |
+| `David Perell 1.txt`, `David Perel 2.txt` | Perell — Writing Online + Personal Monopoly (primer §22) |
+| `Chris Do 1.txt`, `Chris do...STOP Blanding...txt` | Chris Do — Selling + Different>Better (primer §8.5, §23.2) |
+| `KALLAWAY...2026.txt`, `How Social Media Algorithms...txt` | Callaway — algoritma + 2026 shifts (primer §18, §21) |
+| `hey dominik...txt` | Dominik — IG algorithm 2026 (primer §18.9) |
+| `44 ribu followers...txt` | Rino & Tika — Threads ID (primer §19.5, difilter) |
 | [`analisa_kompetitor.md`](analisa_kompetitor.md) | 31 kompetitor benchmark |
 
 ### Session History
@@ -138,7 +152,8 @@ Day 31 Rab 15 Juli 2026 -- Bulan 2 launch (post-data)
 
 ## QUICK STATS
 
-- **Total file playbook:** 20 file utama + source PDF/DOCX
+- **Total file playbook:** 20 file utama + 13 transkrip mentor (primer) + source PDF/DOCX
+- **Strategi:** 23 section (terakhir di-upgrade Mei 2026 dari 13 sumber baru — lihat §18.9, §19.5, §21–23)
 - **Coverage:** Pre-launch (T-7 to T-1) + Day 1 + 30-day cadence + Weekly review + Bulan 2 transition
 - **Body publish-ready:** 30 post di [`BODY-CONTENT-BULAN-1.md`](BODY-CONTENT-BULAN-1.md)
 - **Lines content:** ~12.000+ lines markdown
@@ -151,7 +166,7 @@ Day 31 Rab 15 Juli 2026 -- Bulan 2 launch (post-data)
 ### Setiap pagi (5 menit)
 
 1. Buka [`DAILY-CHEAT-SHEET.md`](DAILY-CHEAT-SHEET.md) di HP
-2. Ingat 3 frase signature + 4-lapis filter
+2. Ingat 3 frase signature + 4-lapis filter + **stranger-test** (§18.9)
 
 ### Reply Engine harian (30-45 menit) — tuas pertumbuhan tercepat (P1)
 
@@ -163,8 +178,9 @@ Day 31 Rab 15 Juli 2026 -- Bulan 2 launch (post-data)
 1. Buka [`BODY-CONTENT-BULAN-1.md`](BODY-CONTENT-BULAN-1.md) -> Cmd/Ctrl+F cari `D{N}` -> copy body publish-ready
 2. (Kalau perlu cek slot/CTA) buka [`CONTENT-CALENDAR-BULAN-1.md`](CONTENT-CALENDAR-BULAN-1.md) -> cari `D{N}` di DETAIL PER POST
 3. Filter 4-lapis sebelum publish (lihat [`DAILY-CHEAT-SHEET.md`](DAILY-CHEAT-SHEET.md))
-4. Publish slot WIB sesuai kalender
-5. Update Tracker baris D{N} jam 22:00 WIB
+4. **Stranger-test (§18.9):** baca hook sekali — *"bekerja untuk orang yang belum kenal saya?"* Kalau terdengar seperti hook/umpan, ganti jadi anti-bait (Hook Bank §6 kategori F)
+5. Publish slot WIB sesuai kalender
+6. Update Tracker baris D{N} jam 22:00 WIB
 
 ### Setiap Senin pagi (15 menit)
 

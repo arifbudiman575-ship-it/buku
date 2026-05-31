@@ -41,6 +41,9 @@
 18. [Algoritma Mesin — Distribusi Video (Multi-Platform)](#18-algoritma-mesin--distribusi-video-multi-platform)
 19. [Pakem Distribusi & Pertumbuhan (P1–P7)](#19-pakem-distribusi--pertumbuhan-p1p7)
 20. [Content OS & Owned-Audience Engine (WhatsApp-First)](#20-content-os--owned-audience-engine-whatsapp-first)
+21. [Premium Storytelling & AI-Enabled Creativity (Callaway 2026)](#21-premium-storytelling--ai-enabled-creativity-callaway-2026)
+22. [Idea Capture Engine (Perell — Hulu Konten)](#22-idea-capture-engine-perell--hulu-konten)
+23. [Trust Matrix & Prinsip Diferensiasi (Koe + Chris Do)](#23-trust-matrix--prinsip-diferensiasi-koe--chris-do)
 
 ---
 
@@ -357,7 +360,19 @@ Pola yang sering muncul di buku Anda — pakai sebagai DNA konten:
 24. *"5 kesalahan yang membuat proyek AI di perusahaan gagal — yang TIDAK akan diceritakan vendor:"*
 25. *"3 prinsip dari NEURO-ARC yang membedakan operator AI dari arsitek AI. Ini yang tidak diajarkan kursus prompt manapun:"*
 
-> 📌 **Pakai dengan cadence:** 3 contrarian + 2 confession + 1 callout + 1 question + 1 list per minggu = 8 post/minggu, 32/bulan.
+### F. Anti-Bait / Soft Open (5 hook) — *Dominik, Section 18.9.B*
+
+> Terdengar seperti orang yang membagikan sesuatu nyata — BUKAN seperti hook. Lolos *"bait shield"*. Ini **default framing** untuk voice tenang Anda.
+
+26. *"Klien saya punya 12 langganan tool AI. Bulan lalu dia menutup sembilan. Penghasilannya justru naik setelah itu."*
+27. *"Ada satu pertanyaan yang saya ajukan sebelum menyentuh tool AI apa pun. Bukan 'prompt apa', tapi 'sistem apa'."*
+28. *"Saya baru paham kenapa tim yang paling sibuk belajar prompt malah makin lambat. Ternyata bukan soal tools-nya."*
+29. *"Tadi pagi seorang direktur saya tanya: kalau ChatGPT mati hari ini, apa yang tersisa dari timnya? Dia terdiam cukup lama."*
+30. *"Saya menyimpan satu kalimat dari buku yang saya tulis: tools berubah, framework abadi. Hari ini saya benar-benar mengerti kenapa."*
+
+> 📌 **Uji tiap hook (Section 18.9):** sebelum posting, tanya — *"apakah ini bekerja untuk orang yang belum pernah mengenal saya?"* Kalau terdengar seperti umpan, tulis ulang jadi anti-bait.
+>
+> 📌 **Cadence mingguan (baseline):** 2 anti-bait + 2 contrarian + 2 confession + 1 callout + 1 question + 1 list = 9 post/minggu. Di **cold-start Bulan 1** boleh dinaikkan (Section 19.5 / Decision Rule #12) — tone tetap.
 
 ---
 
@@ -783,6 +798,8 @@ Lanjutan dengan pola yang sama, tambahan:
 9. **Jika sebuah video stuck di reach sangat rendah (mis. ~200 views) atau flat di beberapa video beruntun** → JANGAN utak-atik hashtag, jam posting, atau caption (Callaway: semua itu hampir tidak berpengaruh). Periksa **kue**-nya: hook 3 detik pertama, kecocokan topik–avatar, dan 4 horsemen (Section 18.4). *(Callaway: sample data lemah = masalah fit/kualitas, bukan setting)*
 10. **Jika muncul ide video yang kelihatan "pasti viral" tapi menarik audiens di luar ICP** → tolak atau reframe agar tetap dalam avatar AI Architect. Satu viral ke audiens salah merusak fit score beberapa video berikutnya. *(Callaway: audience matching — perkuat rule #7. Lihat Section 18.2 & 18.8)*
 11. **Jika dalam 1 bulan topik video melebar ke 3+ tema berbeda untuk avatar berbeda** → konsolidasi balik ke 1 avatar + rentang topik sempit minimal 5-6 video beruntun, supaya mesin bisa mengunci fit score. *(Callaway: konsistensi topik = fit score akurat. Lihat Section 18.2)*
+12. **Cold-start Bulan 1:** frekuensi posting boleh dinaikkan (≤ ~8 Threads/hari) untuk memanfaatkan prioritas Threads pada akun aktif — **TAPI** setiap post wajib lolos Filter Voice + tetap dalam avatar. Begitu lewat Bulan 1 ATAU saat fit score mulai kabur (follower mismatch naik, Rule #7), turunkan ke ritme 19.3 normal. *(Rino, difilter — Section 19.5)*
+13. **Saat sebuah angle/hook menang** (save & reply ICP tinggi, bukan sekadar views) → gandakan dengan **variasi pada angle itu**, bukan pindah topik dan bukan copy mentah. Test→duplikat pemenang hanya berlaku di level angle, di dalam kategori AI Architect. *(Rino "duplikat winner" × P6/A.R.S.I. — Section 19.5)*
 
 ---
 
@@ -1223,6 +1240,40 @@ Bagian terkuat dari Sumber #6 bukan taktiknya, tapi **pembenaran level-mesin** u
 >
 > *Content was rephrased for compliance with licensing restrictions.*
 
+### 18.9. Hook Anti-Bait & Creator DNA (Dominik — algoritma IG 2026)
+
+> *(Sumber primer: transkrip `hey dominik the ONLY way to BEAT the Instagram.txt`. Melengkapi 18.1–18.8 dengan dua hal yang tidak dibahas Callaway: kalibrasi hook untuk orang asing & identitas kreator. Tunduk Filter Voice Section 0.5.)*
+
+**Prinsip inti: algoritma menghargai konten yang memuaskan ORANG ASING, bukan follower.** Saat Anda posting, platform menguji ke sample non-follower dulu (sejalan 18.1). Maka pertanyaan tiap konten bukan *"apakah hook saya bagus?"* tapi **"apakah hook & konten ini bekerja untuk orang yang belum pernah mengenal saya?"**
+
+**A. Creator DNA — operasionalisasi positioning (Section 2–3) jadi 1 kalimat uji.** Lengkapi kalimat ini; kalau tak bisa diisi tajam, konten akan generik:
+
+> *"Saya **AI Architect**. Saya membantu **[ICP: pemimpin/profesional]** membangun **sistem AI yang tetap jalan walau tools berganti**. Dengarkan saya karena **[bukti spesifik: buku, studi kasus Riko→Citra, X tahun praktik]**."*
+
+Bandingkan "Saya bikin konten AI" (generik → di-skip) vs kalimat di atas (memantik rasa ingin tahu). Ini bukan positioning baru — ini **alat uji** apakah tiap konten masih membawa positioning Section 3.
+
+**B. Hook Anti-Bait — konvergensi paling kuat dengan Voice Anda.** Dominik: orang sudah punya *"bait shield"* — begitu sebuah pembuka *terdengar* seperti hook (clever, teriak, "Anda WAJIB tahu…"), mereka langsung skip. Yang bekerja: **bicara seperti orang yang membagikan sesuatu nyata**, seakan tak sengaja terdengar.
+
+> Ini **memperkuat Section 5**: voice "Anda" yang tenang & deklaratif justru SECARA ALAMI anti-bait. Hook contrarian-kalem (Section 6) = bentuk anti-bait. Jadi: pertahankan ketenangan; buang sisa formula hype.
+
+| ❌ Terdengar seperti hook (bait) | ✅ Anti-bait (versi Arif) |
+|---|---|
+| "3 KESALAHAN fatal yang bikin AI Anda gagal!" | "Klien saya punya 12 tools AI. Penghasilannya tidak naik sepeser pun. Ternyata masalahnya bukan tools-nya." |
+| "STOP! Anda WAJIB tahu rahasia AI ini." | "Ada satu pertanyaan yang jarang ditanyakan orang sebelum membeli tool AI." |
+
+**C. Riset data-driven → bank 20 ide** *(memperkuat 18.2 & Dan Koe "cari anomali")*:
+1. Cari 3 frasa luas yang dicari ICP (mis. "otomasi kerja AI", "AI untuk perusahaan").
+2. Catat: topik, hook, dan pola dari konten yang perform di niche.
+3. Temukan **GAP** — apa yang belum dikatakan — lalu tambahkan POV AI Architect Anda.
+4. Tulis 20 ide, 1 baris masing-masing. Berhenti menebak; tarik dari bank.
+
+**D. Baca analytics dengan ZOOM-OUT** *(memperkuat P6 & Decision Rules)*: jangan menilai per-konten. Lihat pola lintas konten — (a) mana yang dapat **views** terbanyak, (b) mana yang dapat **follower** terbanyak (sering berbeda!), (c) mana yang **flop** — flop adalah data paling berharga (pola "apa yang jangan diulang").
+
+**E. Produksi & owned-audience** (saat video aktif — Section 18.5–18.6 & Section 20):
+- **Pencahayaan > kamera.** HP sudah cukup; matikan lampu ruang, pakai 1 softbox + practical light. First impression menentukan apakah orang asing memberi Anda *benefit of the doubt*.
+- **Freebie + trigger word → owned audience.** 1–2×/minggu sematkan lead magnet (Section 8.2) dengan trigger word (mis. komentar "SISTEM") → kirim otomatis → masuk email/WhatsApp (Section 20). "Slow-burner" = konten yang terus memanen lead berbulan-bulan.
+- **Produk sendiri > sponsor.** Sejalan Value Ladder (Section 8): monetisasi dari aset Anda, bukan endorse.
+
 ---
 
 ## 19. PAKEM DISTRIBUSI & PERTUMBUHAN (P1–P7)
@@ -1279,6 +1330,24 @@ Anti-hype, "Anda", tenang. Tiap taktik mentor wajib lolos Filter Voice (Section 
 - ✅ Volume naik, tone tetap (P7).
 - ⏱️ Ekspektasi jujur: Threads fase organic-reach tinggi → 10K ICP realistis dalam **beberapa bulan** dengan Reply Engine + konsistensi; IG biasanya menyusul lebih lambat untuk brand depth.
 
+### 19.5. Disciplined Sprint — Protokol Cold-Start (difilter dari Rino)
+
+> *(Sumber primer: transkrip podcast `44 ribu followers dalam 1 bulan..txt` — Rino Damarjati & Tika. Rino mencapai ~44K follower & ~17 juta views dalam 1 bulan di Threads dengan **volume/performance play**. Tika menganut **authority play**. Posisi @arifb.id = authority, sejajar Tika — maka taktik Rino **DIFILTER, bukan diadopsi mentah.** Tunduk pada Buku & Voice.)*
+
+**Keputusan yang dikunci: tolak volume play sebagai default.** Rino menang dengan 5–8 (pernah 30) post/hari, anti-niche, dan angle generik (frame "alumni UGM/ITB", kontroversi Bantul). Itu **melawan P3** (Audience Matching), **P7** (Voice), dan fit score (Section 18). Mengejar follower mentah lewat angle off-ICP akan menarik audiens yang tidak akan pernah bayar Rp 7,5JT (Section 13) — persis viral-trap yang dilarang.
+
+**Yang DIADOPSI (hanya 2 elemen, dan hanya di fase cold-start Bulan 1):**
+
+1. **Frekuensi cold-start boleh dinaikkan di atas baseline.** Klaim Rino — diperlakukan sebagai *prinsip*, bukan jaminan — Threads memprioritaskan akun yang sering posting selama fase rebut-audiens (Threads vs X/Twitter). Maka di **Bulan 1**, ritme 19.3 boleh ditambah micro-take ringan (total ~6–8 Threads/hari), **asalkan setiap post tetap lolos Filter Voice (Section 0.5) dan tetap dalam avatar AI Architect.** Frekuensi naik — avatar tidak melebar.
+2. **"Test → duplikat pemenang" untuk ANGLE, bukan TOPIK.** Mindset eksperimen Rino ("from zero, do anything, lihat mana yang works, duplikat") = sama dengan **P6 / A.R.S.I.** yang sudah on-brand. Kita pakai **hanya pada level angle/hook/framing** di dalam kategori AI Architect. Topik tetap sempit (Decision Rule #11). Pemenang digandakan **dengan variasi**, bukan di-copy mentah.
+
+**Yang DITOLAK (jangan tergoda meski "terbukti" untuk Rino):**
+- ❌ Anti-niche / "apa aja yang penting working" — langgar P3.
+- ❌ Angle generik demi virality (sentimen kampus, kontroversi receh) — langgar Section 13 & Decision Rule #10.
+- ❌ Follower count sebagai metrik utama — kita kejar save / reply ICP / opt-in owned channel (19.3), bukan vanity.
+
+**Catatan urutan (Rino & Tika sepakat di transkrip):** content pillar biasanya dipikirkan *setelah* akun stabil (~100K). Tapi kita **tidak mulai dari nol tanpa identitas** — positioning AI Architect & 3 Pilar (Section 3–4) sudah dikunci dari Buku. Jadi yang kita "test bebas" hanyalah *angle di dalam pilar*, bukan pilarnya. Inilah keunggulan struktural kita atas pemain cold-start biasa: **kita sudah punya kategori & IP sejak Hari 1.**
+
 ---
 
 ## 20. CONTENT OS & OWNED-AUDIENCE ENGINE (WHATSAPP-FIRST)
@@ -1324,6 +1393,119 @@ Jangan produksi konten dari nol tiap hari (Koe: *time-leverage* — 1 artikel ku
 - **Lead magnet 7-Day Challenge** = di-deliver via email **atau** WhatsApp, lalu nurture di keduanya.
 
 > **Kenapa bukan "newsletter-first" mentah:** email-only ala US lemah untuk audiens massal Indonesia, tapi **prinsip owned-audience-nya universal**. Untuk ICP B2B Anda, email tetap kuat — jadi: **WhatsApp-first untuk jangkauan, email untuk B2B & monetisasi.**
+
+---
+
+## 21. PREMIUM STORYTELLING & AI-ENABLED CREATIVITY (CALLAWAY 2026)
+
+> *(Sumber primer: transkrip `KALLAWAY The NEW Way to WIN on Social Media in 2026.txt`. Melengkapi Section 18 (mekanika) dengan tiga pergeseran 2026: AI-enabled creativity, era monetisasi, premium storytelling. Tunduk Buku & Voice.)*
+
+### 21.1. AI-Enabled Creativity — AI mengosongkan waktu, bukan menggantikan otak
+
+Callaway membedakan **"AI content"** (konten ditulis penuh oleh AI — hambar, robotik) dari **"AI-enabled creativity"** (AI mengerjakan tugas membosankan: riset, transkrip, draf caption — supaya waktu Anda bebas untuk *creative take*).
+
+> **Kenapa ini paling on-brand:** ini PERSIS tesis buku Anda — *sistem, bukan tools; arsitek, bukan operator.* AI = tools yang melayani arsitek. **"Sauce layer"** (sudut pandang manusia) tidak pernah di-outsource. Chris Do (Section 23.2) menegaskan: *"jangan biarkan mesin yang berpikir — Anda mendemosikan diri jadi mesin."*
+
+**Workflow AI-enabled untuk @arifb.id (human-in-the-loop wajib):**
+1. AI bantu **riset & kurasi** topik/anomali yang perform di niche (sejalan 18.9.C + Dan Koe).
+2. AI bantu **tugas transaksional**: rapikan transkrip anchor, draf turunan, varian hook.
+3. **Anda** beri *take* — reframe lewat NEURO-ARC, dichotomy Riko/Citra, voice "Anda". Langkah ini TIDAK boleh dilewati.
+
+> ⚠️ Guardrail: output AI wajib lewat Filter Voice (Section 0.5) + standar 4 horsemen (18.4). Kalau sebuah konten tidak punya *take* Anda — jangan posting.
+
+### 21.2. Era Monetisasi / Social Commerce 3.0 — kesadaran, bukan pivot
+
+Callaway: nilai *skill mendistribusi perhatian* akan naik 5–10× karena rel monetisasi makin mulus (Instagram Shops, agentic social commerce, biaya bikin produk → nol, click-to-buy via AI vision).
+
+> **Sikap kita: catat sebagai konteks, JANGAN ubah strategi jadi social-commerce/affiliate.** Positioning Anda authority/B2B (buku, cohort, corporate — Section 8), bukan affiliate produk fisik. Yang diambil: **skill distribusi & owned-audience (Section 20) makin bernilai** → perkuat yang sudah ada. Tolak godaan affiliate/dropship yang merusak positioning (Section 13).
+
+### 21.3. Premium Storytelling — 5 Pilar
+
+Pergeseran besar: trend-chasing & editing overstimulasi makin kalah; **storytelling premium menang** (saat kemampuan editing makin merata, premium pindah ke cerita). Lima pilar:
+
+| Pilar | Makna | Aset @arifb.id yang sudah ada |
+|---|---|---|
+| **Characters** | Tokoh yang membuat penonton terikat | **Riko vs Citra** (Section 3.3) |
+| **Pacing** | Ritme yang disengaja, bukan cepat-cepat | Pola kalimat ritmis dari buku (Section 5.4) |
+| **Narrative arcs** | Busur transformasi, bukan daftar tips | Arc Riko→Citra; origin story (Section 0/10) |
+| **World-building** | Pengulangan yang memperluas semesta | Repetisi frase signature (Section 3.2) — lihat 21.4 |
+| **Tension** | Ketegangan yang menahan perhatian | Paradoks Pak Bi (Section 15.3) + hook contrarian |
+
+> **Konvergensi:** kelimanya memetakan ke aset yang SUDAH Anda punya. Storytelling premium bukan tugas baru — ia memberi nama pada kekuatan naratif buku Anda dan menyuruh Anda memakainya di konten, bukan mengejar tren.
+
+### 21.4. World-Building = Repetisi, bukan Kejar Baru (jembatan ke Chris Do)
+
+Callaway & Chris Do (Section 23.2) sepakat: **jangan kecanduan bikin "baru" terus.** Memperluas semesta dari hal yang sudah disukai orang (seperti franchise film) justru membangun brand. Untuk Anda: **ulangi** NEURO-ARC, A.R.S.I., Riko/Citra, 3 frase signature dari sudut berbeda — sampai audience hafal. Konsistensi topik ini sekaligus menajamkan fit score (Section 18.2).
+
+---
+
+## 22. IDEA CAPTURE ENGINE (PERELL — HULU KONTEN)
+
+> *(Sumber primer: `David Perell 1.txt` "The Ultimate Guide to Writing Online" + `David Perel 2.txt` "Build a Personal Monopoly". Menutup gap: Section 18–21 kuat di PRODUKSI & DISTRIBUSI, tapi belum ada sistem MENANGKAP IDE di hulu. Tunduk Buku & Voice.)*
+
+**Masalah yang dipecahkan:** writer's block & "konten dari nol tiap hari". Solusi Perell — **Write from Abundance**: bangun bank inspirasi *sebelum* duduk menulis, supaya tak pernah mulai dari halaman kosong. Melengkapi Content OS (Section 20): kalau Section 20 soal *1 ide besar → banyak turunan*, Section 22 soal *dari mana ide besar itu datang*.
+
+### 22.1. Write from Abundance — 3 Kebiasaan Hulu
+
+1. **Upgrade Information Diet.** Tulisan sebagus bahan bakunya (analogi koki: *better ingredients*). Baca yang orang lain tidak baca; jauhi *Never-Ending Now* (hanya konsumsi konten 24 jam terakhir). Untuk Anda: utamakan sumber abadi (linguistik kognitif, filsafat teknologi — Pilar 3 Section 4) di atas tren AI harian.
+2. **Capture Habit.** Tangkap epiphany saat muncul (jalan kaki, meeting, baca buku) — jangan berharap ide kembali saat dibutuhkan.
+3. **Note-Taking System.** Catatan = bahan mentah; saat buntu, tuang dan lihat apa yang muncul saat ide bertabrakan. (Sinkron "Zettelkasten + AI", Pilar 2.)
+
+> **Anti-collecting guard:** ini BUKAN izin menimbun (Anda menulis buku anti prompt-collecting). Aturan: capture untuk *diproduksi*, bukan diarsipkan. Konsumsi ≤ 20%, produksi ≥ 80% (sejalan `MENTOR-LEARNING-MAP.md`).
+
+### 22.2. Write from Conversation — Content Triangle
+
+Ide terbaik ditemukan lewat **dialog**, bukan merenung sendiri. Tiga lapis:
+- **Conversations with Friends** → menguji ide mentah (DM, grup, Reply Engine Section 19.3).
+- **Conversations with Readers** → komentar/reply audience menunjukkan ide mana yang resonan (= sinyal P6; gandakan pemenang, Section 19.5).
+- **Conversations with Editors** → pematangan jadi anchor (Section 20).
+
+> Reply Engine Anda (Section 19.3) sebenarnya lapis "friends/readers" dari Content Triangle — kini punya fungsi hulu: bukan cuma cari reach, tapi **memanen ide tervalidasi**.
+
+### 22.3. Write in Public & Craft
+
+- **Write in Public:** publikasi konsisten = jadi *beacon* peluang. Frekuensi = tiket masuk; kualitas = pengali. (Sinkron 19.5: frekuensi cold-start + kualitas tetap.)
+- **Craft:** *Make it POP → Find your Key Idea → Develop your Voice.* "1 Key Idea per tulisan" = persis aturan Anda "1 ide besar per post" (Section 5.3).
+
+### 22.4. Personal Monopoly — validasi positioning untuk "AI Architect"
+
+Perell: tujuan akhir = **Personal Monopoly** (irisan unik skill + minat + kepribadian, tempat Anda dikenal sebagai *pemikir terbaik* di satu topik). Skill harus **unusual, complementary, experiential, specific**; pilih *pasar kecil yang terus tumbuh* (think like an investor).
+
+> **Konvergensi:** "AI Architect" (Section 3) = Personal Monopoly Anda — irisan arsitektur sistem AI × linguistik kognitif/filsafat × pengalaman praktik × voice "Anda". Perell membenarkan keputusan kategori Anda di level *teori positioning*, sama seperti Callaway membenarkannya di level *mesin* (fit score). Catatan jujur Perell: kebanyakan orang butuh ~5 tahun menemukan ini — Anda sudah punya dari buku. Itu *unfair advantage*.
+
+---
+
+## 23. TRUST MATRIX & PRINSIP DIFERENSIASI (KOE + CHRIS DO)
+
+> *(Sumber primer: `Dan Koe 1.txt` (Trust Matrix) + `Chris do . STOP Blanding...txt` (Different > Better). Memperkuat Section 2–3 di level prinsip — TIDAK mengubah positioning yang SACRED, hanya memberi kerangka kerja. Tunduk Buku & Voice.)*
+
+### 23.1. Trust Matrix (Dan Koe) — "uang adalah ukuran kepercayaan"
+
+Tiga pilar yang harus jalan bersama:
+
+| Pilar | Isi | Sudah ada di strategi |
+|---|---|---|
+| **Growth** | Latih *idea-to-execution muscle*; pelajari 5–10 kreator, cari **anomali** (post 2× engagement), bedah KENAPA berhasil (3–5 bullet) | = 18.9.C riset + P6 |
+| **Authenticity** | **Time under attention** (makin lama dikenal makin dipercaya) + alignment of values + **authentic polarization** ("disukai semua = disukai tidak siapa-siapa") | = Voice Section 5 + Different (23.2) |
+| **Authority** | *Persuasive education* — ajarkan lewat lensa baru / reframe lewat ide baru; sadari **5 level of awareness**; framing "kalau Anda mau X / kalau Anda tidak mau Y" | = Pilar konten Section 4 + Hook Bank Section 6 |
+
+> **Authentic polarization vs voice tenang — bukan kontradiksi:** polarisasi Anda datang dari *ketegasan posisi* (contrarian terhadap tools-obsession), bukan dari teriak/drama. Tegas tapi tenang. Polarisasi yang benar menarik ICP & menolak yang bukan (Section 13).
+
+### 23.2. Different > Better (Chris Do) — "berani tidak disukai"
+
+Dua ide inti: **(1) keberanian untuk tidak disukai**, **(2) jadi *meaningfully different*** (beda yang bermakna, bukan beda asal). Plus matriks **Good vs Different** (Marty Neumeier):
+
+| | Tidak Different | Different |
+|---|---|---|
+| **Tidak Good** | Knockoff / tiruan | Gimmick / fad |
+| **Good** | **Me-too / komoditas** (tak terbedakan) | **Innovative → command premium** ✅ |
+
+- *Good* sekarang cuma **tiket masuk** (semua kompetitor "good"). Diferensiasi = tempat Anda menang. Target: kuadran **Good + Different**.
+- **Different > Better** (Sally Hogshead): produk jual fitur; **brand jual makna** ("siapa saya kalau pakai ini?"). Anda bukan jual "tips AI lebih baik" — Anda jual *identitas arsitek*.
+- **Inversion thinking** (Munger): untuk menonjol, tanya dulu "apa yang membuat saya *menyatu* dengan kerumunan?" lalu balik. Daftar blend-in di niche AI ID: copy-paste konten, ikut tren tools, hook hype, ganti "Anda" jadi "lo/gue". → Anda sudah melakukan kebalikannya (Section 13).
+- **Anti-AI-faceless** (konvergen dengan 21.1): *"pakai mesin untuk menajamkan, jangan biarkan mesin berpikir untukmu."* Persis tesis The AI Architect.
+
+> **Catatan SACRED:** Section ini TIDAK mengubah positioning/voice (tetap "AI Architect", "Anda"). Ia memberi *teori* di balik keputusan yang sudah dikunci — supaya saat ragu Anda punya kerangka, bukan sekadar instruksi.
 
 ---
 
@@ -1448,6 +1630,24 @@ Jangan produksi konten dari nol tiap hari (Koe: *time-leverage* — 1 artikel ku
 | 17.5 | Jay Clouse + Hormozi + Caleb | Proof-manufacturing dari titik nol |
 | (umum) | David Perell | Personal Monopoly = validasi kategori "AI Architect"; cohort = A.R.S.I. |
 | (umum) | Ali Abdaal | Craft YouTube dari nol (saat video aktif, Section 18.5) |
+
+#### TRANSKRIP PRIMER MENTOR (Sumber baru — Sesi Mei 2026)
+
+> 13 transkrip asli ditambahkan ke repo. Sebagian = **sumber primer** untuk Section yang sudah ada (mempertegas, bukan mengganti); sebagian = **materi baru** (Section 18.9, 21, 22, 23). Posisi: lapisan distribusi/pertumbuhan, tunduk Buku & Voice.
+
+| Section | Sumber (transkrip) | Apa yang dipakai |
+|---|---|---|
+| 18.9 | `hey dominik...txt` | Hook anti-bait, Creator DNA, konten untuk *stranger*, riset→20 ide, analytics zoom-out, freebie+trigger→owned audience |
+| 19.5 + 12 (#12-13) | `44 ribu followers...txt` (Rino & Tika) | Disciplined Sprint — frekuensi cold-start + test→duplikat angle (volume play **ditolak** sebagai default) |
+| 21 | `KALLAWAY...2026.txt` | AI-enabled creativity, era monetisasi (konteks), premium storytelling 5 pilar, world-building |
+| 22 | `David Perell 1.txt` + `David Perel 2.txt` | Write from Abundance/Conversation/Public, Content Triangle, Craft, Personal Monopoly |
+| 23.1 | `Dan Koe 1.txt` | Trust Matrix (Growth/Authenticity/Authority), authentic polarization, persuasive education |
+| 23.2 | `Chris do...STOP Blanding.txt` | Different > Better, courage to be disliked, Good vs Different (Neumeier), inversion, anti-AI-faceless |
+| 6 (Hook Bank F) | `hey dominik...txt` | Kategori F anti-bait + stranger-test |
+| 18 (primer) | `How Social Media Algorithms Actually Work...txt` | Sumber primer Section 18 (sebelumnya hanya via referensi channel) |
+| 19-20 (primer) | `Justin Welsh...txt`, `Dan Koe 2/3.txt`, `David Perell 1.txt` | Sumber primer Pakem P1-P7 & Content OS |
+| 8.5 (primer) | `Chris Do 1.txt` (Selling) | Sumber primer diagnostic selling (S.A.L.E.S = Serve-Ask-Listen-Empathize-Summarize) |
+| (arsip) | `ilmu Theoderic.txt`, `pak bi.txt`, `personal branding caleb ralston.docx` | Sudah terintegrasi sebelumnya (Section 15, 16, 8.7) |
 
 #### ANALISA KOMPETITOR (input riset, bukan sumber framework)
 

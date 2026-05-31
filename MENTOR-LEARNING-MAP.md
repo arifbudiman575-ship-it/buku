@@ -15,6 +15,31 @@ Saat dokumen ini disusun, mesin pencari menyembunyikan URL `youtube.com/watch` s
 
 ---
 
+## ⭐ UPDATE MEI 2026 — TRANSKRIP PRIMER MASUK
+
+> **Perubahan status sumber.** Dokumen ini awalnya dibuat saat URL video tidak bisa diverifikasi (hanya channel + judul). Kini **13 transkrip asli** sudah ada di repo, jadi beberapa mentor naik dari "referensi channel" → **transkrip primer (confidence tinggi)**.
+
+**Mentor yang kini punya transkrip primer di repo:**
+- Justin Welsh (`Justin Welsh - YouTube.txt`) • Dan Koe (`Dan Koe 1/2/3.txt`) • David Perell (`David Perell 1.txt`, `David Perel 2.txt`) • Chris Do (`Chris Do 1.txt` selling, `Chris do...STOP Blanding.txt`) • Callaway (`How Social Media Algorithms...txt`, `KALLAWAY...2026.txt`).
+
+**2 sumber BARU ditambahkan ke peta:**
+- **Dominik** — algoritma IG 2026 (Tier 2, distribusi). Transkrip: `hey dominik...txt`.
+- **Rino Damarjati & Tika** — Threads Indonesia (Tier 3, benchmark ID — **difilter berat**, volume play ditolak). Transkrip: `44 ribu followers...txt`.
+
+**8 ilmu baru yang sudah diintegrasi ke `STRATEGI-PERSONAL-BRANDING.md`:**
+1. **Hook anti-bait** — hook yang tidak terdengar seperti hook (Dominik → Section 18.9.B + Hook Bank kategori F).
+2. **Creator DNA** — formula identitas 1 kalimat (Dominik → Section 18.9.A).
+3. **Disciplined Sprint** — frekuensi cold-start + "test→duplikat angle", tanpa anti-niche (Rino, difilter → Section 19.5 + Decision Rule #12-13).
+4. **Premium storytelling 5 pilar + AI-enabled creativity** (Callaway → Section 21).
+5. **Idea Capture Engine** — Write from Abundance + Content Triangle (Perell → Section 22).
+6. **Trust Matrix eksplisit** — Growth/Authenticity/Authority (Dan Koe → Section 23.1).
+7. **Different > Better + Good-vs-Different matrix + courage to be disliked** (Chris Do → Section 23.2).
+8. **Analytics zoom-out + freebie→owned-audience automation** (Dominik → Section 18.9.D-E).
+
+> **Catatan tension (penting):** Rino "terbukti" untuk Threads ID (44K/bulan) TAPI lewat *volume play* yang melawan positioning authority @arifb.id. Yang diadopsi hanya 2 elemen aman (frekuensi cold-start + test→duplikat angle); anti-niche & angle generik **ditolak**. Detail: Section 19.5.
+
+---
+
 ## A. RINGKASAN BESAR
 
 - **Apakah harus belajar dari mereka?** Ya — untuk mencuri *sistem* (distribusi, audience, trust, offer), bukan meniru gaya. IP & positioning sudah jadi keunggulan langka Anda; yang kurang adalah mesin distribusi.
