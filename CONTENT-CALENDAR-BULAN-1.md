@@ -28,12 +28,18 @@ Ini bukan suggestion — ini **operasional plan**. 30 post sudah dipilih dengan 
 
 **Pola harian (target 3–5 sentuhan, hanya 1 yang berat):**
 
-| Slot | Sentuhan | Effort | Sumber |
+| Slot | Sentuhan | Effort | Ambil isinya dari |
 |---|---|---|---|
-| Pagi/siang | **1× ANCHOR** (post hari ini dari kalender) | tinggi | kalender D1–D30 |
-| Siang | **1× micro-take** (1–3 kalimat) | rendah | Hook Bank §6 (contrarian/question pendek) |
-| Sore | **Reply Engine 30–45 mnt** — balas 10–15 akun lebih besar di niche dgn mini-framework | sedang | §19.3 (tuas tercepat, P1) |
-| Malam (opsional) | **1× quote-repost anchor sendiri** + angle tambahan, ATAU reply ke thread sendiri untuk extend | rendah | — |
+| Pagi/siang | **1× ANCHOR** (post hari ini dari kalender) | tinggi | [`BODY-CONTENT-BULAN-1.md`](BODY-CONTENT-BULAN-1.md) + detail D1–D30 di file ini |
+| Siang | **1× micro-take** (1–3 kalimat) | rendah | Hook Bank → [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §6 |
+| Sore | **Reply Engine 30–45 mnt** — balas 10–15 akun lebih besar di niche dgn mini-framework | sedang | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §19.3 |
+| Malam (opsional) | **1× quote-repost anchor sendiri** + angle tambahan, ATAU reply ke thread sendiri untuk extend | rendah | dari anchor hari itu (atas) |
+
+> 📂 **Ambil isi kontennya dari sini (link):**
+> - **Anchor (post utama harian):** [`BODY-CONTENT-BULAN-1.md`](BODY-CONTENT-BULAN-1.md) — 30 post publish-ready. Detail per hari (hook + body sketch) ada di file ini, scroll ke bagian **D1–D30**.
+> - **Micro-take:** Hook Bank 25 hook → [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) **§6** (ambil 1 hook, padatkan jadi 1–3 kalimat).
+> - **Reply Engine:** panduan → [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) **§19.3**.
+> - **Referensi cepat tiap pagi:** [`DAILY-CHEAT-SHEET.md`](DAILY-CHEAT-SHEET.md) — frase signature + filter 4-lapis (bukan sumber konten, tapi checklist sebelum publish).
 
 **Bank pola micro-take (REUSABLE — bikin spontan dari isu/komen hari itu, JANGAN di-script 30 hari):**
 - 1 kalimat **contrarian** turunan anchor ("Tools berubah tiap 6 bulan. Yang Anda bangun harusnya bertahan 6 tahun.")
