@@ -22,6 +22,39 @@ Ini bukan suggestion — ini **operasional plan**. 30 post sudah dipilih dengan 
 4. **Malam (30 menit setelah publish)** — Reply komen pertama (algoritma Threads: cepat reply = boost), monitor metrik
 5. **Minggu malam** — Catat 1-2 baris journal: post mana yang menonjol? Slip apa yang terjadi?
 
+### Threads Daily Layer — dari 1 anchor/hari → 3–5 sentuhan/hari
+
+> **Kenapa ada:** Threads itu high-frequency (akun aktif biasanya 3–5×/hari). Kalender ini menjadwalkan **1 anchor garapan/hari** (quality floor). Lapisan ini menambah **sentuhan ringan** supaya cadence Anda native — **tanpa** bikin 5 konten berat. Selaras §19.3 (Reply Engine), §20 (Content OS: micro-take = turunan dari anchor), dan §18.2 (lebih banyak sampel on-topic = fit score makin akurat).
+
+**Pola harian (target 3–5 sentuhan, hanya 1 yang berat):**
+
+| Slot | Sentuhan | Effort | Sumber |
+|---|---|---|---|
+| Pagi/siang | **1× ANCHOR** (post hari ini dari kalender) | tinggi | kalender D1–D30 |
+| Siang | **1× micro-take** (1–3 kalimat) | rendah | Hook Bank §6 (contrarian/question pendek) |
+| Sore | **Reply Engine 30–45 mnt** — balas 10–15 akun lebih besar di niche dgn mini-framework | sedang | §19.3 (tuas tercepat, P1) |
+| Malam (opsional) | **1× quote-repost anchor sendiri** + angle tambahan, ATAU reply ke thread sendiri untuk extend | rendah | — |
+
+**Bank pola micro-take (REUSABLE — bikin spontan dari isu/komen hari itu, JANGAN di-script 30 hari):**
+- 1 kalimat **contrarian** turunan anchor ("Tools berubah tiap 6 bulan. Yang Anda bangun harusnya bertahan 6 tahun.")
+- 1 **pertanyaan** reply-farming ("Dari semua tool AI yang Anda bayar, mana yang masih dipakai 6 bulan lagi?")
+- 1 **reframe** komen/DM menarik jadi post pendek (tanpa sebut nama)
+- 1 **observasi lapangan** singkat (sudut praktisi)
+- 1 **frase signature** berdiri sendiri ("Sistem, bukan tools.")
+
+**Soft WhatsApp Channel mention (mulai Day 7+, 1–2×/minggu, bukan tiap hari):** selipkan di closing salah satu sentuhan — *"Versi lengkapnya saya tulis di WhatsApp Channel — link bio."* Tetap soft, trust-first (§17).
+
+**Guardrail (frekuensi MELAYANI kualitas, bukan sebaliknya):**
+1. **On-topic ketat** — micro-take pun harus seputar AI Architecture. Off-topic = racun fit score (§18.2, Decision Rule #10/#11).
+2. **Filter 4-lapis tetap** berlaku untuk SETIAP sentuhan, termasuk micro-take 1 kalimat.
+3. **Voice "Anda", tenang** (§5, P7) — micro-take ≠ izin CAPS/hype.
+4. **Kualitas > jumlah** — kalau 5×/hari bikin voice slip atau burnout, turun ke 2–3 sentuhan. "Asal posting" = trigger Decision Rule #8 (purpose-drift).
+5. **Metrik dipantau:** reply substantif + save (network effect §15.4), **bukan** jumlah post atau like.
+
+> **IG beda platform:** IG **tidak** ikut pola 3–5× ini. Tetap 1 carousel berkualitas + Reel sesuai kalender (Reels max 2/minggu, README LOCKED). Jangan paksa IG harian.
+
+---
+
 ### Filter 4-Lapis Cepat (sebelum publish)
 ```
 [ ] BUKU       — Bocorin scene/Prolog/karakter spesifik buku? Kalau ya, drop atau tulis ulang.
