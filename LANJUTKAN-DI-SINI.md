@@ -109,18 +109,25 @@ Copy paste ini ke chat baru:
 ```
 Halo, saya Arif Budiman / @arifb.id, penulis buku THE AI ARCHITECT.
 
-Lanjutkan dari sesi sebelumnya yang tersimpan di repo
-arifbudiman575-ship-it/buku, branch add-threads-abc-test (PR #11).
+Lanjutkan dari sesi sebelumnya. Repo: arifbudiman575-ship-it/buku.
+Branch main = sumber kebenaran terkini (PR #32 sudah merged).
 
-Baca dulu file LANJUTKAN-DI-SINI.md untuk konteks lengkap.
+Baca dulu LANJUTKAN-DI-SINI.md — terutama section paling bawah
+"SESI 31 MEI 2026" untuk konteks paling baru.
 
 Kalau perlu detail, baca juga:
-- STRATEGI-PERSONAL-BRANDING.md (strategi utama 18 section)
-- BRAND-JOURNEY-MAP.md (workbook 4Q)
-- RINGKASAN-SESI.md Section 10 (rekap Sesi 4 integrasi 5 sumber)
+- STRATEGI-PERSONAL-BRANDING.md (strategi utama, kini 23 section —
+  perhatikan §18.9, §19.5, §21, §22, §23 yang baru)
+- AI-AUDIT-OFFER-SPEC.md + CASHFLOW-SPRINT-30HARI.md (Jalur Cashflow, PR #33)
 
-Sekarang saya mau lanjut ke: [pilih (E)/(F)/(G)/(H)/(I)/(J)/(K)/(L)
-atau sebut topik lain]
+KONTEKS TERKINI: saya butuh cashflow Rp 10JT bulan ini. Kita sudah
+sepakat pakai Jalur Cashflow (jasa 1:1/B2B), TERPISAH dari brand.
+2 hal yang masih saya perlu kasih ke kamu:
+  (1) angka warm network saya = [ISI, atau "belum dihitung"]
+  (2) skill konkret saya = [ISI: saya paling bisa bantu klien dengan ___]
+
+Sekarang saya mau lanjut ke: [pilih: tajamkan offer+skrip DM /
+merge PR #33 / lanjut prep Day 1 brand / topik lain]
 ```
 
 ---
@@ -232,3 +239,66 @@ Kalau salah satu belum siap di T-1 (Min 14 Jun 2026) — **TUNDA Day 1 +1 hari**
 ---
 
 *Sesi 30 Mei 2026 selesai. Continuity bridge ada di `.kiro/steering/buku-context.md`.*
+
+
+
+---
+
+## SESI 31 MEI 2026 — INTEGRASI 13 SUMBER + JALUR CASHFLOW
+
+> Sesi via Kiro Web (Vibe mode). Dua topik besar: (A) integrasi 13 transkrip sumber strategi baru, (B) pivot ke Jalur Cashflow karena kebutuhan Rp 10JT bulan pertama.
+
+### Alur diskusi (prompt user → respons)
+
+| # | Prompt user (ringkas) | Hasil |
+|---|---|---|
+| 1 | "Saya baru tambah 12–13 sumber strategi baru, pelajari mana yang paling relevan & bisa diintegrasi" | Saya baca 13 transkrip, petakan TIER 1–3 relevansi |
+| 2 | "Rekomendasi kamu?" | Rekomendasi: integrasi selektif ke STRATEGI (bukan file baru), + keputusan Langkah 0 (Disciplined Sprint — tolak volume play Rino) |
+| 3 | "Langkah 0, berarti keseluruhan strategi terupgrade termasuk konten?" | Saya jelaskan 3 lapis dampak (strategi / hook bank / artefak konten) |
+| 4 | "Hemat kredit: B dulu lalu C, atau langsung C? Biar berubah semua termasuk README" | Saya rekomendasi langsung C (1 pass lebih hemat dari B→C) |
+| 5 | "Sesuai rekomendasi kamu yang mana?" (lanjut refine konten atau stop) | Rekomendasi: STOP poles, merge, MULAI (optimasi hook nanti pakai data nyata) |
+| 6 | "Tinggal merge, pastikan README terupdate buat pegangan" | Finalisasi README sebagai handbook |
+| 7 | "Sudah saya merge" | Verifikasi PR #32 merged ke main |
+| 8 | "Bisakah scale up target Rp 10JT bulan pertama?" | Jujur: tidak via hard-sell audiens cold; bisa via high-ticket/warm |
+| 9 | "Produk dijual? warm leads? offer? → belum, belum, belum" | Reframe: bottleneck = fondasi, bukan target |
+| 10 | "Kebutuhan (cashflow), warm network belum tau" | Pivot: brand terlalu lambat untuk cashflow → Jalur Cashflow (jasa) |
+| 11 | "Mau" (bangun offer + sprint) | Buat 2 file Jalur Cashflow → PR #33 |
+| 12 | "Rangkum semua + prompt" | File ini |
+
+### Yang SELESAI sesi ini
+
+✅ **PR #32 — MERGED ke main.** Integrasi 13 sumber:
+- STRATEGI +5 section: **§18.9** (hook anti-bait + Creator DNA / Dominik), **§19.5** (Disciplined Sprint cold-start / Rino, difilter) + Decision Rules #12–13, **§21** (premium storytelling 5 pilar + AI-enabled creativity / Callaway), **§22** (Idea Capture Engine / Perell), **§23** (Trust Matrix / Koe + Different>Better / Chris Do)
+- Hook Bank **kategori F (anti-bait)** + stranger-test; DAFTAR ISI & INDEX MASTER
+- `MENTOR-LEARNING-MAP.md`: status sumber → transkrip primer + changelog 8 ilmu baru
+- `BODY-CONTENT-BULAN-1.md`: 4 hook (D3/D17/D19/D24) di-refresh anti-bait
+- README + 6 artefak konten: catatan integrasi terarah
+- **STRATEGI sekarang 23 section.** Total commit: 3 (a54bf21, 8d21ffa, 0cddf8c) + merge 2a8499c.
+
+🟡 **PR #33 — OPEN (belum merged).** Jalur Cashflow:
+- `AI-AUDIT-OFFER-SPEC.md` — offer jasa 3 tier (Audit 2,5–3,5JT / Blueprint 5–7,5JT / Build 10–20JT) + workshop 5–15JT, skrip diagnostic selling S.A.L.E.S, objection handling
+- `CASHFLOW-SPRINT-30HARI.md` — peta warm network, funnel math, rencana 4 minggu, skrip DM, contingency
+- README: subsection Jalur Cashflow
+
+### Keputusan penting yang dikunci
+
+1. **Disciplined Sprint (§19.5):** volume play Rino DITOLAK sebagai default. Hanya adopsi 2 elemen aman: frekuensi cold-start Bulan 1 + "test→duplikat ANGLE (bukan topik)".
+2. **2 lane terpisah:** Jalur Brand (@arifb.id, trust-first, aset 6–12 bln) vs Jalur Cashflow (jasa 1:1/B2B, untuk Rp 10JT sekarang). Tidak boleh tercampur — feed publik tetap tanpa hard-sell.
+3. **Rp 10JT = tugas Jalur Cashflow, bukan brand.** Ekspektasi jujur: mungkin tapi tidak otomatis; warm list tipis → realistis 45–60 hari.
+4. **Anti-bait refresh = bedah, bukan wholesale.** Mayoritas hook sudah anti-bait (voice tenang). Optimasi lanjutan tunggu DATA Minggu 1 (§18.9.D zoom-out + Decision Rule #13).
+
+### PENDING — yang menunggu INPUT USER (penentu, bukan Kiro)
+
+1. **Hitung warm network jujur** → `CASHFLOW-SPRINT-30HARI.md` §1. Target 15–30 nama. Balik dengan ANGKA.
+2. **Kunci skill konkret** → `AI-AUDIT-OFFER-SPEC.md` §0: "klien paling bisa saya bantu dengan ___". Hapus tier yang tak bisa di-deliver.
+3. **Merge PR #33** (kalau setuju isinya).
+
+### NEXT ACTIONS (rekomendasi default sesi berikutnya)
+
+Setelah user kasih (1) angka warm network + (2) skill konkret → Kiro tajamkan offer + skrip DM jadi spesifik (bukan template). Lalu: eksekusi sprint sambil tetap jalankan DAY-1-LAUNCH-RUNBOOK (Day 1 brand = 15 Juni). Hari ke-7 brand: optimasi hook pakai data.
+
+### Status PR keseluruhan
+
+- **PR #32:** MERGED ✅ (main = sumber kebenaran terkini)
+- **PR #33:** OPEN 🟡 (Jalur Cashflow — review & merge)
+- PR lama (#3/#5/#11): sudah lewat; main sekarang superset.
