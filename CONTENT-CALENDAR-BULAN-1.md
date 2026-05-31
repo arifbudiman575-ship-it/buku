@@ -28,12 +28,12 @@ Ini bukan suggestion — ini **operasional plan**. 30 post sudah dipilih dengan 
 
 **Pola harian (target 3–5 sentuhan, hanya 1 yang berat):**
 
-| Slot | Sentuhan | Effort | Ambil isinya dari |
+| Waktu | Sentuhan | Effort | Ambil isinya dari (klik) |
 |---|---|---|---|
-| Pagi/siang | **1× ANCHOR** (post hari ini dari kalender) | tinggi | [`BODY-CONTENT-BULAN-1.md`](BODY-CONTENT-BULAN-1.md) + detail D1–D30 di file ini |
-| Siang | **1× micro-take** (1–3 kalimat) | rendah | Hook Bank → [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §6 |
-| Sore | **Reply Engine 30–45 mnt** — balas 10–15 akun lebih besar di niche dgn mini-framework | sedang | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §19.3 |
-| Malam (opsional) | **1× quote-repost anchor sendiri** + angle tambahan, ATAU reply ke thread sendiri untuk extend | rendah | dari anchor hari itu (atas) |
+| Pagi ~08–09 | **1–2× micro-take** (1–3 kalimat) | rendah | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §6 (Hook Bank) |
+| Siang–sore | **Reply Engine 30–45 mnt** — balas 10–15 akun watch-list dgn mini-framework | sedang | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §19.3 + [`COMPETITOR-WATCH-SOP.md`](COMPETITOR-WATCH-SOP.md) (daftar akun) |
+| **Slot kalender hari itu** (mis. D2 = 19:30) | **1× ANCHOR** (post utama) | tinggi | [`BODY-CONTENT-BULAN-1.md`](BODY-CONTENT-BULAN-1.md) (teks publish-ready) |
+| Malam (opsional) | **1× quote-repost anchor** + angle | rendah | dari anchor di atas |
 
 > 📂 **Ambil isi kontennya dari sini (link):**
 > - **Anchor (post utama harian):** [`BODY-CONTENT-BULAN-1.md`](BODY-CONTENT-BULAN-1.md) — 30 post publish-ready. Detail per hari (hook + body sketch) ada di file ini, scroll ke bagian **D1–D30**.
