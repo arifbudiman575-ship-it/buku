@@ -158,41 +158,43 @@ Mulai dari sini -> arifb.id/start (atau link di bio)
 
 > Pakai **lynk.id** (Indonesia-friendly, gratis) atau **Beacons** (UI lebih clean, gratis).
 >
-> Day 1: hanya **link 1-3 aktif**. Link 4-5 follow incremental.
+> Day 1: **capture owned-audience LIVE** (ikut `README.md` LOCKED + STRATEGI §20.3). WhatsApp Channel aktif sejak Day 1; sisanya incremental. Cap Bulan 1 = 5 link.
 
-### Day 1 launch — 3 link aktif
+### Day 1 launch — capture owned-audience aktif (ikut README)
 
 ```
-1. The AI Architect Manifesto (pinned thread Threads)
+1. WhatsApp Channel — tulisan harian "Sistem, bukan tools"
+   -> [link WhatsApp Channel] — owned-audience utama, CAPTURE Day 1 (§20.3)
+
+2. The AI Architect Manifesto (pinned thread Threads)
    -> https://www.threads.net/@arifb.id (atau direct link pinned)
 
-2. Buku THE AI ARCHITECT (AI Universe Series, Book 0)
+3. Buku THE AI ARCHITECT (AI Universe Series, Book 0)
    -> [link Gramedia / Tokopedia kalau sudah rilis;
        atau pre-order page]
 
-3. Tentang saya
+4. Tentang saya
    -> LinkedIn profile URL
 ```
 
-### Day 7-10 — tambah link 4 (Lead Magnet live)
+> **Email opt-in** (MailerLite form) boleh aktif Day 1 juga, di-link dari WhatsApp Channel/bio. Ini **WhatsApp Channel** (broadcast satu-arah, scalable, nomor pribadi aman) — **bukan** WhatsApp direct contact (lihat anti-pattern #3).
+
+### Day 7-10 — tambah link 5 (Lead Magnet LP MVP live)
 
 ```
-4. 7-Day AI Architect Challenge (gratis)
+5. 7-Day AI Architect Challenge (gratis)
    -> [LP URL atau MailerLite native form]
 ```
 
-### Day 14+ — tambah link 5
-
-```
-5. Newsletter mingguan
-   -> Sign-up form (sama atau beda dari LP Challenge)
-```
+> **Newsletter** = PUBLISH rutin **Bulan 2** (kalau opt-in >= 100, per README LOCKED) — **bukan** link Bulan 1 terpisah. Email opt-in Bulan 1 cukup lewat WhatsApp Channel + form Challenge.
+>
+> **Total link Bulan 1 = 5** (WhatsApp Channel, Manifesto, Buku, LinkedIn, Challenge) — tepat di cap.
 
 ### Anti-pattern link bio
 
 1. **15+ link.** Bulan 1 cap di 5. Lebih = decision paralysis visitor.
 2. **Affiliate link Bulan 1.** Trust dulu, transactional belakangan.
-3. **WhatsApp direct contact public.** Bocor data + bukan funnel scalable.
+3. **WhatsApp _direct contact_ public** (nomor pribadi / `wa.me`). Bocor data + bukan funnel scalable. ⚠️ **Beda dengan WhatsApp Channel** (broadcast satu-arah) yang justru = owned-audience utama Day 1 (README + §20.3). Channel boleh; direct contact jangan.
 4. **Donation/Trakteer Bulan 1.** Premature, voice salah.
 
 ---
@@ -265,7 +267,9 @@ Mulai dari sini -> arifb.id/start (atau link di bio)
 
 ### Link bio aggregator (lynk.id atau Beacons)
 - [ ] Akun dibuat
-- [ ] 3 link Day 1 aktif (Section 5)
+- [ ] **WhatsApp Channel dibuat + link aktif** (CAPTURE Day 1, item #1)
+- [ ] **Email opt-in (MailerLite form)** siap di-link dari bio/Channel
+- [ ] 4 link Day 1 aktif (Section 5: WhatsApp Channel, Manifesto, Buku, LinkedIn)
 - [ ] Tema visual: warna `#F5F1EA` background + `#1A1A1A` text + `#1F3A5F` aksen (sama dengan Manifesto)
 - [ ] Foto profile sama
 - [ ] URL aggregator di-bookmark + paste ke 3 platform
