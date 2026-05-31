@@ -8,6 +8,15 @@
 
 ---
 
+## 🆕 INTEGRASI MEI 2026 (sumber strategi baru)
+
+Aturan baru yang berlaku untuk kalender ini (detail di `STRATEGI-PERSONAL-BRANDING.md`):
+- **Cold-start Bulan 1 (§19.5 + Decision Rule #12):** sentuhan harian boleh dinaikkan hingga ~6–8 Threads/hari — tone & avatar TETAP. Volume play anti-niche ala Rino **TIDAK** dipakai.
+- **Stranger-test + anti-bait (§18.9):** tiap micro-take & anchor diuji *"apakah ini bekerja untuk orang yang belum kenal saya?"* Hook jangan terdengar seperti hook.
+- **Test → duplikat angle (Decision Rule #13):** angle yang menang (save + reply ICP) digandakan dengan variasi — bukan pindah topik.
+
+---
+
 ## KONTEKS & CARA PAKAI
 
 ### Mengapa file ini ada

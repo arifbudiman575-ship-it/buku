@@ -13,7 +13,7 @@
 | Saya mau... | File |
 |---|---|
 | Lihat strategi besar 12 bulan | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) |
-| Lihat peta belajar 5 mentor + sumber valid | [`MENTOR-LEARNING-MAP.md`](MENTOR-LEARNING-MAP.md) |
+| Lihat peta belajar 5 mentor + sumber valid | [`MENTOR-LEARNING-MAP.md`](MENTOR-LEARNING-MAP.md) (transkrip primer + update Mei 2026) |
 | Lihat Brand Journey Map (5 Q) | [`BRAND-JOURNEY-MAP.md`](BRAND-JOURNEY-MAP.md) |
 | Lihat 30 hari content plan | [`CONTENT-CALENDAR-BULAN-1.md`](CONTENT-CALENDAR-BULAN-1.md) |
 | Lihat 4 long-thread bank (A/B/C/D) | [`THREADS-LONGFORM-ABC-TEST.md`](THREADS-LONGFORM-ABC-TEST.md) |
@@ -37,6 +37,11 @@
 | Voice rules + 4-lapis filter | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §5.3, §0.5 |
 | 7 Pakem pertumbuhan + Reply Engine harian | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §19 |
 | Algoritma Mesin (distribusi video multi-platform) | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §18 |
+| **Hook anti-bait + Creator DNA ("stranger test")** | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §18.9 + §6 (Hook F) |
+| Premium storytelling 5 pilar + AI-enabled creativity | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §21 |
+| Idea Capture Engine (Write from Abundance + Content Triangle) | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §22 |
+| Trust Matrix + Different > Better (berani tidak disukai) | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §23 |
+| Disciplined Sprint cold-start (difilter dari Rino) | [`STRATEGI-PERSONAL-BRANDING.md`](STRATEGI-PERSONAL-BRANDING.md) §19.5 |
 | **Threads Daily Layer** (1 anchor + micro-take + reply -> 3-5 sentuhan/hari) | [`CONTENT-CALENDAR-BULAN-1.md`](CONTENT-CALENDAR-BULAN-1.md) §Threads Daily Layer |
 
 ### Weekly + Monthly Review
@@ -70,6 +75,13 @@
 | `personal branding caleb ralston.docx` | Caleb Ralston transcript |
 | `ilmu Theoderic.txt` | Theoderic Purpose Compass |
 | `pak bi.txt` | Pak Bi notes raw |
+| `Justin Welsh - YouTube.txt` | Welsh — content system (primer §19-20) |
+| `Dan Koe 1/2/3.txt` | Dan Koe — Trust Matrix + one-person business (primer §20, §23.1) |
+| `David Perell 1.txt`, `David Perel 2.txt` | Perell — Writing Online + Personal Monopoly (primer §22) |
+| `Chris Do 1.txt`, `Chris do...STOP Blanding...txt` | Chris Do — Selling + Different>Better (primer §8.5, §23.2) |
+| `KALLAWAY...2026.txt`, `How Social Media Algorithms...txt` | Callaway — algoritma + 2026 shifts (primer §18, §21) |
+| `hey dominik...txt` | Dominik — IG algorithm 2026 (primer §18.9) |
+| `44 ribu followers...txt` | Rino & Tika — Threads ID (primer §19.5, difilter) |
 | [`analisa_kompetitor.md`](analisa_kompetitor.md) | 31 kompetitor benchmark |
 
 ### Session History

@@ -8,6 +8,15 @@
 
 ---
 
+## 🆕 INTEGRASI MEI 2026 (storytelling + anti-bait)
+
+Saat menulis/merevisi long-thread, terapkan sumber baru (detail di `STRATEGI-PERSONAL-BRANDING.md`):
+- **Premium Storytelling 5 pilar (§21.3):** Characters (Riko/Citra) · Pacing · Narrative arc · World-building (repetisi signature) · Tension (paradoks Pak Bi). Long-thread = tempat terkuat memakai ini.
+- **Hook anti-bait (§18.9.B + Hook Bank kategori F):** pembuka thread jangan terdengar seperti hook — bicara seperti membagikan sesuatu nyata.
+- **Content Triangle (§22.2):** pilih thread yang di-test dari ide yang sudah resonan di reply/komen — bukan tebakan.
+
+---
+
 ## REFERENSI KE STRATEGI YANG SUDAH ADA
 
 Setiap opsi di sini **bukan ide baru** — semuanya turunan dari Hook Bank yang sudah disusun di strategi. Ditulis ulang sebagai dokumen tersendiri supaya 3 long-thread bisa di-side-by-side untuk testing.

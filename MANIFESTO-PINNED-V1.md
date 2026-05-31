@@ -19,6 +19,8 @@
 5. **Closing CTA = None.** Day 1 belum waktunya pitch. Profile + frase signature = enough.
 6. **Triple publish 19:30 WIB.** Threads pertama (publish + pin), IG 19:32, LinkedIn 19:35.
 
+> 🆕 **Catatan alignment (Mei 2026) — TIDAK mengubah 7 prinsip:** manifesto ini sudah otomatis selaras dengan sumber baru — voice tenang = **anti-bait** (§18.9.B), repetisi frase signature = **world-building** (§21.4), arc Riko→Citra = **Characters + Narrative arc** (§21.3). Pertahankan apa adanya; jangan tambah hype. Ini konfirmasi, bukan revisi.
+
 ---
 
 ## 1. PINNED THREADS — 9 POST (voice polished)

@@ -29,6 +29,19 @@
 
 ---
 
+## STRANGER TEST + CREATOR DNA (Section 18.9 — Dominik)
+
+> Sebelum publish, tanya: **"Apakah hook ini bekerja untuk orang yang BELUM kenal saya?"**
+
+- Hook **jangan terdengar seperti hook**. Bicara seperti membagikan sesuatu nyata.
+- ✅ *"Klien saya punya 12 tool AI. Tak satu pun menaikkan penghasilannya."*
+- ❌ *"3 KESALAHAN fatal pakai AI! WAJIB tahu!"*
+
+**Creator DNA (tempel di otak):**
+> *Saya AI Architect. Saya bantu [pemimpin/profesional] bangun sistem AI yang tetap jalan walau tools berganti. Dengar saya karena [bukti: buku / Riko→Citra / praktik].*
+
+---
+
 ## VOICE RULES — DOS & DON'TS
 
 | OK | HINDARI |
@@ -81,6 +94,8 @@
 | **#6** | Views tinggi + komen rendah | JANGAN ulangi format (viral-trap) |
 | **#7** | > 30% follower baru ICP-mismatch | Audit hook 2 minggu |
 | **#8** | 3+ konten "supaya posting" | STOP 3 hari + restart filter ketat |
+| **#12** | Cold-start Bulan 1 | Boleh naik ≤8 Threads/hari — tone & avatar TETAP |
+| **#13** | Sebuah angle/hook menang (save+reply ICP) | Duplikat dengan VARIASI di angle itu — bukan pindah topik |
 
 > Catat trigger di Tracker Tab 3 baris baru. Cek hasil action di T+7 hari.
 

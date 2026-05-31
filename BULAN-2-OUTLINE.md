@@ -17,6 +17,7 @@
 3. **Tambah 1 muscle baru, bukan 5.** Bulan 2 cuma punya bandwidth tambah 1 kompleksitas.
 4. **Email newsletter activate.** Sesuai roadmap awal: Bulan 2 = newsletter reguler mulai.
 5. **Lock duration:** Bulan 2 = 30 hari kalender (Day 31 -> Day 60 = 15 Juli 2026 -> 13 Aug 2026).
+6. **Fold-in sumber baru (Mei 2026):** saat membangun plan Bulan 2 dari data, integrasikan eksplisit — Hook anti-bait (§18.9), Premium Storytelling 5 pilar (§21.3), Idea Capture Engine (§22), Trust Matrix + Different>Better (§23). Tambahkan sebagai *muscle baru* (lihat prinsip #3), bukan sekaligus. Evaluasi juga apakah cold-start frequency (§19.5) layak diturunkan ke ritme normal §19.3.
 
 ---
 

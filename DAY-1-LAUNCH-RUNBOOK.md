@@ -28,6 +28,8 @@
 | **T (Day 1)** | **15 Juni 2026** | **Sen** | **TRIPLE PUBLISH 19:30 WIB** |
 | **T+1 (Day 2)** | 16 Juni 2026 | Sel | Reflection + ritme normal |
 
+> 🆕 **Integrasi Mei 2026:** saat **T-6 Profile audit**, uji bio dengan **Creator DNA** (§18.9.A): *"Saya AI Architect. Saya bantu [ICP] bangun sistem AI yang tetap jalan walau tools berganti. Dengar saya karena [bukti]."* Saat **T-5/T-4 Manifesto**, pastikan pembuka lolos **stranger-test + anti-bait** (§18.9.B) — tidak terdengar seperti hook.
+
 ---
 
 ## 1. TIMELINE GLOBAL

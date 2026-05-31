@@ -15,6 +15,15 @@
 
 ---
 
+## 🆕 INTEGRASI MEI 2026 (berlaku untuk revisi & post baru)
+
+30 post di bawah tetap valid. Untuk revisi/post baru, terapkan (detail di `STRATEGI-PERSONAL-BRANDING.md`):
+- **Stranger-test (§18.9):** *"apakah hook ini bekerja untuk orang yang belum kenal saya?"*
+- **Anti-bait (Hook Bank kategori F, §6):** hook jangan terdengar seperti hook.
+- **Storytelling 5 pilar (§21.3)** untuk post confession / long-thread.
+
+---
+
 ## TANGGAL SCHEDULE
 
 | Day | Tanggal | Hari | Slot | Pillar | Type |
